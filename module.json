@@ -1,9 +1,9 @@
 {
-  "name": "pf2_compendium_cn",
-  "title": "Translation: 中文 [PF2e_整合包]",
-  "description": "PF2系统的整合包的翻译",
-  "minimumCoreVersion": "0.9.0",
-  "compatibleCoreVersion": "0.9.238",
+  "name": "PF2E_compendium_cn",
+  "title": "Translation: 中文 [PF2E_整合包]",
+  "description": "PF2E系统的整合包的翻译",
+  "minimumCoreVersion": "0.9.3",
+  "compatibleCoreVersion": "0.9.3",
   "author": "黑二",
   "scripts": [
     "./babele.js"
@@ -17,8 +17,8 @@
       "path": "cn.json"
     }
   ],
-  "version": "Auto replaced",
-  "url": "Auto replaced",
-  "manifest": "Auto replaced",
-  "download": "Auto replaced"
+  "version": "0.0.1",
+  "url": "https://github.com/AlphaStarguide/PF2E_compendium_cn",
+  "manifest": "https://github.com/AlphaStarguide/PF2E_compendium_cn/blob/main/module.json",
+  "download": "https://github.com/AlphaStarguide/PF2E_compendium_cn/archive/refs/tags/Releases.zip"
 }
