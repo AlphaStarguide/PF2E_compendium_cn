@@ -1,0 +1,24 @@
+{
+  "name": "pf2_compendium_cn",
+  "title": "Translation: 中文 [PF2e_整合包]",
+  "description": "PF2系统的整合包的翻译",
+  "minimumCoreVersion": "0.9.0",
+  "compatibleCoreVersion": "0.9.238",
+  "author": "黑二",
+  "scripts": [
+    "./babele.js"
+  ],
+  "styles": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "cn",
+      "name": "中文",
+      "path": "cn.json"
+    }
+  ],
+  "version": "Auto replaced",
+  "url": "Auto replaced",
+  "manifest": "Auto replaced",
+  "download": "Auto replaced"
+}
