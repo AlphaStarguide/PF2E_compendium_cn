@@ -4,7 +4,7 @@
   "description": "PF2E系统的整合包的翻译",
   "minimumCoreVersion": "0.9.3",
   "compatibleCoreVersion": "0.9.3",
-  "author": "黑二",
+  "author": "Kuroni",
   "scripts": [
     "./babele.js"
   ],
