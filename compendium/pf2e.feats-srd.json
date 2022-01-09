@@ -158,8 +158,8 @@
 			"description": "<p>You gain one alchemist feat. For the purpose of meeting its prerequisites, your alchemist level is equal to half your character level.</p>\n<hr />\n<p><strong>Special</strong> You can select this feat more than once. Each time you select it, you gain another alchemist feat.</p>"
 		},
 		"Advanced Construct Companion": {
-			"name": "Advanced Construct Companion",
-			"description": "<p>You've upgraded your construct companion's power and decision-making ability. It becomes an advanced construct companion. During an encounter, even if you don't use the Command a Minion action, your construct companion can still use 1 action on your turn that round to Stride or Strike.</p>"
+			"name": "进阶构装伙伴 Advanced Construct Companion",
+			"description": "<p>你升级了构装伙伴的威力和决策力。它变成一个进阶构装伙伴。在遭遇期间，如果你没有使用指挥仆从Command a Minion动作，你的构装伙伴也能在你的回合中使用1个动作来行走Stride或打击Strike。</p>"
 		},
 		"Advanced Deduction": {
 			"name": "Advanced Deduction",
@@ -1598,8 +1598,8 @@
 			"description": "<p>You have a powerful connection to the Boneyard and its courts, granting you the ability to travel to and from the Boneyard. You gain <em>@Compendium[pf2e.spells-srd.5bTt2CvYHPvaR7QQ]{Plane Shift}</em> as a divine innate spell. You can cast it twice per week.</p>\n<p>This can be used only to travel to the Boneyard or from the Boneyard to the Material Plane. Due to your unique connection to the Boneyard, your body serves as the focus, and you don't require a tuning fork.</p>"
 		},
 		"Boost Modulation": {
-			"name": "Boost Modulation",
-			"description": "<p>You aren't satisfied with keeping to just one kind of boost from your constant tinkering, so you've learned to modulate between several possibilities at once. Choose two additional offensive boosts. You can use an Interact action to change the offensive boost currently affecting your weapon, choosing between the one you chose for the class feature and the two you chose for this modification. If your weapon has the modular trait, you can swap the offensive boost as part of the Interact action you take to use that trait.</p>"
+			"name": "增压调节器 Boost Modulation",
+			"description": "<p>在你不断的修补之时，你不满足只维持一种增压，你学会了如何同时在多种可能性之间调节。选择2个额外的攻势增压。你可以使用交互Interact动作改变正影响你的武器的攻势增压，从你的职业特性给你提供的1个攻势增压，和从该改修给你提供的2个攻势增压中选择。如果你的武器具有模块化特征，作为你使用该特征的交互Interact动作的一部分，你也可以同时切换攻势增压。</p>"
 		},
 		"Boost Summons": {
 			"name": "Boost Summons",
@@ -1710,8 +1710,8 @@
 			"description": "<p>You've learned a flexible way to position your buckler to provide more protection. When you @Compendium[pf2e.actionspf2e.xjGwis0uaC2305pm]{Raise a Shield} to gain a circumstance bonus to AC from a @Compendium[pf2e.equipment-srd.1k3AsSW7lpU0kEpY]{Buckler}, increase the bonus from +1 to +2.</p>"
 		},
 		"Built-In Tools": {
-			"name": "Built-In Tools",
-			"description": "<p>You've built tools into your innovation so you can access and use them easily. When you take this feat, choose up to two sets of tools you own, such as thieves' tools or healer's tools, that weigh a total of 2 Bulk or less. These tools become part of your innovation. The innovation's Bulk doesn't increase from this addition. As long as you are wielding, wearing, or adjacent to your innovation, you have the same quick access to these tools as the tools you are wearing, and they don't count against the usual limit of tools you can wear.</p>"
+			"name": "内置工具 Built-In Tools",
+			"description": "<p>你在大发明中内建了工具，你可以轻易取出并使用它。当你选择该专长时，选择最多2组你拥有的工具，例如盗贼工具或医疗工具，它们的总负载不能超过2B。这些工具变成大发明的一部分。大发明的负载不应这种附件而提升。只要你持用，穿戴或邻接你的大发明，你都能同样快速地，如同穿戴着工具一般使用这些工具，且这些工具不计入你能穿戴工具的通常限制中。</p>"
 		},
 		"Bullet Dancer Burn": {
 			"name": "Bullet Dancer Burn",
@@ -2259,7 +2259,7 @@
 		},
 		"Clockwork Celerity": {
 			"name": "Clockwork Celerity",
-			"description": "<p><strong>Trigger</strong> Your turn begins.</p>\n<hr />\n<p>You can use unstable clockwork devices in your innovation to push your invention to act more quickly. You are @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Quickened} for this turn. How you can use the extra action depends on your innovation.</p>\n<ul>\n<li><strong>Armor</strong> You can use the extra action to Step, Stride, or use another movement action granted by your innovation (such as Swim if you have the Diving Armor feat).</li>\n<li><strong>Construct</strong> You can use the extra action to Command your construct innovation (or to provide 1 of the actions if you spend 2 actions to Command your construct).</li>\n<li><strong>Weapon</strong> You can use the extra action to Strike with your innovation or Reload your innovation.</li>\n</ul>"
+			"description": "<p><strong>触发</strong> 你的回合开始</p>\n<hr />\n<p>你可以使用大发明中不稳定的发条装置让你的发明更快地工作。你在这轮获得 @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{迅捷} 状态。你使用额外动作的方式由你的大发明决定。</p>\n<ul>\n<li><strong>护甲 Armor</strong> 你可以使用额外动作快步Step，行走Stride，或使用大发明提供给你的其他移动动作（例如游泳Swim，如果你有潜水护甲Diving Armor 专长）。</li>\n<li><strong>构装体 Construct</strong> 你可以使用额外动作指挥Command你的构装体大发明（或如果你要花费2个动作指挥Command你的构装体，用额外动作来满足其中一个动作）。</li>\n<li><strong>武器 Weapon</strong> 你可以使用额外动作使用你的大发明打击Strike，或装填Reload你的大发明。</li>\n</ul>"
 		},
 		"Close Quarters": {
 			"name": "Close Quarters",
@@ -2306,12 +2306,12 @@
 			"description": "<p><strong>Trigger</strong> Your turn ends.</p>\n<p><strong>Requirements</strong> You are currently affected by a mental effect that you gained by failing, but not critically failing, a saving throw.</p>\n<hr />\n<p>You can find a loophole in a mental effect to temporarily overcome it. Until the end of your next turn, you ignore a single mental effect that meets the requirement. You can suppress a particular effect using Cognitive Loophole only once.</p>\n<hr />\n<p><strong>Special</strong> You can use this reaction even if the mental effect is preventing you from using reactions.</p>"
 		},
 		"Collapse Armor": {
-			"name": "Collapse Armor",
-			"description": "<p><strong>Requirements</strong> You are wearing your armor innovation, or holding it in both hands in its compact form (see text).</p>\n<hr />\n<p>You've modified your armor innovation to collapse into a more compact form so you can don or remove it in an instant. If you're wearing your innovation when you Collapse your Armor, you remove it instantly, and it compresses into its compact form, which is held in both of your hands (if you don't have both hands available, it falls to the ground in an adjacent space). If you're holding your armor in compact form when you take this action, it unfolds back into its armor form onto your body.</p>\n<p>In compact form, your armor innovation is easier to carry, with a Bulk 1 lower than the Bulk listed for it, to a minimum of light Bulk (carried armor normally has a Bulk 1 higher than listed in the armor entry).</p>"
+			"name": "折叠式护甲 Collapse Armor",
+			"description": "<p><strong>需求</strong> 你穿戴着你的护甲大发明，或用双手持握着它的袖珍形态（见后文）。</p>\n<hr />\n<p>你改造了你的护甲大发明，让他能够折叠成更袖珍的形态，让你能够快速穿上或脱下护甲。如果你折叠护甲时正穿戴着你的大发明，你立刻脱下它，它折叠成袖珍形态，并被你的双手持握（如果你并没能空出两只手，它会掉落在你的邻接空间中）。如果你持握着处于袖珍形态的护甲，并使用该动作，它会展开成护甲形态并套在你身上。</p>\n<p>处于折叠形态中，你的护甲大发明更容易携带，其负载比护甲条目中列出的负载低1，最低到轻负载（携带的护甲的负载通常情况下比条目中列出的负载高1）。</p>"
 		},
 		"Collapse Construct": {
-			"name": "Collapse Construct",
-			"description": "<p>You've modified your construct companion and built it out of light materials, enabling you to collapse it into a carrying case or other compact and innocuous form. Either your construct or you (if you're adjacent to it) can Collapse your Construct to turn it into its compact form or back into its normal form.</p>\n<p>In compact form, your construct can't act but is easily carried, with a Bulk of 2 if it's Small, 4 if it's Medium, or 8 if it's Large. The compact form has wheels, so you can easily drag it behind you at half your Speed (rather than the usual slower Speed for dragging).</p>"
+			"name": "折叠式构装体 Collapse Construct",
+			"description": "<p>你用轻质材料改造了你的构装伙伴，让你能将其折叠成一个手提箱或其他袖珍且无害的形态。你的构装体或你（如果你邻接它）都可以使用折叠构装体的动作将其变成袖珍形态或变回来。</p>\n<p>在袖珍形态中，你的构装体无法行动，但能轻松携带，如果它是小体型，则负载为2，中体型为4，大体型为8。袖珍形态有轮子，你可以轻松以半速拖着它移动（而非通常拖曳时的较低速度）。</p>"
 		},
 		"Collapse Wall": {
 			"name": "Collapse Wall",
@@ -2450,8 +2450,8 @@
 			"description": "<p><strong>Requirements</strong> Your eidolon has a creature @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Grabbed} or @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Restrained}.</p>\n<p>Your eidolon constricts the creature, dealing [[/r @actor.level+@actor.abilities.str.mod #bludgeoning]]{bludgeoning damage} equal to your eidolon's level plus its Strength modifier, with a basic Fortitude save against your spell DC.</p>"
 		},
 		"Construct Shell": {
-			"name": "Construct Shell",
-			"description": "<p>You've adjusted your construct innovation so that when you ride it, special plates, hollows, or similar form partial barriers around you to add additional protection. You have lesser cover from all attacks when mounted on your construct innovation, not just from attacks where the construct would be in the way. Additionally, if your construct uses an emanation while you're riding on it, such as Explode, you can choose not to be affected by the emanation.</p>"
+			"name": "构装外壳 Construct Shell",
+			"description": "<p>你调整了你的构装体大发明，当你骑乘它时，特殊的装甲板，空心外壳或其他类似的半屏障形态会为你提供额外的保护。你在骑乘构装体大发明时获得对所有攻击的次级掩蔽，而不仅仅针对构装体阻挡方向上的攻击。另外，如果你在骑乘构装体时，构装体使用了一种弥漫效果，例如爆炸Explode，你可以选择不被该弥漫效果影响。</p>"
 		},
 		"Consult The Spirits": {
 			"name": "Consult The Spirits",
@@ -2470,8 +2470,8 @@
 			"description": "<p>You can drive your allies into a frenzy, granting them incredible benefits. You can ignore the requirements on Share Rage, using it multiple times in a Rage. Allies affected by Share Rage who accept your anathema for the duration of the Rage gain your instinct ability and the specialization ability it gains from weapon specialization, but not greater weapon specialization.</p>"
 		},
 		"Contingency Gadgets": {
-			"name": "Contingency Gadgets",
-			"description": "<p>You are too brilliant to be caught off guard, and you always have just the right gadget for the situation. When you prepare your gadgets during your daily preparations, you can choose to leave one of them as a contingency gadget that you keep ready for just this situation, rather than declaring which gadget you're making. You can pull the contingency gadget out using an Interact action, at which point you must choose which gadget you had prepared as a contingency.</p>\n<p>If you're legendary in Crafting, you can leave two contingency gadgets during your daily preparations, instead of just one.</p>"
+			"name": "应变小装置 Contingency Gadgets",
+			"description": "<p>你太聪明了，从不会慌乱，总是能找到可以解决现状的小装置。当你在每日准备中准备你的小装置时，你可以选择预留一个小装置以备不时之需，你不需要声明具体制作了什么小装置。使用交互Interact动作，你可以拿出这个小装置，此时你必须选择你预留的具体是什么小装置。</p>\n<p>如果你在手艺Crafting上达到传奇，你可以在每日准备时预留2个小装置，而非1个。</p>"
 		},
 		"Continual Recovery": {
 			"name": "Continual Recovery",
@@ -2886,8 +2886,8 @@
 			"description": "<p>Your dedication to @Compendium[pf2e.deities.JndhOIHnQoMwnsw3]{The Godclaw} borders on a cleric's. You gain the cleric's @Compendium[pf2e.feats-srd.hT4INKGtly4QY8KN]{Domain Initiate} feat but must select perfection, protection, tyranny, or zeal as your domain. In addition, you can use any religious symbol of @Compendium[pf2e.deities.d56paSkcwvll2OhR]{Abadar}, @Compendium[pf2e.deities.QRkcFciCOmFoxF1B]{Asmodeus}, @Compendium[pf2e.deities.eErEiVmBqltYXFJ6]{Iomedae}, @Compendium[pf2e.deities.qqqrbq4uCrelQvgH]{Irori}, or @Compendium[pf2e.deities.sZrdzh0ANQnZGXJb]{Torag} as your divine focus.</p>"
 		},
 		"Deep Freeze": {
-			"name": "Deep Freeze",
-			"description": "<p>You vent a jet of supercooled fluid from your innovation, damaging a foe and slowing it down. Target one creature within 60 feet. That creature takes cold damage equal to your level, with effects depending on its Reflex save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target takes half damage and takes a -5-foot status penalty to its Speeds for 1 round.</p>\n<p><strong>Failure</strong> The target takes full damage and takes a -10-foot status penalty to its Speeds for 1 round.</p>\n<p><strong>Critical Failure</strong> The target takes double damage, is @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Slowed 1} for 1 round, and takes a -15-foot status penalty to its Speeds for 1 round.</p>\n<p><strong>Unstable Function</strong> Your innovation discharges an enormous cone of supercooled fluid, potentially causing cascading failures. Add the unstable trait to Deep Freeze. The ability affects all creatures within a @Template[type:cone|distance:60] instead of a single target, and it deals cold damage equal to double your level instead of equal to your level.</p>\n<p>If you have the revolutionary innovation class feature, you can choose a 60-foot cone or a @Template[type:cone|distance:90] when you use an unstable Deep Freeze.</p>\n<p><strong>Special</strong> If your innovation is a minion, it can take this action rather than you.</p>"
+			"name": "深度冷冻 Deep Freeze",
+			"description": "<p>你用你的大发明发射一束过冻液体，伤害敌人并减慢他的速度。瞄准1个60尺内的生物。该生物承受等于你的等级的寒冷伤害，其效果基于他的反射豁免。</p>\n<hr />\n<p><strong>大成功</strong> 目标不受影响</p>\n<p><strong>成功</strong> 目标受到一半伤害，并在速度上承受-5尺状态减值，持续1轮。</p>\n<p><strong>失败</strong> 目标承受完整伤害，并在速度上承受-10尺状态减值，持续1轮。</p>\n<p><strong>大失败</strong> 目标承受双倍伤害，陷入持续1轮的 @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{缓慢1}，并在速度上承受-15尺状态减值，持续1轮。</p>\n<p><strong>不稳定功能</strong> 你的大发明喷出壮观的锥状过冻液体，这可能造成一连串的失败。在深度冷冻Deep Freeze上加上不稳定特征。该能力影响 @Template[type:cone|distance:60] 内的所有生物而非单一生物，且造成两倍于你等级的寒冷伤害，而非等于你的等级。</p>\n<p>如果你有革命性大发明职业特性，你在使用不稳定深度冷冻Deep Freeze时可以选择60尺或 @Template[type:cone|distance:90]。</p>\n<p><strong>特殊</strong> 如果你的大发明是仆从，它而非你可以使用该动作。</p>"
 		},
 		"Deep Lore": {
 			"name": "Deep Lore",
@@ -3062,8 +3062,8 @@
 			"description": "<p><strong>Requirements</strong> You are in Arcane Cascade stance and your Spellstrike is charged.</p>\n<hr />\n<p>Your Spellstrike sweeps are so wide and devastating, they splash onto nearby foes. Make a Spellstrike. Foes adjacent to the target take splash damage equal to 2 + the extra damage from Arcane Cascade. The damage type is the same as Arcane Cascade; if the spell already deals splash damage of the same type, combine the damage together before applying weaknesses or resistances.</p>"
 		},
 		"Devastating Weaponry": {
-			"name": "Devastating Weaponry",
-			"description": "<p>You release a volley of projectiles from your weapon, or power it to fly in every direction across the battlefield and Strike multiple creatures. Make a Strike with your weapon innovation against each foe within 30 feet of you. Don't increase your multiple attack penalty until after making all the attacks. If your innovation is a melee weapon and any of the attacks are outside your reach, you Release the weapon before the Strikes, and it returns to your grasp after all of them. If your hands are full when the weapon returns, it falls to the ground in your space. As normal, if your weapon innovation requires one or more actions to reload between Strikes, you can't use it to make multiple attacks with Devastating Weaponry.</p>"
+			"name": "毁灭性武装 Devastating Weaponry",
+			"description": "<p>你的武器释放出射弹风暴，或在战场上飞跃收割，对多个敌人同时打击Strike。使用你的武器大发明对你30尺内的每个敌人进行1次打击Strike。在你完成全部攻击之前都不要提升你的多次攻击减值。如果你的大发明是近战武器，或者任何一次攻击超出了你的触及，你在打击Strike前放开Release武器，它在全部完成后会回到你的手上。如果你的手在武器回归时被占用，它会掉在你的空间的地表上。如常，如果你的武器大发明在打击Strike之间需要1个或更多的动作来装填，你不能使用它通过毁灭性武装Devastating Weaponry来进行多次攻击。</p>"
 		},
 		"Devil Allies": {
 			"name": "Devil Allies",
@@ -3246,8 +3246,8 @@
 			"description": "<p>It takes a very brave person to enter the laughter-haunted forest where you dwell. You can cast <em>@Compendium[pf2e.spells-srd.yV7Ouzaoe7DHLESI]{Ventriloquism}</em> once per day as a 1st-level occult innate spell.</p>"
 		},
 		"Distracting Explosion": {
-			"name": "Distracting Explosion",
-			"description": "<p><strong>Trigger</strong> A creature within your reach uses a concentrate action.</p>\n<hr />\n<p>Your enemies think they can concentrate on something else while you're nearby? Oh, you'll give them a distraction, all right! Make a melee Strike against the triggering creature with a weapon or unarmed attack that is benefiting from your offensive boost. This Strike doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this Strike.</p>\n<p><strong>Unstable Function</strong> You pull out all the stops to create an explosive distraction. Add the unstable trait to Distracting Explosion. If the attack hits, you disrupt the triggering concentrate action.</p>\n<p><strong>Special</strong> If your innovation is a minion, it can take this reaction instead of you, even though minions can't normally take reactions or act when it's not their turn. It uses your reaction for the turn to do so.</p>"
+			"name": "分神爆炸 Distracting Explosion",
+			"description": "<p><strong>触发</strong> 你触及内的生物使用了一个专注动作。</p>\n<hr />\n<p>你的敌人觉得你在身边的时候还能专注别的事情？你能直接让他们走神好吧！使用受益于攻势增压的武器或无武装攻击对触发的生物进行一次近战打击Strike。该打击Strike不计入你的多次攻击减值，你的多次攻击减值也不会应用在这次打击Strike上。</p>\n<p><strong>不稳定功能</strong> 你全力制造一种爆炸性的干扰。在分神爆炸Distracting Explosion上加上不稳定特征。如果这次攻击命中，你打断了触发的专注动作。</p>\n<p><strong>特殊</strong> 如果你的大发明是一个仆从，它而非你可以使用该反应，即使仆从一般不能使用反应或者在它的回合外行动。它使用你在该回合获得的反应进行。</p>"
 		},
 		"Distracting Feint": {
 			"name": "Distracting Feint",
@@ -3358,8 +3358,8 @@
 			"description": "<p>You sense magical dangers. When using the @Compendium[pf2e.actionspf2e.Yb0C1uLzeHrVLl7a]{Detect Magic} exploration activity, you can roll initiative twice and use the better result so long as at least one opponent has a magical effect or magic item and is in range of your Detect Magic.</p>"
 		},
 		"Diving Armor": {
-			"name": "Diving Armor",
-			"description": "<p>You've modified your armor with fins, rotors, and other devices to make it easy for you to move through the water, plus mechanical gills that can help you extract breathable air from water. While wearing your armor innovation, you can breathe underwater and gain a swim Speed equal to your land Speed.</p>"
+			"name": "潜水护甲 Diving Armor",
+			"description": "<p>你用鱼鳍，螺旋桨或其他装置改造了你的护甲，让你能更轻易地在水中移动，且机械鳃能帮你从水中汲取可呼吸的空气。当穿戴你的护甲大发明，你可以在水下呼吸，且获得等同于陆地速度的游泳速度。</p>"
 		},
 		"Djinni Magic": {
 			"name": "Djinni Magic",
@@ -3578,8 +3578,8 @@
 			"description": "<p>You know how to throw two weapons as easily as Strike with them.</p>\n<p>Whenever a dual-weapon warrior feat allows you to make a melee Strike, you can instead make a ranged Strike with a thrown weapon or a one-handed ranged weapon you are wielding.</p>\n<p>Any effects from these feats that apply to one-handed melee weapons or melee Strikes also apply to one-handed ranged weapons and ranged Strikes.</p>"
 		},
 		"Dual-Form Weapon": {
-			"name": "Dual-Form Weapon",
-			"description": "<p>You've built your innovation with replaceable interlocking pieces that you can use to transform it into another type of weapon entirely. When you select this feat, choose a level 0 or 1st-level simple or martial weapon. It must be either a common weapon or another to which you have access. This weapon becomes your innovation's second configuration.</p>\n<p>Select a new set of weapon modifications for this new configuration. You can spend two Interact actions to switch your weapon innovation between the two configurations. These actions don't need to be taken consecutively, but if you've provided the first and not the second, the weapon is non-functional as it is stranded between states. Your weapon's Bulk is always the greater Bulk of the two configurations, regardless of which configuration it's in-if one weapon is smaller than the other, you still need to keep any weapon parts on hand. Any runes on your weapon innovation don't affect the second weapon configuration.</p>"
+			"name": "双态武器 Dual-Form Weapon",
+			"description": "<p>你用一种可以替换的内联式部件改造了你的大发明，你能将其彻底转变成另一种类型的武器。当你选择该专长时，选择1种0级或1级的简易或军用武器。这必须是常见的，或者你获得许可的其他武器。这种武器变成你的大发明的第二配置。</p>\n<p>为新的配置选择一组新的武器改修。你可以花费2个交互Interact动作在2个配置中切换你的武器大发明。这些动作不需要连续进行，但如果你进行了第一个动作，但还没进行第二个，则该武器失去功能，因为它处于一种中间状态。你的武器的负载总是两个配置中较高的负载，而不管它当前处于哪个配置——如果一把武器比另一把小，你也需要把武器剩下的部分拿在手上。你的武器大发明中的任何符文都不会影响第二配置。</p>"
 		},
 		"Dual-Handed Assault": {
 			"name": "Dual-Handed Assault",
@@ -3842,8 +3842,8 @@
 			"description": "<p><strong>Trigger</strong> You would take damage.</p>\n<p><strong>Requirements</strong> You are in Wild Winds stance.</p>\n<hr />\n<p>You gain resistance to electricity equal to your level until the start of your next turn. If the triggering damage was electricity, this resistance applies to it. If the triggering damage was from a melee attack, the attacker takes [[/r {3d6}[electricity]]]{3d6 electricity damage}.</p>\n<p><strong>Special</strong> This feat has the trait corresponding to the tradition of ki spells you cast, either divine or occult.</p>"
 		},
 		"Electrify Armor": {
-			"name": "Electrify Armor",
-			"description": "<p><strong>Requirements</strong> You are wearing your armor innovation. You electrify your armor to punish foes who dare to attack you. For 1 round, any creature that touches you, or that hits you with a melee unarmed attack or a non-reach melee weapon attack, takes [[/r {1d4}[electricity]]]{1d4 electricity damage}. The effect ends if you cease wearing your armor innovation.</p>\n<p>If you have the revolutionary innovation class feature, the damage increases to [[/r {2d4}[electricity]]]{2d4}.</p>\n<p><strong>Unstable Function</strong> You create an unstable chain reaction, sending countless sparks dancing across your armor. Add the unstable trait to Electrify Armor. The effects last for 1 minute instead of 1 round, and the damage dice increase from d4s to d12s.( [[/r {1d12}[electricity]]]{1d12}]] / [[/r {2d124}[electricity]]]{2d12})</p>"
+			"name": "通电护甲 Electrify Armor",
+			"description": "<p><strong>需求</strong> 你穿戴着你的护甲大发明。 </p>\n<hr />\n<p>你给你的护甲通电，惩罚胆敢攻击你的敌人。1轮内，任何接触到你的生物，用近战无武装攻击或非长触及的近战武器命中你的生物，受到 [[/r {1d4}[electricity]]]{1d4 电击伤害}。如果你不再穿戴你的护甲大发明，该效果终止。</p>\n<p>如果你有革命性大发明职业特性，伤害提升至 [[/r {2d4}[electricity]]]{2d4}.</p>\n<p><strong>不稳定功能</strong> 你制造一种不稳定的连锁反应，数不清的火花在你的护甲上舞动。在通电护甲Electrify上加上不稳定特征。该效果持续1分钟而非1轮，伤害骰从d4提升至d12。( [[/r {1d12}[electricity]]]{1d12}]] / [[/r {2d124}[electricity]]]{2d12})</p>"
 		},
 		"Elemental Assault": {
 			"name": "Elemental Assault",
@@ -4094,8 +4094,8 @@
 			"description": "<p>You are practiced at working in vast garages of vehicles and can work on many machines at a time. When Repairing and spending the full 10 minutes, you can fix up to two objects. If you are a master in Crafting, you can fix up to four targets. If you're legendary in Crafting, you can fix up to eight targets. This feat has no effect when using Quick Repair or another ability to reduce the time spent Repairing.</p>"
 		},
 		"Engine of Destruction": {
-			"name": "Engine of Destruction",
-			"description": "<p>Your construct unleashes a broad swath of devastation by separating its limbs, deploying @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Hidden} armaments, or using a similar technique to wreak havoc. You Command your innovation. Instead of its normal actions, it Strides once, then makes a Strike against each foe within 30 feet of it with a +2 circumstance bonus to its attack rolls. The multiple attack penalty doesn't increase until after the construct makes all the attacks.</p>"
+			"name": "破坏引擎 Engine of Destruction",
+			"description": "<p>你的构装体的肢体分离，部署 @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{隐藏} 武器库，或使用类似的技术释放出巨大的破坏能量横扫一切。你指挥Command你的大发明。取代它通常的动作，它行走Stride一次，之后对它30尺内的每个敌人进行1次打击Strike，且它在攻击骰上有+2环境加值。多次攻击减值在构装体完成全部攻击之前都不会上升。</p>"
 		},
 		"Enhanced Familiar": {
 			"name": "Enhanced Familiar",
@@ -4434,12 +4434,12 @@
 			"description": "<p><strong>Access</strong> You are from Dongun Hold or Alkenstar.</p>\n<hr />\n<p>You have continued training in volatile weapons and gained a deeper understanding. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency for simple and martial bombs and firearms.</p>"
 		},
 		"Explosive Leap": {
-			"name": "Explosive Leap",
-			"description": "<p>You aim an explosion from your innovation downward to launch yourself into the air. You jump up to 30 feet in any direction without touching the ground. You must land on a space of solid ground, or else you fall after using your next action. As normal for effects where you fall after using your next action, you still fall at the end of your turn, even if you don't use any further actions that turn.</p>\n<p><strong>Special</strong> If your innovation is a minion, it can take this action rather than you.</p>"
+			"name": "爆炸跳跃 Explosive Leap",
+			"description": "<p>你驱动你的大发明瞄准下方爆炸，将你发射到空中。你在不接触地面的情况下朝任意方向跳跃最多30尺。你必须在固体地表上着陆，否则你会在使用下一个动作后开始坠落。和使用下一个动作后开始坠落的通常效果一样，你仍然会在回合结束后开始坠落，即使你该回合没有使用更多的动作。</p>\n<p><strong>特殊</strong> 如果你的大发明是仆从，它而非你可以使用该动作。</p>"
 		},
 		"Explosive Maneuver": {
-			"name": "Explosive Maneuver",
-			"description": "<p><strong>Requirements</strong> Your last action was a successful Strike against a foe using your weapon innovation.</p>\n<hr />\n<p>Thanks to a @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Hidden} experimental feature you built into your weapon, your weapon explosively deploys levers, tangling hooks, or similar mechanisms to provide significant assistance when you perform a combat maneuver. When you use Explosive Maneuver, choose Grapple, Shove, or Trip. Your weapon innovation must have a weapon trait that matches the action you chose (for instance, to choose Grapple, your weapon must have the grapple trait). You take the chosen action against the same foe as your previous successful Strike, using the same multiple attack penalty as your previous successful Strike. You still increase your multiple attack penalty after the Grapple, Shove, or Trip, as normal.</p>"
+			"name": "爆发战技 Explosive Maneuver",
+			"description": "<p><strong>需求</strong> 你的上一个动作是使用你的武器大发明对一个敌人进行的成功的打击。</p>\n<hr />\n<p>你在武器中内置了一种 @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{隐藏}的实验特性，你的武器爆发性地部署杠杆，绳钩或类似的机关辅助你执行战技。当你使用爆炸战技Explosive Maneuver，选择擒拿Grapple，猛推Shove，或摔绊Trip。你的武器大发明必须有匹配你所选动作的武器特征（例如，你的武器必须有擒抱特征才能选择擒拿Grapple动作）。你对你上一次成功的打击Strike命中的敌人进行所选动作，使用和你上一次成功的打击一致的多次攻击减值。你仍然会在进行擒拿Grapple，猛推Shove或摔绊Trip后提升你的多次攻击罚值。</p>"
 		},
 		"Explosive Savant": {
 			"name": "Explosive Savant",
@@ -5182,8 +5182,8 @@
 			"description": "<p>Thick tattoos, each one a rune fragment from the saumen kar's long-lost language spelling out their pact with their equally lost deity, cover your body and stretch across your limbs, torso, and face. You gain a +1 status bonus to saving throws against evil and necromancy spells and effects. You can sense the presence of evil undead as a pervasive taste of oily corruption in the air; this is a vague sense that allows you to know when such a creature is within 60 feet of you, though you can't precisely pinpoint their location with this sense. As normal for a vague sense, it can be fooled, but undead might not realize they need to take precautions against it. This sense also extends to living creatures who have the negative healing ability, like dhampir.</p>\n<p>You deal an additional 1 cold damage with all Strikes made with an ice-crafted weapon. If you have the Crown of the Saumen Kar feat, you deal an additional 1 cold damage with your unarmed horns Strikes.</p>"
 		},
 		"Full Automation": {
-			"name": "Full Automation",
-			"description": "<p>You become so entwined with your innovations that you can use them without a second thought. You're permanently @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Quickened}. How you can use the extra action depends on your innovation.</p>\n<ul>\n<li><strong>Armor</strong> Your armor responds to the most subtle stimuli to move you in the right direction as long as you are wearing it. You can use the extra action to Stride, Step, or use a form of movement provided by your innovation (such as Fly or Swim).</li>\n<li><strong>Construct</strong> Your ability to command your construct becomes instinctive. You can use the extra action to Command your construct innovation (or to provide 1 of the actions if you choose to spend 2 actions to Command your construct).</li>\n<li><strong>Weapon</strong> Your weapon becomes easier to wield with deadly efficacy, almost as if it is an extension of your body. It speeds effortlessly toward whatever target you choose as long as you are holding it. You can use the extra action to Strike with your innovation.</li>\n</ul>"
+			"name": "全自动 Full Automation",
+			"description": "<p>你与你的大发明紧密相连，你无需思考就能使用它。你永久 @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{迅捷}。你使用额外动作的方式由你的大发明决定。</p>\n<ul>\n<li><strong>护甲 Armor</strong> 只要你穿戴你的护甲，它就能对更多不易察觉的刺激作出回应，让你移动到正确的位置上。你可以使用额外动作行走Stride，快步Step，或使用一种你的大发明提供的移动形式（例如飞行或游泳。</li>\n<li><strong>构装体 Construct</strong> 你能本能地指挥你的构装体。你可以使用额外动作指挥Command你的构装体大发明（或如果你要花费2个动作指挥Command你的构装体，用额外动作来满足其中一个动作）。</li>\n<li><strong>武器 Weapon</strong> 你如身体地延伸一般本能地挥舞你致命的武器。只要你持握它，它能毫不费力地往你所选的任何目标袭去。可以用额外动作，使用你的大发明进行打击Strike。</li>\n</ul>"
 		},
 		"Fully Flighted": {
 			"name": "Fully Flighted",
@@ -5238,8 +5238,8 @@
 			"description": "<p>When you prepare a staff, you can hold it up to a weapon to merge the two items. You can switch the fused item's form from the weapon to the staff or vice versa as a single action, which has the concentrate trait. When the item is in staff form, you can Cast the Spells from the staff and benefit from any other abilities the staff grants. The staff and the weapon share their fundamental runes, using whichever <em>weapon potency</em> and whichever <em>striking</em> rune is higher level. They don't share any other runes or specific abilities.</p>\n<p>You can Cast Spells from the staff as part of a Spellstrike even when the staff is in weapon form. Otherwise, you can't cast the staff's spells while it's in weapon form.</p>\n<p>The fusion lasts until your next daily preparations, though you can spend 10 minutes to separate the two items and meld the staff into a different weapon. The melding works for you alone. A different wielder can use the staff in its current form but can't transform it, get the benefit of the shared runes, or use its spells for a Spellstrike if it's in weapon form.</p>"
 		},
 		"Gadget Specialist": {
-			"name": "Gadget Specialist",
-			"description": "<p>Rather than just using your gadgets for various boosts and tweaks, you also craft a few specific temporary consumable gadgets each day. You gain the formulas for three common or uncommon gadgets. Each day during your daily preparations, you can create two temporary gadgets from your formula book. Gadgets prepared in this way don't cost you any resources to Craft and don't have any sale value. They are temporary items and fall apart the next time you make your daily preparations if you haven't already used them.</p>\n<p>If you're a master in Crafting, you can create three gadgets per day, and you gain three additional common or uncommon gadget formulas. If you're legendary in Crafting, you can create four gadgets per day, and you gain another additional three common or uncommon gadget formulas, for a total of nine.</p>"
+			"name": "小装置专家 Gadget Specialist",
+			"description": "<p>你不仅仅用你的小装置来增压或调校，你每天也能制作一些特殊的临时消耗小装置。你获得3个常见或罕见的小装置（66页）的公式。每天在每日准备期间，你可以从公式簿中制造2个临时小装置。按这种方式准备的小装置不会消耗你任何资源来制作Craft，也不存在出售价格。它们是临时物品，如果到你下一次进行每日准备时还没使用就会解离。</p>\n<p>如果你在手艺Crafting达到大师，你每天可以制作3个小装置，你也获得3个额外的常见或罕见小装置公式。如果你在手艺Crafting上达到传奇，你每天可以制作4个小装置，你也获得3个额外的常见或罕见小装置公式，总共加起来有9个。</p>"
 		},
 		"Gang Up": {
 			"name": "Gang Up",
@@ -5342,12 +5342,12 @@
 			"description": "<p>You can share your power with others, but they can't escape the werecreature's curse as easily as you can. You can cast a 5th-level <em>@Compendium[pf2e.spells-srd.YtesyvfAIwXOqISq]{Moon Frenzy}</em> as a primal innate spell once per day. At 15th level, you cast a 6th-level <em>moon frenzy</em> instead. At 17th level, your 6th-level <em>moon frenzy</em> grants its standard effects, except the temporary Hit Points increase to 15 and the silver weakness increases to 15. At 20th level, you cast a 10th-level <em>moon frenzy</em> instead. The spell uses your class DC or spell DC, whichever is higher.</p>"
 		},
 		"Gigaton Strike": {
-			"name": "Gigaton Strike",
-			"description": "<p>When you use a full-power Megaton Strike, you can knock your foe back. When you succeed at your Strike while using an unstable Megaton Strike, your target must attempt a Fortitude save against your class DC.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature is pushed back 5 feet.</p>\n<p><strong>Failure</strong> The creature is pushed back 10 feet.</p>\n<p><strong>Critical Failure</strong> The creature is pushed back 20 feet.</p>\n<p><strong>Special</strong> If your innovation is a minion, this benefit applies on its unstable Megaton Strikes.</p>"
+			"name": "亿万吨强击 Gigaton Strike",
+			"description": "<p>当你使用全力的百万吨强击时，你可以击退你的敌人。当你使用不稳定的百万吨强击Megaton Strike成功进行打击Strike，你的目标必须尝试一次强韧豁免对抗你的职业DC。</p>\n<hr />\n<p><strong>大成功</strong> 该生物不受影响</p>\n<p><strong>成功</strong> 该生物被推离5尺</p>\n<p><strong>失败</strong> 该生物被推离10尺</p>\n<p><strong>大失败</strong> 该生物被推离20尺</p>\n<p><strong>特殊</strong> 如果你的大发明是仆从，该增益应用在它的不稳定百万吨强击上。</p>"
 		},
 		"Gigavolt": {
-			"name": "Gigavolt",
-			"description": "<p>When you unleash electricity from your innovation, you can bounce it off obstacles, creating a field of electric death. When you use Megavolt, each time your line of electricity hits a solid barrier, such as a wall, it bounces off at an angle of your choice and continues until you have reached the full length of the line. Even if a creature is in the area from multiple bounces, it takes the damage only once.</p>"
+			"name": "亿万伏特 Gigavolt",
+			"description": "<p>当你从大发明中释放电能时，你可以让它在障碍间反弹，创造致命的电刑领域。当你使用百万伏特Megavolt，每当你的电击线击中一个固体屏障，例如墙壁，它会以你所选的角度反射并继续前进，直到达到线形区域的最大长度。即使1个生物处于多条反射线内，他也只承受1次伤害。</p>"
 		},
 		"Glad-Hand": {
 			"name": "Glad-Hand",
@@ -5822,8 +5822,8 @@
 			"description": "<p>You gain a +1 circumstance bonus to Crafting checks to @Compendium[pf2e.actionspf2e.bT3skovyLUtP22ME]{Repair} non-magical items, and you don't need a @Compendium[pf2e.equipment-srd.vLGDUFrg4yGzpTQX]{Repair Kit} for such repairs as long as you have any amount of junk, spare parts, or debris at your disposal.</p>"
 		},
 		"Haphazard Repair": {
-			"name": "Haphazard Repair",
-			"description": "<p>You quickly fix your innovation, at the cost of its stability. You Repair your innovation almost immediately. You don't have to place the innovation on a flat surface, but you do need to be adjacent to it (including holding or wearing it), as well as having a repair kit as normal.</p>"
+			"name": "紧急抢修 Haphazard Repair",
+			"description": "<p>你快速修复你的大发明，而代价则是它的稳定性。你立刻修理Repair你的大发明。你不需要将大发明摆在平坦表面上，但你需要邻接它（包括持握或穿戴它），也如常需要拥有修理工具包。</p>"
 		},
 		"Harbinger's Caw": {
 			"name": "Harbinger's Caw",
@@ -5990,8 +5990,8 @@
 			"description": "<p>You're particularly skilled at helping others with a task. You gain a +2 circumstance bonus on checks to Aid, and you don't give your ally a -1 circumstance penalty to their check if you critically fail your attempt to Aid.</p>"
 		},
 		"Helpful Tinkering": {
-			"name": "Helpful Tinkering",
-			"description": "<p><strong>Frequency</strong> once per 10 minutes</p>\n<hr />\n<p>You don't just tinker with your own innovation, you fiddle with your allies' weapons as well (for their benefit, of course). Choose an ally in your reach and one of their weapons. Attempt a Crafting check against a high DC for your level.</p>\n<hr />\n<p><strong>Success</strong> For 1 minute, the chosen ally's Strikes with the chosen weapon gain the same offensive boost your innovation has.</p>\n<p><strong>Critical Failure</strong> Your ally takes damage of the type and amount that your offensive boost normally deals on a successful Strike.</p>"
+			"name": "支援修补 Helpful Tinkering",
+			"description": "<p><strong>频率</strong> 每10分钟1次。</p>\n<hr />\n<p>你不仅能修补自己的大发明，你也能鼓捣盟友的武器（当然是为了他们好）。选择一个你触及内的盟友以及他的一把武器。尝试一次手艺Crafting检定，对抗符合你等级的高DC。</p>\n<hr />\n<p><strong>成功</strong> 1分钟内，所选盟友使用所选武器进行的打击Strike获得和你的大发明相同的攻势增压效果。</p>\n<p><strong>大失败</strong> 你的盟友受到攻势增压在正常情况下的一次成功的打击中能造成的数值和类型的伤害。</p>"
 		},
 		"Herbalist Dedication": {
 			"name": "Herbalist Dedication",
@@ -6394,8 +6394,8 @@
 			"description": "<p>Your animal companion continues to grow and develop. It becomes a nimble or savage animal companion (your choice), gaining additional capabilities determined by the type of companion.</p>"
 		},
 		"Incredible Construct Companion": {
-			"name": "Incredible Construct Companion",
-			"description": "<p>Thanks to your continual tinkering, your construct companion has advanced to an astounding new stage of engineering, enhancing all its attributes. Your construct companion becomes an incredible construct companion.</p>"
+			"name": "惊人构装伙伴 Incredible Construct Companion",
+			"description": "<p>得益于你不断的维护，你的构装伙伴进化成了不可思议的工程结晶，它所有的能力都得到了强化。你的构装伙伴变成了惊人构装伙伴。</p>"
 		},
 		"Incredible Familiar (Familiar Master)": {
 			"name": "Incredible Familiar (Familiar Master)",
@@ -6810,8 +6810,8 @@
 			"description": "<p>You fundamentally understand everything to the point where your research can't possibly be wrong.</p>\n<p>You are permanently @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Quickened} and can use the extra action to @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Recall Knowledge}.</p>\n<p>Your checks to Recall Knowledge are no longer secret. When you Recall Knowledge, you use the outcome for one degree of success better than the result of your check, and if an effect (such as @Compendium[pf2e.feats-srd.1Bt7uCW2WI4sM84P]{Dubious Knowledge}) would give you inaccurate information from your Recall Knowledge check, you know which information is inaccurate.</p>\n<p>When one of your allies Recalls Knowledge and gains false information, you also know that information is inaccurate if they share it with you.</p>"
 		},
 		"Just the Thing!": {
-			"name": "Just the Thing!",
-			"description": "<p><strong>Frequency</strong> once per hour</p>\n<hr />\n<p>Need to balance on a razor's edge, force open an iron door, or persuade a dragon to negotiate? Never fear! No matter the situation, you always have just the thing. You attempt a skill action that takes 1 minute or less to complete, using the same number of actions or amount of time as normal. However, as you take the action, describe a device you pull out and use to accomplish the skill. The specifics of how you accomplish this are up to you, but they should fit the challenge at hand. For instance, you might use gravitic stabilizers to balance on the razor's edge, a force battering ram gizmo to open the iron door, or a device that produces an aroma with the ability to pacify wyrms to persuade the dragon. Using an invention in this way lets you alter how you calculate the skill check used in the action. Instead of the normal skill modifier associated with that skill action, you use your Crafting modifier.</p>"
+			"name": "就是这个！ Just the Thing!",
+			"description": "<p><strong>频率</strong> 每小时1次</p>\n<hr />\n<p>你要在刀尖上保持平衡，破拆一道铁门，还是说服一条龙和你谈判？不用怕！无论发生什么，你总是有你要的东西！你进行一次需要1分钟或以下的时间来完成的技能动作，花费正常情况下所需的相同数量的动作或相同的时间。然而，当你进行该动作时，描述一种你拿出来的装置用于完成该动作。你如何完成动作的细节由你来决定，但这种装置需要符合你手头上的工作。例如，你可能会用重力稳定器在刀尖上保持平衡，一个力场攻城锤来打开一道铁门，或某种能散发出芳香，安抚龙类装置来说服巨龙。按这种方式使用发明能让你改变该动作计算技能检定的方式。你使用你的手艺Crafting调整值替换该技能动作通常关联的技能调整值。</p>"
 		},
 		"Juvenile Flight": {
 			"name": "Juvenile Flight",
@@ -7314,8 +7314,8 @@
 			"description": "<p>Your pursuit is relentless, and you are able to magically locate stolen objects and outlaws. You gain <em>@Compendium[pf2e.spells-srd.LQzlKbYjZSMFQawP]{Locate}</em> as an innate spell of a tradition of your choice, which you can cast once per day. If you are a member of the Order of the Gate, when you reach 14th level, the spell is heightened to 5th level.</p>"
 		},
 		"Lock On": {
-			"name": "Lock On",
-			"description": "<p>Aha! You lock on to your enemy's weak point to assist your construct companion in destroying it. When you Lock On, designate an enemy you can see. If your next action is to Command your construct, the construct gains a +2 circumstance bonus to attack rolls against the designated enemy until the end of the turn. If you use 2 actions for the Command, the bonus is instead a +3 circumstance bonus, or a +4 circumstance bonus if you're legendary in Crafting.</p>"
+			"name": "锁定 ock On",
+			"description": "<p>啊哈！你锁定了敌人的弱点，你的构装伙伴可以摧毁他了！当你锁定Lock On，指定一个你可以看见的敌人。如果你的下一个动作是指挥Command你的构装体，该构装体在针对指定敌人的攻击骰上获得+2环境加值，直到回合结束。如果你在指挥Command时使用2动作，加值改为+3环境加值，或+4环境加值，如果你在手艺Crafting上达到传奇。</p>"
 		},
 		"Log Roll": {
 			"name": "Log Roll",
@@ -7530,8 +7530,8 @@
 			"description": "<p>You've learned every possible edge to use against your foes.</p>\n<p>When you use @Compendium[pf2e.actionspf2e.JYi4MnsdFu618hPm]{Hunt Prey} you can gain a different hunter's edge benefit instead of the one you selected at 1st level.</p>\n<p>This feat grants @Compendium[pf2e.classfeatures.u6cBjqz2fiRBadBt]{Precision}.</p>"
 		},
 		"Manifold Modifications": {
-			"name": "Manifold Modifications",
-			"description": "<p>You've modified your innovation using clever workarounds, so you can include another initial modification without compromising its structure. Your innovation gains an additional initial modification from the list for innovations of its type.</p>"
+			"name": "复式改修 Manifold Modifications",
+			"description": "<p>你运用聪明的变通思路改造你的大发明，你可以在不影响基础结构的情况下添加另一个初始改修。你的大发明从对应类型的列表中获得一个额外的初始改修。</p>"
 		},
 		"Mantis Form": {
 			"name": "Mantis Form",
@@ -7758,12 +7758,12 @@
 			"description": "<p><strong>Requirements</strong> You are holding an infused alchemical bomb you crafted, with a level at least 3 lower than your advanced alchemy level</p>\n<hr />\n<p>You add an incredibly powerful additive to a held bomb to create a mega bomb, greatly increasing its area and power.</p>\n<p>You use an @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{Interact} action to throw the mega bomb, rather than Strike, and you don't make an attack roll.</p>\n<p>The mega bomb affects creatures in a 30-foot-radius burst, centered within 60 feet of you. The bomb deals damage as if each creature were the primary target, with a basic Reflex save. On a failed save, a creature also takes any extra effects that affect a primary target (such as flat-footed from bottled lightning). While all targets in the area take splash damage as primary targets, there is no further splash beyond that area.</p>\n<p>If your next action after creating a mega bomb isn't an Interact action to throw it, the mega bomb denatures and loses all effects.</p>"
 		},
 		"Megaton Strike": {
-			"name": "Megaton Strike",
-			"description": "<p>You activate gears, explosives, and other hidden mechanisms in your innovation to make a powerful attack. You make a Strike, dealing an extra die of weapon damage. If you're at least 10th level, increase this to two extra dice, and if you're at least 18th level, increase it to three extra dice. The type of Strike you can make depends on your innovation.</p>\n<ul>\n<li><strong>Armor</strong> You Strike with a melee unarmed attack or a melee weapon. To use a melee weapon for this, you must have prepared it in advance with special contraptions when you make your daily preparations.</li>\n<li><strong>Construct</strong> Your minion innovation Strikes.</li>\n<li><strong>Weapon</strong> You Strike with your weapon innovation.</li>\n</ul>\n<p><strong>Unstable Function</strong> You put even more force into the Strike, though you risk stress fractures to your innovation. Add the unstable trait to Megaton Strike. The Strike deals another extra damage die, for a total of two extra dice at 4th level, three at 10th level, and four at 18th level.</p>\n<p><strong>Special</strong> If your innovation is a minion, it can take this action rather than you.</p>"
+			"name": "百万吨强击 Megaton Strike",
+			"description": "<p>你启动了器械，爆炸，和其他大发明的隐藏机制以进行强力的攻击。你进行一次打击Strike，造成1个额外的武器伤害骰。如果你至少有10级，增加到2个额外骰，如果你至少有18级，增加到3个额外骰。你进行打击Strike的类型由你的大发明决定。</p>\n<ul>\n<li><strong>护甲 Armor</strong> 你使用近战无武装攻击或一把近战武器进行打击Strike。为了使用近战武器进行，你必须在进行每日准备时，提前通过一种奇怪的机械准备好这把武器。</li>\n<li><strong>构装体 Construct</strong> 你的构装体大发明进行打击Strike。</li>\n<li><strong>武器 Weapon</strong> 你使用你的武器大发明进行打击Strike。</li>\n</ul>\n<p><strong>不稳定功能</strong> 你冒着大发明破损的风险，在打击Strike中追加更多的力量。在百万吨强击Megaton Strike中添加不稳定特征。该打击造成另一个额外的伤害骰，4级时总共造成2个额外骰，10级3个，18级4个。</p>\n<p><strong>特殊</strong> 如果你的大发明是仆从，它而非你可以使用该动作。</p>"
 		},
 		"Megavolt": {
-			"name": "Megavolt",
-			"description": "<p>You bleed off some electric power from your innovation in the shape of a damaging bolt. Creatures in a @Template[type:line|distance:20] from your innovation take [[/r {3d4}[electricity]]]{3d4 electricity damage}, with a basic Reflex save against your class DC. The electricity damage increases by 1d4 at 8th level and every 2 levels thereafter.</p>\n<p><strong>Unstable Function</strong> You overload and supercharge the voltage even higher. Add the unstable trait to Megavolt. The area increases to a @Template[type:line|distance:60] and the damage increases from d4s to d12s. If you have the breakthrough innovation class feature, you can choose a 60-foot or @Template[type:line|distance:90] for the area when you use an unstable Megavolt; if you also have the revolutionary innovation class feature, you can choose a 60-foot, 90-foot, or @Template[type:line|distance:120].</p>\n<p><strong>Special</strong> If your innovation is a minion, it can take this action rather than you.</p>"
+			"name": "百万伏特 Megavolt",
+			"description": "<p>你从大发明中放出闪电。 以你的大发明为起点的 @Template[type:line|distance:20] 中的生物承受 [[/r {3d4}[electricity]]]{3d4电击伤害}，基础反射豁免DC为你的职业DC。在8级和之后的每2级，电击伤害提升1d4。</p>\n<p><strong>不稳定功能</strong> 你加上更强的电压，将电能过载。在百万伏特Megavolt上加上不稳定特征。区域变成 @Template[type:line|distance:60] ，伤害骰从d4提升至d12。如果你有突破性大发明职业特性，当你使用不稳定百万伏特Megavolt时，你可以选择60尺或 @Template[type:line|distance:90] ；如果你有革命性大发明职业特性，你可以选择60尺，90尺或 @Template[type:line|distance:120]。</p>\n<p><strong>特殊</strong> 如果你的大发明是仆从，它而非你可以使用该动作。</p>"
 		},
 		"Meld into Eidolon": {
 			"name": "Meld into Eidolon",
@@ -8126,8 +8126,8 @@
 			"description": "<p>You pour negative energy into your undead subject to empower its attacks.</p>\n<p>If the next action you use is to cast <em>@Compendium[pf2e.spells-srd.wdA52JJnsuQWeyqz]{Harm}</em> to restore Hit Points to a single undead creature, the target then deals an additional 1d6 negative damage with its melee weapons and unarmed attacks until the end of its next turn. If the <em>harm</em> spell is at least 5th level, this damage increases to 2d6, and if the <em>harm</em> spell is at least 8th level, the damage increases to 3d6.</p>\n<p>@Compendium[pf2e.feat-effects.bIU1q05vzkKBtFj2]{Effect: Necrotic Infusion}</p>"
 		},
 		"Negate Damage": {
-			"name": "Negate Damage",
-			"description": "<p><strong>Trigger</strong> You would take damage.</p>\n<hr />\n<p>Your armor innovation activates various devices you prepared ahead of time, and you use one of them to reduce the damage you would take by 15.</p>\n<p><strong>Unstable Function</strong> You activate all the precautions at once, violently repelling the incoming attack to blunt its force. Add the unstable trait to Negate Damage and reduce the damage you would take by 50.</p>"
+			"name": "否决伤害 Negate Damage",
+			"description": "<p><strong>触发</strong> 你即将承受伤害。</p>\n<hr />\n<p>你的护甲启动了多种你提前准备好的装置，你使用其中一种将你即将受到的伤害降低15点。</p>\n<p><strong>不稳定功能</strong> 你同时启动了全部的预案，暴力反抗到来的攻击，抵消它的力量。在否决伤害Negate Damage上加上不稳定特征，将你即将受到的伤害降低50点。</p>"
 		},
 		"Nestling Fall": {
 			"name": "Nestling Fall",
@@ -8186,8 +8186,8 @@
 			"description": "<p>Despite the devastation your weapons tend to inflict upon their targets or the destruction you might unleash upon an area, your foes still manage to walk away at the end of a fight-at least sometimes. You can choose to add the nonlethal trait to your ranged weapons, making the choice of whether to add the trait or not just before each Strike.</p>"
 		},
 		"No! No! I Created You!": {
-			"name": "No! No! I Created You!",
-			"description": "<p><strong>Frequency</strong> once per minute</p>\n<p><strong>Trigger</strong> Your construct companion would become @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confused} or controlled.</p>\n<hr />\n<p>You appeal to your construct companion's bond with its creator to have it break free of a controlling effect. Attempt to counteract the effect that confused or controlled your construct companion, using your Crafting modifier for the counteract check and half your level rounded up for the counteract level.</p>"
+			"name": "不不不！是我造的你！ No! No! I Created You!",
+			"description": "<p><strong>频率</strong> 每分钟一次</p>\n<p><strong>触发</strong> 你的构装伙伴将要陷入 @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{困惑} 或被控制状态。</p>\n<hr />\n<p>你呼唤你的构装伙伴和创造者之间的纽带，试图破解控制效果。尝试反制使你的构装伙伴陷入困惑或被控制状态的效果，使用你的手艺Crafting调整值进行反制检定并将你等级的一半（取高）视为反制等级。</p>"
 		},
 		"Nocturnal Charm": {
 			"name": "Nocturnal Charm",
@@ -8406,8 +8406,8 @@
 			"description": "<p>Your physiology is slight, and you can pack into small spaces with others of similar stature.</p>\n<p>As long as you are Small, you can end your movement in the same square as a Small ally. Only two creatures total can share the same space when using this ability or a similar one.</p>"
 		},
 		"Overdrive Ally": {
-			"name": "Overdrive Ally",
-			"description": "<p><strong>Requirements</strong> You are currently in overdrive.</p>\n<hr />\n<p>You quickly fling some of your powered-up mechanisms to an ally, sharing your benefits with them briefly. Choose an ally within 30 feet. Until the end of their next turn, that ally's Strikes deal additional damage equal to half your Intelligence modifier, or your full Intelligence modifier if you were in critical overdrive. The ally doesn't gain the increased damage from expert, master, or legendary overdrive.</p>"
+			"name": "超载盟友 Overdrive Ally",
+			"description": "<p><strong>需求</strong> 你正处于超载中</p>\n<hr />\n<p>你快速对着盟友丢出你身上的一些高能机关，暂时与他分享你的增益。选择一个30尺内的盟友。直到他下一个回合结束，该盟友的打击Strike造成额外伤害，数值等于你智力调整值的一半，或等于你的智力调整值，如果你处于极限超载中。盟友不会获得来自超载专家，大师，传奇的额外伤害。</p>"
 		},
 		"Overextending Feint": {
 			"name": "Overextending Feint",
@@ -8486,8 +8486,8 @@
 			"description": "<p>Kassi Aziril taught you her techniques that originated the modern use of Battle Medicine.</p>\n<p>When you successfully use Battle Medicine, you can also reduce the target's @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened}, @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled}, or @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy} condition by 1 (this has no effect if you are subject to an effect continually applying the clumsy condition, like enlarge).</p>\n<p>If you are legendary in Medicine, you can choose to reduce the target's @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened} or @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Stunned} condition by 1 instead, and if you have the @Compendium[pf2e.feats-srd.yTLGclKtWVFZLKIz]{Godless Healing} feat , you can choose to reduce the target's @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied} or @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drained} condition by 1 instead.</p>\n<p>If you have the @Compendium[pf2e.feats-srd.mEk2POFNU1Q0TQg2]{Mortal Healing} feat, you can reduce all available conditions by 1 for a target who hasn't benefited from positive or healing magic in the last 24 hours, and if you roll a critical success before applying the effects of the feat, you reduce all available conditions by 2 for that target instead.</p>"
 		},
 		"Paragon Companion": {
-			"name": "Paragon Companion",
-			"description": "<p>Your construct companion has reached the pinnacle of form and function. Your construct companion becomes a paragon construct companion.</p>"
+			"name": "典范伙伴 Paragon Companion",
+			"description": "<p>你的构装伙伴触摸到了形态和功能的巅峰。你的构装伙伴变成了典范构装伙伴。</p>"
 		},
 		"Paragon's Guard": {
 			"name": "Paragon's Guard",
@@ -8642,8 +8642,8 @@
 			"description": "<p>You spot anything out of place in the areas you know best. While in your @Compendium[pf2e.feats-srd.sgo7J9BVofBqwlsF]{Favored Terrain}, you always gain the benefits of the @Compendium[pf2e.actionspf2e.kV3XM0YJeS2KCSOb]{Scout} exploration activity, even if you are performing another exploration activity.</p>\n<p>If you're legendary in Survival, you gain these benefits in any terrain.</p>"
 		},
 		"Persistent Boost": {
-			"name": "Persistent Boost",
-			"description": "<p>Your innovation sets foes on fire, covers them in acid, leaves barbed thorns behind, or otherwise deals persistent damage to your foes that sticks around long after you deliver your boosted attack. When you or your construct innovation damage a foe with offensive boost, that foe also takes [[/r {1d8}[persistent]]]{1d8} @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Damage} of the same damage type as the offensive boost damage.</p>"
+			"name": "持续性增压 Persistent Boost",
+			"description": "<p>你的大发明点燃敌人，腐蚀对手，留下箭簇或用其他方式在你的增压攻击命中后对你的敌人造成持久的持续伤害。当你或你的构装体大发明通过攻势增压伤害了1个敌人，该敌人也受到 [[/r {1d8}[persistent]]]{1d8} @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续伤害}，伤害类型与攻势增压相同。</p>"
 		},
 		"Persistent Creation": {
 			"name": "Persistent Creation",
@@ -9042,8 +9042,8 @@
 			"description": "<p>Your nanites can augment your defenses. You can choose to activate @Compendium[pf2e.feats-srd.JS24EjgLYcHB9E3T]{Nanite Surge} when you attempt a saving throw, instead of when you attempt a skill check. If you do, you gain a +2 status bonus to the triggering saving throw.</p>"
 		},
 		"Prototype Companion": {
-			"name": "Prototype Companion",
-			"description": "<p>You have created a construct companion, and while it might not be an innovation, it serves as a trustworthy minion. You gain a prototype construct companion.</p>"
+			"name": "原型伙伴 Prototype Companion",
+			"description": "<p>你创造了一个构装伙伴，尽管它可能不是你的大发明，但也是值得信赖的仆从。你获得一个原型构装伙伴。</p>"
 		},
 		"Provocator Dedication": {
 			"name": "Provocator Dedication",
@@ -9790,8 +9790,8 @@
 			"description": "<p><strong>Trigger</strong> You would take sonic damage from a spell.</p>\n<hr />\n<p>You can manipulate the acoustics around you to deflect sonic damage back at its source. Attempt a Performance check against the spell DC of the creature that cast the triggering spell.</p>\n<hr />\n<p><strong>Critical Success</strong> You reduce the triggering damage by an amount up to four times your level. The caster takes sonic damage equal to the amount of damage you reduced in this way.</p>\n<p><strong>Success</strong> As critical success, but you reduce the triggering damage by an amount up to twice your level.</p>\n<p><strong>Critical Failure</strong> You misdirect the sonic waves at yourself, taking twice the triggering damage.</p>"
 		},
 		"Reverse Engineer": {
-			"name": "Reverse Engineer",
-			"description": "<p>You are incredibly skilled at reverse engineering items to learn their formulas, or disassembling them just to disable them. You gain a +2 circumstance bonus to Crafting checks to reverse engineer a formula from an item. If you get a critical success on your Crafting check, you can opt to both create the formula and reassemble the original item at the same time, leaving you with the formula and the item instead of the formula and raw materials equal to half the item's value. Furthermore, you can use Crafting instead of Thievery to Disable a Device or Pick a Lock.</p>"
+			"name": "逆向工程师 Reverse Engineer",
+			"description": "<p>你非常擅长对物品进行逆向工程以开发它的公式，或仅仅为了停用物品而拆解它。你在从物品逆向工程成公式的手艺Crafting检定中获得+2环境加值。如果你在手艺Crafting检定中达成大成功，你可以同时创造公式并将原始物品组装起来，你最后会获得公式和物品，而非公式和等价于物品价值一半的原材料。另外，你可以在解除装置Disable a Device或开锁Pick a Lock时使用手艺Crafting而非贼活Thievery。</p>"
 		},
 		"Reverse Engineering": {
 			"name": "Reverse Engineering",
@@ -10186,8 +10186,8 @@
 			"description": "<p>You've reinforced your interior parts with sealant or other flame-retardant materials, protecting you from fire. You no longer have the weakness to fire from the flammable ability.</p>\n<p><strong>Special</strong> You can't take this feat if you're a stuffed poppet.</p>"
 		},
 		"Searing Restoration": {
-			"name": "Searing Restoration",
-			"description": "<p>They told you there was no way that explosions could heal people, but they were fools… Fools who didn't understand your brilliance! You create a minor explosion from your innovation, altering the combustion to cauterize wounds using vaporized medicinal herbs. You or a living creature adjacent to you regains [[/r {1d10}[healing]]]{1d10 Hit Points}. In addition, the creature you heal can attempt an immediate flat check to recover from a single source of persistent bleed damage, with the DC reduction from appropriate assistance.</p>\n<p>At 3rd level, and every 2 levels thereafter, increase the healing by 1d10.</p>\n<p><strong>Special</strong> If your innovation is a minion, it can take this action rather than you, though because it's not a living creature, it can't use the ability on itself.</p>"
+			"name": "烧灼疗法 Searing Restoration",
+			"description": "<p>别人告诉你爆炸不可能能用来治疗，但他们都是傻子……傻子都无法理解你的智慧！你从大发明中造出一种小型爆炸，改变燃烧强度并使用蒸汽药草烧灼伤口。你或一个邻接你的生物恢复 [[/r {1d10}[healing]]]{1d10点生命值}。另外，该生物可以立刻尝试一次纯骰检定以从某单一来源的持续性流血伤害中恢复，且DC降低，如同提供了合适的辅助。</p>\n<p>在3级，以及之后每2级，治疗量提升1d10。</p>\n<p><strong>特殊</strong> 如果你的大发明是仆从，它而非你可以进行该动作，但因为它并非一个活物，它不能对自身使用该能力。</p>"
 		},
 		"Seasoned": {
 			"name": "Seasoned",
@@ -10466,8 +10466,8 @@
 			"description": "<p>You are evidence that it's lucky to travel with a halfling. You can use Halfling Luck when an ally within 30 feet fails a skill check or a saving throw to allow the ally to reroll the triggering check instead of you rerolling your own failed check. As usual, your ally must use the new result, even if it's worse than their first roll. If you have @Compendium[pf2e.feats-srd.k0sXAn4PPq5nW9al]{Guiding Luck}, you can't use Guiding Luck's effect that applies to attack rolls and Perception checks to use Shared Luck to benefit an ally.</p>"
 		},
 		"Shared Overdrive": {
-			"name": "Shared Overdrive",
-			"description": "<p>You've experimented enough on your teammates to transfer a substantial number of powered-up gizmos to them, enabling one of your allies to benefit from the full effects and duration of your Overdrive. The first time you use Overdrive Ally during a given Overdrive, the effect lasts for the remainder of the duration of your Overdrive, instead of just until the end of the target's next turn. Any further uses of Overdrive Ally during the same Overdrive have their normal duration, per Overdrive Ally.</p>"
+			"name": "共享超载 Shared Overdrive",
+			"description": "<p>你在队友上做了充分的实验，能将大量的高能装置传递给他们，让你的一个盟友受益于超载Overdrive的完整效果和持续时间。在一个给定的超载Overdrive效果期间，你第一次使用超载盟友Overdrive Ally时，该效果的持续时间即为你的超载Overdrive的剩余持续时间，而非仅持续到目标的下回合结束。在同一个超载Overdrive效果期间使用的其他的超载盟友Overdrive Ally都只有通常的持续时间。</p>"
 		},
 		"Shared Prey": {
 			"name": "Shared Prey",
@@ -10974,8 +10974,8 @@
 			"description": "<p>You're the child of a winter hag, with one blue-white eye and an affinity for rime and snow. When moving over ice or snow in arctic terrain, you always gain the benefits of the Cover Tracks action without needing to use the activity or having to move half your Speed. You don't treat icy terrain as uneven ground (though it's still difficult terrain for you), and you ignore difficult terrain caused by snow. Cold precipitation and environmental cold effects don't alter the time it takes for you to become @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigued}.</p>"
 		},
 		"Soaring Armor": {
-			"name": "Soaring Armor",
-			"description": "<p>Whether through a release of jets of flame, propeller blades, sonic bursts, streamlined aerodynamic structure, electromagnetic fields, or some combination of the above, you've managed to free your innovation from the bonds of gravity! While wearing your innovation, you gain a fly Speed equal to your land Speed.</p>"
+			"name": "飞翔护甲 Soaring Armor",
+			"description": "<p>无论是通过火焰喷射，螺旋桨叶片，音波反冲，流线型气动结构，电磁场，还是上述技术的组合，你都成功让你的大发明挣脱重力的束缚！当穿戴你的大发明时，你获得等于你陆地速度的飞行速度。</p>"
 		},
 		"Soaring Dynamo": {
 			"name": "Soaring Dynamo",
@@ -12042,8 +12042,8 @@
 			"description": "<p>You have forgotten more about talismans than lesser warriors have ever known. Normally, affixing more than one talisman to an item causes the talismans to be suppressed, but when you @Compendium[pf2e.actionspf2e.UAaQk93a30nx0nYY]{Affix a Talisman}, you can specially treat one item you're working on, allowing it to have two active talismans at once.</p>\n<p>This special treatment ends if you use Affix a Talisman to treat a new item for this ability.</p>"
 		},
 		"Tamper": {
-			"name": "Tamper",
-			"description": "<p>You tamper with a foe's weapon or armor, using a free hand. Choose either a weapon held by an enemy in your reach or a suit of armor worn by an enemy in your reach. Attempt a Crafting check against the enemy's Reflex DC.</p>\n<hr />\n<p><strong>Critical Success</strong> Your tampering is incredibly effective. If you tampered with a weapon, the enemy takes a -2 circumstance penalty to attack rolls and damage rolls with that weapon. If you tampered with armor, the armor hampers the enemy's movement, making the enemy @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} and inflicting a -10-foot penalty to its Speeds. The effect lasts until the enemy Interacts to remove it, regardless of which one you used.</p>\n<p><strong>Success</strong> Your tampering is temporarily effective. As critical success, but the effect ends at the start of your next turn, even if the enemy doesn't Interact to end it.</p>\n<p><strong>Critical Failure</strong> Your tampering backfires dramatically, creating a small explosion from your own tools or gear. You take fire damage equal to your level.</p>"
+			"name": "篡改 Tamper",
+			"description": "<p>你使用一只空闲的手，篡改了敌人的武器或护甲。选择一个你触及内的敌人所持握的武器或穿戴的护甲。尝试一次手艺Crafting检定对抗敌人的反射DC。</p>\n<hr />\n<p><strong>大成功 Critical Success</strong> 你的篡改非常有效。如果你篡改了武器，敌人在使用该武器进行的攻击骰和伤害骰上承受-2环境罚值。如果你篡改了护甲，护甲会妨碍敌人的移动，令敌人陷入 @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{手足无措} 且在速度上承受-10罚值。该效果持续到敌人交互Interact以移除，无论你选择进行何种篡改。</p>\n<p><strong>成功</strong> 你的篡改暂时有效，如大成功。但效果仅持续到你的下回合开始，即使敌人没有进行交互Interact以移除。</p>\n<p><strong>大失败</strong> 你的篡改引起了华丽的麻烦，你的工具或器械发生了小规模的爆炸。你承受等于你等级的火焰伤害。</p>"
 		},
 		"Tandem Movement": {
 			"name": "Tandem Movement",
@@ -12630,12 +12630,12 @@
 			"description": "<p><strong>Requirements</strong> You're wielding two weapons, each in a different hand. At least one of these weapons must be a loaded firearm or loaded crossbow.</p>\n<hr />\n<p>You attack with both your weapons in a furious barrage. Strike twice, once with each weapon.</p>"
 		},
 		"Ubiquitous Gadgets": {
-			"name": "Ubiquitous Gadgets",
-			"description": "<p>They thought you had used up all your devices, but they thought wrong! You have a few more gadgets up your sleeve than others expect. Increase the number of temporary gadgets you can create each day by 2.</p>\n<p><strong>Special</strong> You can select this feat a second time if you are 14th level or higher.</p>"
+			"name": "充裕小装置 Ubiquitous Gadgets",
+			"description": "<p>别人觉得你用光了你的装置，但他们没想到你还有！你的袖套里藏了比别人预计得更多的小装置。你每天可以制作的临时小装置数量提升2个。</p>\n<p><strong>特殊</strong> 在14级后，你可以第二次选择该专长。</p>"
 		},
 		"Ubiquitous Overdrive": {
-			"name": "Ubiquitous Overdrive",
-			"description": "<p>You prepare a variety of incredible gizmos on each of your allies, linking them together through careful modification to enable you to power them up all at once. During your daily preparations, select up to six willing allies. Whenever you Overdrive, you grant the benefits of your overdrive to any of these allies you choose who are within 30 feet of you. The allies don't gain the increased damage from expert, master, or legendary overdrive.</p>"
+			"name": "全链超载 Ubiquitous Overdrive",
+			"description": "<p>你为你的每个盟友都准备了一大堆惊人的小玩意儿，通过精心的调整将他们链在一起，让你可以一次性给他们全部充能。在每日准备期间，选择至多6个自愿盟友。当你超载Overdrive时，你将你的超载增益提供30尺内你所选的任意盟友。这些盟友不会获得来自超载专家，大师，或传奇的额外伤害。</p>"
 		},
 		"Ubiquitous Snares": {
 			"name": "Ubiquitous Snares",
@@ -12842,8 +12842,8 @@
 			"description": "<p>You can create extraordinary-albeit volatile-alchemical wonders, though they have an unfortunate tendency to violently explode when you use them.</p>\n<p>When you use @Compendium[pf2e.feats-srd.NlEZ0piDxg9buXCL]{Quick Alchemy}, you can create an alchemical item from your formula book whose level is up to 2 higher than your advanced alchemy level. You can spend up to 3 additional batches of @Compendium[pf2e.classfeatures.wySB9VHOW1v3TX1L]{Infused Reagents} when creating this item to stabilize it.</p>\n<p>Upon activating the item, attempt a DC 10 flat check; for every additional batch of @Compendium[pf2e.classfeatures.wySB9VHOW1v3TX1L]{Infused Reagents} you spent to create the item, reduce this DC by 2. On a success, the item functions normally. On a failure, the item explodes, dealing force damage to the user equal to twice the item's level (doubled on a critical failure).</p>"
 		},
 		"Unstable Redundancies": {
-			"name": "Unstable Redundancies",
-			"description": "<p><strong>Trigger</strong> You would attempt the flat check for an unstable action, but you haven't rolled the flat check yet.</p>\n<hr />\n<p>You've built triple redundancies into your innovation and added all sorts of buffers to protect it from the harm of your unstable experiments. You automatically succeed at the triggering flat check.</p>\n<p>You can't rely on your Unstable Redundancies again until you spend 10 minutes setting them back up. If you spend 10 minutes retuning your innovation so you can use unstable actions again, you can set up your Unstable Redundancies during the same time.</p>"
+			"name": "不稳定冗余 Unstable Redundancies",
+			"description": "<p><strong>触发</strong> 你即将为一个不稳定动作尝试纯骰检定，但你还没有投骰。</p>\n<hr />\n<p>你在大发明内建造了三重冗余系统并添加了所有种类的缓冲器保护它不受你的不稳定实验的伤害。你自动在触发的纯骰检定中成功。</p>\n<p>你无法再次依靠不稳定冗余Unstable Redundancies，直到你花费10分钟时间将其复位。如果你花费10分钟时间再调校你的大发明以让其再次使用不稳定动作，你可以在同样的时间内复位你的不稳定冗余Unstable Redundancies。</p>"
 		},
 		"Unstoppable Juggernaut": {
 			"name": "Unstoppable Juggernaut",
@@ -12902,8 +12902,8 @@
 			"description": "<p>You seek to emulate vanth reapers' fighting styles. You are trained with @Compendium[pf2e.equipment-srd.hMYdSFmMWzidzHih]{Bo Staves}, @Compendium[pf2e.equipment-srd.MVAWttmT0QDa7LsV]{Longbows}, @Compendium[pf2e.equipment-srd.dUC8Fsa6FZtVikS3]{Composite Longbows}, @Compendium[pf2e.equipment-srd.H74vYwHJ8XT4qOPI]{Scythes}, and @Compendium[pf2e.equipment-srd.FVjTuBCIefAgloUU]{Staves}.</p>"
 		},
 		"Variable Core": {
-			"name": "Variable Core",
-			"description": "<p>You adjust your innovation's core, changing the way it explodes. When you choose this feat, select acid, cold, or electricity. Your innovation's core runs on that power source. When using the Explode action, or any time your innovation explodes on a critical failure and damages you, change the damage type from fire damage to the type you chose.</p>\n<p>If you have the offensive boost class feature and retrain Variable Core to a different damage type, you can also switch to a different offensive boost that deals the same damage type if you wish.</p>"
+			"name": "可变核心 Variable Core",
+			"description": "<p>你调整了大发明的核心，改变了它爆炸的方式。当你选择该专长时，选择强酸，寒冷或电击。你的大发明依赖该能量源来运作。当使用爆炸Explode动作时，或当你的大发明因大失败而发生爆炸并伤害你时，将伤害类型从火焰改成你所选的类型。</p>\n<p>如果你有攻势增压Offensive Boost职业特性，并将可变核心Variable Core重训成别的伤害类型，如果愿意，你也可以切换攻势增压，使其造成相同的伤害类型。</p>"
 		},
 		"Vehicle Mechanic Dedication": {
 			"name": "Vehicle Mechanic Dedication",
@@ -13098,8 +13098,8 @@
 			"description": "<p>You can call upon divine insights to single out your foes' weak points. You learn the <em>@Compendium[pf2e.spells-srd.NhNKzq1DvFxkvTEc]{Vision of Weakness}</em> revelation spell. Increase the number of Focus Points in your focus pool by 1.</p>"
 		},
 		"Visual Fidelity": {
-			"name": "Visual Fidelity",
-			"description": "<p>You've found a way to use a hodgepodge combination of devices to enhance your visual abilities in every situation. You gain darkvision and low-light vision, and you can see @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisible} creatures and objects as translucent shapes, though these shapes are indistinct enough to be @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} to you.</p>\n<p>If an effect would give you the @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Blinded} condition, the effect must attempt a counteract check against your class DC, with your counteract level equaling half your level, rounded up. On a failed counteract check, you aren't blinded-your various devices are able to compensate.</p>"
+			"name": "视觉保真 Visual Fidelity",
+			"description": "<p>你找到一种方式将一大堆装置组合起来，在任何状况下都保证你所见为真。你获得黑暗视觉和昏暗视觉，你可以以半透明的形状看到 @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{隐形} 的生物和物品，但这种形状比较模糊，其对你而言是 @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{隐蔽} 状态。</p>\n<p>如果一个效果会让你陷入 @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{目盲} 状态，该效果必须尝试一次反制检定对抗你的职业DC，你的反制等级等于你职业的一半（取高）。如果反制检定失败，你不会目盲——你各种各样的设备弥补了你的视力。</p>"
 		},
 		"Vitality-Manipulating Stance": {
 			"name": "Vitality-Manipulating Stance",
@@ -13634,8 +13634,8 @@
 			"description": "<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p>You have been granted a sliver of the power of the yamaraj, the magistrates of the dead who agreed to allow duskwalkers to exist at all. You exhale a blast of icy wind and ravenous insects. This is a 30-foot cone that deals [[/r {14d6}[slashing]]]{14d6 slashing damage} and [[/r {4d6}[persistent,slashing]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Slashing Damage} (basic Reflex save using your class DC or spell DC, whichever is higher). On a critical failure, targets also become @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened 2}.</p>"
 		},
 		"You Failed to Account For... This!": {
-			"name": "You Failed to Account For... This!",
-			"description": "<p><strong>Trigger</strong> A creature you can see targets you with an attack against your AC.</p>\n<hr />\n<p>When your foes try to attack you, you always seem to have some outlandish invention you can pull out at the last second to protect you from whatever attack they throw at you. Describe a device you're attempting to use to protect yourself from the foe's attack-for instance, when attacked by a shocker lizard's shock Strike, you might pull out a specially grounded lightning rod from that time you tried to power an invention by harnessing a thunderstorm! Using an invention to defend in this way means that the attack roll for the triggering attack targets your Crafting DC instead of your AC.</p>\n<p>Since you're using your Crafting DC instead of your AC, any penalties to your AC don't apply, but this doesn't remove any conditions or other effects that are causing you such penalties. For instance, if you were @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} and used an invention to defend against a sneak attack, you'd still take the extra precision damage if you were hit, even though the -2 penalty to AC from being flat-footed wouldn't apply to your Crafting DC.</p>"
+			"name": "没想到吧！ You Failed to Account For... This!",
+			"description": "<p><strong>触发</strong> 一个你可以看到的生物对你进行一次攻击，并要对抗你的AC。</p>\n<hr />\n<p>当你的敌人尝试攻击你，你总是能在最后一刻掏出一些古怪的发明从无论什么样的攻击中保护自己。描述一种你尝试用来从敌人的攻击中保护自己的装置——例如，当被电蜥蜴的电击打击Strike攻击时，你可能掏出一种特殊的接地闪电权杖，但这原本是你准备引来雷暴给自己的发明充能的玩意儿！按这种方式使用发明来防御意味着触发攻击的攻击骰需要对抗你的手艺Crafting DC而非你的AC。</p>\n<p>由于你使用手艺Crafting DC替换了AC，任何AC上的减值都不适用，但这不会移除任何状态或其他导致这些减值的效果。例如，如果你 @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{措手不及}，并使用了发明来防御偷袭，你仍然会在被命中时承受额外精准伤害，即使措手不及在AC上的-2减值不适用于你的手艺Crafting DC。</p>"
 		},
 		"You're Next": {
 			"name": "You're Next",
