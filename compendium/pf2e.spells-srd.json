@@ -530,8 +530,8 @@
 			"description": "<p>You become intensely entrancing, and creatures are distracted by you as long as they remain within the area. You can exclude any creatures you choose from the effects. When a creature enters the area for the first time, it must attempt a Will saving throw. If a creature leaves and reenters, it uses the results of its original save.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected and temporarily immune for 1 hour.</p>\n<p><strong>Success</strong> The creature is @Compendium[pf2e.conditionitems.AdPVz7rbaVSRxHFg]{Fascinated} with you for its next action, then is temporarily immune for 1 hour.</p>\n<p><strong>Failure</strong> The creature is Fascinated with you.</p>\n<p><strong>Critical Failure</strong> The creature is Fascinated with you, and its attitude toward you improves by one step.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> Increase the size of the emanation by 15 feet.</p>"
 		},
 		"Cascade Countermeasure": {
-			"name": "Cascade Countermeasure",
-			"description": "<p>You quickly adjust your @Compendium[pf2e.actionspf2e.HbejhIywqIufrmVM]{Arcane Cascade} to offer magical protection. You gain resistance 5 against damage from spells. As normal, using Arcane Cascade again means you've ended the stance, and the spell ends.</p>\n<hr />\n<p><strong>Heightened (+3)</strong> The resistance increases by 5.</p>\n<p data-visibility=\"owner\"><em>Note: Conflux spells refresh Spellstrike.</em></p>"
+			"name": "湍涌反制 Cascade Countermeasure",
+			"description": "<p>你快速调整 @Compendium[pf2e.actionspf2e.HbejhIywqIufrmVM]{奥术奔涌} 以提供魔法防护。你获得 5点对法术伤害抗性（resistance）。一如寻常，再次使用奥术奔涌会让你的架式结束，同时终止法术。</p>\n<hr />\n<p><strong>升环 (+3)</strong> 抗性提升5点。</p>\n<p data-visibility=\"owner\"><em>Note: Conflux spells refresh Spellstrike.</em></p>"
 		},
 		"Cast into Time": {
 			"name": "Cast into Time",
@@ -994,8 +994,8 @@
 			"description": "<p>You interfere with the target's ability to teleport and travel between dimensions. Dimensional anchor attempts to counteract any teleportation effect, or any effect that would move the target to a different plane. The duration is determined by the target's Will save.</p>\n<hr /><strong>Critical Success</strong> The target is unaffected.\n<p><strong>Success</strong> The effect's duration is 1 minute.</p>\n<p><strong>Failure</strong> The effect's duration is 10 minutes.</p>\n<p><strong>Critical Failure</strong> The effect's duration is 1 hour.</p>"
 		},
 		"Dimensional Assault": {
-			"name": "Dimensional Assault",
-			"description": "<p>You tumble through space, making a short dimensional hop to better position yourself for an attack. Teleport to any square in range that's within reach of a creature, and then make a melee Strike against one creature within your reach.</p>\n<p data-visibility=\"owner\"><em>Note: Conflux spells refresh Spellstrike.</em></p>"
+			"name": "次元突袭 Dimensional Assault",
+			"description": "<p>你翻身穿越空间，进行一次短距离的次元跳跃，置身在对攻击更加有利于的位置。传送到射程内触及某一生物的任意方格，并随后对触及内一个生物进行一次打击（Strike）。</p>\n<p data-visibility=\"owner\"><em>Note: Conflux spells refresh Spellstrike.</em></p>"
 		},
 		"Dimensional Lock": {
 			"name": "Dimensional Lock",
@@ -1670,8 +1670,8 @@
 			"description": "<p>You create an immobile, invisible prison of sheer force. The cage is a 20-foot cube made of bands of force, each a half inch thick and a half inch apart, that extend to the Ethereal Plane. Each creature in the area where you create the cage must attempt a Reflex save. If such a creature fails, it becomes trapped inside the cage. If it succeeds, it's pushed outside the cage into a space of its choice. If a creature in the area is too big to fit inside the prison, the spell automatically fails.</p>\n<p>The cage has AC 10, Hardness 20, and 40 Hit Points, and it's immune to critical hits and precision damage. A creature capable of passing through the space between the bars (typically a Tiny creature) can leave; all others are confined within.</p>\n<p>Attacks with a weapon too large to fit between the bars can't pass through the cage, and the bars provide standard cover even against attacks that can pass through the gaps. Spells and breath weapons can pass through the cage uninhibited.</p>\n<p><em>Force cage</em> is immune to counteracting effects of its level or lower, but it is automatically destroyed by a <em>@Compendium[pf2e.spells-srd.r7ihOgKv19eJQnik]{Disintegrate}</em> spell of any level, or by contact with a @Compendium[pf2e.equipment-srd.HuGZspUvJqR09Y8u]{Rod of Cancellation} or @Compendium[pf2e.equipment-srd.B4DnQNcGl6nFVKHl]{Sphere of Annihilation}.</p>"
 		},
 		"Force Fang": {
-			"name": "Force Fang",
-			"description": "<p>You briefly turn your attack into pure force to bypass your opponent's defenses. Choose a target within your reach, or within the reach of a melee weapon you're wielding. If you can use @Compendium[pf2e.actionspf2e.QDW9H8XLIjuW2fE4]{Spellstrike} with a ranged weapon (with the starlit span hybrid study, for example), you can target a creature in the first range increment of your ranged weapon. For an instant, you transform your weapon or unarmed attack into a spike of pure force, replacing all its normal statistics and abilities. The force fang automatically deals 1d4 + 1 force damage to the target.</p>\n<hr />\n<p><strong>Heightened (+2)</strong> The damage increases by 1d4+1.</p>\n<p data-visibility=\"owner\"><em>Note: Conflux spells refresh Spellstrike.</em></p>"
+			"name": "力牙术 Force Fang",
+			"description": "<p>你将自己的攻击暂时转换成能够穿透对手防御的纯粹力场。选择你或你持有的近战武器触及范围内的一个目标。如果你可以使用远程 @Compendium[pf2e.actionspf2e.QDW9H8XLIjuW2fE4]{法术打击} （例如，具有星火流矢融汇研究 starlit span hybrid study），你可以选择你远程武器第一射程增量内的生物为目标。片刻之间，你将你的武器或无武装攻击转变为纯粹力场构成的尖钉，替换攻击全部的数据栏和属性（abilities）。力牙术自动对目标造成1d4+1力场伤害。</p>\n<hr />\n<p><strong>升环 (+2)</strong>  伤害增加1d4+1</p>\n<p data-visibility=\"owner\"><em>Note: Conflux spells refresh Spellstrike.</em></p>"
 		},
 		"Forced Quiet": {
 			"name": "Forced Quiet",
@@ -1906,8 +1906,8 @@
 			"description": "<p>Magic empowers the target to act faster. It gains the @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Quickened} condition and can use the extra action each round only for Strike and Stride actions.</p>\n<hr />\n<p><strong>Heightened (7th)</strong> You can target up to 6 creatures.</p>"
 		},
 		"Hasted Assault": {
-			"name": "Hasted Assault",
-			"description": "<p>You call upon your magic to speed up your attacks. You gain the quickened condition and can use the extra action each round for only Strike actions.</p>\n<p data-visibility=\"owner\"><em>Note: Conflux spells refresh Spellstrike.</em></p>"
+			"name": "加速突袭 Hasted Assault",
+			"description": "<p>你呼唤魔力以加快自己的攻击。获得迅捷状态（quickened），并且每轮额外动作只能用于打击（Strike）。</p>\n<p data-visibility=\"owner\"><em>Note: Conflux spells refresh Spellstrike.</em></p>"
 		},
 		"Haunting Hymn": {
 			"name": "Haunting Hymn",
@@ -3354,8 +3354,8 @@
 			"description": "<p>Misshapen skeletal forms erupt from a solid surface, such as a stone floor, and fill the burst. The area they fill is difficult terrain. Their grasping claws deal 2d6 slashing damage to creatures on the ground in the area when the skeletons first appear (basic Reflex save).</p>\n<p>On subsequent rounds, the first time you Sustain the Spell each round, you can move the area of skeletons up to 20 feet within the range of the spell and deal 2d6 slashing damage (basic Reflex save) to each creature in their new area.</p>\n<p>Damaging or destroying the skeletons is irrelevant, as new bones pull forth from the ground to repair and replace any that are obliterated.</p>\n<hr />\n<p><strong>Heightened (+2)</strong> The damage increases by 1d6.</p>"
 		},
 		"Runic Impression": {
-			"name": "Runic Impression",
-			"description": "<p>Your unarmed attacks or weapon gain the benefits of a weapon rune you choose when you cast this spell: corrosive, flaming, frost, ghost touch, returning, shock, or thundering. If you cast runic impression on a weapon, this spell ends if you cease holding the weapon. If this spell would give a weapon more property runes than its normal maximum, one of the existing property runes (you choose) is suppressed until the spell ends. For unarmed attacks, if this spell would give you more property runes than you could have from handwraps of mighty blows, one of the existing property runes is similarly suppressed.</p>\n<hr />\n<p><strong>Heightened (8th)</strong> Add keen to the list of runes you can choose as well as the greater types of corrosive, flaming, frost, shock, and thundering.</p>\n<p data-visibility=\"owner\"><em>Note: Conflux spells refresh Spellstrike.</em></p>"
+			"name": "刻印符文 Runic Impression",
+			"description": "<p>你的无武装攻击或武器获得你在施放法术时选择的武器符文：酸蚀（corrosive）、炽焰（flaming）、冻寒（frost）、幽冥（ghost touch）、回力（returning）、电击（shock）或雷鸣（thundering）。如果你对武器释放刻印符文，在你松开握持的武器时法术终止。</p>\n<p>如果法术给与超出武器通常最大值数量的性能符文（property runes），现有的一个性能符文（由你选择）效果停止直到法术结束。对于无武装攻击，如果法术给与超出通常重拳缠手带（handwraps of mighty blows）最大值数量的性能符文（property runes），现有的一个性能符文也同样停止。</p>\n<hr />\n<p><strong>升环（8环级）</strong> 你可选择的符文列表添加锐锋（keen）和高等（greater）酸蚀、炽焰、冻寒、电击或雷鸣符文选项。</p>\n<p data-visibility=\"owner\"><em>Note: Conflux spells refresh Spellstrike.</em></p>"
 		},
 		"Rusting Grasp": {
 			"name": "Rusting Grasp",
@@ -3546,8 +3546,8 @@
 			"description": "<p>You forge a temporary link between the target's life essence and your own. The target takes half damage from all effects that deal Hit Point damage, and you take the remainder of the damage. When you take damage through this link, you don't apply any resistances, weaknesses, or other abilities you have to that damage; you simply take that amount of damage. The spell ends if the target is ever more than 30 feet away from you. If either you or the target is reduced to 0 Hit Points, any damage from this spell is resolved and then the spell ends.</p>"
 		},
 		"Shielding Strike": {
-			"name": "Shielding Strike",
-			"description": "<p>As you attack a foe, warding magic transforms your momentum into action and lifts your shield. Make a melee Strike. You can then either @Compendium[pf2e.actionspf2e.xjGwis0uaC2305pm]{Raise a Shield} if you're wielding one or cast <em>@Compendium[pf2e.spells-srd.TVKNbcgTee19PXZR]{Shield}</em> if you have the spell.</p>\n<p data-visibility=\"owner\"><em>Note: Conflux spells refresh Spellstrike.</em></p>"
+			"name": "盾牌打击 Shielding Strike",
+			"description": "<p>当你攻击敌人时，防护魔力将你的行动转变为举起盾牌的动力。进行一次近战打击。随后，如果你持有一面盾牌则可以 either @Compendium[pf2e.actionspf2e.xjGwis0uaC2305pm]{举起盾牌} ，如果你拥有<em>@Compendium[pf2e.spells-srd.TVKNbcgTee19PXZR]{护盾术 shield}</em> 则可以释放它。 </p>\n<p data-visibility=\"owner\"><em>Note: Conflux spells refresh Spellstrike.</em></p>"
 		},
 		"Shift Blame": {
 			"name": "Shift Blame",
@@ -3574,8 +3574,8 @@
 			"description": "<p>You create a wave of energy that ripples through the earth. Terrestrial creatures in the affected area must attempt a Reflex save to avoid stumbling as the shockwave shakes the ground.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature is @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} until the start of its next turn.</p>\n<p><strong>Failure</strong> The creature falls @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}.</p>\n<p><strong>Critical Failure</strong> As failure, plus the creature takes 1d6 damage.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The area increases by 5 feet (to a 20-foot cone at 2nd level, and so on).</p>"
 		},
 		"Shooting Star": {
-			"name": "Shooting Star",
-			"description": "<p>You let loose a projectile that flies true and leaves the blazing trail of a meteor behind it. Make a ranged Strike, ignoring the target's concealment and reducing the target's cover by one degree for this Strike only (greater to standard, standard to lesser, and lesser to none). If the Strike hits, the meteor trail hangs in the air. This gives the benefits of concealment negation and cover reduction to any attacks made against the creature (by anyone) until the start of your next turn.</p>\n<p data-visibility=\"owner\"><em>Note: Conflux spells refresh Spellstrike.</em></p>"
+			"name": "流星击 Shooting Star",
+			"description": "<p>你射出一颗箭矢，其笔直的飞出，在其后留下一条炽热的飞行轨迹。进行一次远程打击，无视目标的隐蔽（conceal）并且此次打击降低一级掩蔽（cover，强效变标准，标准变弱效，弱效变无）。如果打击命中，飞行轨迹悬于空中。直到你的下个回合开始，这会给与对此生物的所有攻击无视隐蔽和降低掩蔽的增益效果。</p>\n<p data-visibility=\"owner\"><em>Note: Conflux spells refresh Spellstrike.</em></p>"
 		},
 		"Show the Way": {
 			"name": "Show the Way",
@@ -3730,8 +3730,8 @@
 			"description": "<p>Long, sharp spikes of solid rock thrust up from the ground in the area. The area becomes difficult terrain and hazardous terrain. A creature that moves on the ground through the area takes 3 piercing damage for every square of that area it moves into.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> Increase the damage by 1.</p>"
 		},
 		"Spinning Staff": {
-			"name": "Spinning Staff",
-			"description": "<p>You spin your staff with a twirling flourish, attacking two foes and transforming the momentum into magical energy to charge for your next @Compendium[pf2e.actionspf2e.QDW9H8XLIjuW2fE4]{Spellstrike}. Make a melee Strike with your staff against one foe and then a second melee Strike with your staff against a different foe. Your multiple attack penalty applies to both of these attacks as normal.</p>\n<p data-visibility=\"owner\"><em>Note: Conflux spells refresh Spellstrike.</em></p>"
+			"name": "舞杖术 Spinning Staff",
+			"description": "<p>你回旋挥动自己的木杖，攻击两个敌人，并且将攻击的动力转变为你下次 @Compendium[pf2e.actionspf2e.QDW9H8XLIjuW2fE4]{法术打击}充能所需的魔法能量。 用你的木杖对一个敌人进行近战打击，随后对另一个敌人进行第二次近战打击。你的多次攻击减值照常运用到两次攻击。</p>\n<p data-visibility=\"owner\"><em>Note: Conflux spells refresh Spellstrike.</em></p>"
 		},
 		"Spirit Blast": {
 			"name": "Spirit Blast",
@@ -4150,8 +4150,8 @@
 			"description": "<p>You shroud the target in a powerful predatory aura and amplify its vocalizations. It gains a +1 status bonus to Intimidation checks. Once during this spell's duration, it can take the @Compendium[pf2e.actionspf2e.6SAdjml3OZw0BZnn]{Thundering Roar} action.</p>\n<p>@Compendium[pf2e.spell-effects.81TfqzTfIqkQA4Dy]{Spell Effect: Thundering Dominance}</p>\n<hr />\n<p><strong>Heightened (+2)</strong> The status bonus to Intimidation checks increases by 1 (to a maximum of a +4 status bonus for an 8th-level spell), and the damage from the roar increases by 2d8.</p>"
 		},
 		"Thunderous Strike": {
-			"name": "Thunderous Strike",
-			"description": "<p>You swing your massive weapon, creating a wave of sonic vibrations that topples creatures. Make a melee Strike with your two-handed weapon. Each creature in a 15-foot cone from you must attempt a basic Fortitude save against your spell DC or take 2 sonic damage. On a critical failure, the creature is knocked @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}. The target of your Strike must be within the cone or the effect fails.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 1.</p>\n<p data-visibility=\"owner\"><em>Note: Conflux spells refresh Spellstrike.</em></p>"
+			"name": "雷鸣打击 Thunderous Strike",
+			"description": "<p>你挥舞你的重型武器，发出一阵音波震动以掀倒所有生物。用你的双手武器进行一次近战打击。以你为起点的15尺锥形（cone）区域内每个生物必须进行一次基础强韧检定（basic Fortitude save）以对抗你的法术DC否则承受2点音波伤害。如果大失败，目标生物被 @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{击倒}。你打击的目标必须在锥形区内否则法术效果失效。</p>\n<hr />\n<p><strong>升环 (+1)</strong> 伤害增加1点。</p>\n<p data-visibility=\"owner\"><em>Note: Conflux spells refresh Spellstrike.</em></p>"
 		},
 		"Tidal Surge": {
 			"name": "Tidal Surge",

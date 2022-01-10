@@ -694,8 +694,8 @@
 			"description": "<p>Your eye has been magically enhanced to pierce darkness. You gain darkvision.</p>\n<p><strong>Enhancement</strong> Your eye can see @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisible} creatures in brief spurts. You can cast see invisibility as an arcane innate spell once per hour.</p>"
 		},
 		"Arcane Fists": {
-			"name": "Arcane Fists",
-			"description": "<p>Your physical training encompasses unarmed combat forms. The damage die for your fist changes to 1d6 instead of 1d4. You don't take the normal -2 circumstance penalty when making a lethal attack with your fist or any other unarmed attacks. Your unarmed attacks gain the arcane trait, making them magical. At 5th level, you also gain the critical specialization effects of unarmed attacks in the brawling group and weapons in the brawling group.</p>"
+			"name": "奥术之拳 Arcane Fists",
+			"description": "<p>你的物理训练强化了无武装攻击形态。你拳头（fist）的伤害骰由1d4改为1d6。当用你的拳头或其他无武装攻击进行致命攻击（lethal attack）时，你不会承受通常的 -2 环境减值。你的无武装攻击获得奥术（arcane）特征，使其魔法化。在5级时，你也能获得在搏斗武器组（brawling group）的无武装攻击和武器的重击专精效果（critical specialization effects）。</p>"
 		},
 		"Arcane Locomotion (Climb)": {
 			"name": "Arcane Locomotion (Climb)",
@@ -726,8 +726,8 @@
 			"description": "<p>You can sense the presence of the supernatural, even if you don't have any magical ability yourself. You can spend a single action (this action has the concentrate trait) to determine if any magical auras are present in the area. This has the effects of a 1st-level <em>@Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{Detect Magic}</em> spell but isn't magical. By straining, you can also discover the source of the magic and its school (with the effect of a 4th-level <em>detect magic</em> spell), but doing so prevents you from using this ability again until you've rested for 8 hours.</p>"
 		},
 		"Arcane Shroud": {
-			"name": "Arcane Shroud",
-			"description": "<p><strong>Frequency</strong> once per turn</p>\n<p><strong>Requirements</strong> Your most recent action was to Cast a Spell from a spell slot or make a Spellstrike with a spell from a spell slot.</p>\n<hr />\n<p>Your spell has a powerful aftereffect, briefly granting you a certain spell depending on the spell you cast. You use Arcane Cascade and are subject to an additional aftereffect spell depending on the school of your most recent spell. This aftereffect spell's duration lasts until the end of your next turn or its normal duration, whichever is longer. Using Arcane Shroud again ends any existing spell you gained from Arcane Shroud.</p>\n<ul>\n<li><strong>Abjuration</strong> <em>@Compendium[pf2e.spells-srd.2BV2yYPfVJ5zirZt]{Stoneskin}</em></li>\n<li><strong>Conjuration</strong> <em>@Compendium[pf2e.spells-srd.zR67Rt3UMHKC5evy]{Blink}</em></li>\n<li><strong>Divination</strong> <em>@Compendium[pf2e.spells-srd.jwK43yKsHTkJQvQ9]{See Invisibility}</em></li>\n<li><strong>Enchantment</strong> <em>@Compendium[pf2e.spells-srd.KqvqNAfGIE5a9wSv]{Heroism}</em></li>\n<li><strong>Evocation</strong> <em>@Compendium[pf2e.spells-srd.YrzBLPLd3r9m6t1p]{Fire Shield}</em></li>\n<li><strong>Illusion</strong> <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{Invisibility}</em> (ends after a hostile action, as normal)</li>\n<li><strong>Necromancy</strong> <em>@Compendium[pf2e.spells-srd.8ViwItUgwT4lOvvb]{False Life}</em></li>\n<li><strong>Transmutation</strong> <em>@Compendium[pf2e.spells-srd.aEM2cttJ2eYcLssW]{Fleet Step}</em></li>\n</ul>"
+			"name": "奥术笼罩 Arcane Shroud",
+			"description": "<p><strong>频率</strong> 每轮一次</p>\n<p><strong>需求</strong> 你最近的动作使用法术位中施放法术（Cast a Spell）或使用法术位进行一次法术打击（Spellstrike）。</p>\n<hr />\n<p>你的法术带有强力的余波，根据你释放的法术短暂的赋予你一个具体法术效果。在你在使用奥术奔涌时，根据你最近释放法术的学派而受到一个额外副作用法术的效果。副作用法术持续到你下个回合结束或其通常持续时间为止，取其长者。再次使用奥术笼罩则停止任何你现有从奥术笼罩获得的法术。</p>\n<ul>\n<li><strong>防护系</strong> <em>@Compendium[pf2e.spells-srd.2BV2yYPfVJ5zirZt]{石肤术 Stoneskin}</em></li>\n<li><strong>咒法系</strong> <em>@Compendium[pf2e.spells-srd.zR67Rt3UMHKC5evy]{闪现术 Blink}</em></li>\n<li><strong>预言系</strong> <em>@Compendium[pf2e.spells-srd.jwK43yKsHTkJQvQ9]{识破隐形 See Invisibility}</em></li>\n<li><strong>惑控系</strong> <em>@Compendium[pf2e.spells-srd.KqvqNAfGIE5a9wSv]{英雄气概 Heroism}</em></li>\n<li><strong>塑能系</strong> <em>@Compendium[pf2e.spells-srd.YrzBLPLd3r9m6t1p]{火焰护盾 Fire Shield}</em></li>\n<li><strong>幻觉系</strong> <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{隐形术}</em> （一如通常，会在敌对动作后终止）</li>\n<li><strong>死灵系</strong> <em>@Compendium[pf2e.spells-srd.8ViwItUgwT4lOvvb]{虚假生命 False Life}</em></li>\n<li><strong>变化系</strong> <em>@Compendium[pf2e.spells-srd.aEM2cttJ2eYcLssW]{快速移动 Fleet Step}</em></li>\n</ul>"
 		},
 		"Arcane Sight": {
 			"name": "Arcane Sight",
@@ -938,8 +938,8 @@
 			"description": "<p>You know how to calculatedly manipulate joints and body weight. In addition to using @Compendium[pf2e.actionspf2e.m0f2B7G9eaaTmhFL]{Devise a Strategem} to modify a Strike, you can use it to modify a @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Disarm}, @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Grapple}, @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Shove}, or @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Trip} attempt, substituting your Devise a Stratagem roll for the Athletics check. You must apply the substitution to the first eligible attack you make, whether it's a Strike or one of the Athletics actions.</p>\n<p>You can also use your Intelligence modifier instead of Strength for the Athletics check when you substitute your Devise a Stratagem roll, unless you're using a weapon for the maneuver and the weapon doesn't fit the restrictions for using Intelligence with a stratagem.</p>"
 		},
 		"Attack of Opportunity": {
-			"name": "Attack of Opportunity",
-			"description": "<p><strong>Trigger</strong> A creature within your reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.</p>\n<hr />\n<p>You swat a foe that leaves an opening. Make a melee Strike against the triggering creature. If your attack is a critical hit and the trigger was a manipulate action, you disrupt that action. This Strike doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this Strike.</p>"
+			"name": "借机攻击 Attack of Opportunity",
+			"description": "<p><strong>触发</strong> 一名在你触及范围之内的生物使用一个操纵动作或者移动动作，进行一次远程攻击或在它使用移动动作期间离开了一个方格。</p>\n<hr />\n<p>你抓住机会猛击敌人。对触发反应动作的生物进行一次近战打击（Strike），如果你的攻击造成重击且满足触发条件的是一次操纵动作，你会打断这个动作。这次打击（Strike）不会计入你的多次攻击减值中，你的多次攻击减值也不会适用于这次打击（Strike）。</p>"
 		},
 		"Attack of Opportunity (Fighter)": {
 			"name": "Attack of Opportunity (Fighter)",
@@ -1854,8 +1854,8 @@
 			"description": "<p>You increase your ability to cast simple spells. You gain two additional cantrips from the tradition matching your trait.</p>"
 		},
 		"Cantrip Expansion (Magus)": {
-			"name": "Cantrip Expansion (Magus)",
-			"description": "<p>Dedicated study allows you to prepare a wider range of simple spells.</p>\n<p>You can prepare two additional cantrips each day.</p>"
+			"name": "戏法扩展 Cantrip Expansion (魔战士)",
+			"description": "<p>专注的研究让你能准备更多的简单法术。</p>\n<p>你每天可以准备两个额外戏法（cantrip）。</p>"
 		},
 		"Cantrip Expansion (Prepared Caster)": {
 			"name": "Cantrip Expansion (Prepared Caster)",
@@ -1878,8 +1878,8 @@
 			"description": "<p>Your ability to captivate others borders on the preternatural. You are seldom at a loss in social situations, and you can create minor enchantments or illusions. Choose Deception or Diplomacy. You become trained in that skill, or become an expert if you were already trained.</p>\n<p>Choose two cantrips from the occult list; each cantrip must be from either the enchantment or illusion school. You gain access to the Cast a Spell activity and can cast these spells as occult innate spells. You're trained in occult spell attack rolls and spell DCs. If you have a hand free, you can usually replace material components with somatic components, so you don't need to use a spell component pouch. Your key spellcasting ability for these spells is Charisma.</p>\n<p><strong>Special</strong> You can't select another dedication feat until you have gained two other feats from the captivator archetype.</p>"
 		},
 		"Capture Magic": {
-			"name": "Capture Magic",
-			"description": "<p><strong>Trigger</strong> You succeed at your save against a foe's harmful spell, or a foe fails a spell attack roll against you from a harmful spell.</p>\n<hr />\n<p>When you resist a spell, you capture some of its magic for your own use. You enter your Arcane Cascade stance, using the triggering spell to determine what damage type your Arcane Cascade deals.</p>\n<p>Alternatively, if you're already in Arcane Cascade, you can instead amplify its effects temporarily. Until the end of your next turn, you gain a +2 status bonus to the damage from your Arcane Cascade.</p>"
+			"name": "汲取魔法 Capture Magic",
+			"description": "<p><strong>触发</strong> 你对抗敌人有害法术的豁免成功，或者敌人有害法术的法术攻击骰失败。</p>\n<hr />\n<p>当你抵抗了一个法术，你汲取它的部分魔力用于自身。你进入奥术奔涌架式，根据触发法术来决定你奥术奔涌造成的伤害类型。</p>\n<p>额外的，如果你已经处于奥术奔涌架式中，你可以延长它暂时的效果。直到你下个回合结束，你奥术奔涌的伤害（damage）获得 +2 状态加值（status bonus）。</p>"
 		},
 		"Caravan Leader": {
 			"name": "Caravan Leader",
@@ -1902,12 +1902,12 @@
 			"description": "<p>Your Cascade Bearer training allows you to broaden the horizons of your halcyon spells further than most Magaambyans, weaving in spiritual magic. You can select halcyon spells from the divine or occult spell lists in additional to the arcane or primal spell lists, though they are still halcyon spells (so you choose when casting if they are arcane or primal spells). You gain a halcyon cantrip and a halcyon 1st-level spell.</p>"
 		},
 		"Cascade Countermeasure": {
-			"name": "Cascade Countermeasure",
-			"description": "<p>When in Arcane Cascade, you can make yourself resistant to magic. You learn the <em>@Compendium[pf2e.spells-srd.rtisvvvhkpZPdgXc]{Cascade Countermeasure}</em> conflux spell.</p>\n<p>Increase the number of Focus Points in your focus pool by 1.</p>"
+			"name": "湍涌反制 Cascade Countermeasure",
+			"description": "<p>当你处于奥术奔涌架式时，你使自身得以抵抗魔法。你习得 <em>@Compendium[pf2e.spells-srd.rtisvvvhkpZPdgXc]{湍涌反制 Cascade Countermeasure}</em> 汇聚法术（conflux spell）。</p>\n<p>你聚能池的聚能点加1。</p>"
 		},
 		"Cascading Ray": {
-			"name": "Cascading Ray",
-			"description": "<p><strong>Requirements</strong> Your last action was a successful Spellstrike, and the spell you cast dealt energy damage (acid, cold, electricity, fire, force, negative, positive, or sonic).</p>\n<hr />\n<p>Magical energy spills out to extend beyond the creature you struck. The flowing energy forms a ray with a range of 60 feet from the creature you damaged. You can't target any of the creatures you damaged with your Spellstrike with the ray. Make a spell attack roll against the new target's AC, at the same multiple attack penalty as the Strike. On a hit, the target of the ray takes 1d4 damage per spell level of the same type of energy damage the spell deals (double damage on a critical hit). If you cast the spell in your Spellstrike from a spell slot, the damage from Cascading Ray increases to 1d8 damage per spell level.</p>\n<p>If the spell deals more than one type of energy damage, you choose only one for the ray. This ray has the attack trait, the school and tradition traits of the original spell, and the trait matching the damage type.</p>"
+			"name": "急流射线 Cascading Ray",
+			"description": "<p><strong>需求</strong> 你的上个动作是一次成功的法术打击，并且你释放的法术造成能量伤害（酸液 acid、寒冷 cold、电击 electricity、火焰 fire、力场 force、负能量 negative、正能量 positive 或音波 sonic）</p>\n<hr />\n<p>魔法能量从你攻击的生物体内喷涌而出。从被你伤害的生物中流出的能量构成60尺范围的射线。你不能将任何被你用法术打击伤害过的生物作为射线的目标。进行一次法术攻击骰对抗新目标的AC，与打击具有相同的多次攻击减值。一旦命中，射线的目标受到具有与法术相同能量伤害类型且数值等于每法术环级 1d4 点的伤害（重击造成双倍伤害）。如果你是使用法术位来释放法术打击中的法术，则急流射线的伤害提升到每法术环级 1d8。</p>\n<p>如果法术造成不止一种的能量伤害类型，你只能为射线选择其中一种。射线具有攻击（attack）特征，学派（school）和根源（tradition）特征与原始法术相同，且具有伤害类型相对应的特征。</p>"
 		},
 		"Cast Down": {
 			"name": "Cast Down",
@@ -2402,12 +2402,12 @@
 			"description": "<p>Even when caught in falsehoods, you pile lie upon lie. Reduce the circumstance bonus a target gains for your previous attempts to Create a Diversion or Lie to it from +4 to +2. If you're a master in Deception, reduce the bonus to +1, and if you're legendary, your targets don't get these bonuses at all.</p>"
 		},
 		"Conflux Focus": {
-			"name": "Conflux Focus",
-			"description": "<p>You imagine how you'll weave magic and combat into future battles, improving your focus.</p>\n<p>If you have spent at least 2 Focus Points since the last time you @Compendium[pf2e.actionspf2e.OSefkMgojBLqmRDh]{Refocused}, you recover 2 Focus Points when you Refocus instead of 1.</p>"
+			"name": "汇聚能量 Conflux Focus",
+			"description": "<p>你设想如何编织魔法和战斗以应对未来的战斗，从而提升你的聚能点。</p>\n<p>如果自上次你 @Compendium[pf2e.actionspf2e.OSefkMgojBLqmRDh]{重聚能}后你已经消耗了至少2点聚能点，你的重聚能（Refocus）恢复2点聚能点而不是1点。</p>"
 		},
 		"Conflux Wellspring": {
-			"name": "Conflux Wellspring",
-			"description": "<p>You've achieved perfect magical and physical balance, allowing magic to flow into and through you more easily.</p>\n<p>You can recover 3 Focus Points when you @Compendium[pf2e.actionspf2e.OSefkMgojBLqmRDh]{Refocus} instead of 1 if you have spent at least 3 Focus Points since the last time you Refocused.</p>"
+			"name": "汇聚源泉 Conflux Wellspring",
+			"description": "<p>你已实现完美的法术和物理的平衡，得以让魔法更加轻松的汇入你的躯体。</p>\n<p>如果自上次你 @Compendium[pf2e.actionspf2e.OSefkMgojBLqmRDh]{重聚能} 后你已经消耗了至少3点聚能点，你的重聚能（Refocus）能恢复3点聚能点而不是1点。</p>"
 		},
 		"Confounding Image": {
 			"name": "Confounding Image",
@@ -2814,8 +2814,8 @@
 			"description": "<p><strong>Requirements</strong> You have a creature @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Grabbed}.</p>\n<hr />\n<p>You pummel a held foe, hoping to stagger them. Make a melee Strike against a creature you have grabbed. The weapon damage from this Strike is bludgeoning damage.</p>\n<p>If the Strike hits, the creature must attempt a Fortitude save against your class DC; this is an incapacitation effect.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature is @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Stunned 1}.</p>\n<p><strong>Failure</strong> The creature is @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Stunned 2}.</p>\n<p><strong>Critical Failure</strong> The creature is @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Stunned 3}.</p>"
 		},
 		"Dazzling Block": {
-			"name": "Dazzling Block",
-			"description": "<p><strong>Requirements</strong> You are in Arcane Cascade stance.</p>\n<hr />\n<p>When you use @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Shield Block}, you can create a flash of brilliant, multicolored light in a @Template[type:cone|distance:15]. Each creature in the area must attempt a <span data-pf2-check=\"fortitude\" data-pf2-traits=\"evocation,light,magus,visual\" data-pf2-label=\"Dazzling Block DC\" data-pf2-show-dc=\"gm\">Fortitude</span> save, with the following effects.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature is @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Dazzled} for 1 round.</p>\n<p><strong>Failure</strong> The creature is @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Blinded} for 1 round and dazzled for 1 minute. The creature can spend an Interact action rubbing its eyes to end this blinded condition.</p>\n<p><strong>Critical Failure</strong> The creature is blinded for 1 round and dazzled for 1 hour.</p>"
+			"name": "眩目格挡 Dazzling Block",
+			"description": "<p><strong>需求</strong> 你处于奥术奔涌架式中</p>\n<hr />\n<p>当你使用 @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{盾牌格挡}时，你可以在@Template[type:cone|distance:15]范围内产生一束耀眼、多彩的闪光。区域内每个生物必须进行一次<span data-pf2-check=\"fortitude\" data-pf2-traits=\"evocation,light,magus,visual\" data-pf2-label=\"Dazzling Block DC\" data-pf2-show-dc=\"gm\">强韧</span> 豁免，同时具有下列效果。</p>\n<hr />\n<p><strong>大成功</strong> 生物不受影响</p>\n<p><strong>成功</strong> 生物进入 @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{目眩} 状态持续1轮</p>\n<p><strong>失败</strong> 生物进入 @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{目盲}状态持续1轮并且目眩持续1分钟。生物可以花费一个交互（Interact）动作擦眼睛来终止目盲状态。</p>\n<p><strong>大失败</strong> 生物目盲持续1轮并且目眩持续1小时。</p>"
 		},
 		"Dazzling Bullet": {
 			"name": "Dazzling Bullet",
@@ -3058,8 +3058,8 @@
 			"description": "<p>You've mastered useful spells that let you find hidden truths others might miss, and a preferred spell comes naturally to you. When you gain this feat, choose one of the innate spells granted by the Lore Seeker feat: comprehend language, restore senses, or see invisibility. You can cast this spell three times per day instead of once per day. When you cast any of the spells granted by Lore Seeker as innate spells, they gain additional effects. When you cast comprehend language, the spell is heightened to 4th level. When you cast restore senses,the spell is heightened to half your level, rounded up. When you cast see invisibility, for the duration of the spell you can use an action, which has the concentrate trait, to see invisible creatures normally (instead of seeing them as translucent shapes that are concealed to you) until the end of your next turn.</p>"
 		},
 		"Devastating Spellstrike": {
-			"name": "Devastating Spellstrike",
-			"description": "<p><strong>Requirements</strong> You are in Arcane Cascade stance and your Spellstrike is charged.</p>\n<hr />\n<p>Your Spellstrike sweeps are so wide and devastating, they splash onto nearby foes. Make a Spellstrike. Foes adjacent to the target take splash damage equal to 2 + the extra damage from Arcane Cascade. The damage type is the same as Arcane Cascade; if the spell already deals splash damage of the same type, combine the damage together before applying weaknesses or resistances.</p>"
+			"name": "破坏性法术打击 Devastating Spellstrike",
+			"description": "<p><strong>需求</strong> Y你处于奥术奔涌架式中并且你的法术打击已充能（charged）</p>\n<hr />\n<p>你的法术打击横扫（sweep）如此宽广且具有破坏性，其溅射到了相邻的敌人。进行一次法术打击。目标相邻（adjacent）的敌人受到数值等于2+奥术奔涌额外伤害的溅射伤害。伤害类型与奥术奔涌相同；如果法术已经造成了相同类型的溅射伤害，在应用弱点（weakness）或抵抗（resistances）前将两次伤害合并计算。</p>"
 		},
 		"Devastating Weaponry": {
 			"name": "毁灭性武装 Devastating Weaponry",
@@ -3122,8 +3122,8 @@
 			"description": "<p>You are an endless well of knowledge and can remember several vital pieces of information at once. You can cast <em>@Compendium[pf2e.spells-srd.ZYoC630tNGutgbE0]{Hypercognition}</em> as an innate occult spell once per day.</p>"
 		},
 		"Dimensional Disappearance": {
-			"name": "Dimensional Disappearance",
-			"description": "<p>You take advantage of teleportation to better hide your position. When you cast <em>@Compendium[pf2e.spells-srd.5p9Y4ACrtRM4gTpN]{Dimensional Assault}</em>, you're affected by an <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{Invisibility}</em> spell at the end of the teleport.</p>\n<p>You can choose not to make the Strike that is normally part of <em>dimensional assault</em>. If you do make the Strike, your <em>invisibility</em> ends after the Strike, as normal for <em>invisibility</em>.</p>"
+			"name": "次元无踪 Dimensional Disappearance",
+			"description": "<p>你利用传送来更好的隐藏自己所在之处。当你释放 <em>@Compendium[pf2e.spells-srd.5p9Y4ACrtRM4gTpN]{次元突袭 Dimensional Assault}</em>时，你在传送结束时获得 <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{隐形术}</em> 效果。</p>\n<p>你可以选择不去进行通常 <em>次元突袭 dimensional assault</em>的打击（Strike）部分。如果你进行一次打击，你的 <em>隐形术 invisibility</em>在打击后结束，一如通常的 <em>隐形术 invisibility</em>效果。</p>"
 		},
 		"Dire Form": {
 			"name": "Dire Form",
@@ -3218,8 +3218,8 @@
 			"description": "<p>Your sneak attack slices through the threads binding magic to a target.</p>\n<p>Make a Strike against a flat-footed creature. If your Strike deals sneak attack damage, you attempt to counteract a single spell active on the target (your choice).</p>\n<p>Your counteract level is equal to half your level (rounded up), and your counteract check modifier is equal to your class DC – 10.</p>"
 		},
 		"Dispelling Spellstrike": {
-			"name": "Dispelling Spellstrike",
-			"description": "<p><strong>Requirements</strong> Your Spellstrike is charged.</p>\n<hr />\n<p>The spell you deliver tries to force out magic affecting your enemy. Make a Spellstrike. If it hits, you also attempt to counteract a single spell (of your choice) active on the target.</p>\n<p>The counteract level is half your level rounded up, and the counteract check modifier is the standard modifier for counteracting with a spell (your Intelligence modifier plus your spellcasting proficiency bonus, plus any bonuses or penalties that specifically apply to counteract checks).</p>"
+			"name": "驱散性法术打击 Dispelling Spellstrike",
+			"description": "<p><strong>需求</strong> 你的法术打击已充能（charged）</p>\n<hr />\n<p>你传递的法术试图强行驱散你对手的魔法效应。进行一次法术打击，如果击中，你也可以尝试反制（counteract）一个在目标上生效的单一法术（由你选择的法术）。</p>\n<p>反制等级为了你等级的一半向上取整，并且反制检定调整值（check modifier）是使用一个法术用于法术反制的基础调整值（standard modifier，你的智力调整值 Intelligence 加上你的施法熟练度加值 spellcasting proficiency，再加上其他特别影响反制检定的加减值）</p>"
 		},
 		"Disrupt Ki": {
 			"name": "Disrupt Ki",
@@ -3270,8 +3270,8 @@
 			"description": "<p>The sheer power of your attacks, or the overwhelming number of them, leaves an enemy flustered. If you critically hit your hunted prey with a ranged weapon, or hit it at least twice on the same turn with a ranged weapon, it's @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} until the start of your next turn.</p>"
 		},
 		"Distracting Spellstrike": {
-			"name": "Distracting Spellstrike",
-			"description": "<p><strong>Requirements</strong> You're in Arcane Cascade stance and have a hand free.</p>\n<hr />\n<p>You weave distracting magic with one hand to enhance your Spellstrike. Make a Spellstrike and @Compendium[pf2e.actionspf2e.QNAVeNKtHA0EUw4X]{Feint} against the target of your Strike. Do this immediately before making the Strike, but after choosing your target.</p>\n<p>The Feint gains the arcane, illusion, and visual traits, and it always has the basic effects of a Feint, rather than applying any adjustments or alternate effects from other feats or abilities.</p>"
+			"name": "欺骗性法术打击 Distracting Spellstrike",
+			"description": "<p><strong>需求</strong> 你处于奥术奔涌架式中并且有一只空闲（free）手</p>\n<hr />\n<p>你用一只手编织欺骗性魔法以强化你的法术打击。进行一次法术打击和 @Compendium[pf2e.actionspf2e.QNAVeNKtHA0EUw4X]{虚招} 来对抗你的打击（Strike）目标。在进行打击前，但是在你选择目标后立刻进行虚招检定。</p>\n<p>这次虚招具有奥术（arcane）、幻术系（illusion）和视觉（visual）特征，并且它永远只具有虚招的基础效果，而不能应用来自于其他专长或能力的任何调整（adjustment）或替换能力（alternate）。</p>"
 		},
 		"Disturbing Defense": {
 			"name": "Disturbing Defense",
@@ -3990,8 +3990,8 @@
 			"description": "<p><strong>Requirements</strong> An adjacent ally is suffering persistent damage.</p>\n<hr />\n<p>You've learned a variety of methods for helping allies who are bleeding, burning, or otherwise suffering persistent damage, from brushing off acid to patting down fires. Your ally immediately attempts a flat check to remove all types of persistent damage, and your use of this feat automatically counts as especially effective aid, reducing the DC from 15 to 10 for all future flat checks to remove the persistent damage.</p>"
 		},
 		"Emergency Targe": {
-			"name": "Emergency Targe",
-			"description": "<p><strong>Trigger</strong> An enemy hits you with a melee Strike or a melee spell attack roll, or you fail a save against an enemy's spell.</p>\n<p><strong>Requirements</strong> You are wielding a shield or have the <em>@Compendium[pf2e.spells-srd.TVKNbcgTee19PXZR]{Shield}</em> spell prepared.</p>\n<hr />\n<p>You immediately Raise a Shield or cast <em>shield</em>. The circumstance bonus applies to your defenses when determining the outcome of the triggering attack or spell.</p>"
+			"name": "紧急护盾 Emergency Targe",
+			"description": "<p><strong>触发</strong> 一个敌人使用近战打击或近战法术攻击骰命中你，或者你在对抗敌人法术的豁免骰中失败</p>\n<p><strong>需求</strong> 你握持着护盾或已经准备了 <em>@Compendium[pf2e.spells-srd.TVKNbcgTee19PXZR]{护盾术 Shield}</em> 。</p>\n<hr />\n<p>你立刻举起盾牌（Raise a Shield）或者释放<em>护盾术 Shield</em> 。在决定触发法术或攻击的效果时，应用环境加值到你的防御上。</p>"
 		},
 		"Emotionless": {
 			"name": "Emotionless",
@@ -4098,8 +4098,8 @@
 			"description": "<p>你的构装体的肢体分离，部署 @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{隐藏} 武器库，或使用类似的技术释放出巨大的破坏能量横扫一切。你指挥Command你的大发明。取代它通常的动作，它行走Stride一次，之后对它30尺内的每个敌人进行1次打击Strike，且它在攻击骰上有+2环境加值。多次攻击减值在构装体完成全部攻击之前都不会上升。</p>"
 		},
 		"Enhanced Familiar": {
-			"name": "Enhanced Familiar",
-			"description": "<p><strong>(Druid)</strong> You infuse your familiar with additional primal energy, increasing its abilities.</p>\n<p><strong>(Sorcerer, Wizard, Witch)</strong> You infuse your familiar with additional magical energy.</p>\n<p><strong>(Magus)</strong> You infuse your familiar with more magical energy.</p>\n<hr />\n<p>You can select four familiar or master abilities each day, instead of two.</p>"
+			"name": "强化魔宠 Enhanced Familiar",
+			"description": "<p><strong>(德鲁伊)</strong> 你将额外的魔法能量注入到你的魔宠体内。</p>\n<p><strong>(术士，法师，女巫)</strong> 你为你的魔宠注入额外的魔力。</p>\n<p><strong>(魔战士)</strong> 你向你的魔宠灌注魔法能量。</p>\n<hr />\n<p>你每天可以选择四个魔宠或主人（master）能力（ability），而非原来的两个。</p>"
 		},
 		"Enigma's Knowledge": {
 			"name": "Enigma's Knowledge",
@@ -4290,8 +4290,8 @@
 			"description": "<p>You can throw bombs at just the right trajectory to create especially large and powerful explosions. When you throw an alchemical bomb and that bomb has the splash trait, you can add your Intelligence modifier to the bomb's usual splash damage, and it deals splash damage to every creature within 10 feet of the target.</p>"
 		},
 		"Expansive Spellstrike": {
-			"name": "Expansive Spellstrike",
-			"description": "<p>You've adapted a wider array of spells to work with your attacks. Rather than needing to use a spell that has a spell attack roll for a Spellstrike, you can use a harmful spell that can target a creature or that has an area of a burst, cone, or line (abiding by any other restrictions of Spellstrike). When you Cast a Spell that doesn't have a spell attack roll as part of a Spellstrike, it works in the following ways.</p>\n<ul>\n<li>If your Strike critically fails, the spell is lost with no effect.</li>\n<li>Creatures use their normal defenses against the spell, such as saving throws.</li>\n<li>If the spell lets you select a number of targets, it instead targets only the creature you attacked with your Strike.</li>\n<li>If the spell has an area, the target must be in that area. A burst is centered on a corner of the target's square, or the square corner closest to the center of the target, if the target is Large or larger; you choose the corner if more than one is eligible. A cone or line emits from you and must include the target; if you're not adjacent to the target (using a reach weapon or starlit span, for example), choose any square adjacent to the target as the source. The spell affects all creatures in the area as normal, but the Strike still targets only one creature.</li>\n</ul>"
+			"name": "扩展法术打击 Expansive Spellstrike",
+			"description": "<p>你已经适应更多的法术，让其与你的攻击结合。对于法术打击（Spellstrike）而言，已经不再需要使用具备法术攻击骰的法术，你可以使用以单个目标或具有爆发（burst）、锥形（cone）或线性（line）区域（area）的具有伤害的法术（依然受到法术打击的其他限制）。当你施放一个不具备法术攻击骰的法术（Cast a Spell）用作法术打击的一部分时，它按照下列方式运作。</p>\n<ul>\n<li>如果你打击（Strike）大失败，法术被消耗且没有任何效应。</li>\n<li>生物使用他们通常对抗法术的方式防御，例如豁免检定（saving throws）。</li>\n<li>如果法术让你选择多个目标，取而代之的是它只会以你打击的生物为目标。</li>\n<li>如果法术具有区域属性，则目标必须在区域内。爆发区域以目标方格（target's square）作为区域中心，或者如果目标是大型（Large）或更大生物，则以紧邻目标中心的方角（square corner）作为区域中心；如果有多个角（corner）可选，则由你选择。锥形或线性区域以你为中心发射（emits）并且必须包含目标；如果你并不与目标临近（adjacent）（例如，使用长触及 reach 武器或具有星火流矢 starlit span），选择临近目标的任意方格作为起点。法术如常影响区域内所有生物，但是打击依然只以一个生物为目标。</li>\n</ul>"
 		},
 		"Expeditious Advance": {
 			"name": "Expeditious Advance",
@@ -4518,8 +4518,8 @@
 			"description": "<p>Droskar knows you may need to disguise yourself in societies that oppose your faith. After spending 1 hour in prayer to Droskar, you can cast spells using the religious symbol of a different deity as your divine focus, and you can address verbal prayers to that deity. Droskar intercepts your prayers and answers them without the named god knowing.</p>\n<p>This ability applies to the religious symbol of only one god at a time-making a different religious symbol work in this fashion requires another hour of prayer and causes the old one to cease functioning. You can always use a religious symbol of Droskar without affecting this ability.</p>"
 		},
 		"Familiar": {
-			"name": "Familiar",
-			"description": "<p>An animal serves you and assists your spellcasting. You gain a familiar.</p>"
+			"name": "魔宠 Familiar",
+			"description": "<p>你与生物建立契约，为你服务并协助你施法。你获得一个魔宠。</p>"
 		},
 		"Familiar Conduit": {
 			"name": "Familiar Conduit",
@@ -5030,8 +5030,8 @@
 			"description": "<p>While using Survival to Subsist, if you roll any result worse than a success, you get a success.</p>\n<p>On a success, you can provide subsistence living for yourself and four additional creatures, and on a critical success, you can take care of twice as many creatures as on a success.</p>\n<p>Each time your proficiency rank in Survival increases, double the number of additional creatures you can take care of on a success (to eight if you're an expert, 16 if you're a master, or 32 if you're legendary).</p>\n<p>You can choose to care for half the number of additional creatures and provide a comfortable living instead of subsistence living.</p>\n<p>Multiple smaller creatures or creatures with significantly smaller appetites than a human are counted as a single creature for this feat, and larger creatures or those with significantly greater appetites each count as multiple creatures. The GM determines how much a non-human creature needs to eat.</p>"
 		},
 		"Force Fang": {
-			"name": "Force Fang",
-			"description": "<p>You can turn your attack into an unerring blur of force. You learn the <em>@Compendium[pf2e.spells-srd.9mPEoOPN0AMuixIv]{Force Fang}</em> conflux spell.</p>\n<p>Increase the number of Focus Points in your focus pool by 1.</p>"
+			"name": "力牙术 Force Fang",
+			"description": "<p>你将你的攻击转化为一种准确的模糊力量。你习得 <em>@Compendium[pf2e.spells-srd.9mPEoOPN0AMuixIv]{力牙术 Force Fang}</em> 汇聚法术 conflux spell.</p>\n<p>你聚能池的聚能点加1。</p>"
 		},
 		"Forced Entry": {
 			"name": "Forced Entry",
@@ -5234,8 +5234,8 @@
 			"description": "<p><strong>Requirements</strong> Your arcane bonded item is a polearm.</p>\n<hr />\n<p>During your daily preparations, you can magically fuse your arcane bonded weapon and a magical staff together into one item, with the staff making up the haft of the weapon. You prepare the staff at the same time you do this, and you can do this only with a staff you're able to prepare. This fusion lasts until the next time you make your daily preparations.</p>\n<p>While the two are fused, the weapon's haft takes on aesthetic aspects of the staff.</p>"
 		},
 		"Fused Staff": {
-			"name": "Fused Staff",
-			"description": "<p>When you prepare a staff, you can hold it up to a weapon to merge the two items. You can switch the fused item's form from the weapon to the staff or vice versa as a single action, which has the concentrate trait. When the item is in staff form, you can Cast the Spells from the staff and benefit from any other abilities the staff grants. The staff and the weapon share their fundamental runes, using whichever <em>weapon potency</em> and whichever <em>striking</em> rune is higher level. They don't share any other runes or specific abilities.</p>\n<p>You can Cast Spells from the staff as part of a Spellstrike even when the staff is in weapon form. Otherwise, you can't cast the staff's spells while it's in weapon form.</p>\n<p>The fusion lasts until your next daily preparations, though you can spend 10 minutes to separate the two items and meld the staff into a different weapon. The melding works for you alone. A different wielder can use the staff in its current form but can't transform it, get the benefit of the shared runes, or use its spells for a Spellstrike if it's in weapon form.</p>"
+			"name": "融合法杖 Fused Staff",
+			"description": "<p>当你预备法杖（prepare a staff）时，你可以握住它和一件武器，将两件物品（item）合为一体。你可以通过一个具有专注（concentrate）特征的单动作切换被融合物品的形态从武器到法杖，或者反过来。当物品处于法杖形态，你可以用法杖施法法术（Cast a Spell）并且得到任何法杖具有的其他属性增益。法杖和武器共享他们的基础符文（fundamental rune），<em>武器潜力 weapon potency</em>和<em>强击符文 striking</em>使用两者等级中较高者。他们不共享任何其他符文或者特殊能力。</p>\n<p>即使当法杖处于武器形态时，你也能用法杖施放法术来用作法术打击的一部分。其他情况下，你都不能在法杖处于武器形态时用法杖施法。</p>\n<p>融合持续到你下一次每日准备，然而你可以花费10分钟来分离两件物品并将法杖融入另一把武器中。融合物只能为你所用。其他的持有者只能以法杖当前的形态来使用，但并不能转换它，获得共享符文的增益，或者如果它在武器形态时用它进行法术打击施法。</p>"
 		},
 		"Gadget Specialist": {
 			"name": "小装置专家 Gadget Specialist",
@@ -5870,8 +5870,8 @@
 			"description": "<p>Choose one creature you can see, and loudly declare the creature's life forfeit by your judgment. That creature becomes your condemned foe until they are defeated, you use Harsh Judgment on a different creature, or the encounter ends. You gain a +2 circumstance bonus to Perception checks to Seek your condemned foe and on Intimidation checks to Demoralize them. You have a -1 circumstance penalty to Perception checks to Seek creatures other than your condemned foe and on Intimidation checks to Demoralize anyone other than your condemned foe.</p>\n<p>You typically can use Harsh Judgment only during an encounter, and if you try to use it to declare someone's life forfeit during exploration or downtime, you are likely to start an encounter.</p>\n<p>@Compendium[pf2e.feat-effects.raoz523QRsj5WjcF]{Effect: Harsh Judgement}</p>"
 		},
 		"Hasted Assault": {
-			"name": "Hasted Assault",
-			"description": "<p>You can speed yourself up to move and attack more swiftly. You learn the <em>@Compendium[pf2e.spells-srd.3MzuRDc7ccylpW2e]{Hasted Assault}</em> conflux spell.</p>\n<p>Increase the number of Focus Points in your focus pool by 1.</p>"
+			"name": "加速突袭 Hasted Assault",
+			"description": "<p>你能够加快自身以更加迅捷的移动和攻击。 你习得 <em>@Compendium[pf2e.spells-srd.3MzuRDc7ccylpW2e]{加速突袭 Hasted Assault}</em>汇聚法术（conflux spell）。</p>\n<p>你聚能池的聚能点加1。</p>"
 		},
 		"Hatchling Flight": {
 			"name": "Hatchling Flight",
@@ -6934,8 +6934,8 @@
 			"description": "<p>When you succeed at a Knowledge check, you gain additional information or context. When you critically succeed at a Knowledge check, at the GM's discretion you might gain even more additional information or context than normal.</p>"
 		},
 		"Knowledge is Power": {
-			"name": "Knowledge is Power",
-			"description": "<p>When you critically succeed at a Recall Knowledge check about a creature, you gain a +1 circumstance bonus to your next attack roll against the creature, to your AC against its next attack roll, and to your save against its next effect requiring a save.</p>\n<p>If you share this information with your allies, they gain the benefits as well. If not used, these bonuses end after 1 minute.</p>"
+			"name": "知识就是力量 Knowledge is Power",
+			"description": "<p>当你在对一个生物回忆知识（Recall Knowledge）检定获得大成功时，你下次对抗该生物的攻击骰、下次对抗它攻击骰的AC和下次对抗它需要豁免的效应的豁免检定获得 +1 环境加值。</p>\n<p>如果你和你的队友分享了信息，他们也获得其好处。如果不被使用，加值会持续1分钟。</p>"
 		},
 		"Known Weaknesses": {
 			"name": "Known Weaknesses",
@@ -7382,8 +7382,8 @@
 			"description": "<p><strong>Requirements</strong> You are wielding a melee weapon</p>\n<hr />\n<p>Extending your body to its limits, you attack an enemy that would normally be beyond your reach. Make a Strike with a melee weapon, increasing your reach by 5 feet for that Strike. If the weapon has the disarm, shove, or trip trait, you can use the corresponding action instead of a Strike.</p>"
 		},
 		"Lunging Spellstrike": {
-			"name": "Lunging Spellstrike",
-			"description": "<p><strong>Requirements</strong> You're wielding a staff.</p>\n<hr />\n<p>Your spell unwinds the structure of your staff to make it exceptionally long, or even separate it into shards held together by magical power.</p>\n<p>Make a Spellstrike with a staff, with a spell that isn't a cantrip or focus spell. Increase the staff's reach by 5 feet × the spell's level.</p>"
+			"name": "突击性法术打击 Lunging Spellstrike",
+			"description": "<p><strong>需求</strong> 你握持一柄木杖（staff）</p>\n<hr />\n<p>你的法术解放了木杖的结构使其变得出乎意料的长，甚至将其撕裂成由魔法力量结合起来的碎片。</p>\n<p>使用木杖进行一次法术打击，使用的法术不能是戏法或聚能法术。增长法杖触及范围，数值为5尺 x 每法术环级。</p>"
 		},
 		"Lunging Stance": {
 			"name": "Lunging Stance",
@@ -7418,8 +7418,8 @@
 			"description": "<p>Your people used powerful magic to travel between distant worlds, and the remnants of that magic make such transportation easier for you.</p>\n<p>When you are the target of a teleportation spell that transports more than one person, it can affect an additional person beyond the normal limit, chosen by the caster.</p>\n<p>Additionally, when you're the target of a <em>@Compendium[pf2e.spells-srd.69L70wKfGDY66Mk9]{Teleport}</em> spell, you and the other targets arrive no farther than 1 mile off target, regardless of distance traveled.</p>"
 		},
 		"Magic Sense": {
-			"name": "Magic Sense",
-			"description": "<p>You have a literal sixth sense for ambient magic in your vicinity.</p>\n<p>You can sense the presence of magic auras as though you were always using a 1st-level <em>@Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{Detect Magic}</em> spell. This detects magic in your field of vision only.</p>\n<p>When you @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Seek}, you gain the benefits of a 3rd-level <em>detect magic</em> spell on things you see (in addition to the normal benefits of Seeking). You can turn this sense off and on with a free action at the start or the end of your turn.</p>"
+			"name": "魔力视界 Magic Sense",
+			"description": "<p>你凭借字面意义上的第六感来感应你身边环境中的魔力。</p>\n<p>你可以感知到魔法灵光的存在，就像是你持续在使用1环 <em>@Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{侦测魔法 Detect Magic}</em> 一样。其效果只会侦测存在于你视野中的魔法。</p>\n<p>当你 @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{搜索}，对于你视野中的东西，你获得3环 <em>侦测魔法 detect magic</em> 的增益（除搜索动作通常收益以外）。在你回合结束或开始时，你能够用一个自由动作（free action）打开或关上此感官。</p>"
 		},
 		"Magic Sense (Magus)": {
 			"name": "Magic Sense (Magus)",
@@ -7486,8 +7486,8 @@
 			"description": "<p>You cast spells like a magus, gaining a spellbook with four common arcane cantrips of your choice. You gain the Cast a Spell activity. You can prepare two cantrips each day from your spellbook. Each time you gain a spell slot of a new level from the magus archetype, add a spell of that level or lower to your spellbook. You're trained in arcane spell attack rolls and spell DCs. Your key spellcasting ability for magus archetype spells is Intelligence, and they are arcane magus spells. You become trained in Arcana; if you were already trained in Arcana, you instead become trained in a skill of your choice. You become trained in simple weapons.</p>\n<hr />\n<p><strong>Special</strong> You can't select another dedication feat until you have gained two other feats from the magus archetype.</p>"
 		},
 		"Magus's Analysis": {
-			"name": "Magus's Analysis",
-			"description": "<p>You make an assessment informed by your knowledge of how a creature fights. Attempt a check to Recall Knowledge about a creature. You gain a +1 circumstance bonus to your check if you previously hit the creature with a Strike this turn. If your check is successful, recharge your Spellstrike. The subject of your check is temporarily immune to Magus's Analysis for 1 day.</p>"
+			"name": "魔战士分析 Magus's Analysis",
+			"description": "<p>根据你所知的生物战斗知识，你进行一次评估。尝试一次对生物的回忆知识（Recall Knowledge）检定。如果这轮你用打击（Strike）命中了生物，你的回忆知识检定获得+1环境加值。如果你检定成功，再充能（recharge）你的法术打击（Spellstrike）。你检定的目标在接下来1天暂时免疫（immune）魔战士分析。</p>"
 		},
 		"Maiden's Mending": {
 			"name": "Maiden's Mending",
@@ -7810,8 +7810,8 @@
 			"description": "<p>Altering your spells doesn't take any longer than casting them normally. You can use metamagic single actions as free actions.</p>"
 		},
 		"Meteoric Spellstrike": {
-			"name": "Meteoric Spellstrike",
-			"description": "<p><strong>Requirements</strong> You're wielding a ranged or thrown weapon, or have a ranged unarmed attack.</p>\n<hr />\n<p>A trail of energy flows from your target back to you. Make a Spellstrike with a ranged weapon or ranged unarmed attack against a target within the ranged weapon or unarmed attack's first range increment. The spell you cast for the Spellstrike can't be a cantrip or focus spell. Each creature in a line between you and the target, excluding you and the target, takes damage equal to double the spell's level. Determine the damage type as described in Arcane Cascade.</p>"
+			"name": "贯穿性法术打击 Meteoric Spellstrike",
+			"description": "<p><strong>需求</strong> 你握持一件远程（ranged）或投掷（thrown）武器，或者具有远程无武装攻击（ranged unarmed attack）</p>\n<hr />\n<p>一条能量轨迹从你的目标流出返回到你。对在远程武器或远程无武装攻击第一射程增量（range increment）内的目标，使用远程武器或远程无武装攻击进行一次法术打击。你用于法术打击所释放的法术不能是戏法或聚能法术。在你和目标连线上的每个生物，除了你和目标，受到数值等同于两倍法术环击的伤害。根据奥术奔涌描述决定伤害类型。</p>"
 		},
 		"Methodical Debilitations": {
 			"name": "Methodical Debilitations",
@@ -8442,8 +8442,8 @@
 			"description": "<p>(Druid) With a complex gesture, you call upon the primal power of your spell to overcome enemies' resistances.</p>\n<p>(Sorcerer) You alter your spells to overcome resistances.</p>\n<p>(Wizard) With a complex gesture, you alter the energy of your spell to overcome resistances.</p>\n<hr />\n<p>If the next action you use is to Cast a Spell, the spell ignores an amount of the target's resistance to acid, cold, electricity, fire, or sonic damage equal to your level. This applies to all damage the spell deals, including persistent damage and damage caused by an ongoing effect of the spell, such as the wall created by wall of fire. A creature's immunities are unaffected.</p>"
 		},
 		"Overwhelming Spellstrike": {
-			"name": "Overwhelming Spellstrike",
-			"description": "<p><strong>Requirements</strong> Your Spellstrike is charged.</p>\n<hr />\n<p>You pierce through your foe's resistance. Make a Spellstrike. The spell you cast as part of the Spellstrike ignores an amount of the target's resistance to acid, cold, electricity, fire, or sonic damage equal to your level. This applies to all damage the spell deals, including @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Damage} and damage caused by an ongoing effect of the spell. A creature's immunities are unaffected.</p>"
+			"name": "过载性法术打击 Overwhelming Spellstrike",
+			"description": "<p><strong>需求</strong> 你的法术打击已充能（charged）</p>\n<hr />\n<p>Y你刺穿敌人的抗性。进行一次法术打击。用于法术打击而释放的法术无视目标数值等同于你等级的对于酸液（acid）、寒冷（cold）、电击（electricity）、火焰（fire）或音波（sonic）的伤害抗性。这将应用于法术造成的所有伤害，包括 @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续伤害} 和被法术的持续效应所造成的伤害。生物的所有免疫（immunities）不受影响。</p>"
 		},
 		"Pack Hunter": {
 			"name": "Pack Hunter",
@@ -8966,8 +8966,8 @@
 			"description": "<p><strong>Cost</strong> the Price of the chosen item</p>\n<p><strong>Requirements</strong> You haven't used this ability since the last time you were able to purchase goods.</p>\n<hr />\n<p>You regularly create convoluted plans and contingencies, using your resources to enact them. You take 1 minute to remove your backpack, then carefully remove an item you hadn't previously declared that you purchased-you intuited that you would come to need the item and purchased it at the latest opportunity.</p>\n<p>The item must be a piece of adventuring gear (from the table of the <em>Core Rulebook</em> or other sources of adventuring gear), and can't be a weapon, armor, alchemical item, magic item, or other treasure.</p>\n<p>It must be common with a level no higher than half your level, and its Bulk must be low enough that carrying it wouldn't have made you encumbered.</p>"
 		},
 		"Preternatural Parry": {
-			"name": "Preternatural Parry",
-			"description": "<p><strong>Trigger</strong> You're targeted by a Strike or a spell attack roll, or you're about to roll a saving throw against a spell effect.</p>\n<p><strong>Requirements</strong> You have one or more hands free.</p>\n<hr />\n<p>You snap your weapon or limb into place to ward off harm at the last second. You gain a +2 circumstance bonus to AC and saving throws against the triggering effect until the start of your next turn.</p>"
+			"name": "超常格挡 Preternatural Parry",
+			"description": "<p><strong>触发</strong> 你成为打击或法术攻击的目标，或者你将要进行对抗法术效应的豁免骰</p>\n<p><strong>需求</strong> 你必须有至少一只空闲手。</p>\n<hr />\n<p>你在最后时刻挥舞武器或肢体到格挡伤害的位置。直到你的下个回合开始，你的AC和对抗触发效应的豁免骰获得+2环境加值。</p>"
 		},
 		"Prevailing Position": {
 			"name": "Prevailing Position",
@@ -9270,8 +9270,8 @@
 			"description": "<p>You use the power of your Rain-Scribe magic to draw on a stream of primal power for sustenance. You don't need to eat or drink and need only 6 hours of rest to feel well rested. You must still rest at least 8 hours and spend 1 hour of preparation to regain resources usable only a limited number of times per day, such as spell slots.</p>\n<p>You can draw on primal power to stay awake and alert while otherwise resting your body and mind, gaining the full benefits of an 8-hour rest without falling asleep. When you do, you lose the other benefits of Rain- Scribe Sustenance for 1 week while your primal energies recharge.</p>"
 		},
 		"Raise a Tome": {
-			"name": "Raise a Tome",
-			"description": "<p><strong>Requirements</strong> You're holding a book.</p>\n<hr />\n<p>You raise up the book you're holding and flip it open to defend yourself and expedite your studies. The book remains raised until the start of your next turn. While you have a book raised, you gain a +2 circumstance bonus to AC and a +1 circumstance bonus to Recall Knowledge to identify creatures using a skill related to the subject of the book (Arcana if you're using your spellbook). This bonus is in addition to any item bonus the book normally gives to the check.</p>\n<p>If you have @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Shield Block}, you can use the tome for that feat (Hardness 3, HP 12, BT 6) as though it were a shield. Whenever you use an ability that allows you to Raise a Shield, such as Emergency Targe, you can Raise a Tome instead, changing any requirements that normally require a shield to apply to your book.</p>"
+			"name": "举起书卷 Raise a Tome",
+			"description": "<p><strong>需求</strong> 你拿着一本书</p>\n<hr />\n<p>你举起所拿着的书，然后将其翻开以防御自己并加快学习的速度。这本书一直保持举起（raise）状态直到你的下一个回合开始为止。在举起书的时候，你获得 +1 的AC环境加值，并且辨识（identify）本书技能相关的生物获得 +1 回忆知识（Recall Knowle）环境加值（例如你举起你的法术书时回忆奥法 arcana）。这是相较于书本通常给予检定的任何物品加值以外的加值。</p>\n<p>如果你具有 @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{盾牌格挡}专长，你可以用书本来响应这个专长（硬度 hardness 3，HP 12，BT 6）就好像它是一面盾牌一样。无论你使用任何允许你使用举起盾牌（Raise a Shield）动作的能力时，例如 Emergency Targe，你可以用举起书卷（Raise a Tome）替代，任何通常需要一面盾牌的需求（requirement）都可以使用你的书本替代。</p>"
 		},
 		"Rakshasa Magic": {
 			"name": "Rakshasa Magic",
@@ -9382,8 +9382,8 @@
 			"description": "<p>You easily pull yourself onto ledges. When you Grab an Edge, you can pull yourself onto that surface and stand. You can use Athletics instead of a Reflex save to Grab an Edge.</p>"
 		},
 		"Rapid Recharge": {
-			"name": "Rapid Recharge",
-			"description": "<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p>You tap into an arcane trick to recover your ability to meld spells and attacks. You recharge your Spellstrike.</p>"
+			"name": "急速再充能 Rapid Recharge",
+			"description": "<p><strong>频率</strong> 每天一次</p>\n<hr />\n<p>你利用奥术诀窍来恢复你将法术与攻击交融的能力。你再充能（recharge）你的法术打击。</p>"
 		},
 		"Rapid Response": {
 			"name": "Rapid Response",
@@ -9726,8 +9726,8 @@
 			"description": "<p>Even your fears serve as fuel for your fighting spirit.</p>\n<p>When you critically succeed at a Will save against a foe's ability, you gain a +1 status bonus to saves and a number of temporary Hit Points equal to half your level for 1 minute. These benefits are doubled if you critically succeed against a fear effect.</p>\n<p>@Compendium[pf2e.feat-effects.NMmsJyeMTawpgLVR]{Effect: Resounding Bravery}</p>\n<p>@Compendium[pf2e.feat-effects.Cumdy84uIkUHG9zF]{Effect: Resounding Bravery (vs. Fear)}</p>"
 		},
 		"Resounding Cascade": {
-			"name": "Resounding Cascade",
-			"description": "<p><strong>Trigger</strong> You use Arcane Cascade.</p>\n<hr />\n<p>When you enter your Arcane Cascade, you disperse the magical reinforcement to nearby allies. You grant the extra damage of Arcane Cascade in an aura affecting all allies in a 5-foot emanation. This uses only the base damage of the stance, based on the ally's weapon specialization; it doesn't use any increase you get from bonuses, the laughing shadow hybrid study, or the like.</p>\n<p>As normal for duplicate effects, multiple Arcane Cascades affecting the same creature aren't cumulative.</p>"
+			"name": "嘹亮奔涌 Resounding Cascade",
+			"description": "<p><strong>触发</strong> 你使用奥术奔涌</p>\n<hr />\n<p>当你进入奥术奔涌架式时，你向附近盟友散布魔法强化。你从奥术奔涌中获得的额外伤害成为一种灵光，其影响5尺弥漫（emanation）。其只使用架式的基础伤害，基于盟友的武器专精（weapon specialization）；其不会获得任何你从增益、诡笑锋影融汇研究（laughing shadow hybrid study）或者类似效果中得到的加值。</p>\n<p>一如通常重复效果（duplicate effects）规则，复数个奥术奔涌对于同一生物的影响不会叠加。</p>"
 		},
 		"Resounding Finale": {
 			"name": "Resounding Finale",
@@ -9974,8 +9974,8 @@
 			"description": "<p><strong>Archetype</strong> @Compendium[pf2e.archetypes.RyjrUkqSIg52Mjl8]{Runescarred}</p>\n<p><strong>Access</strong> You are from the Saga Lands.</p>\n<hr />\n<p>Whether through blood (if you're Varisian, Shoanti, or New Thassilonian) or by exposure to rune magic, you have become runescarred, with visible, glowing runes on your body in the form of tattoos or scars. You might have possessed these marks before gaining the archetype, but you only truly became runescarred when you chose to study and tap into the runes' power. You become an expert in Arcana and you also become trained in Thassilon Lore, or an expert in Thassilon Lore if you were already trained in it.</p>\n<p>Choose one cantrip from the arcane list. One of the runes on your body corresponds to the chosen cantrip, and you can cast the chosen cantrip as an innate arcane spell.</p>\n<p><strong>Special</strong> You cannot select another dedication feat until you have gained two other feats from the runescarred archetype.</p>"
 		},
 		"Runic Impression": {
-			"name": "Runic Impression",
-			"description": "<p>You can temporarily replicate the effects of a property rune for your weapon or unarmed attacks. You learn the <em>@Compendium[pf2e.spells-srd.oOaEfsdVpgTXRhrY]{Runic Impression}</em> conflux spell.</p>\n<p>Increase the number of Focus Points in your focus pool by 1.</p>"
+			"name": "刻印符文 Runic Impression",
+			"description": "<p>你可暂时仿制（replicate）一个性能符文（proper）的效果用于你的武器或无武装攻击。你习得 <em>@Compendium[pf2e.spells-srd.oOaEfsdVpgTXRhrY]{刻印符文 Runic Impression}</em> 汇聚法术（conflux spell）。</p>\n<p>你聚能池的聚能点加1。</p>"
 		},
 		"Running Reload": {
 			"name": "Running Reload",
@@ -10558,8 +10558,8 @@
 			"description": "<p>When your shield is up, your enemies' blows can't touch you. When you have your shield raised, you can Stride to move half your Speed without triggering reactions that are triggered by your movement (such as Attacks of Opportunity). You can use Shielded Stride while Flying or Swimming instead of Striding if you have the corresponding movement type.</p>"
 		},
 		"Shielded Tome": {
-			"name": "Shielded Tome",
-			"description": "<p>During your daily preparations, you can magically fuse a shield into your favorite book, where it appears as an elaborate bookmark. While the two are fused, the book shares the Hardness, Hit Points, and Broken Threshold of the shield, and it can be used to @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Shield Block} if you have that reaction, with a requirement of \"You have Raised the Tome\" instead of the usual requirements.</p>\n<p>You can switch the fused item's form from a book to a shield with a book-shaped motif as a single action, which has the concentrate trait. When the item is in book form, you can read the book and Raise the Tome, and when it's in shield form, you can Raise the Shield, Activate it, and gain any other benefits or effects the shield normally has (such as a @Compendium[pf2e.equipment-srd.OqDAx4HJ39ojVtvg]{Spellguard Shield's} bonus to saving throws against magic).</p>\n<p>The fusion lasts until your next daily preparations.</p>"
+			"name": "书盾 Shielded Tome",
+			"description": "<p>在你每日准备时，你可以通过魔法将一面盾牌融入到你心爱的书中，它的外型看起来是一片精心设计的书签。当两者融合时，书本共享盾牌的硬度（Hardness）、生命值（HP）和破损阈值（Broken Threshold），并且它可被用于 @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{盾牌格挡} 反应如果你具备的话，使用 \"你正处于举书状态\" 替代通常的需求。</p>\n<p>你可以用一个具有专注（concentrate）特征的“书本外形风格”单动作（single action），来切换融合后的物品形态从一本书到一面盾牌。当物品处于书本形态，你可以读书和举起书卷（Raise a Tome），并且当它处于盾牌形态，你可以举起盾牌（Raise a Shield），激活它时，将获得普通盾牌具有的任何其他增益或者效应（例如 @Compendium[pf2e.equipment-srd.OqDAx4HJ39ojVtvg]{护法盾 Spellguard Shield's} 对抗法术的豁免检定加值）。</p>\n<p>这种融合形态持续到你下次每日准备。</p>"
 		},
 		"Shift Spell": {
 			"name": "Shift Spell",
@@ -11178,8 +11178,8 @@
 			"description": "<p>You have mastered a handful of spells to such a degree that you can cast them even if you haven't prepared them in advance.</p>\n<p>Select any four spells of 9th level or lower that you have access to; each spell you select must be of a different level. These spells are automatically prepared when you make your daily preparations, and they have their own spell slots. You can select a different array of spells by spending 1 week of downtime retraining your mastered spells.</p>"
 		},
 		"Spell Parry": {
-			"name": "Spell Parry",
-			"description": "<p><strong>Requirements</strong> You have one or more hands free.</p>\n<hr />\n<p>You infuse magical power into your body or armaments to parry both physical and magical assaults.</p>\n<p>You raise your guard, gaining a +1 circumstance bonus to AC and to saving throws against spells that target you until the start of your next turn, as long as you continue to meet the requirements.</p>"
+			"name": "法术格挡 Spell Parry",
+			"description": "<p><strong>需求</strong> 你有至少一只手是空闲的（free）。</p>\n<hr />\n<p>你灌注魔法力量到你的躯体或武器（armament）中以同时格挡物理或魔法的袭击。</p>\n<p>你做好防守姿势，只要你一直满足需求（requirements）直到下个回合开始，AC和对抗以你为目标的法术豁免骰获得+1环境加值。</p>"
 		},
 		"Spell Penetration": {
 			"name": "Spell Penetration",
@@ -11198,8 +11198,8 @@
 			"description": "<p>Your spell shrouds you in a billowing cloud. If your next action is to @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Cast a Spell} that targets you, you surround yourself in a 15-foot emanation of dense magical mist that lasts until the start of your next turn.</p>\n<p>All creatures within the cloud become @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed}, and all creatures outside the cloud are concealed to creatures within it.</p>"
 		},
 		"Spell Swipe": {
-			"name": "Spell Swipe",
-			"description": "<p><strong>Requirements</strong> Your Spellstrike is charged.</p>\n<hr />\n<p>You attack in an arc and enact your spell against everyone you hit. Make a Spellstrike, but roll separate Strikes to attack two creatures, each of whom must be within your melee reach and adjacent to each other. If your spell could affect two or more targets, your spell affects whichever foes you hit, not just the first target; otherwise, choose one target to affect with the spell. A Spell Swipe counts as two attacks for your multiple attack penalty, but the penalty doesn't increase until after you make both attacks.</p>\n<p>If you're using a weapon that has the sweep trait, its circumstance bonus applies against both targets. You can use this activity with only melee Strikes, even if you have the starlit span hybrid study or a similar ability.</p>\n<p>If you use Expansive Spellstrike to Spellstrike with an area spell, apply the area as described in Expansive Spellstrike, choosing one of the creatures you Strike to determine the area and whether the spell fails due to a critically failed Strike. If you use Expansive Spellstrike to Spellstrike with a targeted spell, the spell is lost completely only if both Strikes are critical failures.</p>"
+			"name": "法术横扫 Spell Swipe",
+			"description": "<p><strong>需求</strong> 你的法术打击已充能</p>\n<hr />\n<p>你进行一次弧线（arc）攻击并且对每个你命中的目标释放法术。进行一次法术打击，但是分别骰两次打击（Strike）来攻击两个生物，每一个都必须在你的近战攻击触及范围内并且彼此相邻（adjacent）。如果你的法术可以影响两个或更多目标，则你的法术影响任意数量被你命中的敌人，而不只是第一个目标；其他情况，则选择一个法术生效的目标。一次法术横扫在计算多重攻击减值时被计算为两次攻击，但是你不会应用这一减值直到你完成两次打击为止。</p>\n<p>如果你使用一个具有横扫（sweep）特征的武器，其环境加值同时应用到两个目标。你只能在近战打击（melee Strikes）时使用这一动作，即使你拥有星火流矢融汇研究（starlit span hybrid study）或类似能力也不行。</p>\n<p>如果你根据扩展法术打击（Expansive Spellstrike）使用一个区域法术进行法术打击时，按照扩展法术打击的描述应用区域，选择你打击的生物之一来决定区域以及法术是否因为打击大失败而失效。如果你根据扩展法术打击使用一个指向性法术（targeted spell）进行法术打击时，如果两次打击都大失败则法术完全失效。</p>"
 		},
 		"Spell Tinker": {
 			"name": "Spell Tinker",
@@ -11258,8 +11258,8 @@
 			"description": "<p><strong>Requirements</strong> You have a creature @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Grabbed} or @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Restrained}.</p>\n<hr />\n<p>You squeeze your opponent in a vicious bear hug, putting intense pressure on their nerves, joints, or other pain points. Attempt an Athletics check to Grapple the creature you have grabbed or restrained, with the following effects instead of the usual effects.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 2} until the end of its next turn and @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 1} for 1 minute.</p>\n<p><strong>Success</strong> The target is clumsy 1 until the end of its next turn.</p>"
 		},
 		"Spirit Sheath": {
-			"name": "Spirit Sheath",
-			"description": "<p>You've magically constructed an extradimensional sheath for your weapon that you access through your clothing, typically through a pocket, sleeve, or seam. This sheath is hard to notice, granting a +2 circumstance bonus to your Stealth checks to @Compendium[pf2e.actionspf2e.qVNVSmsgpKFGk9hV]{Conceal} an Item within it. A spirit sheath can hold only one weapon at a time, and the weapon must be 1 Bulk or less.</p>\n<p>During a Spellstrike, you can Interact to draw the weapon before you Cast the Spell. You can draw or return a weapon in a spirit sheath as an Interact action, as can anyone else holding or wearing the clothing that contains the sheath. A <em>@Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dispel Magic}</em> spell or similar effect can be used against the spirit sheath to expel the weapon. The counteract check is made against your spell DC and uses the sheath's counteract level of 1. The weapon is also expelled if you become @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Unconscious}.</p>"
+			"name": "灵魂护套 Spirit Sheath",
+			"description": "<p>你凭借魔法为自己的武器构建一件异次元（extradimensional）护套，从而让你可以从随身衣物上抽取武器，典型的通过一个口袋、袖子或者缝线处抽出。这个护套难以被注意到，你用它 @Compendium[pf2e.actionspf2e.qVNVSmsgpKFGk9hV]{隐藏物件}的潜行（Stealth）技能检定获得+2的环境加值。一个灵魂护套同时只能保管一件武器，并且武器必须为1负载（Bulk）或更轻。</p>\n<p>在法术打击（Spellstrike）时，你可以在你施法法术（Cast a Spell）前用一个交互（Interact）抽取武器。你可以用一个交互（Interact）动作从灵魂护套中抽取或放回武器，同时任何人也能持有或穿上这件具有护套的衣物。一个 <em>@Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{解除魔法}</em> 法术或相似效应可被用于对抗灵魂护套让武器脱离。这次反制（counteract）检定对抗你的法术DC并且使用护套的反制等级1。如果你 @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{失去意识}，武器也会脱离护套。</p>"
 		},
 		"Spirit Soother": {
 			"name": "Spirit Soother",
@@ -11414,16 +11414,16 @@
 			"description": "<p><strong>Trigger</strong> A creature within your reach uses a move action or leaves a square during a move action it's using</p>\n<hr />\n<p>You strike out when your foe tries to flee. Make a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a move action, you disrupt that action.</p>"
 		},
 		"Standby Spell": {
-			"name": "Standby Spell",
-			"description": "<p>You've honed one spell as your favored combat technique, and you've practiced it enough that you no longer need to prepare it to cast it. Choose a spell in your spellbook that you could use with Spellstrike and that has a level no higher than the highest-level magus spell slot you have. You can Cast this Spell without having it prepared ahead of time by expending a spell slot of a sufficient level to cast your chosen spell. You can change this spell whenever you add new spells to your spellbook, or by studying your spellbook for 1 hour.</p>"
+			"name": "备用法术 Standby Spell",
+			"description": "<p>有一种法术是你最爱用的，并且你经过足够的练习，因此不再需要通过准备就能将其施放。选择在你法术书中一个可以与法术打击一起使用的法术，并且该法术的等级不高于你拥有的最高等级的魔战士法术位。你可以通过消耗足够等级的法术位来施放所选法术而无需提前准备。 当你添加新法术到你的法术书时，或者通过研读法术书1小时，则你可以改变你最爱用的法术。</p>"
 		},
 		"Star Orb": {
 			"name": "Star Orb",
 			"description": "<p>Your magic has crystallized into a spherical stone. You gain a familiar, except it's a star orb: a Tiny stone of light Bulk. The familiar has no Speeds and must select a Speed familiar ability before it can move, animating in a way appropriate to the chosen Speed and using the statistics of a normal familiar for that day; when it‘s an immobile stone, it can't select any familiar or master abilities that require it to move. It always has the innate surge master ability, which counts against your limit for familiar and master abilities.</p>"
 		},
 		"Starlit Eyes": {
-			"name": "Starlit Eyes",
-			"description": "<p>Starlight shines in your sight, enhancing your perception and range.</p>\n<p>When you make a ranged Strike while in Arcane Cascade stance, you lower the DC of your flat check to target a creature that's @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} or @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Hidden} from you. The DC is reduced to <span data-pf2-check=\"flat\" data-pf2-dc=\"3\">3</span> instead of 5 against a concealed creature and to <span data-pf2-check=\"flat\" data-pf2-dc=\"9\">9</span> instead of 11 against a hidden one.</p>\n<p>When you cast shooting star and target a hidden creature, you don't have to attempt the flat check for targeting a hidden creature with a ranged Strike.</p>"
+			"name": "洞若观火 Starlit Eyes",
+			"description": "<p>星火照亮你的视野，强化了你的察觉范围。</p>\n<p>当你处于奥术奔涌架式并进行一次远程打击时，你降低因为目标生物对于你的 @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{隐蔽} 或者 @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{藏匿} 状态带来的纯骰检定DC。 对抗隐蔽的生物的DC从5降低到 <span data-pf2-check=\"flat\" data-pf2-dc=\"3\">3</span> ，且对抗藏匿生物的DC从11降低到<span data-pf2-check=\"flat\" data-pf2-dc=\"9\">9</span> 。</p>\n<p>当你释放流星击（shooting star）且以一个藏匿生物为目标时，你对目标藏匿生物的远程打击无需进行纯骰检定。</p>"
 		},
 		"Startling Appearance (Fleshwarp)": {
 			"name": "Startling Appearance (Fleshwarp)",
@@ -11462,8 +11462,8 @@
 			"description": "<p>Confident in your technique, you don't easily lose your concentration when you Cast a Spell. If a reaction would disrupt your spellcasting action, attempt a DC 15 flat check. If you succeed, your action isn't disrupted.</p>"
 		},
 		"Steady Spellcasting (Magus)": {
-			"name": "Steady Spellcasting (Magus)",
-			"description": "<p>Confident in your technique, you don't easily lose your concentration when you Cast a Spell.</p>\n<p>If a reaction would disrupt your spellcasting action, attempt a <span data-pf2-check=\"flat\" data-pf2-dc=\"15\">DC 15 flat check</span>. If you succeed, your action isn't disrupted.</p>"
+			"name": "镇定施法 Steady Spellcasting (魔战士)",
+			"description": "<p>自信就是你的武器，你在施放法术时不会轻易失去专注。</p>\n<p>如果有反应动作会打断你的施法动作，进行一次 <span data-pf2-check=\"flat\" data-pf2-dc=\"15\">DC 15的纯骰检定</span>。如果成功，你的动作就不会被打断。</p>"
 		},
 		"Steadying Stone": {
 			"name": "Steadying Stone",
@@ -11626,8 +11626,8 @@
 			"description": "<p>The common folk heed your demands, and though your true foes rarely bend to your commands, when they do the hesitation can cost them the battle. You can cast <em>@Compendium[pf2e.spells-srd.aIHY2DArKFweIrpf]{Command}</em> once every 10 minutes as a 1st-level occult innate spell.</p>\n<p>If you're in your vigilante identity, you can command the target only to approach you, drop prone, or stand in place. If you're in your social identity, you can command the target only to run away or release what the target is holding.</p>"
 		},
 		"Striker's Scroll": {
-			"name": "Striker's Scroll",
-			"description": "<p>You can attach a scroll to your weapon or <em>@Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Handwraps of Mighty Blows}</em> to blend its spell into an attack, carefully folding it around a part of the weapon or sealing it to the weapon's surface. Attaching a scroll requires using the @Compendium[pf2e.actionspf2e.UAaQk93a30nx0nYY]{Affix a Talisman} action. You can have only one scroll affixed to a weapon at a time, and you can't have both a talisman and scroll attached.</p>\n<p>You can Cast the Spell from the scroll as part of a Spellstrike, assuming the spell is one you could normally use with Spellstrike. You can't Cast the Spell in any other way while it's affixed, though you can use Affix a Talisman again to remove the scroll and use it as a normal—if a bit crumpled-scroll.</p>"
+			"name": "打击卷轴 Striker's Scroll",
+			"description": "<p>你可以将卷轴附着在你的武器或 <em>@Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{重拳缠手带}</em> 从而融合法术到攻击中，细心的折叠在武器一部分上或者复盖在武器表面。附着卷轴需要附着一个 @Compendium[pf2e.actionspf2e.UAaQk93a30nx0nYY]{护符} 动作。你同时只能将一个卷轴附着在武器上，并且你不能同时将附着护符（talisman）和卷轴。</p>\n<p>假定这个法术是你可以在法术打击时正常使用的话，你可以从卷轴中释放法术（Cast a Spell）来用作法术打击的一部分。你不能通过其他方式用附着的卷轴释放法术，除非你再次使用附着一个护符动作移除这个卷轴然后正常使用卷轴——它可能有点褶皱。</p>"
 		},
 		"Striking Retribution": {
 			"name": "Striking Retribution",
@@ -11670,8 +11670,8 @@
 			"description": "<p>You've researched many faiths enough to recognize notions about them that are unlikely to be true.</p>\n<p>If you roll a critical failure at a Religion check to Decipher Writing of a religious nature or to Recall Knowledge about the tenets of faiths, you get a failure instead.</p>\n<p>When attempting to Recall Knowledge about the tenets of your own faith, if you roll a failure, you get a success instead, and if you roll a success, you get a critical success instead.</p>"
 		},
 		"Student of the Staff": {
-			"name": "Student of the Staff",
-			"description": "<p>You've studied the staff extensively to learn the hidden capabilities of your chosen weapon. When you critically succeed at an attack roll using a staff, you apply the critical specialization effect of the club group. While you're in Arcane Cascade stance, your staff gains the deadly d6 trait, with the damage from the deadly die being the same damage type as the extra damage from Arcane Cascade.</p>\n<p>In addition, you can place property runes into a magic staff you prepare, even though a magic staff can't typically hold property runes. You must first inscribe the property runes into your spellbook, using the same process as transferring a rune. The rune takes the form of a specialized diagram in your spellbook, occupying one page. You can't inscribe runes that can't be placed on a non-magical staff, nor can you inscribe the <em>@Compendium[pf2e.equipment-srd.roeYtwlIe65BPMJ1]{Shifting}</em> rune. When you prepare a staff, you can impart any number of property runes from your spellbook into the staff, up to the limit imposed by the staff's <em>weapon potency</em> rune.</p>"
+			"name": "木杖学徒 Student of the Staff",
+			"description": "<p>你已经广泛的研究过木杖从而习得了你所选武器的隐藏能力。当你使用木杖进行攻击骰时获得大成功，你应用棍棒（club）武器组的重击专精效果（critical specialization effects）。当你处于奥术奔涌架式时，你的棍棒获得致命d6（deadly d6）特征，致命骰的伤害具有和奥术奔涌额外伤害相同的伤害类型。</p>\n<p>额外的，你可以铸刻性能符文（property runes）到一柄你预备的法杖（a magic staff you prepare）上，即使一柄魔法木杖通常不能承载性能符文。你必须首先铸刻性能符文到你的法术书上，然后使用相同的步骤转移符文（transfering a rune）到你的法术书上（核心规则书p.580）。符文在你的法术书上会是一种特殊形式的图案，占据一整页空间。你不能铸刻无法放置于非魔法木杖的符文，也不能铸刻 <em>@Compendium[pf2e.equipment-srd.roeYtwlIe65BPMJ1]{变形}</em> 符文。 在你预备法杖（prepare a staff）时，你可以从法术书上传递任意数量的性能符文到木杖上，上限为铸刻在木杖上的<em>武器潜力 weapon potency</em> 符文。</p>"
 		},
 		"Studious Adept": {
 			"name": "Studious Adept",
@@ -11834,8 +11834,8 @@
 			"description": "<p><strong>Requirements</strong> You have a creature @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Grabbed} or @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Restrained}.</p>\n<hr />\n<p>Flexing your entire body, you heave your opponent over your head and slam them into the ground. Make an unarmed melee Strike against the creature you have grabbed or restrained; on a success, the target lands @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}, and on a critical success, the target lands prone and takes an additional [[/r {2d6}[bludgeoning]]]{2d6 bludgeoning damage}. Regardless of whether the Strike is successful, you immediately release your hold on the target.</p>"
 		},
 		"Supreme Spellstrike": {
-			"name": "Supreme Spellstrike",
-			"description": "<p>You've made it almost effortless to combine spells and attacks. You're permanently @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Quickened}. You can use your extra action only to Strike or to recharge Spellstrike.</p>"
+			"name": "超然法术打击 Supreme Spellstrike",
+			"description": "<p>法术与物理的结合对于你已经不费吹灰之力。你永久处于 @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{迅捷}状态。你只可以使用你的额外动作进行打击或再充能法术打击。</p>"
 		},
 		"Sure Feet": {
 			"name": "Sure Feet",
@@ -11894,8 +11894,8 @@
 			"description": "<p><strong>Frequency</strong> once per hour</p>\n<p><strong>Trigger</strong> A foe takes a hostile action against you in combat.</p>\n<hr />\n<p>Sometimes something intrudes upon your case unexpectedly, such as an ambush sent to bring your investigation to a close. You've learned how to compartmentalize your main lead and pursue a new one for your current predicament.</p>\n<p>You @Compendium[pf2e.actionspf2e.xTK2zsWFyxSJvYbX]{Pursue a Lead} against the triggering foe, setting aside but not ending one of your currently active leads, if you have two leads. At the end of the combat encounter, you stop Pursuing the Lead against the triggering foe and return to the original lead, if you have one.</p>"
 		},
 		"Sustaining Steel": {
-			"name": "Sustaining Steel",
-			"description": "<p><strong>Trigger</strong> You Cast a Spell using a spell slot.</p>\n<p><strong>Requirements</strong> You're in Arcane Cascade stance.</p>\n<hr />\n<p>You pull magic into your weapon, using its substance to transform the magic into restorative energy. You regain Hit Points equal to double the spell's level and roll to end any @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Negative Damage} you have.</p>\n<p>If the spell was of the necromancy school, any persistent negative damage you have ends automatically, and you can change the damage type from Arcane Cascade to positive if you wish. (Positive damage typically damages only undead or other creatures with @Compendium[pf2e.bestiary-ability-glossary-srd.TTCw5NusiSSkJU1x]{Negative Healing}.)</p>"
+			"name": "金本恒久 Sustaining Steel",
+			"description": "<p><strong>触发</strong> 你使用法术位释放法术</p>\n<p><strong>需求</strong> 你处于奥术奔涌架式</p>\n<hr />\n<p>你将魔法力量拉入到你的武器，利用其物质性来转换魔法为恢复性能量。你恢复数值等同于两倍法术环级的HP并且掷骰来终止任何你得到的 @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续负能量伤害}。</p>\n<p>如果法术是源自死灵学派，任何你得到的持续负能量伤害自动终止，并且如果你愿意的话，你可以将奥术奔涌的伤害类型改为正能量（positive）。（正能量伤害通常只能伤害不死生物 undead 或其他具有 @Compendium[pf2e.bestiary-ability-glossary-srd.TTCw5NusiSSkJU1x]{负能量治愈 Negative Healing}。）</p>"
 		},
 		"Svetocher": {
 			"name": "Svetocher",
@@ -12958,8 +12958,8 @@
 			"description": "<p>While most bards are known for certain signature performances and spells, you're always tweaking your available repertoire. When you make your daily preparations, you can change one of your signature spells to a different spell of that level from your repertoire.</p>"
 		},
 		"Versatile Spellstrike": {
-			"name": "Versatile Spellstrike",
-			"description": "<p>You can channel the entire realm of possibilities of your spellbook into an attack.</p>\n<p>Once during your daily preparations, you can use a spell slot to hold that infinite potential, rather than using it to prepare a spell. When you make a Spellstrike, you can expend this special spell slot to immediately prepare and cast a spell from your spellbook at 2 levels lower than the slot's level. (As normal for preparing spells, you can use a spell of an even-lower level, heightening it accordingly.)</p>\n<p>You don't have any spell prepared in that slot until you cast from that slot.</p>"
+			"name": "万用性法术打击 Versatile Spellstrike",
+			"description": "<p>你得以将法术书中全然的可能性所在灌注到一次攻击中。</p>\n<p>在你每日准备时一次，你可以使用一个法术位承载无限的可能性，而不是准备一个法术。当你进行法术打击，你可以消耗这个法术位，从而立刻从你的法术书中准备并释放一个低于此法术位2环的法术。（就一如通常准备施法，你甚至可以使用一个更低环级的法术，然后升环施法）</p>\n<p>直到你从此法术位施法前，你不需要在此法术位中准备任何法术。</p>"
 		},
 		"Very Sneaky": {
 			"name": "Very Sneaky",
@@ -13390,8 +13390,8 @@
 			"description": "<p><strong>Requirements</strong> You have a creature @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Grabbed} or @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Restrained}.</p>\n<hr />\n<p>You propel your grabbed or restrained foe a great distance. You can throw the creature any distance up to 10 feet, plus 5 feet × your Strength modifier. If you successfully throw the creature, it takes bludgeoning damage equal to your Strength modifier plus 1d6 per 10 feet you threw it.</p>\n<p>Attempt an <span data-pf2-action=\"whirlingThrow\">Athletics</span> check against the foe's Fortitude DC. You take a -2 circumstance penalty to your check if the target is one size larger than you and a -4 circumstance penalty if it's larger than that. You gain a +2 circumstance bonus to your check if the target is one size smaller than you and a +4 circumstance bonus if it's smaller than that.</p>\n<hr />\n<p><strong>Critical Success</strong> You throw the creature the desired distance and it lands @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}.</p>\n<p><strong>Success</strong> You throw the creature the desired distance.</p>\n<p><strong>Failure</strong> You don't throw the creature.</p>\n<p><strong>Critical Failure</strong> You don't throw the creature, and it's no longer grabbed or restrained by you.</p>"
 		},
 		"Whirlwind Spell": {
-			"name": "Whirlwind Spell",
-			"description": "<p><strong>Requirements</strong> Your Spellstrike is charged.</p>\n<hr />\n<p>You combine the might of a multitarget spell with a whirling flurry of attacks. You use Spellstrike, making a melee Strike against each enemy within your reach instead of against one enemy. If your spell can affect multiple targets, your spell affects all foes you hit, not just the first target, up to the spell's normal maximum targets. If you Strike more foes than the spell could target, choose which foes are affected by the spell. Each attack counts toward your multiple attack penalty but doesn't increase your penalty until you've made all your attacks.</p>\n<p>If you use @Compendium[pf2e.feats-srd.84n92oBsRVCxjifM]{Expansive Spellstrike} to Spellstrike with an area spell, apply the area as described in Expansive Spellstrike, choosing one of the creatures you Strike to determine the area and whether the spell fails due to a critically failed Strike. If you use Expansive Spellstrike to Spellstrike with a targeted spell, each creature you critically fail to Strike is unaffected by the spell, but the spell isn't lost completely from a single critical failure.</p>\n<p>You can use this activity with only melee Strikes, even if you have the starlit span hybrid study or a similar ability.</p>"
+			"name": "奥术狂风 Whirlwind Spell",
+			"description": "<p><strong>需求</strong> 你的法术打击已充能（charged）</p>\n<hr />\n<p>你将一个多目标法术（multitarget spell）的能量与狂风骤雨般的攻击结合。你进行法术打击，对你触及范围内所有敌人而不是单一敌人都进行一次近战打击。如果你的法术可以影响多个目标，则你的法术影响到所有你命中的敌人，而不是第一个目标，最多为法术通常的最多目标数。如果你打击的敌人多于法术可以选择的数量，选择哪些敌人受到法术影响。每次打击都会计算你的多重攻击减值，但是直到你完成所有打击为止不会增加你的减值。</p>\n<p>如果你根据 @Compendium[pf2e.feats-srd.84n92oBsRVCxjifM]{拓展法术打击} 使用一个区域法术进行法术打击时，按照扩展法术打击的描述应用区域，选择你打击的生物之一来决定区域以及法术是否因为打击大失败而失效。如果你根据扩展法术打击使用一个指向性法术（targeted spell）进行法术打击时，如果每次打击都大失败则法术完全失效，但是法术不会因为单次大失败而完全失效。</p>\n<p>你只能在近战打击（melee Strikes）时使用这一动作，即使你拥有星火流矢融汇研究（starlit span hybrid study）或类似能力也不行。</p>"
 		},
 		"Whirlwind Stance": {
 			"name": "Whirlwind Stance",
