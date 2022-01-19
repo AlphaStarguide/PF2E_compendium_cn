@@ -90,8 +90,8 @@
 			"description": "<p>对于多种魔法传统的研究揭示了如何改变一个法术来适应你的施法风格。选择一个你施法列表外的戏法。如果你拥有一个法术序列或是法术书，替换其中一个你已知或是在法术书上的戏法为你选择的戏法。如果你不通过法术书准备（比如你是牧师或是德鲁伊）法术，那么你的戏法之一必须是你选择的法术，你依旧要休息后才能准备它。如果你在之后交换或是重训这个戏法，你可以在一个相同或是不同替换列表中选择它的替代。</p>"
 		},
 		"Adaptive Adept": {
-			"name": "Adaptive Adept",
-			"description": "<p>You've continued adapting your magic to blend your class's tradition with your adapted tradition. Choose a cantrip or 1st-level spell from the same magical tradition as your cantrip from Adapted Cantrip. You gain that spell, adding it to your spell repertoire, spellbook, or prepared spells just like the cantrip from Adapted Spell. You can cast this spell as a spell of your class's magical tradition. If you choose a 1st-level spell, you don't gain access to the heightened versions of that spell, meaning you can't prepare them if you prepare spells and you can't learn them or select the spell as a signature spell if you have a spell repertoire.</p>"
+			"name": "适应调整 Adaptive Adept",
+			"description": "<p>你就调整你的魔法来混合你的职业传统和自己的习惯。从你在调整戏法选择的魔法传统中选择1个戏法或是1环法术。你获得该法术，如同调整戏法中的戏法一样将其添加到自己的法术序列，法术书或是准备法术。如果你选择1个一环法术，那你就无法获得该法术的升阶版本，这意味着如果你是准备施法，那你就无法准备他们；如果你拥有一个法术序列，那你无法学习他们或是选择这个法术作为招牌法术。</p>"
 		},
 		"Adaptive Mask Familiar": {
 			"name": "Adaptive Mask Familiar",
@@ -1334,8 +1334,8 @@
 			"description": "<p>You have an impressive innate ability to tame and command ferocious beasts. You become trained in the Nature skill and gain the @Compendium[pf2e.feats-srd.nowEaHgIyij7im8F]{Train Animal} skill feat.</p>"
 		},
 		"Beastbrood": {
-			"name": "Beastbrood",
-			"description": "<p>One of your ancestors was a rakshasa, the corrupt and aristocratic reincarnated souls that call Golarion home. You have some dim echo of your ancestor's memories—enough to play the role of noble as needed, no matter your origins. You're trained in Society. If you're already trained in Society (from your background or class, for example), you instead become trained in a skill of your choice. You also gain the @Compendium[pf2e.feats-srd.JtjnFsOToBLnSRO9]{Courtly Graces} skill feat.</p>\n<hr />\n<p><em>Note: If you are already trained in the skill provided by this feat, you need to manually select an alternative skill.</em></p>"
+			"name": "罗刹血脉 Beastbrood",
+			"description": "<p>你的祖先是个罗刹─以格拉利昂为家，高贵但腐败的转世亡魂。你依稀记得祖先的回忆，这使得你不论出身都能冒充贵族。你在社群技能上受训，若你会在社群技能上自动受训(例如背景或职业的效果)，改为让由你自选的另一个技能受训。你获得 @Compendium[pf2e.feats-srd.JtjnFsOToBLnSRO9]{贵族风范 Courtly Graces} 技能专长。</p>\n<hr />\n<p><em>若你会在社群技能上自动受训(例如背景或职业的效果)，改为让由你自选的另一个技能受训。</em></p>"
 		},
 		"Beastmaster Bond": {
 			"name": "Beastmaster Bond",
@@ -2230,8 +2230,8 @@
 			"description": "<p><strong>Trigger</strong> Your Strike critically hits and deals damage to a creature you've identified with @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Recall Knowledge}</p>\n<hr />\n<p>Your battle tactics are aided by your assessment of your foes' capabilities, allowing you to instantly adjust your movements to maximum advantage.</p>\n<p>You @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Step} or Stride; this movement doesn't trigger reactions from the triggering creature.</p>"
 		},
 		"Clever Improviser": {
-			"name": "Clever Improviser",
-			"description": "<p>You've learned how to handle situations when you're out of your depth. You gain the Untrained Improvisation general feat. In addition, you can attempt skill actions that normally require you to be trained, even if you are untrained.</p>"
+			"name": "机智应变 Clever Improviser",
+			"description": "<p>你学会了如何处理那些超出你能力范围的情况。你获得了即兴发挥 Untrained Improvisation通用专长。此外，即使没有受训，你也可以尝试那些通常需要你受训才能进行的技能动作。</p>"
 		},
 		"Clever Shadow": {
 			"name": "Clever Shadow",
@@ -2510,8 +2510,8 @@
 			"description": "<p>人类的短暂寿命让你高瞻远虑，这在你年轻的时候就教会了你通过求同存异来获取成功。你在援助时获得+4环境加值。</p>"
 		},
 		"Cooperative Soul": {
-			"name": "Cooperative Soul",
-			"description": "<p>You have developed a soul-deep bond with your comrades and maintain an even greater degree of cooperation with them. If you are at least an expert in the skill you are Aiding, you get a success on any outcome rolled to Aid other than a critical success.</p>"
+			"name": "协作之魂 Cooperative Soul",
+			"description": "<p>你与你的伙伴建立了内心深处的联系，并且与他们保持了更大程度的合作。如果你在你所援助的技能拥有专家以上熟练度，那么你除了大成功外的检定结果都视为成功。</p>"
 		},
 		"Coordinated Charge": {
 			"name": "Coordinated Charge",
@@ -2758,8 +2758,8 @@
 			"description": "<p>You've been approached with suspicion and distrust throughout your life and return these sentiments back to the strangers you encounter. As a result, you are difficult to deceive. You gain a +1 circumstance bonus to your Perception DC against Lies and Impersonations.</p>"
 		},
 		"Daemon Magic": {
-			"name": "Daemon Magic",
-			"description": "<p>The magic of Abaddon runs through your blood, and you can wield that power. You can cast <em>@Compendium[pf2e.spells-srd.dLdRqT6UxTKlsPgp]{Death Knell}</em> and <em>@Compendium[pf2e.spells-srd.8ViwItUgwT4lOvvb]{False Life}</em> each once per day as 2nd-level divine innate spells.</p>"
+			"name": "邪魔魔法 Daemon Magic",
+			"description": "<p>启用流淌于血管之中的末日荒原魔力。每日各1次，你可以2环级神术内在法术的形式，施放<em>@Compendium[pf2e.spells-srd.dLdRqT6UxTKlsPgp]{死亡丧钟 Death Knell}</em> 和 <em>@Compendium[pf2e.spells-srd.8ViwItUgwT4lOvvb]{虚假生命 False Life}</em>。</p>"
 		},
 		"Dance Underfoot": {
 			"name": "Dance Underfoot",
@@ -2998,8 +2998,8 @@
 			"description": "<p>You know how to set explosives to cause the maximum possible damage to buildings and other structures. You become trained in Engineering Lore or become an expert in it if you were already trained. You gain the @Compendium[pf2e.actionspf2e.vvYsE7OiSSCXhPdr]{Set Explosives} action.</p>\n<p><strong>Special</strong> You can't select another dedication feat until you've gained two other feats from the demolitionist archetype.</p>"
 		},
 		"Demon Magic": {
-			"name": "Demon Magic",
-			"description": "<p>You can channel the power of the Abyss through your heritage, producing terrible tangible effects. You can cast <em>@Compendium[pf2e.spells-srd.Mkbq9xlAUxHUHyR2]{Paranoia}</em> and <em>@Compendium[pf2e.spells-srd.1xbFBQDRs0hT5xZ9]{Shatter}</em> each once per day as 2nd-level divine innate spells.</p>"
+			"name": "恶魔魔法 Demon Magic",
+			"description": "<p>你透过血缘引导深渊之力，创造出恐怖的实际效果。每日各1次，你可以2环级神术内在法术的形式，施放 <em>@Compendium[pf2e.spells-srd.Mkbq9xlAUxHUHyR2]{狂乱偏执 Paranoia}</em> 和 <em>@Compendium[pf2e.spells-srd.1xbFBQDRs0hT5xZ9]{粉碎音波Shatter}</em> 。</p>"
 		},
 		"Demon's Hair": {
 			"name": "Demon's Hair",
@@ -3070,20 +3070,20 @@
 			"description": "<p>You can call in devils to assist your efforts. You gain <em>@Compendium[pf2e.spells-srd.29ytKctjg7qSW2ff]{Summon Fiend}</em> as an innate spell of a tradition of your choice, which you can cast once per day. When you cast this spell, you can summon only creatures that have the devil trait. At 16th level and every 2 levels thereafter, the spell is heightened by 1 level (to a maximum of 8th level when you reach 20th level).</p>"
 		},
 		"Devil In Plain Sight": {
-			"name": "Devil In Plain Sight",
-			"description": "<p>You've learned to draw your fiendish nature into a small ball of corruption and hide it in your soul. Your obviously fiendish traits disappear, including any tails, horns, and cloven hooves, though hints remain (claws turn into jagged nails or eyes retain an odd hue, for instance). You're still recognizably yourself, but now appear as a typical, non-tiefling member of your base ancestry. Using Devil in Plain Sight counts as creating a disguise when using Deception to Impersonate, and your transformation automatically defeats Perception DCs to determine if you're a normal member of your base ancestry; only creatures actively rolling Perception to examine you might notice the disguise. While in your shapeshifted form, you can't use unarmed attacks, innate spells, or other abilities that require physical features you receive from a tiefling ancestry feat—for instance, you can't use the @Compendium[pf2e.feats-srd.aVRuchEAJIvnd70k]{Skillful Tail} feat. You can remain in your alternate form indefinitely, and can shift back to your tiefling form by using this action again.</p>"
+			"name": "化身常人 Devil In Plain Sight",
+			"description": "<p>你学会将体内的魔族妖气凝结成一颗秽血宝珠并藏匿于灵魂深处的手法。你明显的魔族特征会消失，例如尾巴、角、蹄等，但仍留下了些许异状(爪子会缩成锯齿状的指甲，眼色可能还是带着诡异光泽等)。你的外观会变成非魔裔版本的自己，就像该族裔的普通成员一般，但他人依然可以认出你的身分。使用此能力视为使用欺骗技能进行乔装而易了容，这个变身使你能自动击败辨识你是否为正常的族裔成员的察觉DC，只有主动向你骰察觉的生物才有可能识破这个易容。在此能力生效期间，你无法使用依存于魔裔生理特征的非武装攻击、内在法术或其他能力，例如 @Compendium[pf2e.feats-srd.aVRuchEAJIvnd70k]{灵活尾巴 Skillful Tail} 族裔专长。你可永久保持普通人形态，再次使用此能力能变回魔裔原形。</p>"
 		},
 		"Devil Magic": {
-			"name": "Devil Magic",
-			"description": "<p>Drawing on the infernal power of your sinister forbears, you mislead your foes with magical deception. You can cast <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{Invisibility}</em> and <em>@Compendium[pf2e.spells-srd.c2bTWBNO1BYX4Zfg]{Misdirection}</em> each once per day as 2nd-level divine innate spells.</p>"
+			"name": "魔鬼魔法 Devil Magic",
+			"description": "<p>你汲取奸诈祖先的魔界威能，以魔法诈术欺骗敌人。每日各1次，你可以2环级神术内在法术的形式，施放 <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{隐形术 Invisibility}</em> 和 <em>@Compendium[pf2e.spells-srd.c2bTWBNO1BYX4Zfg]{误导术 Misdirection}</em> 。</p>"
 		},
 		"Devil's Advocate": {
 			"name": "Devil's Advocate",
 			"description": "<p><strong>Access</strong> Chelaxian nationality</p>\n<hr />\n<p>You know more about the habits of devils than is entirely safe. You gain a +2 circumstance bonus to Perception checks against devils and saving throws against their abilities. In addition, whenever you meet a devil in a social situation, you can immediately attempt a Diplomacy check to Make an Impression on that creature rather than needing to converse for 1 minute. You take a -5 penalty to the check. If you fail, you can engage in 1 minute of conversation and attempt a new check at the end of that time rather than accepting the failure or critical failure result.</p>\n<p><strong>Special</strong> If you have the @Compendium[pf2e.feats-srd.cc8O47KFsODReoBe]{Glad-Hand} skill feat, you don't take the penalty to your immediate Diplomacy check if the target is a devil.</p>"
 		},
 		"Devilish Wiles": {
-			"name": "Devilish Wiles",
-			"description": "<p>Traditionally, fiends are exceptionally good at persuading people to do things, even when their targets know it's a bad idea. You're also rather good at it, compelling the weak and weak-willed to your bidding. You can cast <em>@Compendium[pf2e.spells-srd.vLA0q0WOK2YPuJs6]{Charm}</em> once per day as a 1st-level divine innate spell.</p>"
+			"name": "魔族魅力 Devilish Wiles",
+			"description": "<p>传统上魔族十分擅长哄骗他人行事，即便苦主明知道自己是在找死依然免不了上当。你也很擅长晃点人，心虚体弱的人常被你逼去做事。每日1次，你可以1环级神术内在法术的形式施放 <em>@Compendium[pf2e.spells-srd.vLA0q0WOK2YPuJs6]{魅惑术 Charm}</em> 。</p>"
 		},
 		"Devoted Focus": {
 			"name": "Devoted Focus",
@@ -3894,8 +3894,8 @@
 			"description": "<p>Each day when you make your daily preparations, you can attune yourself to one element of your choice: air, earth, fire, or water.</p>\n<p>You gain resistance equal to half your level (minimum 1 resistance) against damage dealt by effects with your attuned elemental trait.</p>\n<p>This attunement lasts until you next make your daily preparations.</p>\n<hr />\n<p><strong>Special</strong> You can't select another dedication feat until you've gained two other feats from the elementalist archetype.</p>"
 		},
 		"Elf Atavism": {
-			"name": "Elf Atavism",
-			"description": "<p>Your elven blood runs particularly strong, granting you features far more elven than those of a typical half-elf. You may also have been raised among elves, steeped in your elven ancestors' heritage. You gain the benefits of the elf heritage of your elven parent or ancestors. You typically can't select a heritage that depends on or improves an elven feature you don't have. For example, you couldn't gain the cavern elf's darkvision ability if you didn't have low-light vision. In these cases, at the GM's discretion, you might gain a different benefit.</p>\n<p><strong>Special</strong> You can take this feat only at 1st level, and you can't retrain out of this feat or into this feat.</p>"
+			"name": "精灵返祖 Elf Atavism",
+			"description": "<p>你的精灵血脉特别浓厚，使你的种族特征远超典型的半精灵。你可能在精灵中成长，沉浸在你精灵先组的遗产之中。你获得了你精灵父母或是先组的精灵遗传的好处。你不能选择一个依赖或是增强你所没有的精灵特征的遗传。比如，如果你没有昏暗视觉，你就无法获得洞穴精灵的黑暗视觉。在这种情况下，根据GM的判断，你可能获得不同的效果。</p>\n<p><strong>特殊</strong> 你必须1级选择此专长，你无法重训来或是重训掉此专长。</p>"
 		},
 		"Elf Step": {
 			"name": "Elf Step",
@@ -4714,40 +4714,40 @@
 			"description": "<p>While castles are generally obliging enough to stay in one place, out in the field positioning is of paramount importance-a gun in the wrong place is worse than useless. You can Interact with an adjacent mounted siege weapon to increase its Speed by 10 feet for one round.</p>"
 		},
 		"Fiend's Door": {
-			"name": "Fiend's Door",
-			"description": "<p>Like many fiends, you have the supernatural ability to teleport yourself to safety. Once per day, you can cast <em>@Compendium[pf2e.spells-srd.VlNcjmYyu95vOUe8]{Dimension Door}</em> as a 5th-level divine innate spell.</p>"
+			"name": "魔族便门 Fiend's Door",
+			"description": "<p>一如众多魔族，你持有透过传送逃离危险的超自然能力。每日1次，你可以5环级神术内在法术的形式施放 <em>@Compendium[pf2e.spells-srd.VlNcjmYyu95vOUe8]{次元门 Dimension Door}</em>。</p>"
 		},
 		"Fiendish Eyes": {
-			"name": "Fiendish Eyes",
-			"description": "<p>You can see in the darkness as easily as a fiend. You gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision}.</p>\n<p><strong>Special</strong> You can select this feat only at 1st level, and you can't retrain into or out of this feat.</p>"
+			"name": "魔族之眼 Fiendish Eyes",
+			"description": "<p>你可如同魔界生物一般在黑暗中清晰视物。你获得 @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{黑暗视觉}.</p>\n<p><strong>特殊</strong> 此专长只得在1级时选取，且不得透过重训来取得或替换之。</p>"
 		},
 		"Fiendish Form": {
 			"name": "Fiendish Form",
 			"description": "<p>Your features reshape into those of a type of fiend who serves your deity; for example, as a demon you might have putrid scales, twisted horns, and red eyes.</p>\n<p>You gain a fly Speed equal to your Speed. You gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision} if you don't already have it, and you gain the fiend trait and the trait appropriate to the type of servitor you've become (such as daemon, demon, or devil).</p>"
 		},
 		"Fiendish Lore": {
-			"name": "Fiendish Lore",
-			"description": "<p>You were raised by a tiefling or a fiendish relative, or you've devoted yourself to researching the secrets of the fiendish realms.</p>\n<p>You gain the trained proficiency rank in Intimidation and Religion. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.</p>\n<p>You also become trained in a Lore skill related to the fiendish plane from which you trace your lineage (usually Abaddon Lore, Abyss Lore, or Hell Lore).</p>\n<hr />\n<p><em>Note: If you are already trained in one of the skills provided by this feat, you need to manually select an alternative skill. You also need to manually enter the granted Lore skill.</em></p>"
+			"name": "魔界学识 Fiendish Lore",
+			"description": "<p>你或是由你的魔裔或魔界生物亲族抚养长大，或是将自己的生活奉献给了探询魔界位面秘密的研究。</p>\n<p>你在威吓技能以及宗教技能上受训，若你会在其中一个技能上自动受训(例如背景或职业的效果)，改为让由你自选的另一个技能受训。</p>\n<p>你还会在血脉来源的魔界位面的学识上受训(一般为末日荒原学识、深渊学识或地域学识)。</p>\n<hr />\n<p><em>若你已经在本专长提供的技能上受训了，你需要手动指定另一个技能来受训。你也需要手动选择学识的类别。</em></p>"
 		},
 		"Fiendish Mount": {
 			"name": "Fiendish Mount",
 			"description": "<p>Your steed ally manifests a suite of powerful and sinister gifts granted to it by your deity.</p>\n<p>It gains @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision}, its maximum Hit Points increase by 40, and it gains weakness 10 to good damage.</p>\n<p>Additionally, it grows wings appropriate for a servitor of your deity (such as bat wings for a devil), granting it a @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Fly} Speed equal to its Speed.</p>\n<p>It gains the fiend trait and the trait appropriate to the type of servitor it has become (such as daemon, demon, or devil).</p>"
 		},
 		"Fiendish Resistance": {
-			"name": "Fiendish Resistance",
-			"description": "<p>Your connection to your fiendish forebears has granted you one of their resistances as well. Choose one of the following energy damage types: acid, cold, electricity, fire, or sonic. You gain resistance 5 to that damage type.</p>\n<p>Though you can choose any of these, the damage type typically matches a fiend associated with your bloodline. For instance, a hellspawn might choose resistance to fire, or a pitborn with a vrock ancestor might choose resistance to electricity.</p>"
+			"name": "魔族抗性 Fiendish Resistance",
+			"description": "<p>你与魔族先祖之间的连结，赐与了你他们持有的某种抗性。从下列能量伤害类型中选取1项：强酸、寒冷、电击、火焰、音波。你获得该伤害类型的抗力5。</p>\n<p>虽然你可自由选择上述选项中的任何能量伤害类型，但该伤害类型一般会与你的血脉来源的魔界生物相对。举例来说，地狱后裔应选取火焰的抗力，而系出鹫魔的深渊后裔应选取电击。</p>"
 		},
 		"Fiendish Strikes": {
-			"name": "Fiendish Strikes",
-			"description": "<p>Your festering connection to the forces of evil infuses your weapons with debilitating malevolence, tearing down creatures of good with every attack.</p>\n<p>All your weapon and unarmed @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Strikes} deal [[/r {1}[evil]]]{1 additional evil damage} and have the evil and magical traits.</p>"
+			"name": "魔族打击 Fiendish Strikes",
+			"description": "<p>你与邪恶不断加强的联系使你向善良目标发起的一切攻击都附带了邪恶能量。</p>\n<p>所有你以武器或非武装攻击发动的 @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{打击} 额外造成 [[/r {1}[evil]]]{1点邪恶伤害} ，并带有[邪恶]、[魔法]特征。</p>"
 		},
 		"Fiendish Wings": {
-			"name": "Fiendish Wings",
-			"description": "<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p>You can strain to call forth bat-like or otherwise fiendish wings from your back, similar in appearance to those of your fiendish ancestors.</p>\n<p>Once manifested, these wings remain for 10 minutes. You gain a fly Speed equal to your land Speed while you've manifested your wings.</p>"
+			"name": "魔族飞翼 Fiendish Wings",
+			"description": "<p><strong>频率</strong> 每日1次</p>\n<hr />\n<p>透过努力，你可在背上召出魔法飞翼，外观形似蝙蝠翅膀或其他魔族的飞翼。</p>\n<p>此飞翼存续10分钟，你在飞翼显现期间获得等同于陆地速度的飞行速度。</p>"
 		},
 		"Fiendish Word": {
-			"name": "Fiendish Word",
-			"description": "<p>You can call forth a blasphemous word from the fiendish realms to punish your foes.</p>\n<p>Once per day, you can cast <em>@Compendium[pf2e.spells-srd.sX2o0HH4RjJDAZ8C]{Divine Decree}</em> as a 7th-level divine innate spell. You must choose evil for the spell, and you can Cast the Spell regardless of whether you have a deity or what their alignment is.</p>"
+			"name": "魔界真言 Fiendish Word",
+			"description": "<p>你引用魔界的秽邪真言来制裁你的敌人。</p>\n<p>每日1次，你可以7环级神术内在法术的形式施放 <em>@Compendium[pf2e.spells-srd.sX2o0HH4RjJDAZ8C]{神圣裁决 Divine Decree}</em> ，但你必须为该法术的效果选择邪恶阵营，且不论你是否信仰神祇，或所信仰神祇的阵营为何，都可施放此法术。</p>"
 		},
 		"Fiendsbane Oath (Liberator)": {
 			"name": "Fiendsbane Oath (Liberator)",
@@ -4774,8 +4774,8 @@
 			"description": "<p>You gain 3 additional Hit Points for each fighter archetype class feat you have. As you continue selecting fighter archetype class feats, you continue to gain additional Hit Points in this way.</p>"
 		},
 		"Final Form": {
-			"name": "Final Form",
-			"description": "<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p>You embrace your monstrous blood and make it your own, screaming out to the heavens and hells alike in rage, pain, and defiance. Reality buckles and twists under your sudden power—each tiefling has a unique transformation, but it might include sulfurous flames, choruses of shrieks, or twisting, serpentine lightning. Every creature within 10 feet of you is @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Deafened} and @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Dazzled} for 1 round unless they succeed at a Fortitude save using your class DC or spell DC, whichever is higher. Your final form has the effects of <em>@Compendium[pf2e.spells-srd.hiVL8qsnTJtpouw0]{Divine Vessel}</em> for a deity that shares an alignment with your fiendish lineage. Your final form resembles a creature from your fiendish lineage, and you remain in that form for 1 minute. While in your final form, you can cast <em>@Compendium[pf2e.spells-srd.sRfSBHWHdbIa0aGc]{Chilling Darkness}</em>, <em>@Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Fireball}</em>, and <em>@Compendium[pf2e.spells-srd.9AAkVUCwF6WVNNY2]{Lightning Bolt}</em> as 6th-level divine innate spells, once each per use of this feat.</p>\n<p>When you emerge from your final form, you become @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drained 3}. In addition, if you have this feat, you gain weakness 10 to good even when not in your final form, and you take good damage even if you aren't evil.</p>\n<hr />\n<p><strong>Special</strong> At the GM's discretion, the specific elements of this feat can be adjusted to better fit the tiefling's lineage—for example, a GM might decide that a particular beastbrood tiefling could cast a 6th-level <em>@Compendium[pf2e.spells-srd.tlcrVRqW1MSKJ5IC]{Phantasmal Killer}</em><em> instead of fireball.</em></p>"
+			"name": "最终形态 Final Form",
+			"description": "<p><strong>频率</strong> 一天一次</p>\n<hr />\n<p>你接纳体内的魔族血脉并将之挪为己用，向天魔诸界喊出愤怒痛苦及不屈的嘶吼，你爆发的威能甚至足以撼动并扭曲现实。每个魔裔都有自己独特的变身特效，这可能含有硫磺火焰、凄厉鬼哭、扭动蛇光等。每个离你10'内的生物需通过强韧豁免(DC为你的职业DC或法术DC两者取高)，否则陷入 @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{耳聋} 与 @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{目眩} 1轮。你的最终形态如同 <em>@Compendium[pf2e.spells-srd.hiVL8qsnTJtpouw0]{神圣化身 Divine Vessel}</em> 法术一般运作，但法术效果中的神祇改为与你的魔裔血脉阵营相同的神。你的最终形态的外貌会与魔裔血脉的祖先相似，变身能维持1分钟。处于最终形态时，每次变身各1次，你可以6环级神术内在法术的形式，施放 <em>@Compendium[pf2e.spells-srd.sRfSBHWHdbIa0aGc]{冻寒黑暗 Chilling Darkness}</em>, <em>@Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{火球术 Fireball}</em>,和 <em>@Compendium[pf2e.spells-srd.9AAkVUCwF6WVNNY2]{闪电束 Lightning Bolt}</em>。</p>\n<p>当你脱离最终形态时，你陷入 @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{流失3}。此外，当你取得此专长时，你得到弱点 善良 10，不论你是否变身为最终形态；且不论你的阵营是否为邪恶，你都会承受善良伤害。</p>\n<hr />\n<p><strong>特殊</strong> 依照GM判断，可调整此专长的具体效果来配合各个魔裔血脉。举例来说，GM可能认为比起火球术，野兽之子的最终形态应该要能施放 <em>@Compendium[pf2e.spells-srd.tlcrVRqW1MSKJ5IC]{魅影杀手 Phantasmal Killer}</em><em> 才更好。</em></p>"
 		},
 		"Final Shot": {
 			"name": "Final Shot",
@@ -4786,8 +4786,8 @@
 			"description": "<p>You've learned how to build snares that trigger based on visual stimuli. When you construct a snare using gears, you can cause it to trigger based on the visual features of a creature. For example, you could lay a snare that can only be triggered by a Large or Larger creatures, or one that only activates when a creature wearing red clothing would trigger it. You can use this ability to specify your snares to trigger on creatures that typically do not trigger snares, such as creatures smaller than Small, though the creature must still otherwise satisfy the snare's trigger as normal.</p>"
 		},
 		"Finest Trick": {
-			"name": "Finest Trick",
-			"description": "<p>Many fiends—rakshasa rajas and demonic succubi most famously—can take on the forms of others. With practice, you can do the same. When you use Devil in Plain Sight, you can alter your appearance to match a generic member of your base ancestry, rather than one that's obviously you without your tieflings features. In addition, you can imitate a specific person's appearance (of any ancestry of the same size and kind as your base ancestry, typically a humanoid for most ancestries) if you consume a bit of their blood, a lock of their hair, or appropriate equivalents as part of the action. You still must know what the creature looks like, and you must be aware that the consumed portion comes from their body.</p>"
+			"name": "化身他人 Finest Trick",
+			"description": "<p>许多魔族─最著名的有罗刹王和魅魔─可以自在变身为他人样貌，几经训练后你也办的到了。当你使用化身常人能力时，可以不变成明显是非魔裔版本的自己的形象，而变成该族裔的寻常模样的他人。若你在使用能力时一并吃下一些目标的血、毛发或其他等价的适当身体部位，你还可指定变身成特定的人物(此时可以变成任何与你的族裔体型及类别相同的族裔的生物，对大多数族裔来说会是类人生物)，此时你必须清楚目标的相貌，也必须确知吃下去的部位的确来自目标的身体上。</p>"
 		},
 		"Finishing Follow-through": {
 			"name": "Finishing Follow-through",
@@ -5094,20 +5094,20 @@
 			"description": "<p><strong>Frequency</strong> once per hour</p>\n<hr />\n<p>You can transform into a harmless bat. You gain the effects of a 4th-level <em>@Compendium[pf2e.spells-srd.gfPjmG6Fe6D3MFjl]{Pest Form}</em>, except you always transform into a bat.</p>"
 		},
 		"Form Of The Fiend (Claw)": {
-			"name": "Form Of The Fiend (Claw)",
-			"description": "<p>Part of your body has an obvious, fiendish appearance. Your hands end in razor-sharp claws, you have hooves instead of feet, sharp teeth fill your mouth, or a whipping tail extends from your spine.</p>\n<p>You gain your choice of one of the following unarmed attacks. The attack is in the brawling group and has the listed damage die and traits.</p>\n<ul>\n<li><strong>Claw</strong> [[/r {1d4}[slashing]]]{1d4 slashing} (agile, finesse, unarmed, versatile piercing)</li>\n<li><strong>Hoof</strong> [[/r {1d6}[bludgeoning]]]{1d6 bludgeoning} (finesse, unarmed)</li>\n<li><strong>Jaws</strong> [[/r {1d6}[piercing]]]{1d6 piercing} (finesse, unarmed)</li>\n<li><strong>Tail</strong> [[/r {1d4}[bludgeoning]]]{1d4 bludgeoning} (agile, finesse, unarmed)</li>\n</ul>\n<p><strong>Special</strong> You can select this feat only at 1st level, and you can't retrain into or out of this feat, nor can you change the type of attack you gained.</p>"
+			"name": "魔族体貌（爪抓） Form Of The Fiend (Claw)",
+			"description": "<p>你身上长着明显是魔族的特征。或是手上长着利爪，或是满口尖牙，又或是强韧尾巴。</p>\n<p>从下列非武装攻击中选择1项，这个攻击属于搏击武器组，并持有注明的特性：</p>\n<ul>\n<li><strong>爪抓</strong> [[/r {1d4}[slashing]]]{1d4 挥砍} (agile, finesse, unarmed, versatile piercing)</li>\n<li><strong>蹄踢</strong> [[/r {1d6}[bludgeoning]]]{1d6 钝击} (finesse, unarmed)</li>\n<li><strong>啃咬</strong> [[/r {1d6}[piercing]]]{1d6 穿刺} (finesse, unarmed)</li>\n<li><strong>尾击</strong> [[/r {1d4}[bludgeoning]]]{1d4 钝击} (agile, finesse, unarmed)</li>\n</ul>\n<p><strong>特殊</strong>此专长只得在1级时选取，且不得透过重训来取得或替换之，也不得改变借此取得的非武装攻击。</p>"
 		},
 		"Form Of The Fiend (Hoof)": {
-			"name": "Form Of The Fiend (Hoof)",
-			"description": "<p>Part of your body has an obvious, fiendish appearance. Your hands end in razor-sharp claws, you have hooves instead of feet, sharp teeth fill your mouth, or a whipping tail extends from your spine.</p>\n<p>You gain your choice of one of the following unarmed attacks. The attack is in the brawling group and has the listed damage die and traits.</p>\n<ul>\n<li><strong>Claw</strong> [[/r {1d4}[slashing]]]{1d4 slashing} (agile, finesse, unarmed, versatile piercing)</li>\n<li><strong>Hoof</strong> [[/r {1d6}[bludgeoning]]]{1d6 bludgeoning} (finesse, unarmed)</li>\n<li><strong>Jaws</strong> [[/r {1d6}[piercing]]]{1d6 piercing} (finesse, unarmed)</li>\n<li><strong>Tail</strong> [[/r {1d4}[bludgeoning]]]{1d4 bludgeoning} (agile, finesse, unarmed)</li>\n</ul>\n<p><strong>Special</strong> You can select this feat only at 1st level, and you can't retrain into or out of this feat, nor can you change the type of attack you gained.</p>"
+			"name": "魔族体貌（蹄踢） Form Of The Fiend (Hoof)",
+			"description": "<p>你身上长着明显是魔族的特征。或是手上长着利爪，或是满口尖牙，又或是强韧尾巴。</p>\n<p>从下列非武装攻击中选择1项，这个攻击属于搏击武器组，并持有注明的特性：</p>\n<ul>\n<li><strong>爪抓</strong> [[/r {1d4}[slashing]]]{1d4 挥砍} (agile, finesse, unarmed, versatile piercing)</li>\n<li><strong>蹄踢</strong> [[/r {1d6}[bludgeoning]]]{1d6 钝击} (finesse, unarmed)</li>\n<li><strong>啃咬</strong> [[/r {1d6}[piercing]]]{1d6 穿刺} (finesse, unarmed)</li>\n<li><strong>尾击</strong> [[/r {1d4}[bludgeoning]]]{1d4 钝击} (agile, finesse, unarmed)</li>\n</ul>\n<p><strong>特殊</strong>此专长只得在1级时选取，且不得透过重训来取得或替换之，也不得改变借此取得的非武装攻击。</p>"
 		},
 		"Form Of The Fiend (Jaws)": {
-			"name": "Form Of The Fiend (Jaws)",
-			"description": "<p>Part of your body has an obvious, fiendish appearance. Your hands end in razor-sharp claws, you have hooves instead of feet, sharp teeth fill your mouth, or a whipping tail extends from your spine.</p>\n<p>You gain your choice of one of the following unarmed attacks. The attack is in the brawling group and has the listed damage die and traits.</p>\n<ul>\n<li><strong>Claw</strong> [[/r {1d4}[slashing]]]{1d4 slashing} (agile, finesse, unarmed, versatile piercing)</li>\n<li><strong>Hoof</strong> [[/r {1d6}[bludgeoning]]]{1d6 bludgeoning} (finesse, unarmed)</li>\n<li><strong>Jaws</strong> [[/r {1d6}[piercing]]]{1d6 piercing} (finesse, unarmed)</li>\n<li><strong>Tail</strong> [[/r {1d4}[bludgeoning]]]{1d4 bludgeoning} (agile, finesse, unarmed)</li>\n</ul>\n<p><strong>Special</strong> You can select this feat only at 1st level, and you can't retrain into or out of this feat, nor can you change the type of attack you gained.</p>"
+			"name": "魔族体貌（啃咬） Form Of The Fiend (Jaws)",
+			"description": "<p>你身上长着明显是魔族的特征。或是手上长着利爪，或是满口尖牙，又或是强韧尾巴。</p>\n<p>从下列非武装攻击中选择1项，这个攻击属于搏击武器组，并持有注明的特性：</p>\n<ul>\n<li><strong>爪抓</strong> [[/r {1d4}[slashing]]]{1d4 挥砍} (agile, finesse, unarmed, versatile piercing)</li>\n<li><strong>蹄踢</strong> [[/r {1d6}[bludgeoning]]]{1d6 钝击} (finesse, unarmed)</li>\n<li><strong>啃咬</strong> [[/r {1d6}[piercing]]]{1d6 穿刺} (finesse, unarmed)</li>\n<li><strong>尾击</strong> [[/r {1d4}[bludgeoning]]]{1d4 钝击} (agile, finesse, unarmed)</li>\n</ul>\n<p><strong>特殊</strong>此专长只得在1级时选取，且不得透过重训来取得或替换之，也不得改变借此取得的非武装攻击。</p>"
 		},
 		"Form Of The Fiend (Tail)": {
-			"name": "Form Of The Fiend (Tail)",
-			"description": "<p>Part of your body has an obvious, fiendish appearance. Your hands end in razor-sharp claws, you have hooves instead of feet, sharp teeth fill your mouth, or a whipping tail extends from your spine.</p>\n<p>You gain your choice of one of the following unarmed attacks. The attack is in the brawling group and has the listed damage die and traits.</p>\n<ul>\n<li><strong>Claw</strong> [[/r {1d4}[slashing]]]{1d4 slashing} (agile, finesse, unarmed, versatile piercing)</li>\n<li><strong>Hoof</strong> [[/r {1d6}[bludgeoning]]]{1d6 bludgeoning} (finesse, unarmed)</li>\n<li><strong>Jaws</strong> [[/r {1d6}[piercing]]]{1d6 piercing} (finesse, unarmed)</li>\n<li><strong>Tail</strong> [[/r {1d4}[bludgeoning]]]{1d4 bludgeoning} (agile, finesse, unarmed)</li>\n</ul>\n<p><strong>Special</strong> You can select this feat only at 1st level, and you can't retrain into or out of this feat, nor can you change the type of attack you gained.</p>"
+			"name": "魔族体貌（尾击） Form Of The Fiend (Tail)",
+			"description": "<p>你身上长着明显是魔族的特征。或是手上长着利爪，或是满口尖牙，又或是强韧尾巴。</p>\n<p>从下列非武装攻击中选择1项，这个攻击属于搏击武器组，并持有注明的特性：</p>\n<ul>\n<li><strong>爪抓</strong> [[/r {1d4}[slashing]]]{1d4 挥砍} (agile, finesse, unarmed, versatile piercing)</li>\n<li><strong>蹄踢</strong> [[/r {1d6}[bludgeoning]]]{1d6 钝击} (finesse, unarmed)</li>\n<li><strong>啃咬</strong> [[/r {1d6}[piercing]]]{1d6 穿刺} (finesse, unarmed)</li>\n<li><strong>尾击</strong> [[/r {1d4}[bludgeoning]]]{1d4 钝击} (agile, finesse, unarmed)</li>\n</ul>\n<p><strong>特殊</strong>此专长只得在1级时选取，且不得透过重训来取得或替换之，也不得改变借此取得的非武装攻击。</p>"
 		},
 		"Form Retention": {
 			"name": "Form Retention",
@@ -5662,8 +5662,8 @@
 			"description": "<p>Others' attempts to scare you often grant you insights about your would-be bullies that you can then exploit. If you roll a success on a saving throw against a fear effect, you get a critical success instead, and the source of the fear effect is @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} to you until the end of your next turn.</p>"
 		},
 		"Grimspawn": {
-			"name": "Grimspawn",
-			"description": "<p>Your lineage traces back to a daemon, one of the manifestations of horrific forms of death that devour souls within their foul home of Abaddon. As a result, you cling tenaciously to the last shreds of your own life force.</p>\n<p>You gain the @Compendium[pf2e.feats-srd.I0BhPWqYf1bbzEYg]{Diehard} feat.</p>"
+			"name": "邪魔血脉 Grimspawn",
+			"description": "<p>你是凄惨死法化身，在末日荒原吞噬灵魂的邪魔的后裔，因此死到临头时你总是紧紧抓着自己最后一丝生命力不放。</p>\n<p>你获得 @Compendium[pf2e.feats-srd.I0BhPWqYf1bbzEYg]{死硬通用 Diehard} 专长。</p>"
 		},
 		"Gripping Limbs": {
 			"name": "Gripping Limbs",
@@ -5978,8 +5978,8 @@
 			"description": "<p>You have bolstered your force of will with the power of the Measure and the Chain. Upon initiation, you receive a signifer mask, often devoid of eyeholes or other decorative features. The mask doesn't obscure your vision, though it makes it impossible for others to see your eyes. While wearing your signifer's mask, you gain +1 circumstance bonus to Deception checks to Lie, Intimidation checks, and Deception DCs against Sense Motive. You gain expert proficiency in Intimidation (or in another skill in which you're trained of your choice, if you were already an expert in Intimidation) as well as in your choice of Arcana, Nature, Occultism, or Religion.</p>\n<div><strong>Special</strong> You cannot select another dedication feat until you have gained two other feats from the @Compendium[pf2e.archetypes.GwItivMACzBmW82g]{Hellknight Signifer} or @Compendium[pf2e.archetypes.LYYDozZfXok19VYW]{Hellknight Armiger} archetypes.</div>"
 		},
 		"Hellspawn": {
-			"name": "Hellspawn",
-			"description": "<p>Your lineage descends from devils, the conniving schemers of Hell's malevolent hierarchy. You're as skilled at noticing lies and twisted wordings as you are at constructing them.</p>\n<p>You are trained in Deception and Legal Lore. If you were already trained in Deception (from your background or class, for example), you instead become trained in a skill of your choice. You also gain the @Compendium[pf2e.feats-srd.Dvz54d6aPhjsmUux]{Lie To Me} skill feat.</p>"
+			"name": "魔鬼血脉 Hellspawn",
+			"description": "<p>你是在地狱的黑心制度内阴谋策划的魔鬼的后裔，因此你擅长看破与施展谎言及话术。</p>\n<p>你在欺骗技能及法律学识上受训，若你会在欺骗技能上自动受训(例如背景或职业的效果)，改为让由你自选的另一个技能受训。你获得 @Compendium[pf2e.feats-srd.Dvz54d6aPhjsmUux]{将计就计 Lie To Me} 技能专长。</p>"
 		},
 		"Helpful Halfling": {
 			"name": "Helpful Halfling",
@@ -6406,12 +6406,12 @@
 			"description": "<p>Your familiar is imbued with even more magic than other familiars. You can select a base of six familiar or master abilities each day, instead of four.</p>\n<p><strong>Special</strong> Add the bonus familiar abilities you gain for being a witch to this amount.</p>"
 		},
 		"Incredible Ferocity": {
-			"name": "Incredible Ferocity",
-			"description": "<p>Given time to collect yourself after a near-death scrape, you can rebuild your ferocity and withstand additional finishing blows. You can use Orc Ferocity with a frequency of once per hour, rather than once per day.</p>"
+			"name": "无敌凶猛 Incredible Ferocity",
+			"description": "<p>在多次徘徊于生死之间后，你可以重新凶猛起来并承受额外的重击。你可以每小时使用1次兽人凶猛，而非每天1次。</p>"
 		},
 		"Incredible Improvisation": {
-			"name": "Incredible Improvisation",
-			"description": "<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> You attempt a check using a skill you're untrained in</p>\n<hr />\n<p>A stroke of brilliance gives you a major advantage with a skill despite your inexperience. Gain a +4 circumstance bonus to the triggering skill check.</p>"
+			"name": "奇妙应变 Incredible Improvisation",
+			"description": "<p><strong>频率</strong> 一天一次</p>\n<p><strong>触发</strong> 当你使用一个未受训的技能进行检定</p>\n<hr />\n<p>尽管你缺乏经验，但你的灵机一动可以让你在一个技能上获得很多优势。你在触发技能检定上获得+4环境加值。</p>"
 		},
 		"Incredible Initiative": {
 			"name": "Incredible Initiative",
@@ -6534,8 +6534,8 @@
 			"description": "<p>Your performances inspire even greater deeds in your allies. You learn the <em>@Compendium[pf2e.spells-srd.kF0rs9mCPvJGfAZE]{Inspire Heroics}</em> metamagic focus spell. Increase the number of Focus Points in your focus pool by 1.</p>"
 		},
 		"Inspire Imitation": {
-			"name": "Inspire Imitation",
-			"description": "<p>Your own actions inspire your allies to great achievements. Whenever you critically succeed at a skill check, you automatically qualify to use the Aid reaction when attempting to help an ally using the same skill, even without spending an action to prepare to do so.</p>"
+			"name": "鼓舞效仿 Inspire Imitation",
+			"description": "<p>你通过自己的行动来鼓舞盟友完成伟业。每当你在技能检定上大成功时，即使你没有花费一个动作来准备，当你帮助盟友进行一个相同的技能检定时，你也可以进行协助反应。</p>"
 		},
 		"Inspired Stratagem": {
 			"name": "Inspired Stratagem",
@@ -7174,8 +7174,8 @@
 			"description": "<p>You have a limited ability to sense life force, like your psychopomp forebears.</p>\n<p>You gain lifesense as an imprecise sense with a range of 10 feet. This allows you to sense the life force within living creatures and its counterforce that animates the undead, though you can't distinguish between the two.</p>"
 		},
 		"Light From Darkness": {
-			"name": "Light From Darkness",
-			"description": "<p>You've battled the fiendish power within your nature and come out on top; whatever you decide to do with your life, for good or evil, will be your choice and your choice alone. This struggle has granted you powerful resistance against the divine.</p>\n<p>You gain a +1 circumstance bonus to all saving throws against divine effects.</p>"
+			"name": "弃暗投明 Light From Darkness",
+			"description": "<p>你长年与体内的魔族影响对抗，并终于胜出；今后的人生中不论是要行善作恶，都是你不受外力影响的选择。</p>\n<p>你在抵抗神术效果的所有豁免上，获得+1环境加值。</p>"
 		},
 		"Light Paws": {
 			"name": "Light Paws",
@@ -7507,7 +7507,7 @@
 		},
 		"Malicious Bane": {
 			"name": "Malicious Bane",
-			"description": "<p>Whether your heart is pure or corrupt, you can call forth a malediction upon your foes. You can cast <em>@Compendium[pf2e.spells-srd.7ZinJNzxq0XF0oMx]{Bane}</em> once per day as a 1st-level divine innate spell.</p>"
+			"description": "<p>不论你内心的具体善恶，你持有向敌人降下诅咒的能力。每日1次，你可以1环级神术内在法术的形式施放 <em>@Compendium[pf2e.spells-srd.7ZinJNzxq0XF0oMx]{绝望术 Bane}</em> 。</p>"
 		},
 		"Maneuvering Spell": {
 			"name": "Maneuvering Spell",
@@ -7950,8 +7950,8 @@
 			"description": "<p>You can transform into a powerful magical creature. Add the purple worm and sea serpent forms listed in monstrosity form to your wild shape list. If you have Soaring Shape, also add the phoenix form to your wild shape list.</p>"
 		},
 		"Monstrous Peacemaker": {
-			"name": "Monstrous Peacemaker",
-			"description": "<p>Your dual human and orc nature has given you a unique perspective, allowing you to bridge the gap between humans and the many intelligent creatures in the world that humans consider monsters. You gain a +1 circumstance bonus to Diplomacy checks against non-humanoid intelligent creatures and against humanoids that are marginalized in human society (at the GM's discretion, but typically at least including giants, goblins, kobolds, and orcs). You also gain this bonus on Perception checks to Sense the Motives of such creatures.</p>"
+			"name": "恐怖调停者 Monstrous Peacemaker",
+			"description": "<p>你兽人与人类的双重人性给予了你独特的视角，让你可以弥合人类与世界上很多被视为怪物的智慧生物之间的鸿沟。你针对非类人智慧生物和在人类社会边缘化的类人生物（由GM决定，但通常至少包括巨人，地精，狗头人和兽人）的交涉检定上获得+1环境加值。你还可以在对这些生物察言观色的察觉检定上获得这些加值。</p>"
 		},
 		"Moon May": {
 			"name": "Moon May",
@@ -8014,8 +8014,8 @@
 			"description": "<p>You lock yourself in a stable position so you can fire swiftly and accurately.</p>\n<p>While you are in this stance, your penalty for @Compendium[pf2e.feats-srd.PwcmmJOLY8C9JHau]{Double Shot} is reduced to -1, or -2 if you add the extra action to make three Strikes. If you move from your position, this stance ends.</p>\n<p>@Compendium[pf2e.feat-effects.l4QUaedYofnfXig0]{Stance: Multishot Stance}</p>"
 		},
 		"Multitalented": {
-			"name": "Multitalented",
-			"description": "<p>You've learned to split your focus between multiple classes with ease. You gain a 2nd-level multiclass dedication feat, even if you normally couldn't take another dedication feat until you take more feats from your current archetype. If you're a half-elf, you don't need to meet the feat's ability score prerequisites.</p>"
+			"name": "多才多艺 Multitalented",
+			"description": "<p>你已经学会了如何轻松的把你的注意力分散在多个职业上你会获得1个2级兼职入门专长（要了解更多兼职变体，见219页），即使你通常无法选择另外一个入门专长直到你从当前变体中获得更多专长。如果你半精灵，你无需满足该专长的属性值前置。</p>"
 		},
 		"Munitions Crafter": {
 			"name": "Munitions Crafter",
@@ -8102,8 +8102,8 @@
 			"description": "<p>Entertainment comes naturally to you. You become trained in Performance and gain one 1st-level Performance skill feat.</p>"
 		},
 		"Natural Skill": {
-			"name": "Natural Skill",
-			"description": "<p>Your ingenuity allows you to learn a wide variety of skills. You gain the trained proficiency rank in two skills of your choice.</p>"
+			"name": "天生精熟 Natural Skill",
+			"description": "<p>你的聪明才智让你在各种各样的技能上都获得了训练。你可以选择2项技能受训。</p>"
 		},
 		"Natural Swimmer": {
 			"name": "Natural Swimmer",
@@ -8158,8 +8158,8 @@
 			"description": "<p>Your muscles are tightly honed. Your Speed increases by 5 feet.</p>"
 		},
 		"Nimble Hooves": {
-			"name": "Nimble Hooves",
-			"description": "<p>Your legs end in hooves rather than feet, with joints and tendons that allow you to move with great haste. Your Speed increases by 5 feet.</p>\n<p><strong>Special</strong> The Speed increase from this feat isn't cumulative with any Speed increase from your ancestry feats (such as Nimble Elf).</p>\n<p>Automatically applied effects:</p>\n<ul>\n<li>+5 untyped bonus to land speed</li>\n</ul>"
+			"name": "灵巧蹄足 Nimble Hooves",
+			"description": "<p>你的腿底下长的不是脚而是蹄，其关节与肌腱使你能快速跑动。你的速度提升5尺。</p>\n<p><strong>特殊</strong> 此速度提升不与来自其他族裔专长的速度提升效果叠加(例如灵巧精灵)。</p>\n<p>自动适应效果</p>\n<ul>\n<li>+5无类别陆地速度</li>\n</ul>"
 		},
 		"Nimble Roll": {
 			"name": "Nimble Roll",
@@ -8190,8 +8190,8 @@
 			"description": "<p><strong>频率</strong> 每分钟一次</p>\n<p><strong>触发</strong> 你的构装伙伴将要陷入 @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{困惑} 或被控制状态。</p>\n<hr />\n<p>你呼唤你的构装伙伴和创造者之间的纽带，试图破解控制效果。尝试反制使你的构装伙伴陷入困惑或被控制状态的效果，使用你的手艺Crafting调整值进行反制检定并将你等级的一半（取高）视为反制等级。</p>"
 		},
 		"Nocturnal Charm": {
-			"name": "Nocturnal Charm",
-			"description": "<p>The supernatural charm of your vampiric progenitor hangs about you, and you've learned to use it on mortals. Against humanoids (or other creatures of your type, if you're not a humanoid), you gain a +1 circumstance bonus to Deception checks to Lie, and to Diplomacy checks to Gather Information and Make an Impression.</p>"
+			"name": "超凡魅惑 Nocturnal Charm",
+			"description": "<p>你血液中流淌的精灵魔法散发的魔力让你更具吸引力和诱惑力。你可以每天把1次1环的魅惑术当作你的内在奥术法术使用。</p>"
 		},
 		"Nocturnal Grippli": {
 			"name": "Nocturnal Grippli",
@@ -8334,36 +8334,36 @@
 			"description": "<p><strong>Trigger</strong> You are about to roll initiative.</p>\n<hr />\n<p>You have a flash of insight about impending danger related to one ally, and you can shout or gesture to warn that ally of the threat a moment before it materializes. One ally of your choice can roll twice for initiative and use the better result; this is a fortune effect. If you are legendary in Religion, you receive two visions and can warn two allies, granting them both this benefit.</p>\n<p>You are momentarily thrown off by the divine insight, however, and you must roll twice for your initiative roll and use the worse result. This is a misfortune effect. The two effects are tied together; if you would avoid the misfortune effect for any reason, or if any of your allies would negate their fortune effect, your Oracular Warning does nothing. Depending on whether you use gestures or call out, this action gains either the visual or auditory trait, respectively.</p>"
 		},
 		"Orc Ferocity": {
-			"name": "Orc Ferocity",
-			"description": "<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> You would be reduced to 0 Hit Points but not immediately killed</p>\n<hr />\n<p>Fierceness in battle runs through your blood, and you refuse to fall from your injuries. You avoid being knocked out and remain at 1 Hit Point, and your wounded condition increases by 1.</p>"
+			"name": "兽人凶猛 Orc Ferocity",
+			"description": "<p><strong>频率</strong>一天一次</p>\n<p><strong>触发</strong>当你血量低于0点但还未被杀死时</p>\n<hr />\n<p>战斗的狂怒会贯穿你的血液，让你不会因为你的伤口而倒下。当这个专长被触发时，你会避免被击倒并且保持1点血量，但是你的伤势增加1点。</p>"
 		},
 		"Orc Lore": {
 			"name": "Orc Lore",
 			"description": "<p>The hold elders taught you your people's histories, told tales of great athletic feats, and shared with you the hardships your ancestors endured so that you can pass this wisdom down to future generations.</p>\n<p>You become trained in Athletics and Survival. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Orc Lore.</p>"
 		},
 		"Orc Sight": {
-			"name": "Orc Sight",
-			"description": "<p>Your orc blood is strong enough to grant you the keen vision of your orc forebears. You gain darkvision, allowing you to see in darkness and dim light just as well as you can in bright light. However, in darkness, you see in black and white only.</p>\n<p><strong>Special</strong> You can take this feat only at 1st level, and you can't retrain out of this feat or into this feat.</p>"
+			"name": "兽人视觉 Orc Sight",
+			"description": "<p>你的兽人血统足够强大，可以让你可以和你兽人先祖一样有着敏锐的洞察力。你获得了黑暗视觉，允许你在和黑暗与微光如常视物。但是，在黑暗中，你只能看见黑白两色。</p>\n<p><strong>特殊</strong> 选择此专长时你必须为1级，你无法重训来或是重训掉此专长。</p>"
 		},
 		"Orc Superstition": {
-			"name": "Orc Superstition",
-			"description": "<p><strong>Trigger</strong> You attempt a saving throw against a spell or magical effect, before rolling</p>\n<hr />\n<p>You defend yourself against magic by relying on techniques derived from orc cultural superstitions. You gain a +1 circumstance bonus to your saving throw against the triggering spell or magical effect.</p>"
+			"name": "兽人迷信 Orc Superstition",
+			"description": "<p><strong>触发</strong> 当你尝试对法术和魔法效果进行豁免检定时，还未掷骰</p>\n<hr />\n<p>你依靠来自兽人文化的迷信来使自身抵御魔法。你对抗触发的法术和魔法效果的豁免检定上获得+1环境加值。</p>"
 		},
 		"Orc Warmask": {
 			"name": "Orc Warmask",
 			"description": "<p>You paint your face to create a <em>warmask</em>, an invested magic item of negligible Bulk with an item level equal to your level and a usage of worn (mask). It has the divination trait and a magical tradition trait depending on its type. Donning or removing your <em>warmask</em> requires 1 minute of work, though you don't need to Invest the mask each time. The <em>warmask</em> is unique to you and might signify your hold, your accomplishments, or your faith. While creating your mask, you must choose the source of your <em>warmask</em>'s power from the options below. This source determines the mask's associated skill as well as magical tradition. Once you select this source, it can't be changed. You become trained in the associated skill, and you gain the @Compendium[pf2e.feats-srd.1Bt7uCW2WI4sM84P]{Dubious Knowledge} skill feat as a bonus feat. You can spend 1 hour performing a ceremony that costs 50 gp to attune yourself more deeply with your <em>warmask</em>. If you do, you gain a +1 item bonus to the associated skill whenever you wear the <em>warmask</em>.</p>\n<hr />\n<ul>\n<li><strong>The Gods</strong> Religion, divine tradition</li>\n<li><strong>The Land</strong> Nature, primal tradition</li>\n<li><strong>Magic</strong> Arcana, arcane tradition</li>\n<li><strong>The Unknown</strong> Occultism, occult tradition</li>\n</ul>"
 		},
 		"Orc Weapon Carnage": {
-			"name": "Orc Weapon Carnage",
-			"description": "<p>You are brutally efficient with the weapons of your orc ancestors. Whenever you critically hit using a falchion, a greataxe, or an orc weapon, you apply the weapon's critical specialization effect.</p>"
+			"name": "兽人武器屠戮 Orc Weapon Carnage",
+			"description": "<p>你兽人先祖的武器是那么的野蛮而高效。当你使用一把大砍刀，巨斧或是使用一把兽人武器重击时，你可以应用武器的重击专精效果。</p>"
 		},
 		"Orc Weapon Expertise": {
-			"name": "Orc Weapon Expertise",
-			"description": "<p>Your orc affinity blends with your class training, granting you great skill with orc weapons. Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in the falchion, the greataxe, and all orc weapons in which you are trained.</p>"
+			"name": "兽人武器专家 Orc Weapon Expertise",
+			"description": "<p>你的兽人爱好与你接受的职业训练，授予了你对于兽人武器的卓越技巧。每当你获得一项授予你在特定武器上获得专家或是更高熟练度的职业能力时，你也可以在弯刃大刀、巨斧以及你已受训的兽人武器上获得对应的熟练度。</p>"
 		},
 		"Orc Weapon Familiarity": {
-			"name": "Orc Weapon Familiarity",
-			"description": "<p>In combat, you favor the brutal weapons that are traditional for your orc ancestors. You are trained with the @Compendium[pf2e.equipment-srd.XGtIUZ4ZNKuFx1uL]{Falchion} and @Compendium[pf2e.equipment-srd.8COlYvHe6hKCXY8x]{Greataxe}.</p>\n<p>In addition, you gain access to all uncommon orc weapons. For the purpose of determining your proficiency, martial orc weapons are simple weapons and advanced orc weapons are martial weapons.</p>"
+			"name": "兽人武器熟悉 Orc Weapon Familiarity",
+			"description": "<p>在战斗中，你喜欢使用兽人先祖的野蛮武器。你在 @Compendium[pf2e.equipment-srd.XGtIUZ4ZNKuFx1uL]{砍刀} 和 @Compendium[pf2e.equipment-srd.8COlYvHe6hKCXY8x]{巨斧}上受训</p>\n<p>此外，你还能够使用各种罕见的兽人武器。对于你来说，军用兽人武器视为简易武器，进阶兽人武器视为军用武器。</p>"
 		},
 		"Order Explorer": {
 			"name": "Order Explorer",
@@ -8654,8 +8654,8 @@
 			"description": "<p>You've trained your physical form to remain stable within the a given altered state. Once per day, when you consume an alchemical item with the infused and mutagen traits, you can retain its effects until the next time you make your daily preparations instead of its normal duration.</p>"
 		},
 		"Pervasive Superstition": {
-			"name": "Pervasive Superstition",
-			"description": "<p>You steep yourself in superstition and practice ancient orc mental exercises for shrugging off the effects of magic. You gain a +1 circumstance bonus to saving throws against spells and magical effects at all times.</p>"
+			"name": "常态迷信 Pervasive Superstition",
+			"description": "<p>你沉迷于古代兽人的迷信与心理训练以便摆脱魔法影响。你在任何时候对抗法术和魔法效果的豁免检定都会获得+1环境加值。</p>"
 		},
 		"Pesh Skin": {
 			"name": "Pesh Skin",
@@ -8762,8 +8762,8 @@
 			"description": "<p>You lash out with a powerful punch, extending your dynamo to a greater length in order to attack two creatures in a row. Make a single bludgeoning or piercing dynamo Strike and compare the attack roll result to the ACs of up to two foes. The first foe must be within your melee reach and the second foe must be adjacent to the first foe in a straight line away from you. Roll damage only once and apply it to each creature you hit. A Piston Punch counts as two attacks for your multiple attack penalty. Reduce the operational time of your sterling dynamo by 1 hour.</p>"
 		},
 		"Pitborn": {
-			"name": "Pitborn",
-			"description": "<p>Your blood bears the mark of a demon, a living embodiment of sin from the fetid depths of the Abyss. Demonic power pulses through your veins and manifests in a different way for each pitborn, whether you have webbed fingers and thrive in the water, large hands capable of wrestling larger foes, or some other manifestation.</p>\n<p>You are trained in Athletics. If you were already trained in Athletics (from your background or class, for example), you instead become trained in a skill of your choice.</p>\n<p>You also gain any one common 1st-level skill feat with a prerequisite of trained in Athletics, as reflects the manifestation of your Abyssal blood.</p>\n<hr />\n<p><em>Note: If you are already trained in the skill provided by this feat, you need to manually select an alternative skill. You also need to manually enter the granted Lore skill.</em></p>"
+			"name": "恶魔血脉 Pitborn",
+			"description": "<p>你是在无底深渊徘徊的罪业化身─恶魔的后裔。每个深渊后裔都以不同的形式显现其恶魔血缘，例如指间生蹼以利游泳，手掌粗壮适合擒抱等。</p>\n<p>你在运动技能上受训，若你会在运动技能上自动受训(例如背景或职业的效果)，改为让由你自选的另一个技能受训。</p>\n<p>你还获得1个先决条件为在运动技能上受训的任意1级常见技能专长，代表你身上畸变的效果。</p>\n<hr />\n<p><em>若你已经在本专长提供的技能上受训了，你需要手动指定另一个技能来受训。你也需要手动选择学识的类别。</em></p>"
 		},
 		"Pivot Strike": {
 			"name": "Pivot Strike",
@@ -9071,7 +9071,7 @@
 		},
 		"Qlippoth Magic": {
 			"name": "Qlippoth Magic",
-			"description": "<p>You've deeply studied the secrets of your blood and can force reality to act against its own wishes. You can cast <em>@Compendium[pf2e.spells-srd.3JG1t3T4mWn6vTke]{Blur}</em> and <em>@Compendium[pf2e.spells-srd.gIdDLrbswTV3OBJy]{Silence}</em> once per day each as 2nd-level divine innate spells.</p>"
+			"description": "<p>你仔细钻研血脉中的神祕后，甚至能逼迫现实自我扭曲。每日各1次，你可以2环级神术内在法术的形式，施放 <em>@Compendium[pf2e.spells-srd.3JG1t3T4mWn6vTke]{朦胧术 Blur}</em> 和 <em>@Compendium[pf2e.spells-srd.gIdDLrbswTV3OBJy]{沉默术 Silence}</em> 。</p>"
 		},
 		"Quadruped": {
 			"name": "Quadruped",
@@ -9274,8 +9274,8 @@
 			"description": "<p><strong>需求</strong> 你拿着一本书</p>\n<hr />\n<p>你举起所拿着的书，然后将其翻开以防御自己并加快学习的速度。这本书一直保持举起（raise）状态直到你的下一个回合开始为止。在举起书的时候，你获得 +1 的AC环境加值，并且辨识（identify）本书技能相关的生物获得 +1 回忆知识（Recall Knowle）环境加值（例如你举起你的法术书时回忆奥法 arcana）。这是相较于书本通常给予检定的任何物品加值以外的加值。</p>\n<p>如果你具有 @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{盾牌格挡}专长，你可以用书本来响应这个专长（硬度 hardness 3，HP 12，BT 6）就好像它是一面盾牌一样。无论你使用任何允许你使用举起盾牌（Raise a Shield）动作的能力时，例如 Emergency Targe，你可以用举起书卷（Raise a Tome）替代，任何通常需要一面盾牌的需求（requirement）都可以使用你的书本替代。</p>"
 		},
 		"Rakshasa Magic": {
-			"name": "Rakshasa Magic",
-			"description": "<p>You remember the secrets of your rakshasa forebears and know how to apply those memories to get results. You can cast <em>@Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]{Humanoid Form}</em> and <em>@Compendium[pf2e.spells-srd.f8SBoXiXQjlCKqly]{Illusory Creature}</em> once per day each as 2nd-level divine innate spells.</p>"
+			"name": "罗刹魔法 Rakshasa Magic",
+			"description": "<p>你回想起罗刹先祖记忆中的密技以及实行的手法。每日各1次，你可以2环级神术内在法术的形式，施放 <em>@Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]{类人形态 Humanoid Form}</em> and <em>@Compendium[pf2e.spells-srd.f8SBoXiXQjlCKqly]{幻象生物 Illusory Creature}</em>。</p>"
 		},
 		"Rallying Charge": {
 			"name": "Rallying Charge",
@@ -9630,8 +9630,8 @@
 			"description": "<p><strong>Trigger</strong> An adjacent creature you are hunting attempts to move away from you using an action that has the move trait</p>\n<hr />\n<p>Your hunted prey cannot escape your relentless pursuit. Stride up to your Speed in tandem with the triggering creature, remaining adjacent to the foe throughout its movement until it stops moving or you run out of movement. You can ignore difficult terrain during this movement unless the difficult terrain is caused by a magical effect.</p>"
 		},
 		"Relentless Wings": {
-			"name": "Relentless Wings",
-			"description": "<p>Your wings are now a permanent part of your physiology. You gain the effects of @Compendium[pf2e.feats-srd.jNemcS5GqH8mnjV6]{Fiendish Wings} at all times, rather than just once per day for 10 minutes.</p>"
+			"name": "不息飞翼 Relentless Wings",
+			"description": "<p>你的飞翼成为你身上的永久部位。你永久获得 @Compendium[pf2e.feats-srd.jNemcS5GqH8mnjV6]{魔族飞翼 Fiendish Wings} 的效果，而非只有每日1次的10分钟。</p>"
 		},
 		"Reliable Luck": {
 			"name": "Reliable Luck",
@@ -9838,8 +9838,8 @@
 			"description": "<p>When you Command an Animal you're mounted on to take a move action (such as Stride), you automatically succeed instead of needing to attempt a check. Any animal you're mounted on acts on your turn, like a minion. If you Mount an animal in the middle of an encounter, it skips its next turn and then acts on your next turn.</p>"
 		},
 		"Riftmarked": {
-			"name": "Riftmarked",
-			"description": "<p>Long ago, qlippoth marked someone in your lineage, most likely through their ancient runestones that dot Golarion's surface. Yours is an old lineage, primordial and twisted, and you have a sense for similarly twisted things. You're trained in Occultism. If you're already trained in Occultism (from your background or class, for example), you instead become trained in a skill of your choice. You also gain the @Compendium[pf2e.feats-srd.hDGosy2ZTwnyctEP]{Oddity Identification} skill feat.</p>\n<hr />\n<p><em>Note: If you are already trained in the skill provided by this feat, you need to manually select an alternative skill. You also need to manually enter the granted Lore skill.</em></p>"
+			"name": "古魔血脉 Riftmarked",
+			"description": "<p>很久以前古魔标记了你的某个先祖，多半是透过遍布全球的古老符文石办到的。这份血脉悠久原始又扭曲，你也擅长察知其他扭曲的事物。你在神秘技能上受训，若你会在神秘技能上自动受训(例如背景或职业的效果)，改为让由你自选的另一个技能受训。你获得 @Compendium[pf2e.feats-srd.hDGosy2ZTwnyctEP]{异常察觉 Oddity Identification} 技能专长。</p>\n<hr />\n<p><em>若你已经在本专长提供的技能上受训了，你需要手动指定另一个技能来受训。你也需要手动选择学识的类别。</em></p>"
 		},
 		"Right-Hand Blood": {
 			"name": "Right-Hand Blood",
@@ -10306,8 +10306,8 @@
 			"description": "<p><strong>Requirements</strong> You are wielding a weapon that deals slashing damage or have an unarmed Strike that deals slashing damage.</p>\n<hr />\n<p>You destroy the space between you and your targets, allowing you to strike with your melee weapons at great range. Make a melee Strike with the required weapon or unarmed attack. The attack gains an 80-foot reach for this Strike.</p>\n<p>After the Strike, regardless of whether it succeeded, the world rushes to fill the space you destroyed, bringing you and the target adjacent to each other. You can choose to teleport to the closest space adjacent to the target or to attempt to teleport the target adjacent to you. If you choose the target, they can negate the teleportation if they succeed at a Fortitude save against your class DC.</p>"
 		},
 		"Shackleborn": {
-			"name": "Shackleborn",
-			"description": "<p>Your lineage shows the signs of velstrac tampering, including some curious quirk bequeathed by those shadowy surgeons of flesh and souls. Your flesh heals cleanly and quickly—all the better for you to serve as a subject for their ghastly art. You gain the @Compendium[pf2e.feats-srd.N8Xz5fuW6o7GW124]{Fast Recovery} feat, even if you don't meet the prerequisites.</p>"
+			"name": "链魔血脉 Shackleborn",
+			"description": "<p>你的血脉中可见到链魔改造的痕迹，能看到这些喜爱塑造肉体与灵魂的影界工匠留下的种种奇妙特质。你的肉体自癒的相当迅速完整─正是方便祂们用来练习手艺的理想实验品。你无视先决条件获得 @Compendium[pf2e.feats-srd.N8Xz5fuW6o7GW124]{快速恢复 Fast Recovery} 通用专长。</p>"
 		},
 		"Shackles of Law": {
 			"name": "Shackles of Law",
@@ -10778,8 +10778,8 @@
 			"description": "<p>You were born with a tail, and with practice you've learned how to perform simple Interact actions with it, such as opening an unlocked door. Your tail can't perform actions that require fingers or significant manual dexterity, including any action that would require a check to accomplish, and you can't use it to hold items.</p>"
 		},
 		"Skillful Tail (Tiefling)": {
-			"name": "Skillful Tail (Tiefling)",
-			"description": "<p>You've always had a tail, but with practice, you've learned to use it for more than signaling your mood.</p>\n<p>You can perform simple @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{Interact} actions with your tail such as opening an unlocked door. Your tail can't perform actions that require fingers or significant manual dexterity, including any action that would require a check to accomplish, and you can't use it to hold items.</p>"
+			"name": "灵活尾巴（魔裔） Skillful Tail (Tiefling)",
+			"description": "<p>你生来就有一条尾巴，几经训练后你的尾巴除了暴露你的心情之外有了其他功用。</p>\n<p>你可以尾巴进行简单的 @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{互动} 动作，例如打开未上锁的门。你无法以尾巴进行需要手指或要求精密操作的动作，包括任何需要进行检定的动作，你也不得以尾巴持握物品。</p>"
 		},
 		"Skim Scroll": {
 			"name": "Skim Scroll",
@@ -11763,7 +11763,7 @@
 		},
 		"Summon Fiendish Kin": {
 			"name": "Summon Fiendish Kin",
-			"description": "<p>You have a deep connection to the fiendish realms, allowing you to summon a fiend matching your own lineage. Once per day, you can cast <em>@Compendium[pf2e.spells-srd.29ytKctjg7qSW2ff]{Summon Fiend}</em> as a 5th-level divine innate spell. The fiend you summon must match your own lineage.</p>"
+			"description": "<p>你与魔界位面有着深刻联系，使你能借此召唤同族的魔族盟友。每日1次，你可以5环级神术内在法术的形式施放 <em>@Compendium[pf2e.spells-srd.29ytKctjg7qSW2ff]{召唤魔物 Summon Fiend}</em> ，但只能召唤与你的血脉专长相符的魔界生物。</p>"
 		},
 		"Summon Fire Elemental": {
 			"name": "Summon Fire Elemental",
@@ -12714,12 +12714,12 @@
 			"description": "<p>Your limbs produce strange, sucker-like growths that allow you to adhere to walls, objects, and most other surfaces. You gain a @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Climb} Speed equal to your half your land Speed (minimum 5 feet). If you have the @Compendium[pf2e.feats-srd.P04Hw8E6WAWARKHP]{Quick Climb} feat, your climb Speed is equal to your land Speed. In addition, you gain a +2 circumstance bonus to your Reflex DC to avoid being @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Disarmed}.</p>"
 		},
 		"Unconventional Expertise": {
-			"name": "Unconventional Expertise",
-			"description": "<p>You've continued to advance your powers using your unconventional weapon. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency in the weapon you chose for @Compendium[pf2e.feats-srd.49mBVNF4SK6iYdJm]{Unconventional Weaponry}.</p>"
+			"name": "冷门专家 Unconventional Expertise",
+			"description": "<p>你继续使用你的冷门武器。每当你从一个职业能力中给特定武器获得专家或是更高熟练度时，你也可以在你冷门武器中选择的武器获得相同熟练度。</p>"
 		},
 		"Unconventional Weaponry": {
-			"name": "Unconventional Weaponry",
-			"description": "<p>You've familiarized yourself with a particular weapon, potentially from another ancestry or culture. Choose an uncommon simple or martial weapon with a trait corresponding to an ancestry (such as dwarf, goblin, or orc) or that is common in another culture. You gain access to that weapon, and for the purpose of determining your proficiency, that weapon is a simple weapon. If you are trained in all martial weapons, you can choose an uncommon advanced weapon with such a trait. You gain access to that weapon, and for the purpose of determining your proficiency, that weapon is a martial weapon.</p>"
+			"name": "冷门武器 Unconventional Weaponry",
+			"description": "<p>你对一种来自其他先祖或是文化的武器非常熟悉。你可以把1种和你先组（比方说矮人，兽人，侏儒）特性有关或是在其他文化常见的罕见简易武器或军用武器变为可用，同时在确定熟练时将其视为简易武器。如果你有全部军用武器的擅长，那么你可以选择1种具有这种特性的罕见先进武器变为可用，同时在确定熟练时将其视为军用武器。</p>"
 		},
 		"Undaunted": {
 			"name": "Undaunted",
@@ -12914,8 +12914,8 @@
 			"description": "<p>Born of a blood hag, a fiery blood drinker hidden behind a false skin, you have one blood-red eye and the ability to slough off your appearance in an instant.</p>\n<p>You gain the @Compendium[pf2e.feats-srd.Dvz54d6aPhjsmUux]{Lie To Me} skill feat, and you can shed a disguise quickly by peeling off the outer layer of your skin.</p>\n<p>Changing from a disguise used to @Compendium[pf2e.actionspf2e.AJstokjdG6iDjVjE]{Impersonate} back to your true appearance is a 3-action activity for you; if you're an expert in Deception, it's a 2-action activity, and if you're legendary in Deception, it takes only a single action. This doesn't allow you to don or remove armor or other equipment any faster, but your physical appearance otherwise returns to its normal state.</p>"
 		},
 		"Velstrac Magic": {
-			"name": "Velstrac Magic",
-			"description": "<p>You know there's so much more to sensation than whips and chains—but whips and chains also have their place. You can cast <em>@Compendium[pf2e.spells-srd.mrDi3v933gsmnw25]{Telekinetic Maneuver}</em> and <em>@Compendium[pf2e.spells-srd.9s5tqqXNzcoKamWx]{Web}</em> once per day each as 2nd-level divine innate spells; in both cases, the spells manifest shadowy chains rather than their usual visual signifiers.</p>"
+			"name": "链魔魔法 Velstrac Magic",
+			"description": "<p>你知道痛苦的奥妙不止于起鞭子跟铁链的触感，但这俩也算是招牌了。每日各1次，你可以2环级神术内在法术的形式，施放 <em>@Compendium[pf2e.spells-srd.mrDi3v933gsmnw25]{念动战技 Telekinetic Maneuver}</em> 和 <em>@Compendium[pf2e.spells-srd.9s5tqqXNzcoKamWx]{蛛网术 Web}</em> ，但你施放这些法术时将视觉效果改为幽影铁链。</p>"
 		},
 		"Vengeful Hatred": {
 			"name": "Vengeful Hatred",
@@ -13006,8 +13006,8 @@
 			"description": "<p>While your vengeance is painful for both you and your foe, none can doubt that your enemies suffer more. You gain a circumstance bonus to the damage you deal from @Compendium[pf2e.actionspf2e.r5Uth6yvCoE4tr9z]{Destructive Vengeance} equal to the number of damage dice from the reaction. This only applies to the damage the enemy takes, not the damage to yourself or the extra damage you gain after using the reaction.</p>"
 		},
 		"Victorious Vigor": {
-			"name": "Victorious Vigor",
-			"description": "<p><strong>Trigger</strong> You bring a foe to 0 Hit Points</p>\n<hr />\n<p>Your victories in battle fill you with pride and imbue you with the energy to fight a bit longer despite your wounds. You gain temporary Hit Points equal to your Constitution modifier until the end of your next turn.</p>"
+			"name": "胜利活力 Victorious Vigor",
+			"description": "<p><strong>触发</strong> 当你将敌人血量降低至0点时</p>\n<hr />\n<p>你在战斗中的胜利给你带来了荣耀与能量，尽管身负重创，你还可以再战。你会获得等同于你体质调整的临时生命值直到你下一轮结束。</p>"
 		},
 		"Vigil's Walls Rise Anew": {
 			"name": "Vigil's Walls Rise Anew",
