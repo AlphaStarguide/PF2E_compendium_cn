@@ -354,12 +354,12 @@
 			"description": "<p>Your family line is known for keeping a level head and staving off fear when the chips were down, making them wise leaders and sometimes even heroes. When you roll a success on a saving throw against an emotion effect, you get a critical success instead.</p>"
 		},
 		"Half-Elf": {
-			"name": "Half-Elf",
-			"description": "<p>Either one of your parents was an elf, or one or both were half-elves. You have pointed ears and other telltale signs of elf heritage. You gain the elf trait, the half-elf trait, and @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Low-Light Vision}. In addition, you can select elf, half-elf, and human feats whenever you gain an ancestry feat.</p>"
+			"name": "半精灵 Half-Elf",
+			"description": "<p>你的双亲要么一个是精灵，要么2个都是半精灵。你有着尖尖的耳朵和其他精灵遗传的迹象。你获得了精灵特性和 @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{昏暗视觉}。此外，当你获得一个先祖专长时，你可以选择精灵，半精灵或是人类专长。</p>"
 		},
 		"Half-Orc": {
-			"name": "Half-Orc",
-			"description": "<p>One of your parents was an orc, or one or both were half-orcs. You have a green tinge to your skin and other indicators of orc heritage. You gain the orc trait, the half-orc trait, and @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Low-Light Vision}. In addition, you can select orc, half-orc, and human feats whenever you gain an ancestry feat.</p>"
+			"name": "半兽人 Half-Orc",
+			"description": "<p>你的双亲要么一个是兽人，要么2个都是半兽人。你有着淡绿的皮肤和其他兽人遗传的迹象。你获得了兽人特性和 @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{昏暗视觉}。此外，当你获得一个先祖专长时，你可以选择兽人，半兽人或是人类专长。</p>"
 		},
 		"Hillock Halfling": {
 			"name": "Hillock Halfling",
@@ -646,8 +646,8 @@
 			"description": "<p>You have a longer torso and broader shoulders than most hobgoblins, making your legs seem short by comparison. This gives you a strong, muscular core and lowers your center of gravity—features that assist you in riding and climbing—and you've trained at riding in a saddle from an extremely early age. You gain the @Compendium[pf2e.feats-srd.Rq5wkA8DtsmbzoGV]{Ride} feat. Additionally, you are not @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} while you Climb.</p>"
 		},
 		"Skilled Heritage": {
-			"name": "Skilled Heritage",
-			"description": "<p>Your ingenuity allows you to train in a wide variety of skills. You become trained in one skill of your choice. At 5th level, you become an expert in the chosen skill.</p>"
+			"name": "精熟传承 Skilled Heritage",
+			"description": "<p>你的聪明才智可以让你对各种技能都可能有受训。你选择一项技能并受训。在5级时，你成为所选技能的专家</p>"
 		},
 		"Skyborn Tengu": {
 			"name": "Skyborn Tengu",
@@ -774,8 +774,8 @@
 			"description": "<p>You are a rare shoony who hails from colder climes. You gain cold resistance equal to half your level (minimum 1), and you treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on). You don't need to succeed at a flat check to target a concealed creature if that creature is @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} only by snow. Unless you wear protective gear or take shelter, environmental heat effects are one step more extreme for you.</p>"
 		},
 		"Tiefling": {
-			"name": "Tiefling",
-			"description": "<p>You descend from fiends or bear the mark of the fiendish realms, manifesting as some unusual feature that belies your heritage, such as horns or a tail. You gain the tiefling trait, in addition to the traits from your ancestry. You also gain @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Low-Light Vision}, or you gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision} if your ancestry already has low-light vision. You can choose from tiefling feats and feats from your ancestry whenever you gain an ancestry feat.</p>"
+			"name": "魔裔 Tiefling",
+			"description": "<p>你是魔界生物的后裔，或被某个魔界位面所浸染，身上长着彰显你魔界血脉的反常特性，例如角或尾巴。除了你族裔的特征外，你还额外获得魔裔特征。你获得 @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{昏暗视觉}，如果你的族裔已有昏暗视觉，则改为获得 @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{黑暗视觉}。你在选取族裔专长时，能选取魔裔专长或原族裔的专长。</p>"
 		},
 		"Toy Poppet": {
 			"name": "Toy Poppet",
@@ -826,8 +826,8 @@
 			"description": "<p>A vestigial spur in your tail secretes one dose of deadly</p>\n<p>venom each day. You gain the @Compendium[pf2e.actionspf2e.ev8OHpBO3xq3Zt08]{Tail Toxin}action.</p>"
 		},
 		"Versatile Heritage": {
-			"name": "Versatile Heritage",
-			"description": "<p>Humanity's versatility and ambition have fueled its ascendance to be the most common ancestry in most nations throughout the world. Select a general feat of your choice for which you meet the prerequisites (as with your ancestry feat, you can select this general feat at any point during character creation).</p>"
+			"name": "多才传承 Versatile Heritage",
+			"description": "<p>人类的多才多艺和雄心壮志将他们推动为了世界各国最常见的先祖。选择一项满足前置的通用专长(如同先祖专长，你可以选择这个通用专长在创建角色的任意时点中）。</p>"
 		},
 		"Vicious Goloma": {
 			"name": "Vicious Goloma",
