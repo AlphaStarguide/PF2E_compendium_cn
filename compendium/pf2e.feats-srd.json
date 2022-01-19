@@ -86,8 +86,8 @@
 			"description": "<p>When you are raging, your visual senses improve, granting you darkvision.</p>"
 		},
 		"Adapted Cantrip": {
-			"name": "Adapted Cantrip",
-			"description": "<p>Through study of multiple magical traditions, you've altered a spell to suit your spellcasting style. Choose one cantrip from a magical tradition other than your own. If you have a spell repertoire or a spellbook, replace one of the cantrips you know or have in your spellbook with the chosen spell. If you prepare spells without a spellbook (if you're a cleric or druid, for example), one of your cantrips must always be the chosen spell, and you prepare the rest normally. You can cast this cantrip as a spell of your class's tradition. If you swap or retrain this cantrip later, you can choose its replacement from the same alternate tradition or a different one</p>"
+			"name": "调整戏法 Adapted Cantrip",
+			"description": "<p>对于多种魔法传统的研究揭示了如何改变一个法术来适应你的施法风格。选择一个你施法列表外的戏法。如果你拥有一个法术序列或是法术书，替换其中一个你已知或是在法术书上的戏法为你选择的戏法。如果你不通过法术书准备（比如你是牧师或是德鲁伊）法术，那么你的戏法之一必须是你选择的法术，你依旧要休息后才能准备它。如果你在之后交换或是重训这个戏法，你可以在一个相同或是不同替换列表中选择它的替代。</p>"
 		},
 		"Adaptive Adept": {
 			"name": "Adaptive Adept",
@@ -2506,8 +2506,8 @@
 			"description": "<p><strong>Trigger</strong> A creature succeeded, but didn't critically succeed, at a Perception check or Will save to disbelieve an illusion from a spell that you cast.</p>\n<p><strong>Requirements</strong> You are within 30 feet of the observer and</p>\n<p>the illusion.</p>\n<hr />\n<p>You use your deceptive skills to make your illusions seem even more real. Attempt a Deception check against the target's Perception DC. If you succeed, the target fails to disbelieve the illusion.</p>"
 		},
 		"Cooperative Nature": {
-			"name": "Cooperative Nature",
-			"description": "<p>The short human life span lends perspective and has taught you from a young age to set aside differences and work with others to achieve greatness. You gain a +4 circumstance bonus on checks to Aid.</p>"
+			"name": "协作天性 Cooperative Nature",
+			"description": "<p>人类的短暂寿命让你高瞻远虑，这在你年轻的时候就教会了你通过求同存异来获取成功。你在援助时获得+4环境加值。</p>"
 		},
 		"Cooperative Soul": {
 			"name": "Cooperative Soul",
@@ -5286,8 +5286,8 @@
 			"description": "<p>The earth inside you asserts itself as crystallized gemstones or metals, like a cluster of quartz or veins of iron and gold. This shimmering presence inside your being inspires you to flashy and flamboyant performances. You gain the trained proficiency rank in Performance. If you would automatically become trained in Performance (from your background or class, for example), you instead become trained in a skill of your choice. You gain the @Compendium[pf2e.feats-srd.xqAdXRd2gSQcqp5E]{Impressive Performance} skill feat.</p>"
 		},
 		"General Training": {
-			"name": "General Training",
-			"description": "<p>Your adaptability manifests in your mastery of a range of useful abilities. You gain a 1st-level general feat. You must meet the feat's prerequisites, but if you select this feat during character creation, you can select the feat later in the process in order to determine which prerequisites you meet.</p>\n<p><strong>Special</strong> You can select this feat multiple times, choosing a different feat each time.</p>"
+			"name": "通用训练 General Training",
+			"description": "<p>你的适应力体现在你掌握了一系列实用的能力。你获得1个1级通用专长。你必须满足专长的前置，但是当你在创建角色时选择此专长，你可以选择在此期间中稍后获得这个专长以便满足前置。</p>\n<p><strong>特殊</strong> 你可以多次选择这个专长，但每次都要选择一个不同专长。</p>"
 		},
 		"Genie Weapon Expertise": {
 			"name": "Genie Weapon Expertise",
@@ -5878,8 +5878,8 @@
 			"description": "<p><strong>Frequency</strong> once per round</p>\n<hr />\n<p>You can fly a little! You Fly up to half your Speed. If you don't end your movement on solid ground, you fall at the end of your turn.</p>"
 		},
 		"Haughty Obstinacy": {
-			"name": "Haughty Obstinacy",
-			"description": "<p>Your powerful ego makes it harder for others to order you around. If you roll a success on a saving throw against a mental effect that attempts to directly control your actions, you critically succeed instead. If a creature rolls a failure on a check to Coerce you using Intimidation, it gets a critical failure instead (so it can't try to Coerce you again for 1 week).</p>"
+			"name": "傲慢固执 Haughty Obstinacy",
+			"description": "<p>你强大的自我让你周围的人很难命令你。如果你在一次对抗尝试直接控制你行动的影响心灵效果的豁免检定上成功时，你视为大成功。如果一个生物在使用威吓来胁迫你的检定上失败时，他视为获得大失败（所以无法在一周内再次强迫你）。</p>"
 		},
 		"Hazard Finder": {
 			"name": "Hazard Finder",
@@ -8086,8 +8086,8 @@
 			"description": "<p>You act as a conduit for your companions just as your stories are a conduit between teller and listener. When you @Compendium[pf2e.actionspf2e.hPZQ5vA9QHEPtjFW]{Spin a Tale} and the hero of your tale Casts a Spell against the villain, you warp the world, allowing the hero to calculate range and cover to the villain from your space instead of their own if they prefer. The hero must choose to calculate both range and cover from the same space; they can't use one space for range and the other for cover.</p>"
 		},
 		"Natural Ambition": {
-			"name": "Natural Ambition",
-			"description": "<p>You were raised to be ambitious and always reach for the stars, leading you to progress quickly in your chosen field. You gain a 1st-level class feat for your class. You must meet the prerequisites, but you can select the feat later in the character creation process in order to determine which prerequisites you meet.</p>"
+			"name": "天生野望 Natural Ambition",
+			"description": "<p>你从小壮志勃勃，并且为了出人头地而奋斗，这让你在你所选择的领域上的进步卓越。你可以在你的职业上获得1个1级职业专长。你必须满足专长的前置，你只可在创建角色时能稍后选择该专长以便满足所选职业专长的前置。</p>"
 		},
 		"Natural Illusionist": {
 			"name": "Natural Illusionist",
