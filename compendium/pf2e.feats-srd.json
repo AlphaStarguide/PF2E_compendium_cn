@@ -446,8 +446,8 @@
 			"description": "<p>Your eidolon adapts to life on land and underwater. It gains the amphibious trait, allowing it to breathe in water and air and to avoid the normal -2 penalty for making bludgeoning and slashing unarmed Strikes underwater. It gains a swim Speed equal to its land Speed or 25 feet, whichever is less; or if it is normally aquatic, it gains a land Speed equal to its swim Speed or 25 feet, whichever is less.</p>"
 		},
 		"Amplifying Touch": {
-			"name": "Amplifying Touch",
-			"description": "<p>Your healing energies empower attacks.</p>\n<p>An ally that recovers Hit Points from your <em>@Compendium[pf2e.spells-srd.zNN9212H2FGfM7VS]{Lay on Hands}</em> gains a +1 status bonus to their attack rolls and deals 1 additional good damage on all their Strikes until the end of their next turn.</p>\n<p>@Compendium[pf2e.spell-effects.MjtPtndJx31q2N9R]{Spell Effect: Amplifying Touch}</p>"
+			"name": "扬善之触 Amplifying Touch",
+			"description": "<p>你的治疗能量能强化攻击。</p>\n<p>因你的<em>@Compendium[pf2e.spells-srd.zNN9212H2FGfM7VS]{圣疗 Lay on Hands}</em> 恢复生命值的盟友，直到他们下一轮结束前，攻击骰上获得+1状态加值，并且他们所有的打击都会增加1点额外善良伤害。</p>\n<p>@Compendium[pf2e.spell-effects.MjtPtndJx31q2N9R]{法术效果： 扬善之触}</p>"
 		},
 		"Anadi Lore": {
 			"name": "Anadi Lore",
@@ -966,8 +966,8 @@
 			"description": "<p>身为邪恶的化身，你光是存在就让敌人更容易陷入恐慌，只要你在附近，敌人总是战战兢兢。</p>\n<p>你15呎内所有敌人在对抗恐惧效果的豁免上承受-1环境罚值。此外，若敌人在你15尺内结束回合，便无法把 @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{惊惧} 值减到低于1。</p>\n<p>@Compendium[pf2e.feat-effects.MNkIxAishE22TqL3]{效果：绝望灵气}</p>"
 		},
 		"Aura Of Preservation": {
-			"name": "Aura Of Preservation",
-			"description": "<p>Your aura protects against the twisting powers of aberrations. You and all allies within 15 feet gain a +1 status bonus to Fortitude and Will saves against effects from aberrations.</p>\n<p>You also gain a +1 status bonus to Fortitude saves against morph or polymorph effects and Will saves against mental effects; this bonus increases to +2 against aberrations' morph, polymorph, or mental effects.</p>\n<p>@Compendium[pf2e.feat-effects.18FHJoazfEmgNkfk]{Effect: Aura of Preservation}</p>"
+			"name": "护佑灵光 Aura Of Preservation",
+			"description": "<p>你的灵光能抵御异怪的扭曲之力。你和15呎内的盟友在对抗来自异怪的效果时，在强韧和意志豁免上获得+1状态加值。</p>\n<p>你也在对抗化形(morph)或变形(polymorph)效果时的强韧，以及对抗心灵效果的意志上，获得+1状态加值。如果是对抗异怪的化形(morph)、变形(polymorph)或心灵效果，那加值变成+2。</p>\n<p>@Compendium[pf2e.feat-effects.18FHJoazfEmgNkfk]{效果：护佑灵光}</p>"
 		},
 		"Aura of Courage": {
 			"name": "Aura of Courage",
@@ -4082,8 +4082,8 @@
 			"description": "<p><strong>Frequency</strong> once per turn</p>\n<p><strong>Requirements</strong> Your most recent action was to cast a</p>\n<p>non-cantrip spell that dealt energy damage.</p>\n<hr />\n<p>You trap energy from the last spell you cast within your body, coating your flesh in a protective ward. Until the start of your next turn, you gain resistance 5 to one type of energy damage dealt by the spell you just cast.</p>"
 		},
 		"Enforce Oath": {
-			"name": "Enforce Oath",
-			"description": "<p><strong>Frequency</strong> once per hour</p>\n<hr />\n<p>You call on your oath to embolden you in combat. When you Enforce your Oath, select one creature you can see that you've sworn to defeat as part of your oath.</p>\n<p>You gain a +1 status bonus to AC and saves against attacks and effects by the chosen creature. You also gain a +1 status bonus to attack rolls against the chosen creature.</p>\n<p>However, your dedication to Enforcing your Oath draws your focus away from all other foes. While you are Enforcing your Oath, you take a -1 status penalty to AC, attack rolls, and saves against all other creatures until you stop Enforcing your Oath.</p>\n<p>You stop Enforcing your Oath once the chosen creature is reduced to 0 Hit Points or offers a legitimate surrender to you or your allies. You immediately stop Enforcing your Oath if you are @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Unconscious} or if the chosen creature goes @Compendium[pf2e.conditionitems.9evPzg9E6muFcoSk]{Unnoticed} by you for more than 1 minute. You can also stop Enforcing your Oath at any time during your turn as a free action.</p>"
+			"name": "迫行誓约 Enforce Oath",
+			"description": "<p><strong>频率</strong> 每小时1次</p>\n<hr />\n<p>你呼唤誓约，在战斗中壮大自己。当你迫行自己的誓约时，选择一个你看得到，且作为誓约一部分发誓要剷除的生物。</p>\n<p>你在对抗所选生物发起的攻击与效果时，于AC和豁免上获得+1状态加值。你也在对抗所选生物的攻击骰上获得+1状态加值。</p>\n<p>但是，因为你迫行自己履约，你无暇分心其他敌人。当你迫行誓约时，你对其他所有生物在AC、攻击骰以及豁免上承受-1状态罚值，直到你停止迫行誓约。当所选生物的生命值降为0，或该生物向你或你的盟友合理正当的投降，迫行誓约就结束。</p>\n<p>如果你陷入 @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{失去意识} ，或如果所选生物被你 @Compendium[pf2e.conditionitems.9evPzg9E6muFcoSk]{忽视} 超过1分钟，那你会立刻结束迫行誓约。你还可以在自己回合时以一个自由动作立刻结束迫行誓约。</p>"
 		},
 		"Enforced Order": {
 			"name": "Enforced Order",
@@ -4270,8 +4270,8 @@
 			"description": "<p>Your knowledge of the tenets of your faith gives you insight into the best ways to get others of your faith to help you or to follow your directions.</p>\n<p>When you @Compendium[pf2e.actionspf2e.DCb62iCBrJXy0Ik6]{Request} something of or @Compendium[pf2e.actionspf2e.tHCqgwjtQtzNqVvd]{Coerce} members of your own faith, you can attempt a Religion check instead of Diplomacy or Intimidation, and you gain a +2 circumstance bonus to the check. On a critically failed attempt to make a Request, the target's attitude toward you doesn't worsen.</p>"
 		},
 		"Expand Aura": {
-			"name": "Expand Aura",
-			"description": "<p>You focus your divine power to extend your influence. Select one aura you have from a champion feat or feature, such as @Compendium[pf2e.feats-srd.TIwk07T0OxSbcOpJ]{Aura of Courage} or @Compendium[pf2e.feats-srd.YawVDUc9uzREIAnO]{Aura of Life}. The radius of the aura is doubled until the start of your next turn.</p>"
+			"name": "拓展灵光 Expand Aura",
+			"description": "<p>你聚集神圣之力，放大你的影响力。选择一个从神卫专长或特性来的灵光，像是 @Compendium[pf2e.feats-srd.TIwk07T0OxSbcOpJ]{勇气灵光 Aura of Courage} 或是 @Compendium[pf2e.feats-srd.YawVDUc9uzREIAnO]{生命灵光 Aura of Life}。直到你下一回合开始，该灵光的半径加倍。</p>"
 		},
 		"Expanded Domain Initiate": {
 			"name": "Expanded Domain Initiate",
@@ -4722,16 +4722,16 @@
 			"description": "<p>你可如同魔界生物一般在黑暗中清晰视物。你获得 @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{黑暗视觉}.</p>\n<p><strong>特殊</strong> 此专长只得在1级时选取，且不得透过重训来取得或替换之。</p>"
 		},
 		"Fiendish Form": {
-			"name": "Fiendish Form",
-			"description": "<p>Your features reshape into those of a type of fiend who serves your deity; for example, as a demon you might have putrid scales, twisted horns, and red eyes.</p>\n<p>You gain a fly Speed equal to your Speed. You gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision} if you don't already have it, and you gain the fiend trait and the trait appropriate to the type of servitor you've become (such as daemon, demon, or devil).</p>"
+			"name": "炼狱形态 Fiendish Form",
+			"description": "<p>你的外型重塑成侍奉你神的炼狱型态，举例来说：如果是恶魔，那你可能会有腐化的鳞片、扭曲的角，以及腥红的双眼。</p>\n<p>你获得与你速度相同的飞行速度。如果你没有，那你会获得 @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{黑暗视觉} ，你获得炼狱(fiend)以及你所变成的侍奉者相应的特征(例如邪魔[daemon]、恶魔[demon]或魔鬼[devil])。</p>"
 		},
 		"Fiendish Lore": {
 			"name": "魔界学识 Fiendish Lore",
 			"description": "<p>你或是由你的魔裔或魔界生物亲族抚养长大，或是将自己的生活奉献给了探询魔界位面秘密的研究。</p>\n<p>你在威吓技能以及宗教技能上受训，若你会在其中一个技能上自动受训(例如背景或职业的效果)，改为让由你自选的另一个技能受训。</p>\n<p>你还会在血脉来源的魔界位面的学识上受训(一般为末日荒原学识、深渊学识或地域学识)。</p>\n<hr />\n<p><em>若你已经在本专长提供的技能上受训了，你需要手动指定另一个技能来受训。你也需要手动选择学识的类别。</em></p>"
 		},
 		"Fiendish Mount": {
-			"name": "Fiendish Mount",
-			"description": "<p>Your steed ally manifests a suite of powerful and sinister gifts granted to it by your deity.</p>\n<p>It gains @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision}, its maximum Hit Points increase by 40, and it gains weakness 10 to good damage.</p>\n<p>Additionally, it grows wings appropriate for a servitor of your deity (such as bat wings for a devil), granting it a @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Fly} Speed equal to its Speed.</p>\n<p>It gains the fiend trait and the trait appropriate to the type of servitor it has become (such as daemon, demon, or devil).</p>"
+			"name": "炼狱坐骑 Fiendish Mount",
+			"description": "<p>你的骏骑盟友显化出你神所赐予的强大又邪恶的恩惠。</p>\n<p>它获得 @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{黑暗视觉}，最大生命值加40，并且获得对善良伤害有弱点10。</p>\n<p>此外，它会长出符合你神的侍奉者的翅膀(例如魔鬼就是蝙蝠翅膀)，让它获得与陆地速度相同的 @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{飞行} 速度。</p>\n<p>它获得炼狱(fiend)以及它所变成的侍奉者相应的特征(例如邪魔[daemon]、恶魔[demon]或魔鬼[devil])。</p>"
 		},
 		"Fiendish Resistance": {
 			"name": "魔族抗性 Fiendish Resistance",
@@ -5594,8 +5594,8 @@
 			"description": "<p>Even a single missile can throw off your enemy's balance, and more powerful attacks leave it flustered for longer.</p>\n<p>If you hit your hunted prey with a ranged weapon, it's @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} until the start of your next turn. If you critically hit your prey or hit it twice on the same turn with a ranged weapon, it's flat-footed until the end of your next turn instead.</p>"
 		},
 		"Greater Interpose": {
-			"name": "Greater Interpose",
-			"description": "<p>Your divine grace empowers you to avoid hits when you otherwise could not.</p>\n<p>You can use Sacrifice Armor to reduce any type of damage from an attack or effect requiring a Reflex save. When you use Sacrifice Armor against a critical hit or a critical failure on a Reflex save that would otherwise cause you to take double damage, you take the normal amount of damage instead.</p>"
+			"name": "高等干涉 Greater Interpose",
+			"description": "<p>在你束手无策之际，你的神性优雅令你免于伤害。</p>\n<p>你可以对某次攻击所造成的任何伤害类型，或需要反射豁免的效果使用牺牲护甲好减少伤害。当你使用牺牲护甲对抗一次重击，或一次会让你承受双倍伤害的反射豁免大失败时，你只受到正常的伤害。</p>"
 		},
 		"Greater Lesson": {
 			"name": "Greater Lesson",
@@ -5710,8 +5710,8 @@
 			"description": "<p>With obsequious words and begging gestures, you convince your foe you're less of a threat.</p>\n<p>You attempt to @Compendium[pf2e.actionspf2e.QNAVeNKtHA0EUw4X]{Feint} against a creature. Unlike a normal Feint, the creature can be within 30 feet instead of in your melee reach, and you make your check against its Will DC instead of its Perception DC.</p>"
 		},
 		"Gruesome Strike": {
-			"name": "Gruesome Strike",
-			"description": "<p><strong>Requirements</strong> Your Strikes currently deal extra damage from your champion's reaction.</p>\n<hr />\n<p>Make a Strike against the creature that triggered your champion's reaction. If you hit, the target takes double the extra damage from your reaction and must succeed at a Fortitude save against your class DC or be @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drained 1}.</p>\n<p>Regardless of the result, the creature is temporarily immune to your Gruesome Strike for 24 hours.</p>"
+			"name": "残酷打击 Gruesome Strike",
+			"description": "<p><strong>需求</strong> 你的打击目前能从你的神卫反应动作那造成额外伤害</p>\n<hr />\n<p>对触发你神卫反应动作的生物进行一次打击。如果你打中，目标会受到两倍从反应动作那得来的额外伤害，同时必须通过一次强韧豁免对抗你的职业，失败则 @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{流失 1}。</p>\n<p>无论结果如何，该生物都会暂时免疫你的残酷打击24小时。</p>"
 		},
 		"Guarded Movement": {
 			"name": "Guarded Movement",
@@ -6574,8 +6574,8 @@
 			"description": "<p>You trust your instincts and your sense of smell, using all of your senses to pinpoint your opponent's location.</p>\n<p>Make a melee Strike against an opponent that isn't hiding its scent with an effect like <em>@Compendium[pf2e.spells-srd.0fKHBh5goe2eiFYL]{Negate Aroma}</em>. This attack ignores any flat check required due to the target being @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} or @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Hidden}.</p>"
 		},
 		"Instrument Of Slaughter": {
-			"name": "Instrument Of Slaughter",
-			"description": "<p>Your blade ally thirsts for the blood of your foes.</p>\n<p>Whenever you critically hit an enemy with the weapon inhabited by your blade ally while dealing extra damage from your champion's reaction, the target takes @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Bleed Damage} equal to two of the weapon's damage dice.</p>"
+			"name": "饮血魔器 Instrument Of Slaughter",
+			"description": "<p>你的利刃盟友渴求着敌人的鲜血。</p>\n<p>当你使用寄宿利刃盟友，并且在会造成额外伤害的神卫反应动作重击一位敌人时，目标会承受与你武器伤害骰双倍数量的 @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续流血伤害} 。</p>"
 		},
 		"Instrument of Zeal": {
 			"name": "Instrument of Zeal",
@@ -7250,8 +7250,8 @@
 			"description": "<p>You excoriate a foe for its wrath against goodly creatures.</p>\n<p>You can cast the <em>@Compendium[pf2e.spells-srd.X1b9ollVMSLXDN9o]{Litany against Wrath}</em> devotion spell. Increase the number of Focus Points in your focus pool by 1.</p>"
 		},
 		"Litany Of Depravity": {
-			"name": "Litany Of Depravity",
-			"description": "<p>You undercut your enemy's vain moralism, opening their heart to evil. You can cast the <em>@Compendium[pf2e.spells-srd.tYP8unoR0a5Dq9EA]{Litany of Depravity}</em> focus spell. Increase the number of Focus Points in your focus pool by 1.</p>"
+			"name": "堕落祷言 Litany Of Depravity",
+			"description": "<p>对敌人的空洞大道理你釜底抽薪，让他们的心向邪恶沉沦。你可以施放 <em>@Compendium[pf2e.spells-srd.tYP8unoR0a5Dq9EA]{堕落祷言 Litany of Depravity}</em> 聚能法术。你的聚能池增加1点聚能点。</p>"
 		},
 		"Litany Of Self-Interest": {
 			"name": "利己祷言 Litany Of Self-Interest",
@@ -8470,8 +8470,8 @@
 			"description": "<p><strong>Requirements</strong> You're wielding two weapons, each of which can be either a loaded one-handed firearm or loaded one‑handed crossbow.</p>\n<hr />\n<p>Your shots hit simultaneously. Make two Strikes, one with each of your two ranged weapons, each using your current multiple attack penalty. Both Strikes must have the same target.</p>\n<p>If both attacks hit, combine their damage and then add any applicable effects from both weapons. You add any precision damage, only once, to the attack of your choice. Combine the damage from both Strikes and apply resistances and weaknesses only once. This counts as two attacks when calculating your multiple attack penalty.</p>"
 		},
 		"Pale Horse": {
-			"name": "Pale Horse",
-			"description": "<p>Your mount becomes a grotesque creature of foreboding when you ride it. Its appearance transforms as flames erupt from its skin, a whorl of negative energy surrounds it, or poison leaks from its flesh.</p>\n<p>When you @Compendium[pf2e.actionspf2e.PM5jvValFkbFH3TV]{Mount} your steed ally, you can choose fire, negative, or poison. As long as you ride it, your steed gains resistance 10 to the chosen damage type, and any creature that touches your steed takes [[/r 1d6]] damage of the chosen type; this includes hitting the steed with unarmed attacks or with a melee weapon Strike while adjacent to the steed.</p>\n<p>This damage increases to [[/r 2d6]] at 16th level and [[/r 3d6]] at 20th level.</p>"
+			"name": "苍白骏骑 Pale Horse",
+			"description": "<p>你的坐骑在你骑乘时变成带有某种预兆的怪诞生物。牠的外型可以转换成从皮肤喷发火焰、周身有负能量环绕，或从他的血肉中流泻毒液。</p>\n<p>当你 @Compendium[pf2e.actionspf2e.PM5jvValFkbFH3TV]{骑乘} 你的骏骑盟友时，你可以选择火、负能量、毒素。只要你还骑着，你的骏骑就会获得所选伤害类型的10点抗力，同时任何碰触你骏骑的生物会受到所选类型 [[/r 1d6]] 点伤害，碰触包含用非武装攻击打中骏骑，或邻接骏骑时使用近战武器进行打击并击中。</p>\n<p>这个伤害在16级变成 [[/r 2d6]] ，20级变成 [[/r 3d6]] 。</p>"
 		},
 		"Panache Paragon": {
 			"name": "Panache Paragon",
@@ -9618,8 +9618,8 @@
 			"description": "<p>Your body is designed to be particularly resilient. Your chassis is medium armor in the plate armor group that grants a +4 item bonus to AC, a Dex cap of +1, a check penalty of -2, a speed penalty of -5 feet, and a Strength value of 16. You can never wear other armor or remove your chassis; however, you still don't become @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigued} from sleeping. Finally, you can etch armor runes onto your chassis as normal.</p>\n<p><strong>Enhancement</strong> Your chassis becomes difficult to overcome. You gain the Chassis Deflection reaction.</p>"
 		},
 		"Rejuvenating Touch": {
-			"name": "Rejuvenating Touch",
-			"description": "<p>Your healing energies linger after you cast, providing continual benefits.</p>\n<p>An ally that recovers Hit Points from your <em>@Compendium[pf2e.spells-srd.zNN9212H2FGfM7VS]{Lay on Hands}</em> gains 10 temporary Hit Points at the start of their turn during each of the next 10 rounds. This effect ends if the ally is knocked @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Unconscious}.</p>\n<p>@Compendium[pf2e.spell-effects.oaRt210JV4GZIHmJ]{Spell Effect: Rejuvenating Touch}</p>"
+			"name": "复原之触 Rejuvenating Touch",
+			"description": "<p>你的治疗能量在你施放后仍徘徊逗留，提供持续性效果。</p>\n<p>一名因为你的 <em>@Compendium[pf2e.spells-srd.zNN9212H2FGfM7VS]{圣疗 Lay on hand}</em> 恢复生命值的生物在接下来的10轮中，每到他回合开始他就会获得10点临时生命值。如果该盟友 @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{失去意识}，效果结束。</p>\n<p>@Compendium[pf2e.spell-effects.oaRt210JV4GZIHmJ]{法术效果：复原之触}</p>"
 		},
 		"Relentless Disarm": {
 			"name": "Relentless Disarm",
@@ -9998,8 +9998,8 @@
 			"description": "<p><strong>Requirements</strong> You have a free hand</p>\n<hr />\n<p>You subtly damage others' equipment. Choose one item that a creature within your reach wields or carries. The item must have moving parts that you could possibly sabotage (a shortbow could be sabotaged, but a longsword could not). Attempt a Thievery check against the Reflex DC of the creature. Damage dealt by Sabotage can't take the item below its Break Threshold.</p>\n<hr />\n<p><strong>Critical Success</strong> You deal damage equal to four times your Thievery proficiency bonus.</p>\n<p><strong>Success</strong> You deal damage equal to double your Thievery proficiency bonus.</p>\n<p><strong>Critical Failure</strong> Temporarily immune to your Sabotage for 1 day</p>"
 		},
 		"Sacred Defender": {
-			"name": "Sacred Defender",
-			"description": "<p>You are a great warrior that can stand strong against the fiercest opponents to your cause.</p>\n<p>You gain resistance 10 to bludgeoning, piercing, and slashing damage caused by creatures and effects opposed to your tenets (evil creatures for tenets of good, good creatures for tenets of evil, and so on).</p>\n<p>In addition, creatures and effects that roll a natural 20 on an attack roll against you don't improve their result by one degree of success.</p>"
+			"name": "神圣防卫者 Sacred Defender",
+			"description": "<p>你是个强大的战士，即使遇到再强大的敌人也屹立不摇。</p>\n<p>你对和你信条相悖(邪恶生物对善良信条、善良生物对邪恶信条，以此类推)生物所造成的攻击与效果上，于钝击、穿刺还有挥砍伤害获得抗力10。</p>\n<p>此外，在对抗你的攻击骰上，该生物和效果如果骰出自然20，不会让结果的成功程度上升一阶。</p>"
 		},
 		"Sacred Defense": {
 			"name": "Sacred Defense",
