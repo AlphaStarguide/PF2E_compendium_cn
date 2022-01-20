@@ -198,8 +198,8 @@
 			"description": "<p>You gain one barbarian feat. For the purpose of meeting its prerequisites, your barbarian level is equal to half your character level.</p>\n<hr />\n<p><strong>Special</strong> You can select this feat more than once. Each time you select it, you gain another barbarian feat.</p>"
 		},
 		"Advanced General Training": {
-			"name": "Advanced General Training",
-			"description": "<p>Over the course of adventuring, your adaptability has let you pick up numerous useful abilities. You gain a general feat of 7th level or lower. You must meet the feat's prerequisites.</p>\n<hr />\n<p><strong>Special</strong> You can select this feat multiple times, choosing a different feat each time.</p>"
+			"name": "进阶通用训练 Advanced General Training",
+			"description": "<p>在冒险途中，你的适应力让自己习得了许多有用的能力。你获得1个7级或更低等级的通用专长（general feat），你必须满足专长的先决条件（prerequisites）。</p>\n<hr />\n<p><strong>特殊</strong> 你能够多次选取该专长，每次选取都要选择不同的专长。</p>"
 		},
 		"Advanced Hunter's Trick": {
 			"name": "Advanced Hunter's Trick",
@@ -314,8 +314,8 @@
 			"description": "<p>The harmonious magic of Nirvana flows through you. You can cast <em>@Compendium[pf2e.spells-srd.wp09USMB3GIW1qbp]{Animal Form}</em> and <em>@Compendium[pf2e.spells-srd.b515AZlB0sridKSq]{Calm Emotions}</em> each once per day as 2nd-level divine innate spells.</p>"
 		},
 		"Ageless Patience": {
-			"name": "Ageless Patience",
-			"description": "<p>You work at a pace born from longevity that enhances your thoroughness. You can voluntarily spend twice as much time as normal on a Perception check or skill check to gain a +2 circumstance bonus to that check. You also don't treat a natural 1 as worse than usual on these checks; you get a critical failure only if your result is 10 lower than the DC. For example, you could get these benefits if you spent 2 actions to Seek, which normally takes 1 action. You can get these benefits during exploration by taking twice as long exploring as normal, or in downtime by spending twice as much downtime. The GM might determine a situation doesn't grant you a benefit if a delay would be directly counterproductive to your success, such as a tense negotiation with an impatient creature.</p>"
+			"name": "永恒耐心 Ageless Patience",
+			"description": "<p>缓慢的节奏让你行事更加缜密。你在进行察觉检定或是技能检定时可以花费2倍时间来在检定上获得+2加值。你在该检定上不会因为自然1而造成更坏的效果;你只有在比DC低于5点时才会大失败。比如，你通常需要1个动作进行潜行。你可以通过花费2个动作来获得这项增益。你也可以在探险期间与休整期间花费双倍时间来获得增益。如果GM认为拖延会造成负面影响时，比方说你在和一个不耐烦的人进行紧张的谈判时，这项加值会变为减值。</p>"
 		},
 		"Ageless Spirit": {
 			"name": "Ageless Spirit",
@@ -486,12 +486,12 @@
 			"description": "<p>You have extensive knowledge of your ancestors' ancient origins. You gain the trained proficiency rank in Alghollthu Lore and Azlanti Lore. If you roll a critical failure on an Alghollthu Lore or Azlanti Lore check to Recall Knowledge, you get a failure instead.</p>"
 		},
 		"Ancestral Linguistics": {
-			"name": "Ancestral Linguistics",
-			"description": "<p>Over your extensive lifespan, you've studied many languages. During your daily preparations, you can recede into old memories to become fluent in one common language or one other language you have access to. You know this language until you prepare again. Since this knowledge is temporary, you can't use it as a prerequisite for a permanent character option.</p>"
+			"name": "传世语言学 Ancestral Linguistics",
+			"description": "<p>在你漫长的生命历程中，你已经学会了许多种语言。在你进行日常准备（Daily Preparations）时，能够从往日记忆中抽取回忆，变得能够流利使用1种常见语言（common language）或者其他你有权选取的语言。你会在直至再次进行日常准备前了解这种语言。由于这是种临时的知识，因此你无法将其作为常驻角色选项（permanent character option）的先决条件来使用。</p>"
 		},
 		"Ancestral Longevity": {
-			"name": "Ancestral Longevity",
-			"description": "<p>You have accumulated a vast array of lived knowledge over the years. During your daily preparations, you can reflect upon your life experiences to gain the trained proficiency rank in one skill of your choice. This proficiency lasts until you prepare again. Since this proficiency is temporary, you can't use it as a prerequisite for a skill increase or a permanent character option like a feat.</p>"
+			"name": "长寿族裔 Ancestral Longevity",
+			"description": "<p>你在漫长的生命历程中累积了极其广泛的生活知识。在你进行日常准备时，你可以回忆过往的生活经验，从而让你在一项自选的技能上受训。此擅长会持续到你下次进行准备。由于这种熟练的暂时的，所以你并不能将其作为技能增强或是其他类似专长一样的永久性角色选项的前置。</p>"
 		},
 		"Ancestral Mage": {
 			"name": "Ancestral Mage",
@@ -502,8 +502,8 @@
 			"description": "<p>Whether through instinct, study, or magic, you feel a deeper connection to your ancestry. You gain a 1st-level ancestry feat.</p>"
 		},
 		"Ancestral Suspicion": {
-			"name": "Ancestral Suspicion",
-			"description": "<p>Long-lived elves have seen civilizations rise and fall, often at the hands of outside forces. As a result, they have developed a wariness of others who might seek to influence or control them.</p>\n<p>You've been trained to resist such manipulation, gaining a +2 circumstance bonus to saving throws against effects that would make you controlled, such as <em>@Compendium[pf2e.spells-srd.OsOhx3TGIZ7AhD0P]{Dominate}</em>, and to Perception checks to @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Sense Motive} when trying to determine if a creature is under the influence of such an effect.</p>\n<p>When you roll a success on a saving throw against such an effect, you get a critical success instead.</p>"
+			"name": "传世之疑虑 Ancestral Suspicion",
+			"description": "<p>长寿的精灵们见证了文明的兴衰，而这种事情通常经由外部势力之手达成。因此这些精灵会对那些试图控制或影响自身的人尤为谨慎。</p>\n<p>你接受过如何抵御这些操弄之术的训练，你在对抗那些会让你被操控（controlled）的效果时，比如 <em>@Compendium[pf2e.spells-srd.OsOhx3TGIZ7AhD0P]{支配术 Dominate}</em>，豁免检定获得加值；而且会在使用察觉（Perception）检定来 @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{察言观色} ，尝试鉴别生物是否处于此类效果影响之下时获得加值，上述加值均为+2环境加值。</p>\n<p>当你在对抗此类效果的豁免检定中投出成功时，你会得到大成功作为替代。</p>"
 		},
 		"Ancestral Weaponry": {
 			"name": "Ancestral Weaponry",
@@ -1018,8 +1018,8 @@
 			"description": "<p>Your extensive service has made you a lesser herald of your deity, which affords you certain privileges. First, any creature you encounter knows instinctively that you speak for your deity. Second, if you conduct the commune ritual to contact your deity, you don't have to pay any cost and you automatically get a critical success. Third, once per day, you can cast plane shift as a divine innate spell, but only to travel to the realm of your deity. When you cast it this way, its casting time is 1 minute, your religious symbol is a sufficient tuning fork for this spell, and you appear exactly where you want to be. If you're in your deity's realm due to this spell, you can return to the point you left when you cast it by spending a single action, which has the concentrate and divine traits.</p>"
 		},
 		"Avenge Ally": {
-			"name": "Avenge Ally",
-			"description": "<p><strong>Frequency</strong> once every 10 minutes</p>\n<p><strong>Requirements</strong> You are adjacent to an ally with the @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Dying}</p>\n<p>condition.</p>\n<hr />\n<p>Though you know that you will eventually outlive your companions, seeing them at death's door brings clarity to your attacks. Make a Strike. Roll twice on the attack roll and use the higher result.</p>"
+			"name": "为友复仇 Avenge Ally",
+			"description": "<p><strong>频率</strong> 每10分钟1次</p>\n<p><strong>需求</strong> 你与1名 @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{濒死}的盟友相邻。</p>\n<hr />\n<p>尽管你知道自己会比伙伴们更长寿，但看着他们跨过死亡之门仍旧会使得你的攻击变得更加尖锐。作出1次打击（Strike）。投掷2次攻击检定并取用较高的结果。</p>"
 		},
 		"Avenge in Glory": {
 			"name": "Avenge in Glory",
@@ -1610,8 +1610,8 @@
 			"description": "<p>Your dwarven build allows you to push foes around, just like a mighty boulder tumbles through a subterranean cavern. Take a @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Step} into the square of a foe that is your size or smaller, and the foe must move into the empty space directly behind it. The foe must move even if doing so places it in harm's way. The foe can attempt a Fortitude saving throw against your Athletics DC to block your Step. If the foe attempts this saving throw, unless it critically succeeds, it takes bludgeoning damage equal to your level plus your Strength modifier. If the foe can't move into an empty space (if it is surrounded by solid objects or other creatures, for example), your Boulder Roll has no effect.</p>"
 		},
 		"Bounce Back": {
-			"name": "Bounce Back",
-			"description": "<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> You lose the @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Dying} condition.</p>\n<hr />\n<p>You recover from near-death experiences with astounding resilience. Don't increase the value of your @Compendium[pf2e.conditionitems.Yl48xTdMh3aeQYL2]{Wounded} condition due to losing the dying condition.</p>"
+			"name": "强健复苏 Bounce Back",
+			"description": "<p><strong>频率</strong> 每天1次</p>\n<p><strong>触发</strong> 你失去了 @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{濒死} 状态。</p>\n<hr />\n<p>你以惊人的韧性从濒临死亡的体验中苏醒。你不会由于失去濒死（dying）状态而使得 @Compendium[pf2e.conditionitems.Yl48xTdMh3aeQYL2]{受伤} 状态的数值增加。</p>"
 		},
 		"Bouncy Goblin": {
 			"name": "Bouncy Goblin",
@@ -3690,8 +3690,8 @@
 			"description": "<p>You and your spotter are adept at watching out for one another. As long as you can see or hear each other, neither of you is @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} to @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Hidden}, undetected, or flanking creatures of your level or lower, or to creatures of your level or lower using a surprise attack. However, they can still help their allies flank.</p>"
 		},
 		"Earned Glory": {
-			"name": "Earned Glory",
-			"description": "<p>Elves are often skeptical of their half-elven kin, and you are experienced at telling stories of your accomplishments to gain their respect. You are trained in Performance. If you would automatically become trained in Performance (from your background or class, for example), you instead become trained in a skill of your choice.</p>\n<p>You gain the @Compendium[pf2e.feats-srd.xqAdXRd2gSQcqp5E]{Impressive Performance} feat. When you attempt a Performance check to @Compendium[pf2e.actionspf2e.OX4fy22hQgUHDr0q]{Make an Impression} on an elf, if you roll a critical failure, you get a failure instead.</p>"
+			"name": "赢取荣誉 Earned Glory",
+			"description": "<p>精灵通常会对他们的半精灵亲属持怀疑态度，而你很擅长通过讲述自身的成就来获得他们的尊重。你在表演（Performance）技能上获得受训。若你已经自动在表演技能上受训（比如由于背景或职业），则自行选择1个技能获得受训作为替代。</p>\n<p>你获得 @Compendium[pf2e.feats-srd.xqAdXRd2gSQcqp5E]{动人表演 Impressive Performance} 专长。当你尝试表演检定来对1名精灵进行 @Compendium[pf2e.actionspf2e.OX4fy22hQgUHDr0q]{建立印象} 动作时，若检定结果为大失败，则使用失败作为替代。</p>"
 		},
 		"Earthsense": {
 			"name": "Earthsense",
@@ -3898,8 +3898,8 @@
 			"description": "<p>你的精灵血脉特别浓厚，使你的种族特征远超典型的半精灵。你可能在精灵中成长，沉浸在你精灵先组的遗产之中。你获得了你精灵父母或是先组的精灵遗传的好处。你不能选择一个依赖或是增强你所没有的精灵特征的遗传。比如，如果你没有昏暗视觉，你就无法获得洞穴精灵的黑暗视觉。在这种情况下，根据GM的判断，你可能获得不同的效果。</p>\n<p><strong>特殊</strong> 你必须1级选择此专长，你无法重训来或是重训掉此专长。</p>"
 		},
 		"Elf Step": {
-			"name": "Elf Step",
-			"description": "<p>You move in a graceful dance, and even your steps are broad. You Step 5 feet twice.</p>"
+			"name": "精灵快步 Elf Step",
+			"description": "<p>你的移动如同优雅的舞蹈一般，即使步伐也是如此。你可以进行2次五尺快步。</p>"
 		},
 		"Elite Dracomancer": {
 			"name": "Elite Dracomancer",
@@ -3918,32 +3918,32 @@
 			"description": "<p>You are able to escape inquisitions involving divine magic, allowing you to blend in well in Mzali but also to avoid unwanted attention in other oppressive theocracies. You gain the @Compendium[pf2e.feats-srd.RiuZT3H4QZIIEQXJ]{Slippery Secrets} skill feat, and its benefits also apply against divination effects that attempt to discern your deity. When using Slippery Secrets against a divine divination, you gain a +2 circumstance bonus, and on a critical success, the divination reveals false information appropriate to your false persona, rather than nothing.</p>"
 		},
 		"Elven Aloofness": {
-			"name": "Elven Aloofness",
-			"description": "<p>As much as you might care for them, you've come to terms with the ephemeral nature of non-elves, and it makes their threats feel less troublesome.</p>\n<p>If a non-elf rolls a failure on a check to @Compendium[pf2e.actionspf2e.tHCqgwjtQtzNqVvd]{Coerce} you using Intimidation, it gets a critical failure instead (and thus can't try to Coerce you again for 1 week).</p>\n<p>When a non-elf attempts to @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Demoralize} you, you become temporarily immune for 1 day, instead of 10 minutes.</p>"
+			"name": "冷傲精灵 Elven Aloofness",
+			"description": "<p>尽管你仍旧会关注精灵之外的存在，但你对他们短视的秉性习以为常，这使你觉得他们口中的威胁缺乏说服力。</p>\n<p>若1名非精灵（non-elf）在 @Compendium[pf2e.actionspf2e.tHCqgwjtQtzNqVvd]{胁迫} 你的威吓检定中投出失败时，结果会变为大失败作为替代（因此在1周内无法再次胁迫你）。</p>\n<p>当1名非精灵尝试对你 @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{挫败士气} 时，你会在1日内临时免疫（temporarily immune）对方的挫败士气以取代正常的10分钟。</p>"
 		},
 		"Elven Instincts": {
 			"name": "Elven Instincts",
 			"description": "<p>Your senses let you react rapidly. You gain a +2 circumstance bonus to Perception checks made as initiative rolls. Additionally, if your initiative roll result is tied with that of an opponent, you go first, regardless of whether you rolled Perception or not.</p>"
 		},
 		"Elven Lore": {
-			"name": "Elven Lore",
-			"description": "<p>You've studied in traditional elven arts, learning about arcane magic and the world around you. You gain the trained proficiency rank in Arcana and Nature. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Elven Lore.</p>"
+			"name": "精灵学识 Elven Lore",
+			"description": "<p>你研究过传统精灵艺术，学习过奥术知识以及你周围的世界。你获得了奥术和自然的受训熟练等级。如果你已经在这些中已经受训的话（比如来自你的背景或是职业），你可以自选一项技能将之受训。你同时也会在精灵学识上受训。</p>"
 		},
 		"Elven Verve": {
 			"name": "Elven Verve",
 			"description": "<p>While all elves are immune to the paralyzing touch of ghouls, you can shake off flesh-numbing magic of all kinds. You gain a +1 circumstance bonus to saves against effects that would impose the @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilized},@Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralyzed}, or @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Slowed}conditions. When you would be immobilized, paralyzed, or slowed for at least 2 rounds, reduce that duration by 1 round.</p>"
 		},
 		"Elven Weapon Elegance": {
-			"name": "Elven Weapon Elegance",
-			"description": "<p>You are attuned to the weapons of your elven ancestors and are particularly deadly when using them. Whenever you critically hit using an elf weapon or one of the weapons listed in Elven Weapon Familiarity, you apply the weapon's critical specialization effect.</p>"
+			"name": "精灵武器优雅 Elven Weapon Elegance",
+			"description": "<p>你已经十分善使精灵先祖传承下来的武器，在使用它们的时候尤其致命。当你用弓武器组或剑武器组的武器造成重击时，会附加武器的重击特殊效果。</p>"
 		},
 		"Elven Weapon Expertise": {
-			"name": "Elven Weapon Expertise",
-			"description": "<p>Your elven affinity blends with your class training, granting you great skill with elven weapons. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency in longbows, composite longbows, longswords, rapiers, shortbows, composite shortbows, and all elf weapons in which you are trained.</p>"
+			"name": "精灵武器专家 Elven Weapon Expertise",
+			"description": "<p>你的精灵爱好与你接受的职业训练，授予了你对于精灵武器的卓越技巧。每当你获得一项授予你在特定武器上获得专家或是更高熟练度的职业能力时，你也可以在长弓、复合长弓、长剑、刺剑、短弓、复合短弓以及你已受训的精灵武器上获得对应的熟练度。</p>"
 		},
 		"Elven Weapon Familiarity": {
-			"name": "Elven Weapon Familiarity",
-			"description": "<p>You favor bows and other elegant weapons. You are trained with @Compendium[pf2e.equipment-srd.MVAWttmT0QDa7LsV]{Longbows}, @Compendium[pf2e.equipment-srd.dUC8Fsa6FZtVikS3]{Composite Longbows}, @Compendium[pf2e.equipment-srd.LJdbVTOZog39EEbi]{Longswords}, @Compendium[pf2e.equipment-srd.tH5GirEy7YB3ZgCk]{Rapiers}, @Compendium[pf2e.equipment-srd.hIgqLgH3YcLZBeoT]{Shortbows}, and @Compendium[pf2e.equipment-srd.e4NwsnPnpQKbDZ9F]{Composite Shortbows}.</p>\n<p>In addition, you gain access to all uncommon elf weapons. For the purpose of determining your proficiency, martial elf weapons are simple weapons and advanced elf weapons are martial weapons.</p>"
+			"name": "精灵武器熟悉 Elven Weapon Familiarity",
+			"description": "<p>你酷爱长弓跟其他优雅的武器。你在 @Compendium[pf2e.equipment-srd.MVAWttmT0QDa7LsV]{长弓}, @Compendium[pf2e.equipment-srd.dUC8Fsa6FZtVikS3]{复合长弓}, @Compendium[pf2e.equipment-srd.LJdbVTOZog39EEbi]{长剑}, @Compendium[pf2e.equipment-srd.tH5GirEy7YB3ZgCk]{刺剑}, @Compendium[pf2e.equipment-srd.hIgqLgH3YcLZBeoT]{短弓}和 @Compendium[pf2e.equipment-srd.e4NwsnPnpQKbDZ9F]{复合短弓}上受训。</p>\n<p>此外，你还能够使用各种罕见的精灵武器。在决定是否擅长时，你将军用精灵武器视为简易武器，并将异种精灵武器视为军用。</p>"
 		},
 		"Embed Aeon Stone": {
 			"name": "Embed Aeon Stone",
@@ -4370,8 +4370,8 @@
 			"description": "<p>Your @Compendium[pf2e.classfeatures.Pe0zmIqyTBc2Td0I]{Advanced Alchemy} level for herbalism increases to your level -3.</p>\n<p>You gain the formulas for elixirs of life as soon as your advanced alchemy level is high enough to create them: @Compendium[pf2e.equipment-srd.TZUskLT7yvP7N2co]{lesser} at 8th level, @Compendium[pf2e.equipment-srd.c21stU5rhN4F2fZl]{moderate} at 12th level, @Compendium[pf2e.equipment-srd.mYozcVg9fQY6zO7C]{greater} at 16th level, and @Compendium[pf2e.equipment-srd.AmxSqEoFhRLMYd1W]{major} at 18th level.</p>"
 		},
 		"Expert Longevity": {
-			"name": "Expert Longevity",
-			"description": "<p>You've continued to refine the knowledge and skills you've gained through your life. When you choose a skill in which to become trained with Ancestral Longevity, you can also choose a skill in which you are already trained and become an expert in that skill. This lasts until your Ancestral Longevity expires. When the effects of Ancestral Longevity and Expert Longevity expire, you can retrain one of your skill increases. The skill increase you gain from this retraining must either make you trained in the skill you chose with Ancestral Longevity or make you an expert in the skill you chose with Expert Longevity.</p>"
+			"name": "长寿专家 Expert Longevity",
+			"description": "<p>你不断完善着你从生活中学来的知识和技能。当你通过长寿族裔选择一项技能时，你也可以选择一项你已经受训的技能，转而在这个技能上成为专家。这会持续到你长寿族裔到期为止。当长寿族裔和长寿专家效果结束时，你可以重训你的一项技能增强。这项技能增强必须是你长寿族裔或是长寿专家选择的技能。</p>"
 		},
 		"Expert Magus Spellcasting": {
 			"name": "Expert Magus Spellcasting",
@@ -5078,8 +5078,8 @@
 			"description": "<p><strong>Access</strong> underground dwarf ethnicity</p>\n<hr />\n<p>Your unusual rest cycle allows you to recover faster. As long as you rest for 12 hours, you gain the effects of the @Compendium[pf2e.feats-srd.N8Xz5fuW6o7GW124]{Fast Recovery} general feat and you can go 20 hours without resting before becoming @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigued}.</p>"
 		},
 		"Forlorn": {
-			"name": "Forlorn",
-			"description": "<p>Watching your friends age and die fills you with moroseness that protects you against harmful emotions. You gain a +1 circumstance bonus to saving throws against emotion effects. If you roll a success on a saving throw against an emotion effect, you get a critical success instead.</p>"
+			"name": "百年孤寂 Forlorn",
+			"description": "<p>眼睁睁看着你的朋友逐渐凋零逝去让你满心抑郁，却也使你在对抗有害情绪时有所准备。你在对抗情绪效果的豁免上获得+1环境加值。如果你在对抗情绪检定的豁免检定中成功，那么改视其为大成功。</p>"
 		},
 		"Form Control": {
 			"name": "Form Control",
@@ -5694,8 +5694,8 @@
 			"description": "<p><strong>Frequency</strong> once per hour</p>\n<p><strong>Trigger</strong> You fail a Fortitude or Will save.</p>\n<hr />\n<p>You call upon deep reserves of toughness and mental fortitude to power through an otherwise debilitating effect. Reroll the triggering save with a +2 circumstance bonus; you must use the second result.</p>"
 		},
 		"Group Aid": {
-			"name": "Group Aid",
-			"description": "<p>Your upbringing emphasized teamwork and helping your allies comes naturally to you.</p>\n<p>After you @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aid} an ally at a skill check that doesn't have the attack trait, you can also Aid any other ally who attempts the same skill check for the same purpose that round. You do so as a free action rather than a reaction.</p>\n<p>The preparation you did to help must still apply to the other allies, and you can Aid each ally only once. For example, if you helped lift up an ally to Aid them on an Athletics check to scale a wall, you could keep the same posture to give a boost to other allies attempting to scale the wall in the same round.</p>"
+			"name": "协助团队 Group Aid",
+			"description": "<p>你所接受的教育强调团队协作，这使得协助盟友对你来说就好像是天性一般。</p>\n<p>在你 @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{协助} 1名盟友进行1次不具有攻击（Attack）特征的技能检定后，你还能协助任何其他在该轮为了相同目标而尝试相同检定的盟友。你这么做是自由动作（free action）而非反应动作（reaction）。</p>\n<p>你为了帮助他人所进行的准备应当也适用于其他盟友，而且每名盟友你仅能协助1次。举例说明，若你托举1名盟友来协助他的运动检定以翻越墙壁的话，你也可以在同一轮内保持同样的姿势来协助尝试翻越墙壁的其他盟友。</p>"
 		},
 		"Group Coercion": {
 			"name": "Group Coercion",
@@ -5842,8 +5842,8 @@
 			"description": "<p><strong>Requirements</strong> You're standing on earthen or stone ground.</p>\n<hr />\n<p>You fortify your skin with minerals drawn from earth and stone. You gain resistance 3 to physical damage, except adamantine, until the beginning of your next turn. At 12th level, and every 4 levels thereafter, the resistance increases by 1, to a maximum of resistance 6 at 20th level.</p>"
 		},
 		"Hardy Traveler": {
-			"name": "Hardy Traveler",
-			"description": "<p>There's no journey too far or burden too heavy when your friends are at your side.</p>\n<p>Increase your maximum and encumbered Bulk limits by 1. In addition, you gain a +10-foot circumstance bonus to your Speed during overland travel.</p>"
+			"name": "坚韧旅者 Hardy Traveler",
+			"description": "<p>在友人相伴之时，你的旅程就变得不那么遥远，而行囊也变得不再那样沉重了。</p>\n<p>你的最大（maximum）以及超载（encumbered）的负载上限（Bulk limits）增加1点。此外，在陆上旅行（overland travel）期间，你的速度获得+10尺环境加值。</p>"
 		},
 		"Harming Hands": {
 			"name": "Harming Hands",
@@ -6006,8 +6006,8 @@
 			"description": "<p>The songs of ancient heroes echo through your mind and quicken your pulse, especially in dire straits. You gain <em>@Compendium[pf2e.spells-srd.KqvqNAfGIE5a9wSv]{Heroism}</em>as a 3rd-level innate occult spell that you can cast once per day. If you Cast the Spell when you have half or fewer Hit Points, you also gain temporary Hit Points equal to twice your level.</p>"
 		},
 		"Heroic Presence": {
-			"name": "Heroic Presence",
-			"description": "<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p>The blood of heroes courses through your veins, and you inspire your allies to dig deep and find a new level of resolve.</p>\n<p>You grant up to 10 willing creatures within 30 feet the effects of a 6th-level <em>@Compendium[pf2e.spells-srd.GYD0XZ4t3tQq6shc]{Zealous Conviction}</em>, though the effect automatically ends on a target if you give that target a command they would normally find repugnant.</p>\n<p>This action has the auditory trait or visual trait, depending on how you inspire your allies.</p>"
+			"name": "英雄风姿 Heroic Presence",
+			"description": "<p><strong>频率</strong> 每日1次</p>\n<hr />\n<p>英雄之血在你体内滚滚流淌，你能深入发掘盟友并激励他们催生出更强的决心。</p>\n<p>你能赋予30尺内的至多10名自愿盟友6环 <em>@Compendium[pf2e.spells-srd.GYD0XZ4t3tQq6shc]{狂热执念 Zealous Conviction}</em>法术的效果，但如果你对目标下达的指令会让其感到反感，那么该法术便会自动终止。</p>\n<p>该动作具有听觉（auditory）或视觉（visual）特征，具体取决于你如何激励盟友。</p>"
 		},
 		"Heroic Recovery": {
 			"name": "Heroic Recovery",
@@ -6922,8 +6922,8 @@
 			"description": "<p><strong>Frequency</strong> once per day</p>\n<p><strong>Access</strong> Vudrani ethnicity</p>\n<p><strong>Trigger</strong> You roll a critical failure on a saving throw against an emotion effect.</p>\n<hr />\n<p>You center yourself and call to mind the Vudrani monastic ideals of mindfulness and self-knowledge. You fail the save against the emotion effect instead of critically failing.</p>"
 		},
 		"Know Your Own": {
-			"name": "Know Your Own",
-			"description": "<p>You've spent countless hours studying the history of elves on your world and beyond and are a studied expert in your people's ways.</p>\n<p>If you critically fail a check to Recall Knowledge about elves, elven society, or elven history, you get a failure instead.</p>"
+			"name": "理解自身 Know Your Own",
+			"description": "<p>你花费无数时间去研究自己以及其他世界的精灵历史，在同族之中已经算个学究了。</p>\n<p>若你在关于精灵、精灵社会或精灵历史的回忆知识（Recall Knowledge）检定中投出大失败，则会得到失败的结果作为替代。</p>"
 		},
 		"Know the Beat": {
 			"name": "Know the Beat",
@@ -7414,8 +7414,8 @@
 			"description": "<p>You can defend your companion in battle. You gain the <em>@Compendium[pf2e.spells-srd.u2uSeH6YSbK1ajTy]{Magic Hide}</em> warden spell. Increase the number of Focus Points in your focus pool by 1.</p>"
 		},
 		"Magic Rider": {
-			"name": "Magic Rider",
-			"description": "<p>Your people used powerful magic to travel between distant worlds, and the remnants of that magic make such transportation easier for you.</p>\n<p>When you are the target of a teleportation spell that transports more than one person, it can affect an additional person beyond the normal limit, chosen by the caster.</p>\n<p>Additionally, when you're the target of a <em>@Compendium[pf2e.spells-srd.69L70wKfGDY66Mk9]{Teleport}</em> spell, you and the other targets arrive no farther than 1 mile off target, regardless of distance traveled.</p>"
+			"name": "魔法旅者 Magic Rider",
+			"description": "<p>你的族人使用魔法在遥远的世界间旅行，这些残留的魔力让你能够更方便地进行传送。</p>\n<p>当你成为传送法术（teleportation spell）的目标，且该次传送不止传送1人时，该法术可以在正常限制之外影响1个额外的人，额外目标由施法者进行选择。</p>\n<p>此外，当你是 <em>@Compendium[pf2e.spells-srd.69L70wKfGDY66Mk9]{传送术 Teleport}</em> 法术的目标时，你和其他目标抵达的位置与目的地间的距离不会超过1英里，无论已经传送了多远的距离都是如此。</p>"
 		},
 		"Magic Sense": {
 			"name": "魔力视界 Magic Sense",
@@ -7570,8 +7570,8 @@
 			"description": "<p>You've become comfortable in using weapons that you might not have picked up before training with the Swords. Choose one weapon group, such as hammer or sword. Whenever your proficiency rank in any weapon increases to expert or beyond, you also gain that new proficiency rank with both simple and martial weapons of your chosen weapon group.</p>"
 		},
 		"Martial Experience": {
-			"name": "Martial Experience",
-			"description": "<p>You've crossed blades with a wide variety of foes wielding a wide variety of weapons, and you've learned the basics of fighting with nearly any of them.</p>\n<p>When wielding a weapon you aren't proficient with, treat your level as your proficiency bonus. At 11th level, you become trained in all weapons.</p>"
+			"name": "兵击经验 Martial Experience",
+			"description": "<p>你与手持格式武器的各种敌人交过手，这种经历让你理解了近乎所有武器的战斗技巧。</p>\n<p>当你手持1件未受训的武器时，将你的等级视为它的熟练加值（proficiency bonus）。在11级时，你变为在所有武器上受训（trained）。</p>"
 		},
 		"Martial Performance": {
 			"name": "Martial Performance",
@@ -8154,8 +8154,8 @@
 			"description": "<p><strong>Trigger</strong> A creature targets you with an attack and you can see the attacker.</p>\n<p><strong>Requirements</strong> You are not encumbered</p>\n<hr />\n<p>You deftly dodge out of the way, gaining a +2 circumstance bonus to AC against the triggering attack.</p>"
 		},
 		"Nimble Elf": {
-			"name": "Nimble Elf",
-			"description": "<p>Your muscles are tightly honed. Your Speed increases by 5 feet.</p>"
+			"name": "灵巧精灵 Nimble Elf",
+			"description": "<p>你的饱经锻炼。你的速度增加5尺。</p>"
 		},
 		"Nimble Hooves": {
 			"name": "灵巧蹄足 Nimble Hooves",
@@ -8394,12 +8394,12 @@
 			"description": "<p>If the next action you take is to Manifest your Eidolon as a three-action activity, or to Cast a three-action summoning Spell, the creature appears in an explosion.</p>\n<p>All creatures in a @Template[type:emanation|distance:10] around the creature you summoned or manifested take [[/r {1d4}[fire]]]{1d4 fire damage per spell level} for a summoning spell, or [[/r {(floor(@actor.level/2))d4}[fire]]]{1d4 damage per 2 levels} for Manifesting your Eidolon.</p>\n<p>If the creature you summoned or manifested has the acid, cold, electricity, fire, sonic, or water trait, the damage is that type instead (or cold damage for the water trait). If the creature has more than one of these traits, you choose which damage type to deal.</p>"
 		},
 		"Otherworldly Acumen": {
-			"name": "Otherworldly Acumen",
-			"description": "<p>The arcane magic you possess grows in power and complexity. Choose one common 2nd-level spell from the same tradition as an innate spell you previously gained from another elf ancestry feat (from the arcane list if you have Otherworldly Magic, for example). You can cast that spell as an innate spell once per day, using the same tradition as the list you chose the spell from.</p>\n<p>Your magic is adaptable. By spending 1 day of downtime, you can change the spell you chose to adifferent common 2nd-level spell from the same tradition.</p>"
+			"name": "超凡天资 Otherworldly Acumen",
+			"description": "<p>你所具有的奥法之力变得日益强大和复杂。根据你已经拥有的其他精灵族裔专长提供的内在法术选择相同的根源（same tradition），比如若你具有超凡魔法（Otherworldly Magic）专长则要从奥术列表选择，从常见2环法术（common 2nd-level spell）选择1个。你每日能够以内在法术施放该法术1次，根据你选择的列表来使用相同的根源。</p>\n<p>你的魔法可塑性很强。通过在休整期（downtime）花费1日的时间，你能够把之前选择的法术变更为相同根源的另一个常见2环法术。</p>"
 		},
 		"Otherworldly Magic": {
-			"name": "Otherworldly Magic",
-			"description": "<p>Your elven magic manifests as a simple arcane spell, even if you aren't formally trained in magic. Choose one cantrip from the arcane spell list. You can cast this cantrip as an arcane innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.</p>"
+			"name": "超凡魔法 Otherworldly Magic",
+			"description": "<p>即使你没有接受过正规魔法训练，你也可以将你的精灵魔力汇聚为一个简单的奥法。从奥术法术列表选择一个戏法。你可以将此戏法作为可随意施展的内在奥术法术。此戏法将被升阶至等同你等级一半的环数。</p>"
 		},
 		"Overcrowd": {
 			"name": "Overcrowd",
@@ -8726,8 +8726,8 @@
 			"description": "<p>You Strike a target within reach. If you hit and deal damage, the target is also @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Restrained} as if you had critically succeeded at an Athletics check to @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Grapple}.</p>"
 		},
 		"Pinch Time": {
-			"name": "Pinch Time",
-			"description": "<p>One of your parents has a human life span and another an elven life span, with your own somewhere between. As a result, you have an unusual perspective on time, which you've learned to manifest to aid yourself in moments of stress.</p>\n<p>You gain <em>@Compendium[pf2e.spells-srd.o6YCGx4lycsYpww4]{Haste}</em> as a 3rd-level arcane innate spell, though you can target only yourself. You can Cast this Spell once per day.</p>"
+			"name": "挤出时间 Pinch Time",
+			"description": "<p>你的双亲之一具有人类的寿命，另一名则具有精灵的寿命，而你自身则介于两者之间。作为这种情况带来的结果，你对时间有着截然不同的观点，由此你学会了如何帮助自己从短暂的压力中释放出来。</p>\n<p>你获得 <em>@Compendium[pf2e.spells-srd.o6YCGx4lycsYpww4]{加速术 Haste}</em> 作为3环奥术内在法术（arcane innate spell），不过你只能以自身为目标。你每日能施放该法术1次。</p>"
 		},
 		"Pinning Fire": {
 			"name": "Pinning Fire",
@@ -10258,8 +10258,8 @@
 			"description": "<p>You read the body language of an intelligent creature within 30 feet and pick up on subtle cues to detect its general propensity for good or evil and law or chaos. The GM rolls a secret Perception check, comparing the result against the target's Deception DC.</p>\n<hr />\n<p><strong>Critical Success</strong> You ascertain the target's alignment.</p>\n<p><strong>Success</strong> You ascertain the target's alignment, but only along one axis (your choice of either the good-evil axis or the lawful-chaotic axis).</p>\n<p><strong>Failure</strong> You do not learn the target's alignment.</p>\n<p><strong>Critical Failure</strong> You incorrectly ascertain the target's alignment, misidentifying their alignment along either one axis or both (GM's choice).</p>"
 		},
 		"Sense Allies": {
-			"name": "Sense Allies",
-			"description": "<p>Like many humans raised in a close-knit community, you have always been strongly attuned to the presence of others. Willing allies that you are aware of within 60 feet that would otherwise be @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Undetected} by you are instead @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Hidden} from you. The flat check for you to target willing allies within 60 feet that are hidden from you is 5 instead of 11.</p>"
+			"name": "感知盟友 Sense Allies",
+			"description": "<p>与许多其他在关系紧密的社区长大的人类一样，你总能够强烈地感受并适应他人的存在。距离你60尺范围内，且你能意识到的自愿盟友，若在正常情况下对你来说为 @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{无踪} ，则改为对你来说为 @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{藏匿} 作为替代。若你要以对你来说为藏匿状态、且与你的距离不超过60尺的自愿盟友为目标，则此纯骰检定（flat check）的DC为5，而非正常的11。</p>"
 		},
 		"Sense Chaos": {
 			"name": "Sense Chaos",
@@ -11654,8 +11654,8 @@
 			"description": "<p>Your swim Speed increases to match your land Speed.</p>"
 		},
 		"Stubborn Persistence": {
-			"name": "Stubborn Persistence",
-			"description": "<p>Humans are renowned for their ability to persist through the most grueling of trials. When you would become @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigued}, attempt a DC 17 flat check. On a success, you aren't fatigued.</p>\n<p>If the fatigued condition has an underlying cause that you don't address, such as lack of rest, you must attempt the check again at an interval determined by the GM until you fail the flat check or address the underlying cause.</p>"
+			"name": "顽强毅力 Stubborn Persistence",
+			"description": "<p>人类以能够经受最严苛试炼的能力而闻名。当你将要陷入 @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{疲乏}时，尝试1次DC为17的纯骰检定（flat check）。</p>\n<p>若成功，你就不会陷入疲乏。若你未能解决产生疲乏状态的根本原因，比如缺乏休息，则必须根据GM的判断在一段间隔时间后再次尝试检定，直至你在纯骰检定中失败或者解决了根本原因为止。</p>"
 		},
 		"Student Of The Dueling Arts": {
 			"name": "Student Of The Dueling Arts",
@@ -12454,8 +12454,8 @@
 			"description": "<p><strong>Requirements</strong> You are holding healer's tools, or you are wearing them and have a hand free.</p>\n<hr />\n<p>You treat an adjacent creature in an attempt to reduce the @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy}, @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled}, or @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened} condition. If a creature has multiple conditions from this list, choose one.</p>\n<p>Attempt a counteract check against the condition, using your Medicine modifier as your counteract modifier and the condition's source to determine the DC.</p>\n<p>You can't treat a condition that came from an artifact or effect above 20th level unless you have Legendary Medic; even if you do, the counteract DC increases by 10.</p>\n<p>Treating a Condition that is continually applied under certain circumstances (for instance, the enfeebled condition a good character gains from carrying an <em>unholy</em> weapon) has no effect as long as the circumstances continue.</p>\n<hr />\n<p><strong>Critical Success</strong> Reduce the condition value by 2.</p>\n<p><strong>Success</strong> Reduce the condition value by 1.</p>\n<p><strong>Critical Failure</strong> Increase the condition value by 1.</p>"
 		},
 		"Tree Climber (Elf)": {
-			"name": "Tree Climber (Elf)",
-			"description": "<p>You've spent much of your life among the treetops and have become an expert at quickly and safely climbing them. You gain a @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Climb} Speed of 10 feet.</p>"
+			"name": "爬树能手(精灵) Tree Climber (Elf)",
+			"description": "<p>你在树梢上过了大半辈子，是快速且安全地在树上攀爬的行家里手。你获得10尺的 @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{攀爬} 速度。</p>"
 		},
 		"Tree Climber (Goblin)": {
 			"name": "Tree Climber (Goblin)",
@@ -12802,8 +12802,8 @@
 			"description": "<p>With a burst of divine liberation, your ally's movement from your @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Liberating Step} is unaffected by difficult terrain, greater difficult terrain, narrow surfaces, and uneven ground.</p>"
 		},
 		"Universal Longevity": {
-			"name": "Universal Longevity",
-			"description": "<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p>You've perfected your ability to keep up with all the skills you've learned over your long life, so you're almost never truly untrained at a skill. You reflect on your life experiences, changing the skills you selected with @Compendium[pf2e.feats-srd.WoLh16gyDp8y9WOZ]{Ancestral Longevity} and @Compendium[pf2e.feats-srd.vfuHVSuExvtyajkW]{Expert Longevity}.</p>"
+			"name": "长寿全才 Universal Longevity",
+			"description": "<p><strong>频率</strong>每天一次</p>\n<hr />\n<p>你已经完善了你从你漫长寿命中学来的全部技能，所以你几乎不存在真正未受训的技能。你反思你的经历，可以改变你用 @Compendium[pf2e.feats-srd.WoLh16gyDp8y9WOZ]{长寿族裔 Ancestral Longevity} 和 @Compendium[pf2e.feats-srd.vfuHVSuExvtyajkW]{长寿专家 Expert Longevity}选择的技能。</p>"
 		},
 		"Universal Versatility": {
 			"name": "Universal Versatility",
@@ -12858,8 +12858,8 @@
 			"description": "<p>You can translate the emotion and power of a composition to other mediums. If your next action is to cast a composition spell, you can use a different kind of performance than usual for the composition to change any of its somatic components to verbal components or vice versa. As usual for composition spells, this changes whether the composition is auditory or visual.</p>"
 		},
 		"Unwavering Mien": {
-			"name": "Unwavering Mien",
-			"description": "<p>Your mystic control and meditations allow you to resist external influences upon your consciousness. Whenever you are affected by a mental effect that lasts at least 2 rounds, you can reduce the duration by 1 round. You still require natural sleep, but you treat your saving throws against effects that would cause you to fall asleep as one degree of success better. This protects only against sleep effects, not against other forms of falling unconscious.</p>"
+			"name": "坚定不移 Unwavering Mien",
+			"description": "<p>你的超凡自制力和冥想帮助你抵抗针对你思维的外部影响。当你受到持续时间超过2轮的心灵效果影响时，你可以所见一轮持续时间。你仍然需要自然睡眠，但是你对抗使你入睡的效果时，豁免成功度提升1级。这只针对睡眠效果，对于其他形式的使你失去意识的效果无效。</p>"
 		},
 		"Urgent Upwelling": {
 			"name": "Urgent Upwelling",
