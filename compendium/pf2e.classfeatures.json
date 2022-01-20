@@ -518,8 +518,8 @@
 			"description": "<p>As an enchanter, you use magic to manipulate others' minds. You might use your abilities to subtly influence others or seize control over them. You understand that the mind surpasses matter. You add one 1st-level enchantment spell (such as <em>@Compendium[pf2e.spells-srd.vLA0q0WOK2YPuJs6]{Charm}</em>) to your spellbook. You learn the <em>@Compendium[pf2e.spells-srd.KMFRKzNCq7hVNH7H]{Charming Words}</em> school spell.</p>"
 		},
 		"Enigma": {
-			"name": "Enigma",
-			"description": "<p>Your muse is a mystery, driving you to uncover the hidden secrets of the multiverse. If your muse is a creature, it might be a dragon or otherworldly being; if a deity, it might be Irori or Nethys. You gain the @Compendium[pf2e.feats-srd.uVXEZblPRuCyPRua]{Bardic Lore} feat and add <em>@Compendium[pf2e.spells-srd.Gb7SeieEvd0pL2Eh]{True Strike}</em> to your spell repertoire.</p>"
+			"name": "谜团 Enigma",
+			"description": "<p> 你的缪斯是一个谜，驱使你揭秘多元宇宙的隐藏秘密。如果你的缪斯是一个生物，可能是一条龙或者异世界存在，如果是神明，可能是义洛里或者内西斯。你获得 @Compendium[pf2e.feats-srd.uVXEZblPRuCyPRua]{逸闻知识 Bardic Lore} 专长并且将 <em>@Compendium[pf2e.spells-srd.Gb7SeieEvd0pL2Eh]{克敌机先 True Strike}</em> 加入法术库。</p>"
 		},
 		"Eternal Confidence": {
 			"name": "Eternal Confidence",
@@ -966,8 +966,8 @@
 			"description": "<p>Knowledge and information come freely to you. You might use this lore to gain power or perhaps to understand the divine mysteries of the multiverse. You might have a conduit to the fabled Akashic Record, maintain a subtle telepathic connection to the collective subconscious of all living creatures, or follow in the footsteps of deities such as Abadar, Irori, Nethys, Irori's scholarly nephew Gruhastha, the fey triune goddess of fate Magdh, or the lawful aeon god-figure known as the Monad.</p>\n<h3>Curse of Torrential Knowledge</h3>\n<p>You have a link to true divine knowledge, but your mortal mind struggles to process and act on what you know. Loose materials around you, such as dust, grains of rice, and droplets of water, slowly shift to form strange runes or faint indecipherable writing, and you sometimes speak unintelligible truths or statements in unknown languages without realizing it.</p>"
 		},
 		"Maestro": {
-			"name": "Maestro",
-			"description": "<p>Your muse is a virtuoso, inspiring you to greater heights. If it's a creature, it might be a performance-loving creature such as a choral angel or lillend azata; if a deity, it might be @Compendium[pf2e.deities.gxwmzxUWBOhdgFSN]{Shelyn}. As a bard with a maestro muse, you are an inspiration to your allies and confident of your musical and oratorical abilities. You gain the @Compendium[pf2e.feats-srd.sVjATEo8eqkAosNp]{Lingering Composition} feat and add <em>@Compendium[pf2e.spells-srd.szIyEsvihc5e1w8n]{Soothe}</em> to your spell repertoire.</p>"
+			"name": "大师 Maestro",
+			"description": "<p>你的缪斯是一位大师，激励你攀登高峰。如果是一个生物，那它可能是爱好表演的如咏唱天使（choral angel）或者翼蛇人爱塔；如果是一个神，可能是@Compendium[pf2e.deities.gxwmzxUWBOhdgFSN]{莎琳 Shelyn}。作为大师缪斯的诗人，你会激励你的盟友，对你的音乐和口才能力充满自信。你获得@Compendium[pf2e.feats-srd.sVjATEo8eqkAosNp]{绕梁组曲 Lingering Composition}专长，将<em>@Compendium[pf2e.spells-srd.szIyEsvihc5e1w8n]{安抚术 Soothe}</em>加入你的法术库。</p>"
 		},
 		"Magical Fortitude": {
 			"name": "Magical Fortitude",
@@ -1062,8 +1062,8 @@
 			"description": "<p>Few in Shimmerford or elsewhere would be foolish enough to attempt to draw the Mosquito Witch's attention, but whether you're one of those foolish few or simply someone who attracted the Mosquito Witch's attention unwittingly or unwillingly, she grants you powers over insects and other arthropods.</p>\n<p><strong>Spell List</strong> primal</p>\n<p><strong>Patron Skill</strong> Nature</p>\n<p><strong>Hex Cantrip</strong> <em>@Compendium[pf2e.spells-srd.BItahht2hEHvR9Bt]{Buzzing Bites}</em></p>\n<p><strong>Granted Spell</strong> <em>@Compendium[pf2e.spells-srd.gfPjmG6Fe6D3MFjl]{Pest Form}</em></p>"
 		},
 		"Muses": {
-			"name": "Muses",
-			"description": "<p>As a bard, you select one muse at 1st level. This muse leads you to great things, and might be a physical creature, a deity, a philosophy, or a captivating mystery.</p>\n<ul>\n<li>@Compendium[pf2e.classfeatures.4ripp6EfdVpS0d60]{Enigma}</li>\n<li>@Compendium[pf2e.classfeatures.YMBsi4bndRAk5CX4]{Maestro}</li>\n<li>@Compendium[pf2e.classfeatures.y0jGimYdMGDJWrEq]{Polymath}</li>\n<li>@Compendium[pf2e.classfeatures.N03BtRvjX9TeHRa4]{Warrior}</li>\n</ul>"
+			"name": "缪斯 Muses",
+			"description": "<p>作为诗人，你在1级时需要选择一个缪斯。这一缪斯将你引向伟大之物，它可以是一个实际存在的生物，一个神明，一种哲学，或者一种迷人的神秘存在。</p>\n<ul>\n<li>@Compendium[pf2e.classfeatures.4ripp6EfdVpS0d60]{谜团 Enigma}</li>\n<li>@Compendium[pf2e.classfeatures.YMBsi4bndRAk5CX4]{大师 Maestro}</li>\n<li>@Compendium[pf2e.classfeatures.y0jGimYdMGDJWrEq]{博学 Polymath}</li>\n<li>@Compendium[pf2e.classfeatures.N03BtRvjX9TeHRa4]{武者 Warrior}</li>\n</ul>"
 		},
 		"Mutagenist": {
 			"name": "Mutagenist",
@@ -1254,8 +1254,8 @@
 			"description": "<p>Your perpetual infusions improve, allowing you to use @Compendium[pf2e.classfeatures.sPtl05wwTpqFI0lL]{Quick Alchemy} to create more powerful items with no cost. The items you can select depend on your research field and must be in your formula book.</p>\n<p>Choose two common 5th-level or lower alchemical poisons.</p>"
 		},
 		"Polymath": {
-			"name": "Polymath",
-			"description": "<p>Your muse is a jack of all trades, flitting between skills and pursuits. If it's is a creature, it might be an eclectic creature like a fey; if a deity, it might be Desna or Calistria. As a bard with a polymath muse, you are interested in a wide array of topics but rarely dedicated to any one, and you rarely make up your mind-you want to try everything. You gain the @Compendium[pf2e.feats-srd.jBp91q4uzwd4FeSX]{Versatile Performance} feat and add <em>@Compendium[pf2e.spells-srd.xqmHD8JIjak15lRk]{Unseen Servant}</em> to your spell repertoire.</p>"
+			"name": "博学 Polymath",
+			"description": "<p>你的缪斯是万事通，涉足于不同的技能与爱好。如果是一个生物，那它可能是如精类的善变物种；如果是神明，可能是戴斯那或者卡莉斯翠。作为博学缪斯的诗人，你对大量的课题都拥有兴趣但是很少专注于其中之一，你也很少下定决心——你想尝试所有事物。你获得 @Compendium[pf2e.feats-srd.jBp91q4uzwd4FeSX]{多样表演 Versatile Performance} 专长，将 <em>@Compendium[pf2e.spells-srd.xqmHD8JIjak15lRk]{隐形仆役 Unseen Servant}</em> 加入你的法术库。</p>"
 		},
 		"Powerful Alchemy": {
 			"name": "Powerful Alchemy",
@@ -1638,8 +1638,8 @@
 			"description": "<p>You have trained in the more militant doctrine of your church, focusing on both spells and battle.</p>\n<p><strong>@Compendium[pf2e.classfeatures.xxkszluN9icAiTO4]{First Doctrine (1st)}</strong> You're trained in light and medium armor, and you have expert proficiency in Fortitude saves. You gain the @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Shield Block} general feat, a reaction to reduce damage with a shield. If your deity's weapon is simple, you gain the @Compendium[pf2e.feats-srd.DfLkIIg2reyYW3a8]{Deadly Simplicity} cleric feat. At 13th level, if you gain the divine defense class feature, you also gain expert proficiency in light and medium armor.</p>\n<p><strong>@Compendium[pf2e.classfeatures.D34mPo29r1J3DPaX]{Second Doctrine (3rd)}</strong> You're trained in martial weapons.</p>\n<p><strong>@Compendium[pf2e.classfeatures.Zp81uTBItG1xlH4O]{Third Doctrine (7th)}</strong> You gain expert proficiency with your deity's favored weapon. When you critically succeed at an attack roll using that weapon, you apply the weapon's critical specialization effect; use your divine spell DC if necessary.</p>\n<p><strong>@Compendium[pf2e.classfeatures.px3gVYp7zlEQIpcl]{Fourth Doctrine (11th)}</strong> Your proficiency ranks for divine spell attack rolls and spell DCs increase to expert.</p>\n<p><strong>@Compendium[pf2e.classfeatures.kmimy4VOaoEOgOiQ]{Fifth Doctrine (15th)}</strong> Your proficiency rank for Fortitude saves increases to master. When you roll a success at a Fortitude save, you get a critical success instead.</p>\n<p><strong>@Compendium[pf2e.classfeatures.N1ugDqZlslxbp3Uy]{Final Doctrine (19th)}</strong> Your proficiency ranks for divine spell attack rolls and spell DCs increase to master.</p>"
 		},
 		"Warrior": {
-			"name": "Warrior",
-			"description": "<p>The battlefield is your stage, the clang of steel, your song. Your muse engages in countless battles, whether reveling in combat or resigned to its necessity. If your muse is a creature, it might be an otherworldly soldier, such as a planetar, archon, cornugon, or purrodaemon. If it's a deity, it might be Gorum. As a bard with a warrior muse, you train for battle in addition to performance, and you prepare your allies for the dangers of battle. You might even wade into the thick of things with them.</p>\n<p>You gain the @Compendium[pf2e.feats-srd.q1iP3SjAF5uceI0M]{Martial Performance} feat and add <em>@Compendium[pf2e.spells-srd.4koZzrnMXhhosn0D]{Fear}</em> to your spell repertoire.</p>"
+			"name": "武者 Warrior",
+			"description": "<p>战场就是你的舞台，金铁交鸣就是你的奏曲。你的缪斯存于无数的战场，无论是陶醉于战斗或是屈服于死亡。如果你的缪斯是个生物，它可能不是此世的士卒，例如异界神侍(planetar)、神使(archon)、角魔(cornugon)或战狂邪魔(purrodaemon)。如果是位神祇，那可能是古拉姆。作为缪斯是武者的吟游诗人，除了表演，你也在阵中受过训，随时准备在危险的战场中协助你的盟友。你可能会和他们一起跋山涉水。</p>\n<p>你获得 @Compendium[pf2e.feats-srd.q1iP3SjAF5uceI0M]{军乐演奏 Martial Performance} 专长，并且把 <em>@Compendium[pf2e.spells-srd.4koZzrnMXhhosn0D]{恐惧术 Fear}</em> 添到你的法术库里。</p>"
 		},
 		"Wave Order": {
 			"name": "Wave Order",
