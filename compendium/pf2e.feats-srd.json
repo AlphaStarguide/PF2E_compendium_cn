@@ -34,8 +34,8 @@
 			"description": "<p>You can teleport yourself a short distance. You gain the <em>@Compendium[pf2e.spells-srd.Az3PmWnlWSb5ELX9]{Abundant Step}</em> ki spell. Increase the number of Focus Points in your focus pool by 1.</p>"
 		},
 		"Accelerating Touch": {
-			"name": "Accelerating Touch",
-			"description": "<p>Your healing energies are infused with bounding energy. A creature that recovers Hit Points from your <em>@Compendium[pf2e.spells-srd.zNN9212H2FGfM7VS]{Lay on Hands}</em> gains a +10-foot status bonus to its Speed until the end of its next turn.</p>\n<p>@Compendium[pf2e.spell-effects.alyNtkHLNnt98Ewz]{Spell Effect: Accelerating Touch}</p>"
+			"name": "加速之触 Accelerating Touch",
+			"description": "<p>你的医疗能力被注入了动态的能量。一名因为你的 <em>@Compendium[pf2e.spells-srd.zNN9212H2FGfM7VS]{圣疗 Lay on Hands}</em> 恢复生命值的生物，直到他下一轮结束前，在速度上获得+10尺状态加值。</p>\n<p>@Compendium[pf2e.spell-effects.alyNtkHLNnt98Ewz]{法术效果: 加速之触}</p>"
 		},
 		"Acclimatization": {
 			"name": "Acclimatization",
@@ -962,8 +962,8 @@
 			"description": "<p>You open vestigial eyes, unfurl tympanic flaps of skin, or otherwise enhance your senses. Until the start of your next turn, you gain the following benefits: you can't be flanked; when you Seek for creatures, you can scan a 60-foot cone or a 30-foot burst instead of the normal area; and when you Seek for hidden objects, you can search a 15-foot square instead of the normal area.</p>"
 		},
 		"Aura Of Despair": {
-			"name": "Aura Of Despair",
-			"description": "<p>Your presence as an avatar of evil makes your foes more susceptible to terror and makes it almost impossible for them to shake off fear when you are near.</p>\n<p>Enemies within 15 feet of you take a -1 circumstance penalty to saving throws against fear. In addition, an enemy that ends its turn within 15 feet of you can't reduce the value of its @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened} condition below 1.</p>\n<p>@Compendium[pf2e.feat-effects.MNkIxAishE22TqL3]{Effect: Aura of Despair}</p>"
+			"name": "绝望灵气 Aura Of Despair",
+			"description": "<p>身为邪恶的化身，你光是存在就让敌人更容易陷入恐慌，只要你在附近，敌人总是战战兢兢。</p>\n<p>你15呎内所有敌人在对抗恐惧效果的豁免上承受-1环境罚值。此外，若敌人在你15尺内结束回合，便无法把 @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{惊惧} 值减到低于1。</p>\n<p>@Compendium[pf2e.feat-effects.MNkIxAishE22TqL3]{效果：绝望灵气}</p>"
 		},
 		"Aura Of Preservation": {
 			"name": "Aura Of Preservation",
@@ -2390,8 +2390,8 @@
 			"description": "<p>Rather than hide an object somewhere the inspectors won't search, you're skilled at keeping the object on the move so it's never where they look.</p>\n<p>When you @Compendium[pf2e.actionspf2e.qVNVSmsgpKFGk9hV]{Conceal an Object} of light Bulk or less, you can use Thievery instead of Stealth for your checks and for the DC of an active searcher's Perception check. You roll the check only once, but you must continue to use actions to Conceal an Object throughout the process.</p>"
 		},
 		"Conceited Mindset": {
-			"name": "Conceited Mindset",
-			"description": "<p>Because you know your mind is superior, you scoff at anyone who would alter your mental state-but this hubris gets the better of you when you're wrong.</p>\n<p>You gain a +2 circumstance bonus to saves against mental effects. If you succeed at a save against a mental effect, you critically succeed instead; similarly, if you fail at a save against a mental effect, you critically fail instead.</p>"
+			"name": "倨傲桀骜 Conceited Mindset",
+			"description": "<p>你知道自己很高傲，你嘲弄任何想要改变你心理状态的人，可这股傲慢在你遇到麻烦时却是个优势。</p>\n<p>你在对抗心灵效果时，在豁免上获得+2环境加值。如果你在对抗心灵效果的豁免上成功，那算做大成功；同样，如果你在对抗心灵效果的豁免上失败，那算做大失败。</p>"
 		},
 		"Concentrated Assault": {
 			"name": "Concentrated Assault",
@@ -2542,8 +2542,8 @@
 			"description": "<p>When physically outmatched, you fight with unexpected ferocity. If a foe of a larger size than you critically hits and damages you, that foe is @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} to you for 1 round.</p>"
 		},
 		"Corrupted Shield": {
-			"name": "Corrupted Shield",
-			"description": "<p>Your shield ally is more than just a spirit of protection-it's a conduit for deadly divine magic.</p>\n<p>When you use your shield ally to @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Shield Block} a melee unarmed attack or a melee weapon Strike from an adjacent creature, the attacker takes [[/r {1d6}[evil]]]{1d6 evil damage} or negative damage (your choice).</p>\n<p>If the attack or Strike breaks or destroys your shield, double this additional damage.</p>\n<p>The damage the attacker takes increases to [[/r {2d6}]]{2d6 damage} at 11th level and [[/r {3d6}]]{3d6 damage} at 16th level.</p>"
+			"name": "腐化之盾 Corrupted Shield",
+			"description": "<p>你的坚盾盟友不只一个守护之魂，它是致命的神术管道。</p>\n<p>当你使用坚盾盟友进行 @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{盾牌格挡 Shield Block} ，抵达一次来自一名邻接生物的近战非武装攻击或近战武器打击时，攻击者受到 [[/r {1d6}[evil]]]{1d6 邪恶伤害} 或负能量伤害(由你选择)。</p>\n<p>如果此攻击或打击打破或摧毁你的盾牌，这个额外伤害翻倍。</p>\n<p>攻击者受到的伤害在11级变为 [[/r {2d6}]]{3d6 伤害} ，16级变为 [[/r {3d6}]]{3d6 伤害}。</p>"
 		},
 		"Coughing Dragon Display": {
 			"name": "Coughing Dragon Display",
@@ -2694,8 +2694,8 @@
 			"description": "<p>Even if you don't speak a creature's language, you can rely on inflection, root words, and body language to infer rudimentary meaning.</p>\n<p>If you interact with a creature for at least 10 minutes and that creature can speak a language, the GM rolls a secret Society check with a DC appropriate for the language's rarity.</p>\n<p>On a success, you understand the gist of the meaning and can communicate basic concepts back to the creature; on a failure, you are mistaken or communicate incorrect concepts.</p>\n<p>If you're legendary in Society, you can communicate instantly without needing to attempt a Society check; even if you didn't know the medium of communication the creature uses (speech, sign language, and so on), you intuit this information as soon as they try to communicate.</p>"
 		},
 		"Cruelty": {
-			"name": "Cruelty",
-			"description": "<p>The harm you deal with your corrupting touch saps the strength from your enemy's body.</p>\n<p>If your next action is to cast <em>@Compendium[pf2e.spells-srd.jFmWSIpJGGebim6y]{Touch of Corruption}</em> on a living creature, the target is also @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled 1} for 1 minute if it fails its save (enfeebled 2 if it critically fails).</p>"
+			"name": "酷虐 Cruelty",
+			"description": "<p>你用腐化之处造成的伤害还会掏空敌人的身体。</p>\n<p>如果你下一个动作是对一个活物施放 <em>@Compendium[pf2e.spells-srd.jFmWSIpJGGebim6y]{腐化之触 Touch of Corruption}</em>，如果他豁免失败，目标会 @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{力竭 1} 持续1分钟(如果大失败就力竭 2)。</p>"
 		},
 		"Crunch": {
 			"name": "Crunch",
@@ -3034,8 +3034,8 @@
 			"description": "<p><strong>Trigger</strong> You complete the last action on your turn, and your turn has not ended yet.</p>\n<p><strong>Requirements</strong> You meet the requirements to use an action with the press trait.</p>\n<hr />\n<p>You throw everything into one last press. Use a single action that you know with the press trait as part of Desperate Finisher. You forgo the ability to use reactions until the start of your next turn.</p>"
 		},
 		"Desperate Prayer": {
-			"name": "Desperate Prayer",
-			"description": "<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> You begin your turn and have no Focus Points in your pool.</p>\n<hr />\n<p>You call out to your deity in a plea for their aid. You instantly recover 1 Focus Point.</p>"
+			"name": "绝望祈祷 Desperate Prayer",
+			"description": "<p><strong>频率</strong> 每天1次</p>\n<p><strong>触发</strong> 你的回合开始，并且你的聚能池内没有任何聚能点。</p>\n<hr />\n<p>你向你的神请求他的协助。你立刻恢复1点聚能点。</p>"
 		},
 		"Destructive Block": {
 			"name": "Destructive Block",
@@ -3906,8 +3906,8 @@
 			"description": "<p>Your magic rivals that of lesser dragons. Choose one 3rd-level spell and one 4th-level spell from those listed for a dragon spellcaster of your draconic exemplar's type (such as <em>@Compendium[pf2e.spells-srd.DCQHaLrYXMI37dvW]{Paralyze}</em> and <em>@Compendium[pf2e.spells-srd.GKpEcy9WId6NJvtx]{Stinking Cloud}</em> for a black dragon exemplar).</p>\n<p>You can cast each of these spells once per day as arcane innate spells.</p>"
 		},
 		"Elucidating Mercy": {
-			"name": "Elucidating Mercy",
-			"description": "<p>Your mercy grants clarity to those around you just when they need it most.</p>\n<p>When you use @Compendium[pf2e.feats-srd.zilwynzk8lIujgZo]{Mercy}, you can instead attempt a counteract check to remove the @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confused} or @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied} conditions, using the source of that condition to determine the counteract level and DC.</p>\n<p>If the condition was caused by an ongoing effect and you don't remove that effect, the condition returns at the end of your next turn.</p>"
+			"name": "澄清救济 Elucidating Mercy",
+			"description": "<p>你的救济为周围最需要的人带来一阵清明。</p>\n<p>当你使用 @Compendium[pf2e.feats-srd.zilwynzk8lIujgZo]{救济 Mercy}，你可以选择进行一次反制检定(counteract)移除 @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{困惑} 或 @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{呆滞} 状态，判定反制等级和DC时，使用该状态的来源作为依据。</p>\n<p>如果该状态是因为一种仍正在持续的效果，同时你无法移除该效果，该状态会在你下一回合结束时回来。</p>"
 		},
 		"Elude Trouble": {
 			"name": "Elude Trouble",
@@ -4162,16 +4162,16 @@
 			"description": "<p>You can use clever workarounds to replicate the arcane essence of certain materials. When Casting a Spell that requires material components, you can provide these material components without a spell component pouch by drawing intricate replacement sigils in the air. Unlike when providing somatic components, you still must have a hand completely free. This doesn't remove the need for any materials listed in the spell's cost entry.</p>"
 		},
 		"Esoteric Oath (Liberator)": {
-			"name": "Esoteric Oath (Liberator)",
-			"description": "<p>You've sworn an oath to slay the alien abominations that lurk in the remote corners of Golarion. Add the following tenet to your champion's code, after the other tenets. \"You must slay evil aberrations you encounter as long as you have a reasonable chance of success.\"</p>\n<p>If you use @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Liberating Step} triggered by an evil aberration, your ally gains a +4 circumstance bonus to checks granted by your Liberating Step, and the ally can @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Step} twice afterward.</p>\n<p>@Compendium[pf2e.feat-effects.tAsFXMzNkpj964X4]{Effect: Liberating Step (vs. Aberration)}</p>\n<p>You don't consider evil aberrations to be legitimate authorities, even in nations they rule.</p>"
+			"name": "秘教誓约(解放者)  Esoteric Oath (Liberator)",
+			"description": "<p>你已宣誓会对潜伏在格拉利昂各处的外来异客赶尽杀绝。在其他信条之后把下面的信条加进你神卫准则中： \"只要有适当的机会，你要把你遇到的所有邪恶异怪赶尽杀绝。\"</p>\n<p>如果你使用 @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{自由快步} 且触发的是邪恶异怪，你的盟友在检定上从自由快步(Liberating Step)那获得+4环境加值，且之后你的盟友可以 @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{快步} 两次。</p>\n<p>@Compendium[pf2e.feat-effects.tAsFXMzNkpj964X4]{效果：自由快步 (vs. 异怪)}</p>\n<p>就算是在他统治的国家，你也无须考虑该邪恶异怪是否为合法权威。</p>"
 		},
 		"Esoteric Oath (Paladin)": {
-			"name": "Esoteric Oath (Paladin)",
-			"description": "<p>You've sworn an oath to slay the alien abominations that lurk in the remote corners of Golarion. Add the following tenet to your champion's code, after the other tenets. \"You must slay evil aberrations you encounter as long as you have a reasonable chance of success.\"</p>\n<p>Your @Compendium[pf2e.actionspf2e.EAP98XaChJEbgKcK]{Retributive Strike} gains a +4 circumstance bonus to damage against an evil aberration, or +6 if you have master proficiency with the weapon you used.</p>\n<p>You don't consider evil aberrations to be legitimate authorities, even in nations they rule.</p>"
+			"name": "秘教誓约(圣骑士) Esoteric Oath (Paladin)",
+			"description": "<p>你已宣誓会对潜伏在格拉利昂各处的外来异客赶尽杀绝。在其他信条之后把下面的信条加进你神卫准则中： \"只要有适当的机会，你要把你遇到的所有邪恶异怪赶尽杀绝。\"</p>\n<p>你的 @Compendium[pf2e.actionspf2e.EAP98XaChJEbgKcK]{报应打击} 伤害在对抗邪恶异怪上获得+4环境加值，如果你所使用的武器熟练度为大师，那+6。</p>\n<p>就算是在他统治的国家，你也无须考虑该邪恶异怪是否为合法权威。</p>"
 		},
 		"Esoteric Oath (Redeemer)": {
-			"name": "Esoteric Oath (Redeemer)",
-			"description": "<p>You've sworn an oath to slay the alien abominations that lurk in the remote corners of Golarion. Add the following tenet to your champion's code, after the other tenets. \"You must slay evil aberrations you encounter as long as you have a reasonable chance of success.\"</p>\n<p>The resistance you gain from @Compendium[pf2e.actionspf2e.tuZnRWHixLArvaIf]{Glimpse of Redemption} against damage from an evil aberration is 7 + your level.</p>\n<p>You don't consider evil aberrations to be legitimate authorities, even in nations they rule.</p>"
+			"name": "秘教誓约(救赎者)  Esoteric Oath (Redeemer)",
+			"description": "<p>你已宣誓会对潜伏在格拉利昂各处的外来异客赶尽杀绝。在其他信条之后把下面的信条加进你神卫准则中： \"只要有适当的机会，你要把你遇到的所有邪恶异怪赶尽杀绝。\"</p>\n<p>你在对抗来自邪恶异怪施加的伤害时，从 @Compendium[pf2e.actionspf2e.tuZnRWHixLArvaIf]{救赎瞥视} )获得的抗力为7+你的等级。</p>\n<p>就算是在他统治的国家，你也无须考虑该邪恶异怪是否为合法权威。</p>"
 		},
 		"Esoteric Polymath": {
 			"name": "隐秘博学 Esoteric Polymath",
@@ -5582,8 +5582,8 @@
 			"description": "<p>Your bloodline is extraordinarily complex. You can have up to three spells from other traditions in your spell repertoire, rather than just one. These spells must each be of a different spell level, but they don't need to be from the same tradition.</p>"
 		},
 		"Greater Cruelty": {
-			"name": "Greater Cruelty",
-			"description": "<p>The extent of the corruption within you does more than simply sap your foes' strength, it devastates their minds and reflexes.</p>\n<p>When you use @Compendium[pf2e.feats-srd.vxA0VRN10OwUkGAr]{Cruelty}, choose whether you want to make the creature enfeebled as normal, to make it @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 1} on a failed save (clumsy 2 on a critical failure), or to make it @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied 1} on a failed save (stupefied 2 on a critical failure).</p>"
+			"name": "高等酷虐 Greater Cruelty",
+			"description": "<p>你所施加的腐化现在不光能掏空敌人的力量了，还能毁灭敌人的心灵和反射神经。</p>\n<p>在你使用 @Compendium[pf2e.feats-srd.vxA0VRN10OwUkGAr]{酷虐 Cruelty}时，你可以跟之前一样选择让该生物力竭，或是选豁免失败变 @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{笨拙 1} (大失败笨拙2)，或是豁免失败变成 @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{呆滞 1} (大失败呆滞2)。</p>"
 		},
 		"Greater Debilitating Bomb": {
 			"name": "Greater Debilitating Bomb",
@@ -6662,8 +6662,8 @@
 			"description": "<p>You play out battles in your head, allowing you to Strike when the time is right. You gain the @Compendium[pf2e.actionspf2e.m0f2B7G9eaaTmhFL]{Devise a Strategem} action; however, when you substitute its result for your attack roll, you can't use your Intelligence modifier in place of your Strength or Dexterity modifier.</p>\n<p>You also can't use your Intelligence modifier on other rolls from abilities that expand Devise a Stratagem, such as the @Compendium[pf2e.feats-srd.Tu1hOEr6Ko9Df54L]{Athletic Strategist} feat.</p>"
 		},
 		"Invigorating Mercy": {
-			"name": "Invigorating Mercy",
-			"description": "<p>Your divine touch rejuvenates the weak and tired.</p>\n<p>When you use @Compendium[pf2e.feats-srd.zilwynzk8lIujgZo]{Mercy}, you can instead attempt a counteract check to remove the @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy} or @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled} conditions, using the source of that condition to determine the counteract level and DC.</p>\n<p>If the condition was caused by an ongoing effect and you don't remove that effect, the condition returns at the end of your next turn.</p>"
+			"name": "精力救济 Invigorating Mercy",
+			"description": "<p>你的神性触碰能痊癒衰弱与疲惫。</p>\n<p>当你使用 @Compendium[pf2e.feats-srd.zilwynzk8lIujgZo]{救济 Mercy}, 时，你可以选择进行一次反制(counteract)检定移除 @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{笨拙} 或 @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{力竭} )状态，判定反制等级和DC时，使用该状态的来源作为依据。</p>\n<p>如果该状态是因为一种仍正在持续的效果，同时你无法移除该效果，该状态会在你下一回合结束时回来。</p>"
 		},
 		"Invincible Mutagen": {
 			"name": "Invincible Mutagen",
@@ -6714,8 +6714,8 @@
 			"description": "<p>Your lungs are infused with the resilience of iron. Treat the result of your save against an inhaled poison as one degree of success better than you rolled. Additionally, you gain the @Compendium[pf2e.actionspf2e.GAoUxmcKx1vW3vEB]{Exhale Poison} ability.</p>"
 		},
 		"Iron Repercussions": {
-			"name": "Iron Repercussions",
-			"description": "<p>Disobeying your @Compendium[pf2e.actionspf2e.M8RCbthRhB4bxO9t]{Iron Command} has lasting consequences. If an enemy refuses to kneel to you, you can deal @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Mental Damage} instead of normal mental damage. You must decide whether the mental damage will be persistent before your enemy chooses whether to kneel or not. The amount of damage is unchanged.</p>"
+			"name": "残酷报应 Iron Repercussions",
+			"description": "<p>不服从你的 @Compendium[pf2e.actionspf2e.M8RCbthRhB4bxO9t]{残酷纪律}会有更持久的后果。如果一位敌人拒绝向你跪拜，你可以转而对他造成 @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续心灵伤害} 。你必须在敌人决定是否向你跪拜前，选择要不要造成持续性的心灵伤害。伤害的数值不会改变。</p>"
 		},
 		"Ironblood Stance": {
 			"name": "Ironblood Stance",
@@ -7202,8 +7202,8 @@
 			"description": "<p>Your tongue darts out faster than the eye can see to retrieve loose objects. You Interact to pick up a single unattended object of light Bulk or less within 10 feet of you. If you don't have enough hands free to hold the object, it falls to the ground in your space.</p>"
 		},
 		"Lightslayer Oath": {
-			"name": "Lightslayer Oath",
-			"description": "<p>You've sworn to rid the world of the self - righteousness of celestial beings. Add the following tenet to your code, after the other tenets. \"You must banish or slay celestials you encounter as long as you have a reasonable chance of success; in the incredibly unlikely event you find an evil celestial, you don't have to banish or kill it.\"</p>\n<p>When you use your champion's reaction against a celestial, the extra damage you deal with @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Strikes} increases by 1 (or by 2 at 9th level and by 3 at 16th level).</p>"
+			"name": "屠天荡神 Lightslayer Oath",
+			"description": "<p>你已发誓要把天界存在那自私的正义从这个世界上抹去。其他信条之后把下面的信条加进你神卫准则中： \"只要有适当的机会，你要把你遇到的所有天界生物放逐或赶尽杀绝；虽然你几乎不可能碰到邪恶的天界生物，但如果碰到你不必放逐或杀了它。\"</p>\n<p>当你使用神卫反应动作对抗天界生物时，你用 @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{打击} 造成的额外伤害+1(9级+2、16级+3)。</p>"
 		},
 		"Lingering Composition": {
 			"name": "绕梁组曲 Lingering Composition",
@@ -7254,8 +7254,8 @@
 			"description": "<p>You undercut your enemy's vain moralism, opening their heart to evil. You can cast the <em>@Compendium[pf2e.spells-srd.tYP8unoR0a5Dq9EA]{Litany of Depravity}</em> focus spell. Increase the number of Focus Points in your focus pool by 1.</p>"
 		},
 		"Litany Of Self-Interest": {
-			"name": "Litany Of Self-Interest",
-			"description": "<p>You compel a creature to act toward its own ends rather than consider others. You can cast the <em>@Compendium[pf2e.spells-srd.mm3hZ6jgaJaKK16n]{Litany of Self-Interest}</em> devotion spell. Increase the number of Focus Points in your focus pool by 1.</p>"
+			"name": "利己祷言 Litany Of Self-Interest",
+			"description": "<p>你迫使一名生物无视他人，只为自己目标而动。你能施放 <em>@Compendium[pf2e.spells-srd.mm3hZ6jgaJaKK16n]{利己祷言 Litany of Self-Interest}</em> 虔诚法术。你的聚能池增加1点聚能点。</p>"
 		},
 		"Litany of Righteousness": {
 			"name": "Litany of Righteousness",
@@ -8290,8 +8290,8 @@
 			"description": "<p>You're always investigating what's around you, even as you perform other activities. You can move at full Speed while using the @Compendium[pf2e.actionspf2e.EwgTZBWsc8qKaViP]{Investigate} exploration activity, and you can use another exploration activity while Investigating.</p>"
 		},
 		"Ongoing Selfishness": {
-			"name": "Ongoing Selfishness",
-			"description": "<p>Your powerful personality and incredible ego demand that you protect yourself above all else. After you use @Compendium[pf2e.actionspf2e.enQieRrITuEQZxx2]{Selfish Shield}, you gain resistance to all further damage from the triggering enemy until the end of the turn on which you used the reaction. This resistance is equal to half your Selfish Shield resistance.</p>"
+			"name": "利己自利 Ongoing Selfishness",
+			"description": "<p>你强大的人格和难以置信的自负让你爱护自己远胜一切。在你使用 @Compendium[pf2e.actionspf2e.enQieRrITuEQZxx2]{自私卫盾}后，直到你使用此反应动作的那回合结束之前，你会对来自触发敌人的所有伤害上获得自私卫盾抗性一半的抗性。</p>"
 		},
 		"Ongoing Strategy": {
 			"name": "Ongoing Strategy",
@@ -9710,8 +9710,8 @@
 			"description": "<p>Your eidolon is resilient against attacks. It gains resistance to physical damage equal to its Constitution modifier.</p>"
 		},
 		"Resilient Touch": {
-			"name": "Resilient Touch",
-			"description": "<p>Your healing energies create an aura of protection that defends your allies against more than just blades and arrows.</p>\n<p>An ally that recovers Hit Points from your <em>@Compendium[pf2e.spells-srd.zNN9212H2FGfM7VS]{Lay on Hands}</em> gains a +1 status bonus to their saving throws until the end of their next turn.</p>\n<p>@Compendium[pf2e.spell-effects.6embuvXCpS3YOD5u]{Spell Effect: Resilient Touch}</p>"
+			"name": "适性之触 Resilient Touch",
+			"description": "<p>你的治疗能量创造一层保护灵光，除刀箭外还能在其他方面保护盟友。</p>\n<p>因你的 <em>@Compendium[pf2e.spells-srd.zNN9212H2FGfM7VS]{圣疗 Lay on Hands}</em> 恢复生命值的盟友，直到他们下一轮结束前，在豁免上获得+1状态加值。</p>\n<p>@Compendium[pf2e.spell-effects.6embuvXCpS3YOD5u]{法术效果：适性之触}</p>"
 		},
 		"Resist Ruin": {
 			"name": "Resist Ruin",
@@ -10010,8 +10010,8 @@
 			"description": "<p>The power of your faith suffuses your ki. When you select this feat, choose chaos, evil, good, or law. Your choice must match one of your deity's alignment components.</p>\n<p>When you cast the <em>@Compendium[pf2e.spells-srd.ZL8NTvB22NeEWhVG]{Ki Strike}</em> focus spell and damage a creature whose alignment is opposite your chosen alignment, you can choose for the <em>ki strike</em> damage to be of the chosen type.</p>\n<p>Additionally, you can substitute the damage from <em>@Compendium[pf2e.spells-srd.oo7YcRC2gcez81PV]{Ki Blast}</em> (or other ki spells that deal force damage, at the GM's discretion) with damage of your chosen alignment.</p>\n<p>@Compendium[pf2e.spell-effects.joCQGq27FylDuY9P]{Spell Effect: Ki Strike (Chaotic)}</p>\n<p>@Compendium[pf2e.spell-effects.4U9BWv0rSpGbU0wr]{Spell Effect: Ki Strike (Evil)}</p>\n<p>@Compendium[pf2e.spell-effects.OplbQWW6i1NtMq9f]{Spell Effect: Ki Strike (Good)}</p>\n<p>@Compendium[pf2e.spell-effects.X2BGmuKdGVj4YYyp]{Spell Effect: Ki Strike (Lawful)}</p>"
 		},
 		"Sacrifice Armor": {
-			"name": "Sacrifice Armor",
-			"description": "<p><strong>Trigger</strong> You are hit by a Strike that deals physical damage.</p>\n<hr />\n<p>With divine awareness, you twist your body to lessen the impact of an attack. Reduce the damage you take by an amount equal to twice your armor's level. Your armor becomes @Compendium[pf2e.conditionitems.6dNUvdb1dhToNDj3]{Broken}, reducing its Hit Points to its Broken Threshold. If your armor was already damaged, it is destroyed instead.</p>"
+			"name": "牺牲护甲 Sacrifice Armor",
+			"description": "<p><strong>触发</strong> 你被会造成物理伤害的打击动作击中。</p>\n<hr />\n<p>借由神性的领会，你拧转身躯降低攻击带来的冲击。将受到的伤害减去你盔甲等级两倍的值。你的盔甲 @Compendium[pf2e.conditionitems.6dNUvdb1dhToNDj3]{破损}，把盔甲的生命值扣到破损阈值。如果你的盔甲本来就有损坏(already damaged)，那就会被毁掉。</p>"
 		},
 		"Safe House": {
 			"name": "Safe House",
@@ -10274,8 +10274,8 @@
 			"description": "<p>You can tell when something's off. You can trigger @Compendium[pf2e.feats-srd.7qBuzHY8kEG8SdEP]{Cat's Luck} after you roll initiative, in addition to its normal trigger, to reroll your Initiative and take the higher of the two results.</p>\n<p>This still counts against Cat's Luck's frequency, as normal.</p>"
 		},
 		"Sense Good": {
-			"name": "Sense Good",
-			"description": "<p>The presence of goodness sickens you with its saccharine self-righteousness. When in the presence of an aura of good that is powerful or overwhelming, you detect the aura, though you might not do so instantly, and you can't pinpoint the location. This acts as a vague sense, similar to humans' sense of smell.</p>\n<p>A good creature using a disguise or otherwise trying to hide its presence attempts a Deception check against your Perception DC to hide its aura from you. If the creature succeeds at its Deception check, it is then temporarily immune to your Sense Good for 1 day.</p>"
+			"name": "感知善良 Sense Good",
+			"description": "<p>善良存在那伪善的正义让你觉得恶心。当存在一个强烈(powerful)或刺目(overwhelming)的善良灵光，你能侦测到该灵光，虽然你可能没办法立刻侦测到，并且你无法精确定位灵光的位置。这个侦测算做模糊感官(vague sense)，类似人类的嗅觉。</p>\n<p>使用易容或其他想要隐藏自身手段的善良生物，要想在你眼前隐藏自己的灵光，需要进行一次欺骗检定，对抗你的察觉DC。如果该生物的欺骗检定成功，接下来的一天里他会暂时免疫你的感知善良能力。</p>"
 		},
 		"Sense Ki": {
 			"name": "Sense Ki",
@@ -10882,8 +10882,8 @@
 			"description": "<p>Your blade ally becomes an even more powerful tool against evildoers.</p>\n<p>Select one foe you can see. Until the start of your next turn, your Strikes with the weapon your blade ally inhabits against that foe deal an extra 4 good damage, increasing to 6 if you have master proficiency with this weapon.</p>\n<p>If the foe attacks one of your allies, the duration extends to the end of that foe's next turn. If the foe continues to attack your allies each turn, the duration continues to extend.</p>\n<p>@Compendium[pf2e.feat-effects.AlnxieIRjqNqsdVu]{Effect: Smite Evil}</p>"
 		},
 		"Smite Good": {
-			"name": "Smite Good",
-			"description": "<p>Your blade ally shares your lust for the blood of good creatures.</p>\n<p>Select one enemy you can see. Until the start of your next turn, your Strikes against that foe using the weapon your blade ally inhabits deal an extra 4 evil damage, increasing to 6 if you have master proficiency with this weapon.</p>\n<p>If the chosen enemy attacks you before the start of your next turn, the duration extends to the end of that enemy's next turn. If the enemy continues to attack you each turn, the duration continues to extend.</p>\n<p>@Compendium[pf2e.feat-effects.2MIn8qyPTmz4ZyO1]{Effect: Smite Good}</p>"
+			"name": "制裁善良 Smite Good",
+			"description": "<p>你的利刃盟友与你共享对善良生物鲜血的渴望。</p>\n<p>选择一个你能看到的敌人。直到你下一回合开始，你寄居利刃盟友的武器对该敌人的打击会造成额外4点邪恶伤害，如果你在这武器上有大师熟练度，变成6点。</p>\n<p>如果你选的敌人在你下一回合开始前攻击你，那本能力延长到该敌人下一回合结束。如果敌人每一轮都攻击你，那就一直延长。</p>\n<p>@Compendium[pf2e.feat-effects.2MIn8qyPTmz4ZyO1]{效果：制裁善良}</p>"
 		},
 		"Smoke Bomb": {
 			"name": "Smoke Bomb",
@@ -13002,8 +13002,8 @@
 			"description": "<p>You've learned how to create traps that cause greater injuries. You deal an additional 1d6 precision damage with damaging snares you craft. This increases to 2d6 additional precision damage if you're legendary in Crafting.</p>"
 		},
 		"Vicious Vengeance": {
-			"name": "Vicious Vengeance",
-			"description": "<p>While your vengeance is painful for both you and your foe, none can doubt that your enemies suffer more. You gain a circumstance bonus to the damage you deal from @Compendium[pf2e.actionspf2e.r5Uth6yvCoE4tr9z]{Destructive Vengeance} equal to the number of damage dice from the reaction. This only applies to the damage the enemy takes, not the damage to yourself or the extra damage you gain after using the reaction.</p>"
+			"name": "险恶复仇 Vicious Vengeance",
+			"description": "<p>虽然你的复仇对你跟敌人都带有莫大的痛苦，但大家都认为你的敌人更甚于你。你的 @Compendium[pf2e.actionspf2e.r5Uth6yvCoE4tr9z]{毁灭复仇} 伤害，会获得与此反应动作伤害骰数相同的伤害环境加值。这个伤害加值只对敌人生效，不会对你受的伤害或在使用此反应动作后获得的额外伤害上生效。</p>"
 		},
 		"Victorious Vigor": {
 			"name": "胜利活力 Victorious Vigor",
