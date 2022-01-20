@@ -38,8 +38,8 @@
 			"description": "<p>Your reptilian biology allows you to hold your breath for a long time. You gain the @Compendium[pf2e.feats-srd.aJUXbe9HJVvv0Mxa]{Breath Control} general feat as a bonus feat.</p>"
 		},
 		"Arctic Elf": {
-			"name": "Arctic Elf",
-			"description": "<p>You dwell deep in the frozen north and have gained incredible resilience against cold environments, granting you cold resistance equal to half your level (minimum 1). You treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).</p>"
+			"name": "极地精灵 Arctic Elf",
+			"description": "<p>你常年居住在寒冷的北方并且获得了对于寒冷环境不可思议的抵抗力，这使得你获得1/2角色等级（最小为1）的寒冷抗力。你视环境的寒冷效果减缓1级（超寒变为极寒 极寒变为严寒等等）。</p>"
 		},
 		"Artisan Android": {
 			"name": "Artisan Android",
@@ -90,8 +90,8 @@
 			"description": "<p>You live in a vertically-oriented home, and you're a consummate climber. You gain the @Compendium[pf2e.feats-srd.09PurtIanNUPfNRq]{Combat Climber} skill feat, even if you don't meet the prerequisites. You can use your clawed feet and tail to Climb, leaving your hands free. Additionally, if you succeed at an Athletics check to Climb, you critically succeed instead.</p>"
 		},
 		"Cavern Elf": {
-			"name": "Cavern Elf",
-			"description": "<p>You were born or spent many years in underground tunnels or caverns where light is scarce. You gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision}.</p>"
+			"name": "洞穴精灵 Cavern Elf",
+			"description": "<p>你出生在地下隧道或是光线稀缺的洞穴中，亦或者是在那儿度过了许多年。你获得了 @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{黑暗视觉}。</p>"
 		},
 		"Cavern Kobold": {
 			"name": "Cavern Kobold",
@@ -606,8 +606,8 @@
 			"description": "<p>Your body is made from woven seaweed, and you're just as comfortable underwater as on land. You gain a swim Speed of 20 feet, and you can always breathe underwater. However, your land Speed is reduced by 5 feet (to 20 feet for most seaweed leshys).</p>"
 		},
 		"Seer Elf": {
-			"name": "Seer Elf",
-			"description": "<p>You have an inborn ability to detect and understand magical phenomena. You can cast the <em>@Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{Detect Magic}</em> cantrip as an arcane innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.</p>\n<p>In addition, you gain a +1 circumstance bonus to checks to @Compendium[pf2e.actionspf2e.eReSHVEPCsdkSL4G]{Identify Magic} and to @Compendium[pf2e.actionspf2e.d9gbpiQjChYDYA2L]{Decipher Writing} of a magical nature. These skill actions typically use the Arcana, Nature, Occultism, or Religion skill.</p>"
+			"name": "先知精灵 Seer Elf",
+			"description": "<p>你拥有侦测和理解魔法现象的天生能力。你可以任意施展 <em>@Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{侦测魔法 Detect Magic}</em> 戏法作为一个奥术内在法术。这个戏法会自动升阶到1/2你的角色等级的环位。</p>\n<p>此外，你在 @Compendium[pf2e.actionspf2e.eReSHVEPCsdkSL4G]{辨识魔法} 和 @Compendium[pf2e.actionspf2e.d9gbpiQjChYDYA2L]{破译魔法文字} 时获得+1环境加值。这些加值通常用于奥术，自然，神秘或是宗教技能上。</p>"
 		},
 		"Sensate Gnome": {
 			"name": "Sensate Gnome",
@@ -874,8 +874,8 @@
 			"description": "<p>Your family is descended from the most common lizardfolk heritage, and you are accustomed to aquatic environments. You gain a 15-foot @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Swim} Speed.</p>"
 		},
 		"Whisper Elf": {
-			"name": "Whisper Elf",
-			"description": "<p>Your ears are finely tuned, able to detect even the slightest whispers of sound.</p>\n<p>As long as you can hear normally, you can use the @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Seek} action to sense @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Undetected} creatures in a 60-foot cone instead of a 30-foot cone.</p>\n<p>You also gain a +2 circumstance bonus to locate undetected creatures that you could hear within 30 feet with a seek action.</p>"
+			"name": "低语精灵 Whisper Elf",
+			"description": "<p>你的耳朵同调的很好，即使最轻微的细语也可以听见。</p>\n<p>只要你可以如常听见，你在使用 @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{搜索} 动作时可以感知半径60尺锥形而非30尺锥形内的 @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{无踪} 生物。</p>\n<p>你还在依靠听觉使用搜寻动作来定位30尺内无踪生物时获得了+2环境加值。</p>"
 		},
 		"Wildwood Halfling": {
 			"name": "Wildwood Halfling",
@@ -918,8 +918,8 @@
 			"description": "<p>You're a shaggy, dark-furred gnoll capable of making some truly uncanny sounds. You can cast the <em>@Compendium[pf2e.spells-srd.atlgGNI1E1Ox3O3a]{Ghost Sound}</em> cantrip as an occult innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up. In addition, you gain a +1 circumstance bonus to checks to Impersonate and Create a Diversion when using only your voice.</p>"
 		},
 		"Woodland Elf": {
-			"name": "Woodland Elf",
-			"description": "<p>You're adapted to life in the forest or the deep jungle, and you know how to climb trees and use foliage to your advantage. When @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Climbing} trees, vines, and other foliage, you move at half your Speed on a success and at full Speed on a critical success (and you move at full Speed on a success if you have @Compendium[pf2e.feats-srd.P04Hw8E6WAWARKHP]{Quick Climb}). This doesn't affect you if you're using a climb Speed.</p>\n<p>You can always use the @Compendium[pf2e.actionspf2e.ust1jJSCZQUhBZIz]{Take Cover}action when you are within forest terrain to gain cover, even if you're not next to an obstacle you can take cover behind.</p>"
+			"name": "森林精灵 Woodland Elf",
+			"description": "<p>Y你已经适应了在树林或是丛林中生活，并且知道如何爬树和利用枝叶获得优势。在 @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{攀爬} 树木，藤蔓以及其他枝叶时，在检定成功时可以半速移动，在大成功时可以全速移动（如果你拥有 @Compendium[pf2e.feats-srd.P04Hw8E6WAWARKHP]{快速攀爬}，那么你检定成功时就可以全速移动）。如果你使用攀爬速度，那么这不会对你起效。</p>\n<p>当你处于森林地形中，即使你并没有临接可以用来寻找掩体的障碍物，你也可以使用 @Compendium[pf2e.actionspf2e.ust1jJSCZQUhBZIz]{寻找掩体}动作来获得掩蔽。</p>"
 		},
 		"Woodstalker Lizardfolk": {
 			"name": "Woodstalker Lizardfolk",
