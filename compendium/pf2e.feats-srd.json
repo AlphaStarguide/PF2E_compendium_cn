@@ -166,8 +166,8 @@
 			"description": "<p>You gain one investigator feat. For the purpose of meeting its prerequisites, your investigator level is equal to half your character level.</p>\n<hr />\n<p><strong>Special</strong> You can select this feat more than once. Each time you select it, you gain another investigator feat.</p>"
 		},
 		"Advanced Deity's Domain": {
-			"name": "Advanced Deity's Domain",
-			"description": "<p>Through your conviction, you have glimpsed the deeper secrets of your deity's domain. You gain an advanced domain spell from the domain you chose with Deity's Domain. You can cast that spell as a devotion spell. Increase the number of Focus Points in your focus pool by 1.</p>"
+			"name": "高阶神授领域 Advanced Deity's Domain",
+			"description": "<p>凭借你的信仰，你得以一窥神祇领域更深层的秘密。你从你在神授领域中选择的领域里获得高阶领域法术。你能够将这个法术作为虔诚法术施展。你的聚能池中的聚能点容量提升1。</p>"
 		},
 		"Advanced Devotion": {
 			"name": "Advanced Devotion",
@@ -302,8 +302,8 @@
 			"description": "<p>You move with grace in flight and can perform amazing aerial stunts.</p>\n<p>You gain a +2 circumstance bonus to Acrobatics checks to @Compendium[pf2e.actionspf2e.Qf1ylAbdVi1rkc8M]{Maneuver in Flight} and can combine two maneuvers into a single action, such as reversing direction while making a steep ascent or descent or hovering in gale-force winds. The DC of the Acrobatics check is equal to the DC of the most difficult maneuver + 5.</p>\n<p>If you're legendary in Acrobatics, you can combine three such maneuvers into a single action; the DC of the Acrobatics check is equal to the DC of the most difficult maneuver + 10. Regardless of the combination, these maneuvers rarely allow you to move farther than your @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Fly} Speed.</p>"
 		},
 		"Affliction Mercy": {
-			"name": "Affliction Mercy",
-			"description": "<p>The divine grace that flows through you grants reprieve from an affliction.</p>\n<p>When you use @Compendium[pf2e.feats-srd.zilwynzk8lIujgZo]{Mercy}, you can instead attempt to counteract a curse, disease, or poison.</p>"
+			"name": "苦难救济 Affliction Mercy",
+			"description": "<p>流淌于你体内的神圣恩典能够缓解苦难。</p>\n<p>当你使用 @Compendium[pf2e.feats-srd.zilwynzk8lIujgZo]{救济 Mercy}时，你能够转而尝试反制（Counteract）一个诅咒、疾病或毒素。</p>"
 		},
 		"After You": {
 			"name": "After You",
@@ -510,8 +510,8 @@
 			"description": "<p>You blend monastic techniques with the ancestral fighting styles of your people. Choose an ancestry for which you have access to all weapons with that trait. For you, melee weapons with that ancestry trait and either the agile or finesse trait gain the monk trait.</p>"
 		},
 		"Anchoring Aura": {
-			"name": "Anchoring Aura",
-			"description": "<p><strong>Requirements</strong> Fiendsbane Oath</p>\n<hr />\n<p>Your aura hampers fiends' teleportation. Your aura attempts to counteract teleportation spells cast by fiends within 15 feet, using the spell level and DC of your devotion spells.</p>"
+			"name": "锚定灵光 Anchoring Aura",
+			"description": "<p><strong>需求</strong> 驱魔誓约 Fiendsbane Oath</p>\n<hr />\n<p>你的灵光阻碍魔族的传送。你的灵光会尝试反制（Counteract）15尺范围内由魔族施展的传送（Teleportation）法术，这会使用你的虔诚法术的DC和法术环级。</p>"
 		},
 		"Anchoring Roots": {
 			"name": "Anchoring Roots",
@@ -970,32 +970,32 @@
 			"description": "<p>你的灵光能抵御异怪的扭曲之力。你和15呎内的盟友在对抗来自异怪的效果时，在强韧和意志豁免上获得+1状态加值。</p>\n<p>你也在对抗化形(morph)或变形(polymorph)效果时的强韧，以及对抗心灵效果的意志上，获得+1状态加值。如果是对抗异怪的化形(morph)、变形(polymorph)或心灵效果，那加值变成+2。</p>\n<p>@Compendium[pf2e.feat-effects.18FHJoazfEmgNkfk]{效果：护佑灵光}</p>"
 		},
 		"Aura of Courage": {
-			"name": "Aura of Courage",
-			"description": "<p>You stand strong in the face of danger and inspire your allies to do the same. Whenever you become frightened, reduce the condition value by 1 (to a minimum of 0). At the end of your turn when you would reduce your frightened condition value by 1, you also reduce the value by 1 for all allies within 15 feet.</p>"
+			"name": "勇气灵光 Aura of Courage",
+			"description": "<p>你直面危险的强壮身姿激励着你的盟友竞相模仿。当你陷入惊惧（Frightened）时，将状态值（Condition value）减少1（最低为0）。在你的回合结束并将你身上的惊惧状态值减少1时，你周围15尺内的所有盟友身上的惊惧状态值也会减少1。</p>"
 		},
 		"Aura of Faith": {
-			"name": "Aura of Faith",
-			"description": "<p>You radiate an aura of pure belief that imbues your attacks and those of nearby allies with holy power.</p>\n<p>Your Strikes deal an extra 1 good damage against evil creatures. Also, each good-aligned ally within 15 feet gains this benefit on their first Strike that hits an evil creature each round.</p>\n<p>@Compendium[pf2e.feat-effects.VOOShYoB4gTopZtg]{Effect: Aura of Faith}</p>"
+			"name": "信念灵光 Aura of Faith",
+			"description": "<p>你散发出纯粹的信仰灵光，以神圣之力浸透你的攻击和邻近的盟友。</p>\n<p>你的打击（Strike）对邪恶生物造成额外1点善良伤害，周围15尺内所有善良阵营的盟友都能在每轮第一次对邪恶生物进行打击（Strike）时享受这个好处。</p>\n<p>@Compendium[pf2e.feat-effects.VOOShYoB4gTopZtg]{效果：信念灵光}</p>"
 		},
 		"Aura of Life": {
-			"name": "Aura of Life",
-			"description": "<p>Your aura protects against necromantic effects. You and all allies within 15 feet gain resistance 5 to negative energy and a +1 status bonus to saves against necromancy effects.</p>\n<p>@Compendium[pf2e.feat-effects.FPuICuxBLiDaEbDX]{Effect: Aura of Life}</p>"
+			"name": "生命灵光 Aura of Life",
+			"description": "<p>你的灵光提供对抗死灵术效果的防护。你和你周围15尺内的盟友获得针对负能量的抗力5，并在对抗死灵系效果的豁免检定上获得+1状态加值。</p>\n<p>@Compendium[pf2e.feat-effects.FPuICuxBLiDaEbDX]{效果：生命灵光}</p>"
 		},
 		"Aura of Righteousness": {
-			"name": "Aura of Righteousness",
-			"description": "<p>Your righteous aura dampens evil's might. You and all allies within 15 feet gain evil resistance 5.</p>"
+			"name": "正义灵光 Aura of Righteousness",
+			"description": "<p>你的正义灵光将抑制邪恶力量。你和你周围15内的所有盟友获得邪恶抗力5。</p>"
 		},
 		"Aura of Unbreakable Virtue": {
 			"name": "Aura of Unbreakable Virtue",
 			"description": "<p>You are a paragon of all that is good, your overwhelming aura causing evildoers to cower. All evil creatures within 15 feet of you take a -1 status penalty to checks and DCs that target you or your allies. This penalty is -2 against creatures you have taken an oath against (such as dragons if you have the Dragonslayer Oath feat). You can choose to suppress or resume this aura as an action, which has the concentrate trait.</p>"
 		},
 		"Aura of Vengeance": {
-			"name": "Aura of Vengeance",
-			"description": "<p>When you call upon others to take retribution, you also guide their aim. When you use Retributive Strike, your allies who make Strikes take only a -2 penalty, instead of a -5 penalty.</p>"
+			"name": "复仇灵光 Aura of Vengeance",
+			"description": "<p>当你号召周围的盟友采取报复时，你也会为他们指引攻击的方向。当你使用报应打击时，你因此而进行近战攻击（Strikes）的盟友只需要承受-2的减值，而不是-5的减值。</p>"
 		},
 		"Auspicious Mount": {
-			"name": "Auspicious Mount",
-			"description": "<p>Guided by your ongoing care, your steed has developed incredible intelligence and skill. The mount you gained through the divine ally class feature is now a specialized animal companion. You can select one of the usual specializations or the auspice specialization. Auspice mounts gain the following benefits: Your companion is marked by your deity's religious symbol as a sacred creature of your deity. Its proficiency rank in Religion increases to expert, it can speak the language associated with your deity's servitors (Celestial for champions who follow the tenets of good), and its Intelligence modifier increases by 2 and its Wisdom modifier by 1.</p>"
+			"name": "吉兆坐骑 Auspicious Mount",
+			"description": "<p>由于你持续不断地照料并给予指导，你的坐骑已经发展出了难以置信的智慧和技巧。你通过神圣盟友职业特性获得的坐骑现在是一只特化（Specialized）动物伙伴（217页）。你能够从正常的特化动物伙伴里选择一只，或者选择吉兆兽特化动物伙伴。吉兆兽坐骑获得如下这些好处：你的动物伙伴被视作你所侍奉的神祇的宗教象征，就如同神祇的神圣生物一般。它在宗教上的熟练等级提升至专家，它能够说一种和你所侍奉的神祇有所关联的语言（对于遵循善良信条的神卫来说是天界语），它的智力调整值提升2，感知调整值提升1。</p>"
 		},
 		"Automatic Knowledge": {
 			"name": "Automatic Knowledge",
@@ -1402,8 +1402,8 @@
 			"description": "<p><strong>Requirements</strong> You're wielding a loaded magical firearm or crossbow.</p>\n<hr />\n<p>You infuse your entire being into a single shot, merging your body into the blast and enabling you to travel the same path as your bolt or bullet. Strike a creature with the required weapon. On a success, if the target was within 120 feet, you and all your gear are teleported to an open space of your choice within 10 feet of the target.</p>"
 		},
 		"Blade of Justice": {
-			"name": "Blade of Justice",
-			"description": "<p>You call upon divine power and make a weapon or unarmed Strike against a foe you have witnessed harming an ally or innocent.</p>\n<p>The Strike deals two extra weapon damage dice if the target of your Strike is evil.</p>\n<p>Whether or not the target is evil, you can convert all the physical damage from the attack into good damage, and if you are a paladin, the Strike applies all effects that normally apply on a Retributive Strike (such as divine smite).</p>"
+			"name": "审判之刃 Blade of Justice",
+			"description": "<p>你呼唤神力并用武器或无武装打击（Strike）对抗你能够证实其伤害了盟友或无辜者的敌人。</p>\n<p>如果被你打击（Strike）的目标是邪恶的，那么这次打击（Strike）会造成两个额外的武器伤害骰。</p>\n<p>无论目标是否邪恶，你都可以将该攻击的所有物理伤害转变为善良伤害，另外如果你是圣武士，这次打击会适用正常报应打击所能造成的全部效果（例如神圣制裁）。</p>"
 		},
 		"Blade of Law": {
 			"name": "Blade of Law",
@@ -2022,16 +2022,16 @@
 			"description": "<p>You can see through darkness. You gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision}.</p>\n<p><strong>Special</strong> You can select this feat only at 1st level, and you can't retrain into or out of this feat.</p>"
 		},
 		"Celestial Form": {
-			"name": "Celestial Form",
-			"description": "<p>You take on a celestial countenance, appearing like a type of celestial who serves your deity; for example, as an angel, you would gain a halo and feathery wings.</p>\n<p>You gain a fly Speed equal to your Speed. You gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision} if you don't already have it, and you gain the celestial trait and the trait appropriate to the type of servitor you've become (archon, angel, or azata, for example).</p>"
+			"name": "天界形态 Celestial Form",
+			"description": "<p>你呈现出天界的面容，犹如一种侍奉你的神祇的天界生物；例如，作为一名天使，你会获得一个光环和一双羽翼。</p>\n<p>你获得等同于你速度的飞行速度。如果你没有 @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{黑暗视觉} ，那么你会获得它，你还会获得天界特征以及与你所变成的天界仆从类型符合的特征（亚空、天使或爱塔，诸如此类）。</p>"
 		},
 		"Celestial Lore": {
 			"name": "Celestial Lore",
 			"description": "<p>You were raised with an aasimar or celestial relative, or you've devoted yourself to researching the secrets of the celestial realms.</p>\n<p>You gain the trained proficiency rank in Diplomacy and Religion. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice.</p>\n<p>You also become trained in a Lore skill related to the celestial realm from which you trace your lineage (usually Elysium Lore, Heaven Lore, or Nirvana Lore).</p>\n<hr />\n<p><em>Note: If you are already trained in the skill provided by this feat, you need to manually select an alternative skill. You also need to manually enter the granted Lore skill.</em></p>"
 		},
 		"Celestial Mount": {
-			"name": "Celestial Mount",
-			"description": "<p>Your steed gains incredible celestial powers granted by your deity. It gains darkvision, its maximum Hit Points increase by 40, and it gains weakness 10 to evil damage. Additionally, it grows wings appropriate to a servitor of your deity (such as metallic wings for an archon), granting it a fly Speed equal to its Speed. It gains the celestial trait and the trait appropriate to the type of servitor it has become (archon, angel, or azata, for example).</p>"
+			"name": "天界坐骑 Celestial Mount",
+			"description": "<p>你的坐骑被神祇授予了难以置信的天界力量。它获得黑暗视觉，它的最大生命值提升40，它获得针对邪恶伤害的弱点（Weakness）10。此外，它长出一对符合侍奉神祇的天界仆从的翅膀（例如亚空的金属之翼），这会给予它等同于其速度的飞行速度。它获得天界特征以及与它所变成的天界仆从类型相符合的特征（亚空、天使或爱塔，诸如此类）。</p>"
 		},
 		"Celestial Resistance": {
 			"name": "Celestial Resistance",
@@ -2114,8 +2114,8 @@
 			"description": "<p>You can use the champion's reaction associated with your cause.</p>"
 		},
 		"Champion's Sacrifice": {
-			"name": "Champion's Sacrifice",
-			"description": "<p>You can suffer so that others might live. You can cast the <em>@Compendium[pf2e.spells-srd.USM530HlzZ1RMd99]{Champion's Sacrifice}</em> devotion spell. Increase the number of Focus Points in your focus pool by 1.</p>"
+			"name": "神卫之牺牲 Champion's Sacrifice",
+			"description": "<p>你能够为他人的生存作出牺牲。你能够施展<em>@Compendium[pf2e.spells-srd.USM530HlzZ1RMd99]{神卫之牺牲 Champion's Sacrifice}</em>虔诚法术。你聚能池中的聚能点容量提升1。</p>"
 		},
 		"Chance Death": {
 			"name": "Chance Death",
@@ -2962,8 +2962,8 @@
 			"description": "<p>Imitating animal threat displays, you make yourself appear larger and more imposing.</p>\n<p>Roll one Intimidation check to @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Demoralize} and compare the result to the Will DC of each animal, fungus, and plant creature in a 15-foot cone. When you do, Demoralize gains the visual trait, and creatures are affected if they can see you. You don't take a penalty if the creature doesn't understand your language.</p>"
 		},
 		"Deity's Domain": {
-			"name": "Deity's Domain",
-			"description": "<p>You embody an aspect of your deity. Choose one of your deity's domains. You gain the domain's initial domain spell as a devotion spell.</p>"
+			"name": "神授领域 Deity's Domain",
+			"description": "<p>你是神祇某一方面的具现。从列举于441页的你所侍奉的神祇的领域中选择一个。你获得这个领域的初始领域法术作为你的虔诚法术。</p>"
 		},
 		"Deity's Protection": {
 			"name": "Deity's Protection",
@@ -3086,8 +3086,8 @@
 			"description": "<p>传统上魔族十分擅长哄骗他人行事，即便苦主明知道自己是在找死依然免不了上当。你也很擅长晃点人，心虚体弱的人常被你逼去做事。每日1次，你可以1环级神术内在法术的形式施放 <em>@Compendium[pf2e.spells-srd.vLA0q0WOK2YPuJs6]{魅惑术 Charm}</em> 。</p>"
 		},
 		"Devoted Focus": {
-			"name": "Devoted Focus",
-			"description": "<p>Your devotion is strong enough to increase your focus to incredible heights. If you have spent at least 2 Focus Points since the last time you Refocused, you recover 2 Focus Points when you Refocus instead of 1.</p>"
+			"name": "虔诚集中 Devoted Focus",
+			"description": "<p>你的虔诚如此强大，将你的聚能力提升至难以置信的境界。如果你自上次进行再聚能（Refocused）以来已经花费了至少2点聚能点，那么在你进行再聚能时会恢复2点聚能点而不是1点。</p>"
 		},
 		"Diabolic Certitude": {
 			"name": "Diabolic Certitude",
@@ -3330,24 +3330,24 @@
 			"description": "<p>The divine might provided by your bloodline fiows through you. You gain an additional spell slot of your highest level, which you can use only to cast your choice of <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Heal}</em> or <em>@Compendium[pf2e.spells-srd.wdA52JJnsuQWeyqz]{Harm}</em>. You can cast either of these spells using that spell slot, even if they aren't in your spell repertoire.</p>"
 		},
 		"Divine Grace": {
-			"name": "Divine Grace",
-			"description": "<p><strong>Trigger</strong> You attempt a save against a spell, before you roll.</p>\n<hr />\n<p>You call upon your deity's grace, gaining a +2 circumstance bonus to the save.</p>"
+			"name": "神圣恩典 Divine Grace",
+			"description": "<p><strong>触发</strong> 你尝试一次豁免检定对抗一个法术，在你进行投骰之前。</p>\n<hr />\n<p>你呼唤神祇的恩典，在这个豁免检定上获得+2的环境加值。</p>"
 		},
 		"Divine Guidance": {
 			"name": "Divine Guidance",
 			"description": "<p>You're so immersed in divine scripture that you find meaning and guidance in your texts in any situation. Spend 10 minutes Deciphering Writing on religious scriptures of your deity or philosophy while thinking about a particular problem or conundrum you face, and then attempt a Religion check (DC determined by the GM). If you succeed, you unearth a relevant passage, parable, or aphorism that can help you move forward or change your thinking to help solve your conundrum. For example, the GM might provide you with a cryptic poem or hint that can guide you to the next step of solving your problem.</p>"
 		},
 		"Divine Health": {
-			"name": "Divine Health",
-			"description": "<p>Your faith makes you resistant to disease, protecting you as you offer succor to the ill. You gain a +1 status bonus to saves against diseases. In addition, if you roll a success on a save against a disease, you get a critical success instead.</p>"
+			"name": "神圣强健 Divine Health",
+			"description": "<p>你的信仰给予你对疾病的抵抗力，在你向病患伸出援手时保护你。你在对抗疾病的豁免检定上获得+1状态加值。此外，如果你在对抗疾病的豁免检定上取得成功，你将其替换为大成功。</p>"
 		},
 		"Divine Reflexes": {
-			"name": "Divine Reflexes",
-			"description": "<p>At the start of each of your turns, you gain an additional reaction that you can use only for your champion's reaction.</p>"
+			"name": "神圣反射 Divine Reflexes",
+			"description": "<p>在你的每个回合开始时，你获得一个额外的反应动作，你只能用它来进行神卫反应。</p>"
 		},
 		"Divine Wall": {
-			"name": "Divine Wall",
-			"description": "<p><strong>Requirements</strong> You are wielding a shield.</p>\n<hr />\n<p>You use your shield to harry your enemies, preventing them from stepping away from or around you. All spaces adjacent to you are difficult terrain for your enemies.</p>"
+			"name": "神圣壁垒 Divine Wall",
+			"description": "<p><strong>需求</strong> 你正在持用一面盾牌</p>\n<hr />\n<p>你使用盾牌骚扰敌人，阻止他们在你的四周快步移动或远离你。所有邻接你的方格对你的敌人来说视为困难地形（Difficult terrain）。</p>"
 		},
 		"Divine Weapon": {
 			"name": "Divine Weapon",
@@ -3506,16 +3506,16 @@
 			"description": "<p>Your draconic anatomy becomes especially pronounced. You increase the power of one of the following kobold heritages or feats you have.</p>\n<hr />\n<p><strong>Dracomancer</strong> Increase the number of times you can cast each of the granted 1st- and 2nd-level innate spells by 1.</p>\n<p><strong>Kobold Breath</strong> Creatures that critically fail their save against your Kobold Breath take 3d4 persistent damage of the type dealt by your draconic patron.</p>\n<p><strong>Strongjaw Kobold</strong> Your jaws unarmed attack gains the deadly d6 trait.</p>\n<p><strong>Venomtail Kobold</strong> You produce enough venom to use the Tail Toxin action twice per day.</p>"
 		},
 		"Dragonslayer Oath (Liberator)": {
-			"name": "Dragonslayer Oath (Liberator)",
-			"description": "<p>You've sworn to slay evil dragons. Add the following tenet to your code after the others: \"You must slay evil dragons you encounter as long as you have a reasonable chance of success.</p>\n<p>If you use @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Liberating Step} triggered by an evil dragon, your ally gains a +4 circumstance bonus to checks granted by your Liberating Step, and the ally can Step twice afterward.</p>\n<p>@Compendium[pf2e.feat-effects.iyONT1qgeRgoYHsZ]{Effect: Liberating Step (vs. Dragon)}</p>\n<p>You don't consider evil dragons to be legitimate authorities, even in nations they rule.</p>"
+			"name": "屠龙誓约(解放者) Dragonslayer Oath (Liberator)",
+			"description": "<p>你立下誓约，屠尽邪龙。将后述信条添加到你的准则中的其他信条之后： \"只要你有合理的机会取得成功，你就必须杀死你所遭遇到的邪恶龙类。</p>\n<p>如果你使用由邪恶龙类触发的 @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{自由快步 Liberating Step} ，你的盟友会在自由快步所给予的检定上获得+4的环境加值，这名盟友在之后还可以进行两次快步（Step）。</p>\n<p>@Compendium[pf2e.feat-effects.iyONT1qgeRgoYHsZ]{效果：自由快步 (vs. 龙)}</p>\n<p>你不会将邪恶龙类视作正当的统治者，哪怕你正身处他们统治的国家。</p>"
 		},
 		"Dragonslayer Oath (Paladin)": {
-			"name": "Dragonslayer Oath (Paladin)",
-			"description": "<p>You've sworn to slay evil dragons. Add the following tenet to your code after the others: \"You must slay evil dragons you encounter as long as you have a reasonable chance of success.</p>\n<p>Your @Compendium[pf2e.actionspf2e.EAP98XaChJEbgKcK]{Retributive Strike} gains a +4 circumstance bonus to damage against an evil dragon, or +6 if you have master proficiency with the weapon you used.</p>\n<p>You don't consider evil dragons to be legitimate authorities, even in nations they rule.</p>"
+			"name": "屠龙誓约(圣武士) Dragonslayer Oath (Paladin)",
+			"description": "<p>你立下誓约，屠尽邪龙。将后述信条添加到你的准则中的其他信条之后： \"只要你有合理的机会取得成功，你就必须杀死你所遭遇到的邪恶龙类。</p>\n<p>你对抗邪恶龙类的 @Compendium[pf2e.actionspf2e.EAP98XaChJEbgKcK]{报应打击 Retributive Strike} 在伤害上获得+4的环境加值，如果你在你所使用的武器上达到大师熟练等级，则获得+6的环境加值。</p>\n<p>你不会将邪恶龙类视作正当的统治者，哪怕你正身处他们统治的国家。</p>"
 		},
 		"Dragonslayer Oath (Redeemer)": {
-			"name": "Dragonslayer Oath (Redeemer)",
-			"description": "<p>You've sworn to slay evil dragons. Add the following tenet to your code after the others: \"You must slay evil dragons you encounter as long as you have a reasonable chance of success.</p>\n<p>Your @Compendium[pf2e.actionspf2e.tuZnRWHixLArvaIf]{Glimpse of Redemption's} resistance against damage from an evil dragon is 7 + your level.</p>\n<p>You don't consider evil dragons to be legitimate authorities, even in nations they rule.</p>"
+			"name": "屠龙誓约(救赎者) Dragonslayer Oath (Redeemer)",
+			"description": "<p>你立下誓约，屠尽邪龙。将后述信条添加到你的准则中的其他信条之后： \"只要你有合理的机会取得成功，你就必须杀死你所遭遇到的邪恶龙类。</p>\n<p>你的 @Compendium[pf2e.actionspf2e.tuZnRWHixLArvaIf]{救赎瞥视 Glimpse of Redemption's} 所给予的抗力在对抗邪恶龙类的伤害时变为7+你的等级。</p>\n<p>你不会将邪恶龙类视作正当的统治者，哪怕你正身处他们统治的国家。</p>"
 		},
 		"Drain Vitality": {
 			"name": "Drain Vitality",
@@ -4166,7 +4166,7 @@
 			"description": "<p>你已宣誓会对潜伏在格拉利昂各处的外来异客赶尽杀绝。在其他信条之后把下面的信条加进你神卫准则中： \"只要有适当的机会，你要把你遇到的所有邪恶异怪赶尽杀绝。\"</p>\n<p>如果你使用 @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{自由快步} 且触发的是邪恶异怪，你的盟友在检定上从自由快步(Liberating Step)那获得+4环境加值，且之后你的盟友可以 @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{快步} 两次。</p>\n<p>@Compendium[pf2e.feat-effects.tAsFXMzNkpj964X4]{效果：自由快步 (vs. 异怪)}</p>\n<p>就算是在他统治的国家，你也无须考虑该邪恶异怪是否为合法权威。</p>"
 		},
 		"Esoteric Oath (Paladin)": {
-			"name": "秘教誓约(圣骑士) Esoteric Oath (Paladin)",
+			"name": "秘教誓约(圣武士) Esoteric Oath (Paladin)",
 			"description": "<p>你已宣誓会对潜伏在格拉利昂各处的外来异客赶尽杀绝。在其他信条之后把下面的信条加进你神卫准则中： \"只要有适当的机会，你要把你遇到的所有邪恶异怪赶尽杀绝。\"</p>\n<p>你的 @Compendium[pf2e.actionspf2e.EAP98XaChJEbgKcK]{报应打击} 伤害在对抗邪恶异怪上获得+4环境加值，如果你所使用的武器熟练度为大师，那+6。</p>\n<p>就算是在他统治的国家，你也无须考虑该邪恶异怪是否为合法权威。</p>"
 		},
 		"Esoteric Oath (Redeemer)": {
@@ -4750,16 +4750,16 @@
 			"description": "<p>你引用魔界的秽邪真言来制裁你的敌人。</p>\n<p>每日1次，你可以7环级神术内在法术的形式施放 <em>@Compendium[pf2e.spells-srd.sX2o0HH4RjJDAZ8C]{神圣裁决 Divine Decree}</em> ，但你必须为该法术的效果选择邪恶阵营，且不论你是否信仰神祇，或所信仰神祇的阵营为何，都可施放此法术。</p>"
 		},
 		"Fiendsbane Oath (Liberator)": {
-			"name": "Fiendsbane Oath (Liberator)",
-			"description": "<p>You've sworn an oath to banish the corruption of fiends to the dark planes they call home. Add the following tenet to your champion's code after the other tenets: \"You must banish or slay fiends you come across as long as you have a reasonable chance of success; in the incredibly unlikely event you find a good fiend, you don't have to banish or kill it.\"</p>\n<p>If you use @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Liberating Step} triggered by a fiend, your ally gains a +4 circumstance bonus to checks granted by your Liberating Step, and the ally can Step twice afterward.</p>\n<p>@Compendium[pf2e.feat-effects.9dCt0asv0kt7DR4q]{Effect: Liberating Step (vs. Fiend)}</p>\n<p>You don't consider fiends to be legitimate authorities, even in nations ruled by fiends.</p>"
+			"name": "驱魔誓约(解放者) Fiendsbane Oath (Liberator)",
+			"description": "<p>你立下誓约，要将堕落的魔族（Fiend）逐回被他们称作家园的黑暗位面。将后述信条添加到你的准则中的其他信条之后： \"只要你有合理的机会取得成功，你就必须驱逐或者杀死你所遇见的魔族；如果在极其罕见的情况下你遇到了一位善良的魔族，你不必驱逐或者屠戮它。\"</p>\n<p>如果你使用由魔族触发的 @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{自由快步 Liberating Step} ，你的盟友会在自由快步所给予的检定上获得+4的环境加值，这名盟友在之后还可以进行两次快步（Step）。</p>\n<p>@Compendium[pf2e.feat-effects.9dCt0asv0kt7DR4q]{效果：自由快步 (vs. 魔族)}</p>\n<p>你不会将魔族视作正当的统治者，哪怕你正身处魔族统治的国家。</p>"
 		},
 		"Fiendsbane Oath (Paladin)": {
-			"name": "Fiendsbane Oath (Paladin)",
-			"description": "<p>You've sworn an oath to banish the corruption of fiends to the dark planes they call home. Add the following tenet to your champion's code after the other tenets: \"You must banish or slay fiends you come across as long as you have a reasonable chance of success; in the incredibly unlikely event you find a good fiend, you don't have to banish or kill it.\"</p>\n<p>Your @Compendium[pf2e.actionspf2e.EAP98XaChJEbgKcK]{Retributive Strike} gains a +4 circumstance bonus to damage against a fiend, or a +6 circumstance bonus if you have master proficiency with the weapon you used.</p>\n<p>You don't consider fiends to be legitimate authorities, even in nations ruled by fiends.</p>"
+			"name": "驱魔誓约(圣武士) Fiendsbane Oath (Paladin)",
+			"description": "<p>你立下誓约，要将堕落的魔族（Fiend）逐回被他们称作家园的黑暗位面。将后述信条添加到你的准则中的其他信条之后： \"只要你有合理的机会取得成功，你就必须驱逐或者杀死你所遇见的魔族；如果在极其罕见的情况下你遇到了一位善良的魔族，你不必驱逐或者屠戮它。\"</p>\n<p>你对抗魔族的 @Compendium[pf2e.actionspf2e.EAP98XaChJEbgKcK]{报应打击 Retributive Strike}在伤害上获得+4的环境加值，如果你在你所使用的武器上达到大师熟练等级，则获得+6的环境加值。</p>\n<p>你不会将魔族视作正当的统治者，哪怕你正身处魔族统治的国家。</p>"
 		},
 		"Fiendsbane Oath (Redeemer)": {
-			"name": "Fiendsbane Oath (Redeemer)",
-			"description": "<p>You've sworn an oath to banish the corruption of fiends to the dark planes they call home. Add the following tenet to your champion's code after the other tenets: \"You must banish or slay fiends you come across as long as you have a reasonable chance of success; in the incredibly unlikely event you find a good fiend, you don't have to banish or kill it.\"</p>\n<p>Your @Compendium[pf2e.actionspf2e.tuZnRWHixLArvaIf]{Glimpse of Redemption's} resistance against damage from a fiend is 7 + your level.</p>\n<p>You don't consider fiends to be legitimate authorities, even in nations ruled by fiends.</p>"
+			"name": "驱魔誓约(救赎者) Fiendsbane Oath (Redeemer)",
+			"description": "<p>你立下誓约，要将堕落的魔族（Fiend）逐回被他们称作家园的黑暗位面。将后述信条添加到你的准则中的其他信条之后： \"只要你有合理的机会取得成功，你就必须驱逐或者杀死你所遇见的魔族；如果在极其罕见的情况下你遇到了一位善良的魔族，你不必驱逐或者屠戮它。\"</p>\n<p>你的 @Compendium[pf2e.actionspf2e.tuZnRWHixLArvaIf]{救赎瞥视 Glimpse of Redemption's} 所给予的抗力在对抗魔族的伤害时变为7+你的等级。</p>\n<p>你不会将魔族视作正当的统治者，哪怕你正身处魔族统治的国家。</p>"
 		},
 		"Fiery Retort": {
 			"name": "Fiery Retort",
@@ -5618,8 +5618,8 @@
 			"description": "<p>Your additives contain panaceas that can remedy a plethora of maladies. When you use @Compendium[pf2e.feats-srd.Mvw3ZFrdwMHedAxY]{Merciful Elixir}, your elixir can instead attempt to counteract the @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Blinded}, @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Deafened}, @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened}, or @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Slowed} condition.</p>"
 		},
 		"Greater Mercy": {
-			"name": "Greater Mercy",
-			"description": "<p>Your faith enhances your ability to remove conditions.</p>\n<p>When you use @Compendium[pf2e.feats-srd.zilwynzk8lIujgZo]{Mercy}, you can instead attempt to counteract the @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Blinded}, @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Deafened}, @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened}, or @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Slowed} conditions.</p>"
+			"name": "高等救济 Greater Mercy",
+			"description": "<p>你的信仰强化了你移除负面状态的能力。</p>\n<p>当你 @Compendium[pf2e.feats-srd.zilwynzk8lIujgZo]{救济 Mercy}时, 你能够转而尝试反制 @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{目盲 Blinded}, @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{耳聋 Deafened}, @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{恶心 Sickened}或 @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{缓慢 Slowed} 状态。</p>"
 		},
 		"Greater Physical Evolution": {
 			"name": "Greater Physical Evolution",
@@ -5906,8 +5906,8 @@
 			"description": "<p>You have a deep devotion to your animal companion that enables you to magically heal their wounds. You gain the <em>@Compendium[pf2e.spells-srd.KIV2LqzS5KtqOItV]{Heal Companion}</em> warden spell and a focus pool of 1 Focus Point.</p>"
 		},
 		"Heal Mount": {
-			"name": "Heal Mount",
-			"description": "<p>Your devotion to your mount manifests as a surge of positive energy.</p>\n<p>When you cast <em>@Compendium[pf2e.spells-srd.zNN9212H2FGfM7VS]{Lay on Hands}</em> on your mount, you can restore 10 Hit Points, plus 10 for each heightened level.</p>"
+			"name": "医疗坐骑 Heal Mount",
+			"description": "<p>你对坐骑的忠诚转化为汹涌的正能量浪潮。</p>\n<p>当你对坐骑施展<em>@Compendium[pf2e.spells-srd.zNN9212H2FGfM7VS]{圣疗 Lay on Hands}</em> 时，你能够为其恢复10点生命值，外加每升高一个环级10点。</p>"
 		},
 		"Healer's Halo": {
 			"name": "Healer's Halo",
@@ -6238,8 +6238,8 @@
 			"description": "<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> You would critically fail a skill check or suffer an effect with the misfortune trait.</p>\n<hr />\n<p>You shift the underlying fabric of reality to impose a baseline of order. If the trigger was a skill check, you instead receive a result of 10 + your proficiency bonus (don't apply any other bonuses, penalties, or modifiers). If the trigger was an effect with the misfortune trait, the misfortune and fortune effects cancel each other out as normal, negating the triggering misfortune effect.</p>"
 		},
 		"Imposing Destrier": {
-			"name": "Imposing Destrier",
-			"description": "<p>Under your care, your mount has realized its innate potential. The mount you gained through the divine ally class feature is now a nimble or savage animal companion. During an encounter, even if you don't use the Command an Animal action, your mount can still use 1 action on your turn to Stride or Strike.</p>"
+			"name": "壮硕军骑 Imposing Destrier",
+			"description": "<p>在你的照料下，你的坐骑激发它的与生俱来的潜能。你通过神圣盟友职业特性获得的坐骑现在是一只灵敏（Nimble）或狂怒（Savage）动物伙伴（214页）。在遭遇中，即使你不使用命令动物（Command an Animal）动作，你的坐骑也仍然会在你的回合中使用一个动作进行迈步（Stride）或打击（Strike）。</p>"
 		},
 		"Impossible Flurry": {
 			"name": "Impossible Flurry",
@@ -6578,8 +6578,8 @@
 			"description": "<p>你的利刃盟友渴求着敌人的鲜血。</p>\n<p>当你使用寄宿利刃盟友，并且在会造成额外伤害的神卫反应动作重击一位敌人时，目标会承受与你武器伤害骰双倍数量的 @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续流血伤害} 。</p>"
 		},
 		"Instrument of Zeal": {
-			"name": "Instrument of Zeal",
-			"description": "<p>Divine energy fills your weapon. Whenever you critically hit a foe with Blade of Justice or a Retributive Strike, your attack adds an extra damage die, and the target is slowed 1 on its next turn.</p>"
+			"name": "热忱兵器 Instrument of Zeal",
+			"description": "<p>神能充盈你的武器。当你使用制裁邪恶或者报应打击对一名敌人造成重击时，你的攻击增加一个额外的伤害骰，目标在它的下一回合中获得缓慢（Slowed）1。</p>"
 		},
 		"Integrated Armament": {
 			"name": "Integrated Armament",
@@ -6982,8 +6982,8 @@
 			"description": "<p>When you successfully Coerce someone, the maximum time they comply increases to a week, still determined by the GM. If you're legendary, the maximum increases to a month.</p>"
 		},
 		"Lasting Doubt": {
-			"name": "Lasting Doubt",
-			"description": "<p>When you cast doubt upon your foes, the effect lasts longer than usual.</p>\n<p>After being enfeebled 2 by your @Compendium[pf2e.actionspf2e.tuZnRWHixLArvaIf]{Glimpse of Redemption}, the foe is enfeebled 1 for 1 minute.</p>\n<p>If you have @Compendium[pf2e.feats-srd.2c9awqDem5OLK47S]{Weight of Guilt}, after being stupefied 2 by your Glimpse of Redemption, the foe is stupefied 1 for 1 minute or until the flat check from stupefied causes it to lose a spell, whichever comes first.</p>"
+			"name": "恒久疑虑 Lasting Doubt",
+			"description": "<p>当你在敌人的心中种下疑虑时，它的效果将会比通常持续得更久。</p>\n<p>在你的 @Compendium[pf2e.actionspf2e.tuZnRWHixLArvaIf]{救赎瞥视 Glimpse of Redemption}造成力竭（Enfeebled）2之后，敌人还会在1分钟内陷入力竭（Enfeebled）1。</p>\n<p>如果你拥有 @Compendium[pf2e.feats-srd.2c9awqDem5OLK47S]{负罪之重 Weight of Guilt}，在救赎瞥视造成呆滞（Stupefied）2之后，你的敌人还会陷入呆滞（Stupefied）1，持续1分钟或直到呆滞产生的裸骰检定致使它失去一个法术为止，取其先者。</p>"
 		},
 		"Lastwall Sentry Dedication": {
 			"name": "Lastwall Sentry Dedication",
@@ -7142,8 +7142,8 @@
 			"description": "<p><strong>Frequency</strong> once per minute</p>\n<hr />\n<p>You can cast your spells effortlessly by tapping into the leylines of the world. If your next action is to Cast a Spell of 5th level or lower that has no duration, you don't expend the prepared spell as you cast it.</p>"
 		},
 		"Liberating Stride": {
-			"name": "Liberating Stride",
-			"description": "<p>Instead of you taking a Step at the end of your @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Liberating Step}, the triggering ally can Stride up to half their Speed.</p>\n<p>Even if you have @Compendium[pf2e.classfeatures.uptzvOLrZ3fctrl2]{Exalt}, only the triggering ally gains this benefit.</p>"
+			"name": "自由迈步 Liberating Stride",
+			"description": "<p>取代在你的 @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{自由快步 Liberating Step}结束之后进行一个快步（Step），触发自由快步的盟友能够以至多他们速度（Speed）的一半进行迈步（Stride）。</p>\n<p>即使你拥有 @Compendium[pf2e.classfeatures.uptzvOLrZ3fctrl2]{升格 Exalt}，也只有触发自由快步的盟友才能从这个能力中获益。</p>"
 		},
 		"Lie Detector": {
 			"name": "Lie Detector",
@@ -7242,12 +7242,12 @@
 			"description": "<p>You've trained with the weapons of the Bright Lions. You gain access to @Compendium[pf2e.equipment-srd.Ak3oHoPDJoMR14yg]{Lion Scythes} and @Compendium[pf2e.equipment-srd.zWp7Kcn7mhKyGFxW]{Sun Slings}. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency rank with lion scythes and sun slings.</p>"
 		},
 		"Litany Against Sloth": {
-			"name": "Litany Against Sloth",
-			"description": "<p>You rail against the sin of sloth, turning a foe's laziness against it. You can cast the <em>@Compendium[pf2e.spells-srd.2mVW1KT3AjW2pvDO]{Litany against Sloth}</em> devotion spell. Increase the number of Focus Points in your focus pool by 1.</p>"
+			"name": "反怠惰祷言 Litany Against Sloth",
+			"description": "<p>你斥责怠惰之罪，让敌人的懒惰转而袭向它自己。你能够施展<em>@Compendium[pf2e.spells-srd.2mVW1KT3AjW2pvDO]{反怠惰祷言 Litany against Sloth}</em>虔诚法术。你的聚能池中的聚能点容量提升1。</p>"
 		},
 		"Litany Against Wrath": {
-			"name": "Litany Against Wrath",
-			"description": "<p>You excoriate a foe for its wrath against goodly creatures.</p>\n<p>You can cast the <em>@Compendium[pf2e.spells-srd.X1b9ollVMSLXDN9o]{Litany against Wrath}</em> devotion spell. Increase the number of Focus Points in your focus pool by 1.</p>"
+			"name": "反愤怒祷言 Litany Against Wrath",
+			"description": "<p>你因敌人对美好之物的愤怒而予以谴责。</p>\n<p>你能够施展 <em>@Compendium[pf2e.spells-srd.X1b9ollVMSLXDN9o]{反愤怒祷言 Litany against Wrath}</em> 虔诚法术。你的聚能池中的聚能点容量提升1。</p>"
 		},
 		"Litany Of Depravity": {
 			"name": "堕落祷言 Litany Of Depravity",
@@ -7258,8 +7258,8 @@
 			"description": "<p>你迫使一名生物无视他人，只为自己目标而动。你能施放 <em>@Compendium[pf2e.spells-srd.mm3hZ6jgaJaKK16n]{利己祷言 Litany of Self-Interest}</em> 虔诚法术。你的聚能池增加1点聚能点。</p>"
 		},
 		"Litany of Righteousness": {
-			"name": "Litany of Righteousness",
-			"description": "<p>You call upon righteousness to expose an evil foe's weakness.</p>\n<p>You can cast the <em>@Compendium[pf2e.spells-srd.n3b3pDmA6L5YRTyq]{Litany of Righteousness}</em> devotion spell. Increase the number of Focus Points in your focus pool by 1.</p>"
+			"name": "正义祷言 Litany of Righteousness",
+			"description": "<p>你呼唤正义之力揭露恶徒的弱点。你能够施展<em>@Compendium[pf2e.spells-srd.n3b3pDmA6L5YRTyq]{正义祷言 Litany of Righteousness}</em>虔诚法术。你的聚能池中的聚能点容量提升1。</p>"
 		},
 		"Live Ammunition": {
 			"name": "Live Ammunition",
@@ -7362,8 +7362,8 @@
 			"description": "<p>You have incredible empathy for your friends and family, and you have an innate timing for helping others in distress. You can use the @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aid} reaction to grant a bonus to another creature's Will saving throw. As usual for Aid, you need to prepare by using an action on your turn to encourage the creature to bravely withstand the effect.</p>"
 		},
 		"Loyal Warhorse": {
-			"name": "Loyal Warhorse",
-			"description": "<p>You and your mount have grown closer, and your loyalty to each other is unbreakable. The mount you gained through the divine ally class feature is now a mature animal companion. In addition, your mount never attacks you, even if it is magically compelled to do so.</p>"
+			"name": "忠贞战骑 Loyal Warhorse",
+			"description": "<p>你和你的坐骑亲密无间，彼此之间的忠诚牢不可破。你通过神圣盟友职业特性获得的坐骑现在是一只成年（Mature）动物伙伴。此外，你的坐骑绝不会攻击你，哪怕有什么魔法正强迫它这样做。</p>"
 		},
 		"Lucky Break": {
 			"name": "Lucky Break",
@@ -7786,8 +7786,8 @@
 			"description": "<p><strong>Requirements</strong> Your eidolon hit the same enemy with two consecutive Strikes with its secondary attack this turn and dealt slashing damage with both.</p>\n<p>Your eidolon rends its foes. It automatically deals the damage from its secondary attack to the enemy.</p>"
 		},
 		"Mercy": {
-			"name": "Mercy",
-			"description": "<p>Your touch relieves fear and restores movement.</p>\n<p>If the next action you use is to cast <em>@Compendium[pf2e.spells-srd.zNN9212H2FGfM7VS]{Lay on Hands}</em>, you can attempt to counteract a fear effect or an effect imposing the @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralyzed} condition on the target, in addition to the other benefits of lay on hands.</p>"
+			"name": "救济 Mercy",
+			"description": "<p>你的接触将解除恐惧并恢复行动力。</p>\n<p>如果你的下一个动作是施展 <em>@Compendium[pf2e.spells-srd.zNN9212H2FGfM7VS]{圣疗 Lay on Hands}</em>，那么在给予圣疗原本效果的同时，你还能够尝试反制（Counteract）一个恐惧效果或一个会导致目标陷入 @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{麻痹 Paralyzed}的效果。</p>"
 		},
 		"Mesmerizing Gaze": {
 			"name": "Mesmerizing Gaze",
@@ -9090,8 +9090,8 @@
 			"description": "<p>You gain the @Compendium[pf2e.actionspf2e.yzNJgwzV9XqEhKc6]{Quick Alchemy} action.</p>"
 		},
 		"Quick Block": {
-			"name": "Quick Block",
-			"description": "<p>You can block with your shield instinctively. At the start of each of your turns, you gain an additional reaction that you can use only to perform a Shield Block.</p>"
+			"name": "快速格挡 Quick Block",
+			"description": "<p>你本能地使用盾牌进行格挡。在你每个回合开始时，你获得一个额外的反应动作，但这个反应动作只能用于执行盾牌格挡。</p>"
 		},
 		"Quick Bomber": {
 			"name": "Quick Bomber",
@@ -9218,12 +9218,12 @@
 			"description": "<p>Your strikes can kill foes. You gain the <em>@Compendium[pf2e.spells-srd.Ovvflf5aFbmBxqq8]{Quivering Palm}</em> ki spell. Increase the number of Focus Points in your focus pool by 1.</p>"
 		},
 		"Radiant Blade Master": {
-			"name": "Radiant Blade Master",
-			"description": "<p>Your divine ally turns your chosen weapon into a paragon of its type.</p>\n<p>When you choose the weapon for your blade divine ally during your preparations, add the following property runes to the list of effects you can choose from: @Compendium[pf2e.equipment-srd.DCPsilr8wbPXxTUv]{Dancing}, @Compendium[pf2e.feat-effects.HjfIXg5btodThCTW]{Effect: Blade Ally Disrupting Rune (Greater)}, and @Compendium[pf2e.feat-effects.Gf7h44DcTB43464h]{Effect: Blade Ally Keen Rune}.</p>"
+			"name": "闪耀利刃至尊 Radiant Blade Master",
+			"description": "<p>你的神圣盟友将你所选中的武器转化为同类武器中的至尊之作。</p>\n<p>当你在日常准备期间为你的利刃神圣盟友选择武器时，将下列属性符文添加到你能选择的效果列表中： @Compendium[pf2e.equipment-srd.DCPsilr8wbPXxTUv]{舞空 Dancing}, @Compendium[pf2e.feat-effects.HjfIXg5btodThCTW]{效果：利刃盟友高等瓦解符文}和 @Compendium[pf2e.feat-effects.Gf7h44DcTB43464h]{效果：利刃盟友锐锋符文}。</p>"
 		},
 		"Radiant Blade Spirit": {
-			"name": "Radiant Blade Spirit",
-			"description": "<p>Your divine ally radiates power, enhancing your chosen weapon.</p>\n<p>When you choose the weapon for your blade ally during your daily preparations, add the following property runes to the list of effects you can choose from: @Compendium[pf2e.feat-effects.YxYr18vleIt2t3RS]{Effect: Blade Ally Flaming Rune} and any aligned properties (@Compendium[pf2e.feat-effects.xLXFK4mtzgAF4zvx]{Effect: Blade Ally Anarchic Rune}, @Compendium[pf2e.feat-effects.ZzE6jPbCyUqEqhcb]{Effect: Blade Ally Axiomatic Rune}, @Compendium[pf2e.feat-effects.l98IthkklgLDJXIo]{Effect: Blade Ally Holy Rune}, or @Compendium[pf2e.feat-effects.rGSc2PtvU3mgm18S]{Effect: Blade Ally Unholy Rune}) that match your cause's alignment.</p>"
+			"name": "闪耀利刃圣灵 Radiant Blade Spirit",
+			"description": "<p>你的神圣盟友闪耀着强大的力量，增幅你选中的武器。</p>\n<p>当你在日常准备期间为你的利刃盟友选择一把武器时，将如下属性符文添加到你的可选效果列表中： @Compendium[pf2e.feat-effects.YxYr18vleIt2t3RS]{效果：利刃盟友炽焰符文}和匹配你事业阵营的任意阵营属性 (@Compendium[pf2e.feat-effects.xLXFK4mtzgAF4zvx]{效果：利刃盟友混乱符文}, @Compendium[pf2e.feat-effects.ZzE6jPbCyUqEqhcb]{效果：利刃盟友公理符文}, @Compendium[pf2e.feat-effects.l98IthkklgLDJXIo]{效果：利刃盟友神圣符文}或 @Compendium[pf2e.feat-effects.rGSc2PtvU3mgm18S]{效果：利刃盟友邪恶符文})。</p>"
 		},
 		"Radiant Burst": {
 			"name": "Radiant Burst",
@@ -9354,8 +9354,8 @@
 			"description": "<p><strong>Requirements</strong> You're wielding a simple firearm.</p>\n<hr />\n<p>When using a simple firearm, you can shoot objects right out of your enemy's hands. Attempt to @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Disarm} the target using a ranged attack roll with your simple firearm, instead of attempting an Athletics check against the target's Reflex DC.</p>"
 		},
 		"Ranged Reprisal": {
-			"name": "Ranged Reprisal",
-			"description": "<p>You can use Retributive Strike with a ranged weapon. In addition, if the foe that triggered your reaction is within 5 feet of your reach but not in your reach, as part of your reaction you can Step to put the foe in your reach before making a melee Retributive Strike.</p>"
+			"name": "远距复仇 Ranged Reprisal",
+			"description": "<p>你能够使用远程武器发动报应打击。此外，如果触发反应动作的敌人在你的触及范围周围5尺之中，而不在你的触及范围之内，你可以在发动一次近战报应打击之前，作为反应动作的一部分进行快步（Step）好让敌人处于你的触及范围之内。</p>"
 		},
 		"Ranger Dedication": {
 			"name": "Ranger Dedication",
@@ -10194,8 +10194,8 @@
 			"description": "<p>You've mastered the preparation of many types of food and drink. You gain a +1 circumstance bonus to checks to Craft food and drink, including potions. If you are a master in one of the prerequisite skills, this bonus increases to +2.</p>"
 		},
 		"Second Ally": {
-			"name": "Second Ally",
-			"description": "<p>Your inner grace attracts the attention of a second protective spirit. Choose a second type of divine ally and gain its benefits.</p>"
+			"name": "第二盟友 Second Ally",
+			"description": "<p>你心中的恩典引起了第二位守护灵的注意。再选择另一种类型的神圣盟友并获得它的好处。</p>"
 		},
 		"Second Chance Spell": {
 			"name": "Second Chance Spell",
@@ -10266,8 +10266,8 @@
 			"description": "<p>You sense chaos as an unsettling feeling of nervous energy. When in the presence of an aura of chaos that is powerful or overwhelming, you eventually detect the aura, though you might not do so instantly and you can't pinpoint the location. This is a vague sense, similar to humans' sense of smell. A chaotic creature using a disguise or otherwise trying to hide its presence attempts a Deception check against your Perception DC to hide its aura from you. If the creature succeeds at its Deception check, it is temporarily immune to your Sense Chaos for 1 day.</p>"
 		},
 		"Sense Evil": {
-			"name": "Sense Evil",
-			"description": "<p>You sense evil as a queasy or foreboding feeling. When in the presence of an aura of evil that is powerful or overwhelming, you eventually detect the aura, though you might not do so instantly, and you can't pinpoint the location. This acts as a vague sense, similar to humans' sense of smell.</p>\n<p>An evil creature using a disguise or otherwise trying to hide its presence attempts a Deception check against your Perception DC to hide its aura from you. If the creature succeeds at its Deception check, it is then temporarily immune to your Sense Evil for 1 day.</p>"
+			"name": "感知邪恶 Sense Evil",
+			"description": "<p>令人作呕的感觉或忽然闪现的预兆让你感知到邪恶的存在。当你的面前有强大（Powerful）或刺目（Overwhelming）邪恶灵光存在时，你最终会感知到这种灵光，不过你并不会立即察觉到，你也无法准确地将其定位。这个能力如同模糊感官（Vague sense）一般运作，类似于人类的嗅觉。</p>\n<p>邪恶生物能够使用某种伪装或其他方式尝试隐藏他的存在并进行一次欺骗检定对抗你的察觉DC来从你的眼中隐藏它的灵光。如果这名生物在这次欺骗检定中成功，它能够在一天内暂时免疫你的感知邪恶。</p>"
 		},
 		"Sense For Trouble": {
 			"name": "Sense For Trouble",
@@ -10530,28 +10530,28 @@
 			"description": "<p>Residual energy from your domain spells bolsters your defenses. When you spend a Focus Point to cast a domain spell, you gain a +1 status bonus to your AC until the start of your next turn.</p>"
 		},
 		"Shield Paragon": {
-			"name": "Shield Paragon",
-			"description": "<p>Your shield is a vessel of divine protection. When you're wielding your chosen shield, it is always raised, even without you using the Raise a Shield action. Your chosen shield doubles its HP and BT, rather than increasing them by half. If it would be destroyed, it vanishes to your deity's realm instead, where your divine ally repairs it. During your next daily preparations, the shield returns to you fully repaired.</p>"
+			"name": "坚盾典范 Shield Paragon",
+			"description": "<p>你的盾牌成为神圣守护的容器。当你持用你所选择的盾牌时，它总是被视作已举起，哪怕你没有使用举起盾牌（Raise a Shield）动作。你所选的盾牌的HP和BT变为两倍，而不是增加原本的一半。如果盾牌将要被摧毁，作为代替，它会消失并出现在在你所侍奉的神祇的领地之中，而你的神圣盟友会在那里修复它。在你下次进行日常准备期间，这面盾牌会完好无损地回到你的手中。</p>"
 		},
 		"Shield Salvation": {
 			"name": "Shield Salvation",
 			"description": "<p>You can save your shield from total destruction, even after a devastating attack. If a shield would be destroyed due to damage taken during your @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Shield Block}, the shield remains intact at 1 Hit Point instead.</p>\n<p>Its construction is weakened until you take the time to repair it, preventing you from using Shield Salvation to save the same shield until your next preparations.</p>"
 		},
 		"Shield Warden (Champion)": {
-			"name": "Shield Warden (Champion)",
-			"description": "<p>You use your shield to protect your allies as well as yourself. When you have a shield raised, you can use your Shield Block reaction when an attack is made against an ally adjacent to you. If you do, the shield prevents that ally from taking damage instead of preventing you from taking damage, following the normal rules for Shield Block.</p>"
+			"name": "坚盾守望者(神卫) Shield Warden (Champion)",
+			"description": "<p>你用你的盾牌保护自身和盟友。当你持有一面已经举起的盾牌时，你能够在邻接你的盟友即将承受一次攻击时使用盾牌格挡反应动作。如果你这样做，这面盾牌会阻挡即将对盟友造成的伤害而不是阻挡即将对你造成的伤害，除此之外如同正常的盾牌格挡规则一般运作。</p>"
 		},
 		"Shield Warden (Fighter)": {
 			"name": "Shield Warden (Fighter)",
 			"description": "<p>You use your shield to protect your allies as well as yourself. When you have a shield raised, you can use your Shield Block reaction when an attack is made against an ally adjacent to you. If you do, the shield prevents that ally from taking damage instead of preventing you from taking damage, following the normal rules for Shield Block.</p>"
 		},
 		"Shield of Grace": {
-			"name": "Shield of Grace",
-			"description": "<p>You protect an ally with both your shield and your body. Whenever you use the Shield Block reaction to prevent damage to an ally, you can evenly split the remaining damage after the Shield Block between the ally and yourself.</p>"
+			"name": "恩典之盾 Shield of Grace",
+			"description": "<p>你以身躯和盾牌保护你的盟友。当你使用盾牌格挡反应动作阻挡一名盟友受到的伤害时，你能够将盾牌格挡之后剩余的伤害在你自己和盟友之间均分。</p>"
 		},
 		"Shield of Reckoning": {
-			"name": "Shield of Reckoning",
-			"description": "<p><strong>Trigger</strong> A foe's attack against an ally matches the trigger for both your Shield Block reaction and your champion's reaction</p>\n<hr />\n<p>When you shield your ally against an attack, you call upon your power to protect your ally further. You use the Shield Block reaction to prevent damage to an ally and also use your champion's reaction against the foe that attacked your ally.</p>"
+			"name": "清算之盾 Shield of Reckoning",
+			"description": "<p><strong>触发</strong> 一名敌人针对你盟友的攻击同时满足你的盾牌格挡反应动作和神卫反应的触发条件。</p>\n<hr />\n<p>当你运用盾牌为盟友挡下攻击时，你还能呼唤你的力量进一步保护盟友。你使用盾牌格挡反应动作去为一名盟友阻挡伤害，同时也启动你的神卫反应来对抗这名攻击你盟友的敌人。</p>"
 		},
 		"Shielded Stride": {
 			"name": "Shielded Stride",
@@ -10578,16 +10578,16 @@
 			"description": "<p>When you cast light, you can modify its target to be 1 melee weapon, either unattended or possessed by you or a willing ally, and modify its duration to be 1 minute. If you do, add the following to its effects: When a creature wielding the weapon critically hits a foe, you can Dismiss the Spell as a reaction, causing the foe to be @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Dazzled} for 1 round. After you use this reaction, you can't use this modification again for 10 minutes.</p>"
 		},
 		"Shining Oath (Liberator)": {
-			"name": "Shining Oath (Liberator)",
-			"description": "<p>You've sworn an oath to put the undead to rest. Add the following tenet to your champion's code after the other tenets: \"You must end the existence of undead you encounter as long as you have a reasonable chance of success; in the unlikely event you find a good undead, you can try to work out a more peaceful way to help it recover from its undead state rather than destroying it in combat, such as helping it complete its unfinished business and find peace.\"</p>\n<p>If you use @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Liberating Step} triggered by an undead, your ally gains a +4 circumstance bonus to checks granted by your Liberating Step, and the ally can Step twice afterward.</p>\n<p>@Compendium[pf2e.feat-effects.ZnKnOPPq3cG54PlG]{Effect: Liberating Step (vs. Undead)}</p>\n<p>You don't consider undead to be legitimate authorities, even in nations ruled by undead.</p>"
+			"name": "光辉誓约(解放者) Shining Oath (Liberator)",
+			"description": "<p>你立下誓约，要令亡灵安息。将后述信条添加到你的准则中的其他信条之后： \"只要你有合理的机会取得成功，你就必须终结你所遭遇到的不死存在；如果在极其罕见的情况下你遇到了一位善良的不死生物，你可以尝试找到更为和平的方式让它从不死状态中解脱，而不是通过战斗将其摧毁，例如帮助它完成未了的心愿并寻获安宁。\"</p>\n<p>如果你使用由不死生物触发的 @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{自由快步 Liberating Step}，你的盟友会在自由快步所给予的检定上获得+4的环境加值，这名盟友在之后还可以进行两次快步（Step）。</p>\n<p>@Compendium[pf2e.feat-effects.ZnKnOPPq3cG54PlG]{效果：自由快步 (vs. 不死生物)}</p>\n<p>你不会将不死生物视作正当的统治者，哪怕你正身处不死生物统治的国家。</p>"
 		},
 		"Shining Oath (Paladin)": {
-			"name": "Shining Oath (Paladin)",
-			"description": "<p>You've sworn an oath to put the undead to rest. Add the following tenet to your champion's code after the other tenets: \"You must end the existence of undead you encounter as long as you have a reasonable chance of success; in the unlikely event you find a good undead, you can try to work out a more peaceful way to help it recover from its undead state rather than destroying it in combat, such as helping it complete its unfinished business and find peace.\"</p>\n<p>Your @Compendium[pf2e.actionspf2e.EAP98XaChJEbgKcK]{Retributive Strike} gains a +4 circumstance bonus to damage against an undead, or +6 if you have master proficiency with the weapon you used.</p>\n<p>You don't consider undead to be legitimate authorities, even in nations ruled by undead.</p>"
+			"name": "光辉誓约(圣武士) Shining Oath (Paladin)",
+			"description": "<p>你立下誓约，要令亡灵安息。将后述信条添加到你的准则中的其他信条之后： \"只要你有合理的机会取得成功，你就必须终结你所遭遇到的不死存在；如果在极其罕见的情况下你遇到了一位善良的不死生物，你可以尝试找到更为和平的方式让它从不死状态中解脱，而不是通过战斗将其摧毁，例如帮助它完成未了的心愿并寻获安宁。\"</p>\n<p>你对抗不死生物的 @Compendium[pf2e.actionspf2e.EAP98XaChJEbgKcK]{报应打击 Retributive Strike} 在伤害上获得+4的环境加值，如果你在你所使用的武器上达到大师熟练等级，则获得+6的环境加值。</p>\n<p>你不会将不死生物视作正当的统治者，哪怕你正身处不死生物统治的国家。</p>"
 		},
 		"Shining Oath (Redeemer)": {
-			"name": "Shining Oath (Redeemer)",
-			"description": "<p>You've sworn an oath to put the undead to rest. Add the following tenet to your champion's code after the other tenets: \"You must end the existence of undead you encounter as long as you have a reasonable chance of success; in the unlikely event you find a good undead, you can try to work out a more peaceful way to help it recover from its undead state rather than destroying it in combat, such as helping it complete its unfinished business and find peace.\"</p>\n<p>Your @Compendium[pf2e.actionspf2e.tuZnRWHixLArvaIf]{Glimpse of Redemption's} resistance against damage from an undead is 7 + your level.</p>\n<p>You don't consider undead to be legitimate authorities, even in nations ruled by undead.</p>"
+			"name": "光辉誓约(救赎者) Shining Oath (Redeemer)",
+			"description": "<p>你立下誓约，要令亡灵安息。将后述信条添加到你的准则中的其他信条之后： \"只要你有合理的机会取得成功，你就必须终结你所遭遇到的不死存在；如果在极其罕见的情况下你遇到了一位善良的不死生物，你可以尝试找到更为和平的方式让它从不死状态中解脱，而不是通过战斗将其摧毁，例如帮助它完成未了的心愿并寻获安宁。\"</p>\n<p>你的 @Compendium[pf2e.actionspf2e.tuZnRWHixLArvaIf]{救赎瞥视 Glimpse of Redemption's} 所给予的抗力在对抗不死生物的伤害时变为7+你的等级。</p>\n<p>你不会将不死生物视作正当的统治者，哪怕你正身处不死生物统治的国家。</p>"
 		},
 		"Shinstabber": {
 			"name": "Shinstabber",
@@ -10878,8 +10878,8 @@
 			"description": "<p>You have a tail that serves as a potent weapon. You gain a tail unarmed attack that deals [[/r {1d6}[bludgeoning]]]{1d6 bludgeoning damage}, has the sweep trait, and is in the brawling weapon group.</p>"
 		},
 		"Smite Evil": {
-			"name": "Smite Evil",
-			"description": "<p>Your blade ally becomes an even more powerful tool against evildoers.</p>\n<p>Select one foe you can see. Until the start of your next turn, your Strikes with the weapon your blade ally inhabits against that foe deal an extra 4 good damage, increasing to 6 if you have master proficiency with this weapon.</p>\n<p>If the foe attacks one of your allies, the duration extends to the end of that foe's next turn. If the foe continues to attack your allies each turn, the duration continues to extend.</p>\n<p>@Compendium[pf2e.feat-effects.AlnxieIRjqNqsdVu]{Effect: Smite Evil}</p>"
+			"name": "制裁邪恶 Smite Evil",
+			"description": "<p>你的利刃盟友成为对抗恶徒的强力武器。</p>\n<p>选择一名你能够看到的敌人。直到你下一回合开始为止，你用利刃盟友栖息的武器对这名敌人进行的打击（Strike）会造成额外4点善良伤害，如果你在这把武器上的熟练等级达到大师则将伤害提升至6点。</p>\n<p>如果这名敌人攻击你的盟友，这个效果的持续时间会延长到这名敌人下一回合结束为止。如果这名敌人每回合都持续攻击你的盟友，这个效果的持续时间还会继续延长。</p>\n<p>@Compendium[pf2e.feat-effects.AlnxieIRjqNqsdVu]{效果：制裁邪恶}</p>"
 		},
 		"Smite Good": {
 			"name": "制裁善良 Smite Good",
@@ -12646,8 +12646,8 @@
 			"description": "<p>Your experience keeps you on your toes, making you adaptable to even the most dangerous challenges. When you gain a fighter feat using combat flexibility, you gain three fighter feats instead of two.</p>\n<p>While the first feat must still be 8th level or lower, the second feat can be up to 14th level, and the third feat can be up to 18th level. You can use the first feat to meet the prerequisites of the second or third feats and the second feat to meet the prerequisites of the third feat. You must meet all feats' prerequisites.</p>\n<p>In addition, you can adapt to the battlefield's challenges by spending 1 hour to train. If you do, you can reselect the feats chosen with combat flexibility as if you had made your daily preparations. You can't trade out limited-use abilities that you've already used, such as @Compendium[pf2e.feats-srd.wdkbfWKEjAFXAxto]{Determination}.</p>"
 		},
 		"Ultimate Mercy": {
-			"name": "Ultimate Mercy",
-			"description": "<p>Your mercy transcends the bounds of life and death.</p>\n<p>When you use @Compendium[pf2e.feats-srd.zilwynzk8lIujgZo]{Mercy}, you can cast <em>@Compendium[pf2e.spells-srd.zNN9212H2FGfM7VS]{Lay on Hands}</em> on a creature that died since your last turn to return it to life. The target returns to life with 1 hit point and becomes wounded 1. You can't use Ultimate Mercy if the triggering effect was disintegrate or a death effect.</p>"
+			"name": "最终救济 Ultimate Mercy",
+			"description": "<p>你的救济将超越生死的界限。</p>\n<p>当你使用 @Compendium[pf2e.feats-srd.zilwynzk8lIujgZo]{救济 Mercy}, 你能够将<em>@Compendium[pf2e.spells-srd.zNN9212H2FGfM7VS]{圣疗 Lay on Hands}</em> 施展在一名在你上一回合结束后死亡的生物，令其重获生命。目标以1点生命值的状态重获生命并变得受伤（Wounded）1。如果目标是因为解离术（Disintegrate）或者死亡效果而死，那么你不能对其使用最终救济。</p>"
 		},
 		"Ultimate Polymath": {
 			"name": "六艺通习 Ultimate Polymath",
@@ -12798,8 +12798,8 @@
 			"description": "<p>You've started to make a meaningful connection about the common underpinnings of the four traditions of magic and magical essences, allowing you to understand them all through an arcane lens. Whenever you use a skill action or a skill feat that requires a Nature, Occultism, or Religion check, depending on the magic tradition, you can use Arcana instead. If you would normally take a penalty or have a higher DC for using Arcana on other magic (such as when using Identify Magic), you no longer do so.</p>"
 		},
 		"Unimpeded Step": {
-			"name": "Unimpeded Step",
-			"description": "<p>With a burst of divine liberation, your ally's movement from your @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Liberating Step} is unaffected by difficult terrain, greater difficult terrain, narrow surfaces, and uneven ground.</p>"
+			"name": "无阻快步 Unimpeded Step",
+			"description": "<p>伴随着神圣解放之力的爆发，因为你的 @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{自由快步 Liberating Step} 而得以移动的盟友免受困难地形（Difficult terrain），严重困难地形（Greater difficult terrain），狭窄平面（Narrow surfaces）和崎岖地面（Uneven ground）的影响。</p>"
 		},
 		"Universal Longevity": {
 			"name": "长寿全才 Universal Longevity",
@@ -12922,8 +12922,8 @@
 			"description": "<p>You heart aches for vengeance against those who have wronged your people. Choose one of the following dwarven ancestral foes when you gain Vengeful Hatred: drow, duergar, giant, or orc. You gain a +1 circumstance bonus to damage with weapons and unarmed attacks against creatures with that trait. If your attack would deal more than one weapon die of damage (as is common at higher levels than 1st), the bonus is equal to the number of weapon dice or unarmed attack dice. In addition, if a creature critically succeeds at an attack against you and deals damage to you, you gain your bonus to damage against that creature for 1 minute regardless of whether it has the chosen trait.</p>\n<p><strong>Special</strong> Your GM can add appropriate creature traits to the ancestral foes list if your character is from a community that commonly fights other types of enemies.</p>"
 		},
 		"Vengeful Oath": {
-			"name": "Vengeful Oath",
-			"description": "<p>You've sworn an oath to hunt down wicked evildoers and bring them to judgment. Add the following tenet to your code after the others: \"You must hunt down and exterminate evil creatures that have committed heinous atrocities as long as you have a reasonable chance of success and aren't engaged in a mission that would prevent your doing so.\"</p>\n<section>\n<p>You can use <em>@Compendium[pf2e.spells-srd.zNN9212H2FGfM7VS]{Lay on Hands}</em> to damage a creature you witness harming an innocent or a good ally as if it were undead; in this case, lay on hands deals good damage instead of positive damage and gains the good trait. This good damage can affect non-evil creatures. This doesn't prevent you from healing such a creature with lay on hands; you choose whether to heal or harm.</p>\n</section>"
+			"name": "复仇誓约 Vengeful Oath",
+			"description": "<p>你立下誓约，追捕穷凶极恶的罪人并将其送去接受审判。将后述信条添加到你的准则中的其他信条之后： \"只要有合理的机会取得成功，你必须追捕并根除那些犯下凶恶暴行的邪恶生物，并且你绝不接受会妨碍你的抓捕行动的任务。\"</p>\n<section>\n<p>你能够使用 <em>@Compendium[pf2e.spells-srd.zNN9212H2FGfM7VS]{圣疗 Lay on Hands}</em> 对那些你能够证实其伤害无辜者或善良盟友的生物造成伤害，如同他们是不死生物一般；在这种情况下，圣疗会造成善良伤害而不是正能量伤害，并且会获得善良特征。这种善良伤害也能够影响非邪恶的生物。这并不会妨碍你用圣疗治疗这些生物；你可以选择治疗或伤害他们。</p>\n</section>"
 		},
 		"Vengeful Strike": {
 			"name": "Vengeful Strike",
@@ -13342,8 +13342,8 @@
 			"description": "<p><strong>Frequency</strong> once per 10 minutes</p>\n<hr />\n<p>Your natural ability to create silken webs blends with your magical powers, allowing you to create impossibly large webs with great frequency. This has the effects of a 2nd-level <em>@Compendium[pf2e.spells-srd.9s5tqqXNzcoKamWx]{Web}</em> spell using your class DC or spell DC, whichever is higher.</p>"
 		},
 		"Weight of Guilt": {
-			"name": "Weight of Guilt",
-			"description": "<p>Guilt clouds the minds of those who ignore your Glimpse of Redemption. Instead of making the triggering creature enfeebled 2, you can make it stupefied 2 for the same duration.</p>"
+			"name": "负罪之重 Weight of Guilt",
+			"description": "<p>负罪感笼罩在那些忽视你救赎瞥视的敌人心中。你可以选择取代给触发反应动作的生物造成力竭（Enfeebled）2，令其在同样的时间内承受呆滞（Stupefied）2。</p>"
 		},
 		"Weighty Impact": {
 			"name": "Weighty Impact",
@@ -13622,8 +13622,8 @@
 			"description": "<p>You gain the <em>@Compendium[pf2e.spells-srd.8TBgEzjZxPaOJOm1]{Wronged Monk's Wrath}</em> ki spell. Increase the number of Focus Points in your focus pool by 1.</p>"
 		},
 		"Wyrmbane Aura": {
-			"name": "Wyrmbane Aura",
-			"description": "<p><strong>Requirements</strong> Dragonslayer Oath</p>\n<hr />\n<p>Your aura protects against destructive energies and dragons' breath. You and all allies within 15 feet gain resistance equal to your Charisma modifier to acid, cold, electricity, fire, and poison. If the source of one of these types of damage is a dragon's breath, increase the resistance to half your level.</p>"
+			"name": "逐龙灵光 Wyrmbane Aura",
+			"description": "<p><strong>需求</strong> 屠龙誓约 Dragonslayer Oath</p>\n<hr />\n<p>你的灵光能提供对抗毁灭性能量和龙族吐息的保护。你和你周围15内的盟友获得等同于你魅力调整值的针对酸液、寒冷、电击、火焰和毒素伤害的抗力。如果这些类型的伤害的来源是龙息，那么这些抗力会提升至你等级的一半。</p>"
 		},
 		"Wyrmling Flight": {
 			"name": "Wyrmling Flight",
