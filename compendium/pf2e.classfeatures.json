@@ -138,8 +138,8 @@
 			"description": "<p>Baba Yaga teaches you how to transfer spirits into objects and freeze your foes.</p>\n<p><strong>Spell List</strong> occult</p>\n<p><strong>Patron Skill</strong> Occultism</p>\n<p><strong>Hex Cantrip</strong> <em>@Compendium[pf2e.spells-srd.yp4w9SG4RuqRM8KD]{Spirit Object}</em></p>\n<p><strong>Granted Spell</strong> <em>@Compendium[pf2e.spells-srd.8TQiFzGf4feoHeH0]{Chilling Spray}</em></p>"
 		},
 		"Bard Weapon Expertise": {
-			"name": "Bard Weapon Expertise",
-			"description": "<p>You have become thoroughly adept with bardic weapons. You gain expert proficiency in simple weapons and unarmed attacks, plus the longsword, rapier, sap, shortbow, shortsword, and whip. When you critically succeed at an attack roll using one of these weapons while one of your compositions is active, you apply the critical specialization effect for that weapon.</p>"
+			"name": "吟游诗人武器专家 Bard Weapon Expertise",
+			"description": "<p>你更加精通引诱诗人的武器。你获得简易武器，以及长剑、刺剑、闷棍、短弓、短剑和长鞭的专家级熟练。当你在激活组曲之一的情况下使用这些武器造成重击时，你会获得对应武器的重击精通效果。</p>"
 		},
 		"Battle": {
 			"name": "Battle",
@@ -322,8 +322,8 @@
 			"description": "<p>当进行制造和修补时，你是改变改修以调整大发明功能的绝对行家。当你花费休整期再配置你的大发明，并在手艺Crafting检定中成功时，你可以切换任意数量的改修，切换你的攻势增压，或重训任意数量的改修专长，而非只能选择一个。你仍然必须将改修切换成同类别的其他改修（初始，突破，或革命）。</p>"
 		},
 		"Composition Spells": {
-			"name": "Composition Spells",
-			"description": "<h2>Composition Spells</h2>\n<p>You can infuse your performances with magic to create unique effects called compositions. Compositions are a special type of spell that often require you to use the Performance skill when casting them. Composition spells are a type of focus spell. It costs 1 Focus Point to cast a focus spell, and you start with a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the Refocus activity to perform, write a new composition, or otherwise engage your muse.</p>\n<p>Focus spells are automatically heightened to half your level rounded up, much like cantrips. Focus spells don't require spell slots, and you can't cast them using spell slots. Taking feats can give you more focus spells and increase the size of your focus pool, though your focus pool can never hold more than 3 Focus Points.</p>\n<p>You learn the <em>@Compendium[pf2e.spells-srd.WILXkjU5Yq3yw10r]{Counter Performance}</em> composition spell, protecting against auditory and visual effects.</p>\n<h3>Composition Cantrips</h3>\n<p>Composition cantrips are special composition spells that don't cost Focus Points, so you can use them as often as you like. Composition cantrips are in addition to the cantrips you choose from the occult list. Generally, only feats can give you more composition cantrips. Unlike other cantrips, you can't swap out composition cantrips gained from bard feats at a later level, unless you swap out the specific feat via retraining. You learn the <em>@Compendium[pf2e.spells-srd.IAjvwqgiDr3qGYxY]{Inspire Courage}</em> composition cantrip, which boosts your allies' attacks, damage, and defense against fear.</p>"
+			"name": "组曲法术 Composition Spells",
+			"description": "<h2>组曲法术 Composition Spells</h2>\n<p>你可以将表演融合到法术当中来创造名为组曲的独特效果。组曲是一种特殊的法术类型，通常要求你在施放的时候使用表演技能。组曲法术是一类聚能法术。施展聚能法术需要消耗1点聚能点数,且你的初始聚能池中拥有1点聚能点数。你每天进行准备的时候会回满你的聚能池，并且你可以通过休息10分钟使用重新聚能行动来表演、书写新的组曲或与你的缪斯交流，从而回复1点聚能点。</p>\n<p>聚能法术会被自动升阶到你等级的一半，向上取整。与戏法类似。聚能法术并不需要法术位，并且你也不能使用法术位进行施展。选择专长可以给你更多的聚能法术并且提升你聚能力池的大小，虽然你的聚能力池不能容纳超过3点聚能点数。</p>\n<p>你获得 <em>@Compendium[pf2e.spells-srd.WILXkjU5Yq3yw10r]{反制表演 Counter Performance}</em> 组曲法术，保护你免受视觉和听觉效果。</p>\n<h3>组曲戏法</h3>\n<p>组曲戏法是一种不消耗聚能点数的特殊组曲法术，因此你可以随意使用它们。组曲戏法额外附属于你从异能列表选择的戏法。通常情况下只有专长才能让你获得更多的组曲戏法。与其他戏法不同，你不能在之后的等级中替换专长给予的组曲戏法，除非通过重训替换特定的专长。你获得 <em>@Compendium[pf2e.spells-srd.IAjvwqgiDr3qGYxY]{激发勇气 Inspire Courage}</em> 组曲戏法，提升你和盟友的攻击、伤害以及对恐惧的防御能力。</p>"
 		},
 		"Confident Finisher": {
 			"name": "Confident Finisher",
@@ -718,8 +718,8 @@
 			"description": "<p>You move with perpetual grace in battle, eluding and turning aside blows. Your proficiency rank for unarmored defense increases to master.</p>"
 		},
 		"Great Fortitude": {
-			"name": "Great Fortitude",
-			"description": "<p>Your physique is incredibly hardy. Your proficiency rank for Fortitude saves increases to expert.</p>"
+			"name": "强韧加强 Great Fortitude",
+			"description": "<p>你的身体出奇强壮。你在强韧豁免上的熟练等级提升至专家。</p>"
 		},
 		"Greater Deed": {
 			"name": "Greater Deed",
@@ -754,8 +754,8 @@
 			"description": "<p>You have a stalwart physiology. Your proficiency rank for Fortitude saves increases to legendary. When you roll a critical failure on a Fortitude save, you get a failure instead. When you roll a failure on a Fortitude save against an effect that deals damage, you halve the damage you take.</p>"
 		},
 		"Greater Resolve": {
-			"name": "Greater Resolve",
-			"description": "<p>Your unbelievable training grants you mental resiliency.</p>\n<p>Your proficiency rank for Will saves increases to legendary. When you roll a success at a Will save, you get a critical success. When you roll a critical failure at a Will save, you get a failure instead. When you roll a failure on a Will save against a damaging effect, you take half damage.</p>"
+			"name": "高等决心 Greater Resolve",
+			"description": "<p>惊人的训练让你的心智无比坚韧。</p>\n<p>你的意志豁免熟练等级提升至传奇。当你意志豁免投出成功时，你会获得大成功作为替代。当你意志豁免投出大失败时，你会获得失败作为替代。当你对抗伤害效果的意志豁免失败时，你只受到一半伤害。</p>"
 		},
 		"Greater Weapon Specialization": {
 			"name": "高等武器专精 Greater Weapon Specialization",
@@ -926,8 +926,8 @@
 			"description": "<p>你的超凡发明力和工艺能力强化了你的超载能力。你在手艺上获得传奇熟练度。在成功使用超载时，你将额外伤害提升到3点，替换掉从超载大师中获得的提升。</p>"
 		},
 		"Legendary Spellcaster": {
-			"name": "Legendary Spellcaster",
-			"description": "<p><strong>Bard</strong> Your command of occult magic is the stuff of legends. Your proficiency ranks for occult spell attack rolls and spell DCs increase to legendary.</p>\n<hr />\n<p><strong>Druid</strong> You have developed an unparalleled rapport with the magic of nature. Your proficiency ranks for primal spell attack rolls and spell DCs increase to legendary.</p>\n<hr />\n<p><strong>Oracle</strong> You can harness divine power at a level few others can match. Your proficiency ranks for divine spell attack rolls and spell DCs increase to legendary.</p>\n<hr />\n<p><strong>Sorcerer</strong> You demonstrate prodigious talent for spellcasting. Your proficiency ranks for spell attack rolls and spell DCs for spells of your bloodline's tradition increase to legendary.</p>\n<hr />\n<p><strong>Witch</strong> You've perfected your command of the magic your patron provides. Your proficiency ranks for spell attacks and spell DCs for your witch spellcasting increase to legendary.</p>\n<hr />\n<p><strong>Wizard</strong> You are a consummate spellcaster, with a comprehensive understanding of both arcane theory and practical spellcraft. Your proficiency ranks for arcane spell attack rolls and spell DCs increase to legendary.</p>"
+			"name": "传奇施法者 Legendary Spellcaster",
+			"description": "<p><strong>吟游诗人</strong> 你驱策异能魔法的能力堪称传奇。你在异能法术攻击骰和法术DC上的熟练等级提升至传奇。</p>\n<hr />\n<p><strong>德鲁伊</strong> 你与自然的魔法无比的和协。你原能攻击以及法术DC的熟练度提升为传奇。</p>\n<hr />\n<p><strong>先知</strong> 你能够利用他人无法比拟等级的神力。你的神术攻击骰和神术DC的熟练度提高为传奇。</p>\n<hr />\n<p><strong>术士</strong> 你在施法上展现出了卓越的天赋。你在血统所对应的魔法根源的法术攻击骰和法术DC上的熟练等级提升至传奇。</p>\n<hr />\n<p><strong>女巫</strong> 你对于庇护主给予的法术已经炉火纯青。你在女巫魔法根源法术攻击骰和法术DC上的熟练度提升至传奇。</p>\n<hr />\n<p><strong>法师</strong> 你是个已达化境的施法者，在奥术的理论与实践层面上都有着无比全面的认知。你在奥术法术攻击骰和法术DC上的熟练度提升至传奇。</p>"
 		},
 		"Liberator": {
 			"name": "Liberator",
@@ -942,8 +942,8 @@
 			"description": "<p>The never-ending flow of positive energy within living beings is palpable to you. You might uphold the sanctity of life, or perhaps you seek to undermine it. You might draw power from the collective vitality of the world's living creatures, hold some connection to the Positive Energy Plane, or revere a collection of deities including Irori, Pharasma, Sarenrae, and the god of medicine Qi Zhong.</p>\n<h3>Curse of Outpouring Life</h3>\n<p>Life energy flows outward from you and connects you to all living things, but you expend your vital essence to do so. Your presence comforts the ill and injured, causes scars to fade slightly, spurs new growth in plants, and otherwise infuses your surroundings with vitality.</p>"
 		},
 		"Light Armor Expertise": {
-			"name": "Light Armor Expertise",
-			"description": "<p>You've learned how to dodge while wearing light or no armor. Your proficiency ranks for light armor and unarmored defense increase to expert.</p>"
+			"name": "轻甲专家 Light Armor Expertise",
+			"description": "<p>你已经学会如何在穿着轻甲和无甲的情况下进行闪避。你对轻甲和无甲防御的熟练等级提升至专家。</p>"
 		},
 		"Light Armor Mastery": {
 			"name": "Light Armor Mastery",
@@ -974,8 +974,8 @@
 			"description": "<p><strong>Oracle, Sorcerer, Wizard</strong> Magical power has improved your body's resiliency. Your proficiency rank for Fortitude saves increases to expert.</p>\n<hr />\n<p><strong>Witch</strong> Your patron's power boosts your physical resiliency. Your proficiency rank for Fortitude saves increases to expert.</p>\n<p><strong>Witch</strong> Your patron's power boosts your physical resiliency. Your proficiency rank for Fortitude saves increases to expert.</p>"
 		},
 		"Magnum Opus": {
-			"name": "Magnum Opus",
-			"description": "<p>You have tuned your spellcasting to the highest caliber. Add two common 10th-level occult spells to your repertoire. You gain a single 10th-level spell slot you can use to cast one of those two spells using bard spellcasting. You don't gain more 10th-level spells as you level up, unlike other spell slots, and you can't use 10th-level slots with abilities that give you more spell slots or that let you cast spells without expending spell slots.</p>"
+			"name": "代表作 Magnum Opus",
+			"description": "<p>你已经将施法完美调谐。将两个常见10级异能法术加入你的法术库。你获得一个10级法术位，可以使用诗人施法能力施展这两个法术之一。你在升级时不会获得更多的10级法术位，不像其他法术，你不能在10级法术位上使用获得更多法术位，或者让你在不消耗法术位的情况下施法的能力。</p>"
 		},
 		"Major Curse": {
 			"name": "Major Curse",
@@ -1090,8 +1090,8 @@
 			"description": "<p>Your patron speaks from the shadows, granting you power over darkness and dreams.</p>\n<p><strong>Spell List</strong> occult</p>\n<p><strong>Patron Skill</strong> Occultism</p>\n<p><strong>Hex Cantrip</strong> <em>@Compendium[pf2e.spells-srd.cE7PRAX8Up7fmYef]{Shroud of Night}</em></p>\n<p><strong>Granted Spell</strong> <em>@Compendium[pf2e.spells-srd.o4lRVTwSxnOOn5vl]{Sleep}</em></p>"
 		},
 		"Occult Spellcasting": {
-			"name": "Occult Spellcasting",
-			"description": "<p>You draw upon magic from esoteric knowledge. You can cast occult spells using the Cast a Spell activity, and you can supply material, somatic, and verbal components when casting spells. Because you're a bard, you can usually play an instrument for spells requiring somatic or material components, as long as it takes at least one of your hands to do so. If you use an instrument, you don't need a material component pouch or another hand free. You can usually also play an instrument for spells requiring verbal components, instead of speaking.</p>\n<p>Each day, you can cast up to two 1st-level spells. You must know spells to cast them, and you learn them via the spell repertoire class feature. The number of spells you can cast each day is called your spell slots.</p>\n<p>As you increase in level as a bard, your number of spells per day increases, as does the highest level of spells you can cast.</p>\n<p>Some of your spells require you to attempt a spell attack roll to see how effective they are, or have your enemies roll against your spell DC (typically by attempting a saving throw). Since your key ability is Charisma, your spell attack rolls and spell DCs use your Charisma modifier.</p>"
+			"name": "异能施法 Occult Spellcasting",
+			"description": "<p>你通过隐秘的知识获得魔法能力。你可以使用施展法术动作施放异能魔法，并且你可以在施展法术的时候提供材料、姿势和语言成分（见302页施展法术）。因为你是一名诗人，你通常可以用演奏乐器来满足法术要求的姿势或者材料成分，只需要你占用至少一只手进行演奏，如果你使用乐器，你就不需要使用法术材料包或者空出另一只手。你通常还可以进行演奏而非说话来满足法术需要的语言成分。</p>\n<p>每天，你最多可以施展两个1级法术。你只能施展你的已知法术，并且你可以通过法术库职业能力进行学习。你每天可以施展法术的数量被称为你的法术位。</p>\n<p>当你在诗人职业上提升等级时，你每天可以施展法术的数量，与你可以施展法术的最高等级同样会提高。</p>\n<p>有些法术要求你尝试一次法术攻击骰来决定它们的有效程度，或者要求你的敌人对抗你的法术DC掷骰（通常为尝试一次豁免投）。因为你的关键属性为魅力，你的法术攻击骰和法术DC都使用你的魅力调整值。</p>"
 		},
 		"Offensive Boost": {
 			"name": "攻势增压 Offensive Boost",
@@ -1414,8 +1414,8 @@
 			"description": "<p>You make shots others find impossible. Your proficiency rank for your gunslinger class DC increases to master. When using a ranged weapon in which you have master or greater proficiency, you ignore the penalty for attacking within the weapon's second and third range increments.</p>"
 		},
 		"Signature Spells": {
-			"name": "Signature Spells",
-			"description": "<p>Experience enables you to cast some spells more flexibly.</p>\n<p>For each spell level you have access to, choose one spell of that level to be a signature spell. You don't need to learn heightened versions of signature spells separately; instead, you can heighten these spells freely. If you've learned a signature spell at a higher level than its minimum, you can also cast all its lower-level versions without learning those separately. If you swap out a signature spell, you can replace it with any spell you could have chosen when you first selected it (i.e., of the same spell level or lower).</p>\n<p>You can also retrain specifically to change a signature spell to a different spell of that level without swapping any spells; this takes as much time as retraining a spell normally does.</p>"
+			"name": "标志性法术 Signature Spells",
+			"description": "<p>经验让你能更加灵活的施展某些法术。</p>\n<p>每个你获得的法术级数上你都可以选择一个该等级的法术作为标志性法术。你不需要学习标志性法术的升阶版本；相反，你可以自由升阶这些法术。如果你学习了一个超过原本等级的标志性法术，你可以无需学习便施展这个法术的低级版本。如果你替换了标志性法术，你可以重新选择一个相同等级的新标志性法术。</p>\n<p>你还可以通过重训在不替换法术的情况下改变标志性法术，这会花费和通常重训法术相同的时间。</p>"
 		},
 		"Silver Dragon Instinct": {
 			"name": "Silver Dragon Instinct",
@@ -1454,8 +1454,8 @@
 			"description": "<p>You theorize that spell slots are a shorthand for an underlying energy that powers all spellcasting, and you've found a way to tinker with the hierarchy of spell slots, combining them to fuel more powerful spells. When you make your daily preparations, you can trade two spell slots of the same level for a bonus spell slot of up to 2 levels higher than the traded spell slots. You can exchange as many spell slots as you have available. Bonus spell slots must be of a level you can normally cast, and each bonus spell slot must be of a different spell level. You can also trade any spell slot for two additional cantrips, though you cannot trade more than one spell slot at a time for additional cantrips in this way.</p>"
 		},
 		"Spell Repertoire (Bard)": {
-			"name": "Spell Repertoire (Bard)",
-			"description": "<p>The collection of spells you can cast is called your spell repertoire. At 1st level, you learn two 1st-level spells of your choice and five cantrips of your choice. You choose these from the common spells from the occult spell list, or from other occult spells to which you have access. You can cast any spell in your spell repertoire by using a spell slot of an appropriate spell level.</p>\n<p>You add to this spell repertoire as you increase in level. Each time you get a spell slot, you add a spell of the same level to your spell repertoire. At 2nd level, you select another 1st-level spell; at 3rd level, you select two 2nd-level spells, and so on. When you add spells, you might choose a higher-level version of a spell you already have so that you can cast a heightened version of that spell.</p>\n<p>Though you gain them at the same rate, your spell slots and the spells in your spell repertoire are separate. If a feat or other ability adds a spell to your spell repertoire, it wouldn't give you another spell slot, and vice versa.</p>\n<h3 class=\"title\"><strong>Swapping Spells in your Repertoire</strong></h3>\n<p>As you gain new spells in your spell repertoire, you might want to replace some of the spells you previously learned. Each time you gain a level and learn new spells, you can swap out one of your old spells for a different spell of the same level. This spell can be a cantrip. You can also swap out spells by retraining during downtime.</p>"
+			"name": "法术库（吟游诗人） Spell Repertoire (Bard)",
+			"description": "<p>你的法术集合被称为法术库。1级时，你将学会所选的两个1级异能法术和5个所选的异能戏法。你可以从异能法术列表中的通用法术进行选择，或者从你可以获取的其他异能法术中进行选择。你可以使用对应级数的法术位施展任何你法术库中的法术。</p>\n<p>你提升等级的时候法术库也会扩大。每次你获得一个法术位时，你可以将一个同等级的法术加入法术库中。2级时，你可以选择另一个1级法术；3级时你可以选择两个2级法术，以此类推。当你添加这些法术时，你可以添加已有法术的高级版本，这样你就可以施展这个法术的升阶版本了。</p>\n<p>虽然获得的速度相同，你的法术位和法术库中的法术是分离的。如果一个专长或者其他能力将法术加入你的法术库当中，你不会获得另一个法术位，反之亦然。</p>\n<h3 class=\"title\"><strong>替换法术库中的法术</strong></h3>\n<p当你在法术库中获得新的法术时，你可能会想要替换之前学习的一些法术。每次你获得新的等级学习新的法术时，你可以将一个旧法术置换为一个同一等级的不同法术。被替换的法术可以是戏法。你也可以通过休整期重训来替换法术。</p>"
 		},
 		"Spell Repertoire (Oracle)": {
 			"name": "Spell Repertoire (Oracle)",
@@ -1622,8 +1622,8 @@
 			"description": "<p>You are nigh-unmatched with any weapon. Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to legendary, and your proficiency rank for advanced weapons increases to master. Your proficiency rank for your fighter class DC increases to master.</p>"
 		},
 		"Vigilant Senses": {
-			"name": "Vigilant Senses",
-			"description": "<p>Through your adventures, you've developed keen awareness and attention to detail. Your proficiency rank in Perception increases to master.</p>"
+			"name": "警觉感官 Vigilant Senses",
+			"description": "<p>通过冒险，你锻炼出敏锐的察觉力并且能注意到细微之物。你的察觉熟练等级提升到大师。</p>"
 		},
 		"Vivacious Speed": {
 			"name": "Vivacious Speed",
