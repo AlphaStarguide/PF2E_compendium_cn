@@ -1,5 +1,5 @@
 {
-	"label": "Ancestry Features",
+	"label": "族裔特性 Ancestry Features",
 	"entries": {
 		"Aquatic Adaptation": {
 			"name": "Aquatic Adaptation",
@@ -46,8 +46,8 @@
 			"description": "<p>Your physiological needs are different than those of living creatures. You don't need to eat or drink. You don't need to sleep, but you still need a daily period of rest. During this period of rest, you must enter a recuperating standby state for 2 hours, which is similar to sleeping except you are aware of your surroundings and don't take penalties for being @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Unconscious}. Much like with sleeping, if you go too long without entering your standby state, you become @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigued} and can't recover until you enter standby for 2 hours.</p>"
 		},
 		"Darkvision": {
-			"name": "Darkvision",
-			"description": "<p>You can see in darkness and dim light just as well as you can see in bright light, though your vision in darkness is in black and white.</p>"
+			"name": "黑暗视觉 Darkvision",
+			"description": "<p>拥有黑暗视觉的生物可以完美在黑暗和昏暗光中视物，只是这个视角下只能看到黑白二色。</p>"
 		},
 		"Draconic Exemplar": {
 			"name": "Draconic Exemplar",
@@ -70,8 +70,8 @@
 			"description": "<p>You have weakness to fire damage equal to one-third your level (minimum 1).</p>"
 		},
 		"Greater Darkvision": {
-			"name": "Greater Darkvision",
-			"description": "<p>You can see in darkness and dim light just as well as you can see in bright light, though your vision in darkness is in black and white. Some forms of magical darkness, such as a 4th-level <em>@Compendium[pf2e.spells-srd.4GE2ZdODgIQtg51c]{Darkness}</em> spell, block normal @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision}. You, however, can see through even these forms of magical darkness.</p>"
+			"name": "高等黑暗视觉 Greater Darkvision",
+			"description": "<p>拥有高等黑暗视觉的生物可以完美在黑暗和昏暗光中视物，只是这个视角下只能看到黑白二色。某些形式的魔法黑暗，例如4环<em>@Compendium[pf2e.spells-srd.4GE2ZdODgIQtg51c]{黑暗术 Darkness}</em>，能阻挡普通的 @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{黑暗视觉 Darkvision}，高等黑暗视觉才能看穿这些形式的魔法黑暗。</p>"
 		},
 		"Hydration": {
 			"name": "Hydration",
@@ -86,8 +86,8 @@
 			"description": "<p>When you fall, you take only half the normal damage and don't land @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}.</p>"
 		},
 		"Low-Light Vision": {
-			"name": "Low-Light Vision",
-			"description": "<p>A creature with low-light vision can see in dim light as though it were bright light, so it ignores the @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} condition due to dim light.</p>"
+			"name": "低光视觉 Low-Light Vision",
+			"description": "<p>有低光视觉的生物在昏暗光中视物如同在明亮光中一样，因此其忽略昏暗光提供的 @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{隐蔽 Concealed}状态。</p>"
 		},
 		"Magical Strikes": {
 			"name": "Magical Strikes",
