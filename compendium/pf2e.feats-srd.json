@@ -106,8 +106,8 @@
 			"description": "<p>Another animal joins you in your travels. It is a young animal companion that has the minion trait. See Beastmaster Animal Companions (in Beastmaster Dedication) for rules on how having multiple animal companions works.</p>\n<p><strong>Special</strong> You can select this feat more than once, gaining an additional animal companion each time, to a maximum of four total companions (including the one you gained from Beastmaster Dedication and possibly one you gained from sources other than the beastmaster archetype).</p>"
 		},
 		"Additional Lore": {
-			"name": "Additional Lore",
-			"description": "<p>Your knowledge has expanded to encompass a new field. Choose an additional Lore skill subcategory. You become trained in it. At 3rd, 7th, and 15th levels, you gain an additional skill increase you can apply only to the chosen Lore subcategory.</p>\n<p><strong>Special</strong> You can select this feat more than once. Each time you must select a new subcategory of Lore and you gain the additional skill increases to that subcategory for the listed levels.</p>"
+			"name": "额外学识 Additional Lore",
+			"description": "<p>你了解的学识触类旁通到了其他的领域。选择一个新的学识技能门类，你在该门类上获得受训。在你的等级达到3、7和15级时，你可以获得一个额外的技能提升（Skill Increase），但必须用来提升你通过本专长所选的这个学识门类。</p>\n<p><strong>特殊</strong> 你可以多次选择本专长。每次选择本专长时，你斗可以获得一个新的学识技能门类和相应等级的技能增长。</p>"
 		},
 		"Additional Recollection": {
 			"name": "Additional Recollection",
@@ -122,8 +122,8 @@
 			"description": "<p>You descend from the rare psychic vampires known as vetalaranas. Your forebear gained sustenance from the mental and emotional energy of living creatures, which manifests in you as powerful resistance to such effects. You gain a +1 circumstance bonus to Will saves against effects with the emotion trait, and when you roll a success on a saving throw against such an effect, you get a critical success instead.</p>"
 		},
 		"Adopted Ancestry": {
-			"name": "Adopted Ancestry",
-			"description": "<p>You're fully immersed in another ancestry's culture and traditions, whether born into them, earned through rite of passage, or bonded through a deep friendship or romance. Choose a common ancestry. You can select ancestry feats from the ancestry you chose, in addition to your character's own ancestry, as long as the ancestry feats don't require any physiological feature that you lack, as determined by the GM.</p>"
+			"name": "异族情谊 Adopted Ancestry",
+			"description": "<p>你曾经深深地浸淫在另一个种族的文化和社会风俗当中——可能你是被收养的异族后代，或是获得了该种族的社会认可，又或是因为友谊，亲情和爱情而永远地与他们相连。在你的角色本身的族裔以外选择一个常见的族裔，你可以选择该族裔的族裔专长（Ancestry Feats），前提是你的生理结构可以做到该族裔专长赋予的能力。具体情况由GM判定是否合适</p>"
 		},
 		"Adrenaline Rush": {
 			"name": "Adrenaline Rush",
@@ -358,8 +358,8 @@
 			"description": "<p>Your eidolon moves more quickly. It gains a +10-foot status bonus to its Speed.</p>"
 		},
 		"Alchemical Crafting": {
-			"name": "Alchemical Crafting",
-			"description": "<p>You can use the Craft activity to create alchemical items. When you select this feat, you immediately add the formulas for four common 1st-level alchemical items to your formula book.</p>"
+			"name": "制作炼金物品 Alchemical Crafting",
+			"description": "<p>你可以使用手艺技能的制作技能动作制作炼金物品（Alchemical Items）。当你选择本专长时，你自动获得四件稀有度为普通（Common）的1级炼金物品的设计图。</p>"
 		},
 		"Alchemical Discoveries": {
 			"name": "Alchemical Discoveries",
@@ -498,8 +498,8 @@
 			"description": "<p>The magic of your ancestry and bloodline are one and the same. Add any innate spells you have from a heritage or an ancestry feat to your spell repertoire, meaning you can cast them using your spell slots.</p>"
 		},
 		"Ancestral Paragon": {
-			"name": "Ancestral Paragon",
-			"description": "<p>Whether through instinct, study, or magic, you feel a deeper connection to your ancestry. You gain a 1st-level ancestry feat.</p>"
+			"name": "族裔典范 Ancestral Paragon",
+			"description": "<p>因为种种原因——血脉的传承，深入研究或是魔法增强——你和自己所属种族的联系比一般人更紧密。你获得一个1级族裔专长。</p>"
 		},
 		"Ancestral Suspicion": {
 			"name": "传世之疑虑 Ancestral Suspicion",
@@ -718,8 +718,8 @@
 			"description": "<p>Select one arcane school of magic. You gain the school's initial school spell. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can Refocus by studying.</p>"
 		},
 		"Arcane Sense": {
-			"name": "Arcane Sense",
-			"description": "<p>Your study of magic allows you to instinctively sense its presence. You can cast 1st-level detect magic at will as an arcane innate spell. If you're a master in Arcana, the spell is heightened to 3rd level; if you're legendary, it is heightened to 4th level.</p>"
+			"name": "奥法感知 Arcane Sense",
+			"description": "<p>你对于奥术魔法的研究让你可以轻易感受到身周是否存在魔力。你可以以内在奥术法术（Arcane Innate Spell）的形式施放一环法术侦测魔法（Detect Magic）。如果你的奥法技能达到大师级熟练度，这个法术会被升阶（Heighten）为三环；如果你的奥法技能达到传奇级熟练度，这个法术会被升阶（Heighten）为四环。</p>"
 		},
 		"Arcane Sensitivity": {
 			"name": "Arcane Sensitivity",
@@ -786,8 +786,8 @@
 			"description": "<p>After your service aiding armored combatants, you are practiced in helping yourself and others don heavy gear.</p>\n<p>You can attempt an Athletics or Warfare Lore check with a DC determined by the GM (but usually 15 for common armor, DC 20 for uncommon armor, and DC 25 for rare armor) to halve the time you take to don armor.</p>\n<p>You can halve an ally's time to don armor by working with them to don the armor and succeeding at an Athletics or Warfare Lore check against the same DC.</p>"
 		},
 		"Armor Proficiency": {
-			"name": "Armor Proficiency",
-			"description": "<p>You become trained in light armor. If you already were trained in light armor, you gain training in medium armor. If you were trained in both, you become trained in heavy armor.</p>\n<hr />\n<p><strong>Special</strong> You can select this feat more than once. Each time, you become trained in the next type of armor above.</p>"
+			"name": "护甲擅长 Armor Proficiency",
+			"description": "<p>你现在在轻甲（Light Armor）上获得受训。如果你已经在轻甲上受训，则你现在在中甲（Medium Armor）上获得受训；如果你已经在中甲上受训。你现在在重甲（Heavy Armor）上获得受训。</p>\n<hr />\n<p><strong>特殊</strong> 你可以多次选择本专长。每次选择本专长可以使你在重一级的护甲上获得受训。</p>"
 		},
 		"Armor Rune Shifter": {
 			"name": "Armor Rune Shifter",
@@ -842,8 +842,8 @@
 			"description": "<p><strong>Requirements</strong> You are wielding a ranged weapon.</p>\n<hr />\n<p>With a quick shot, you interfere with a foe in combat. Make a Strike with a ranged weapon. If the Strike hits, the next creature other than you to attack the same target before the start of your next turn gains a +1 circumstance bonus to their roll, or a +2 circumstance bonus if your Strike was a critical hit.</p>\n<p>@Compendium[pf2e.feat-effects.zcJii1XyOne9EvMr]{Effect: Assisting Shot}</p>\n<p>@Compendium[pf2e.feat-effects.AAgoUuwMvHzqNhIN]{Effect: Assisting Shot (Critical Hit)}</p>"
 		},
 		"Assurance": {
-			"name": "Assurance",
-			"description": "<p>Even in the worst circumstances, you can perform basic tasks. Choose a skill you're trained in. You can forgo rolling a skill check for that skill to instead receive a result of 10 + your proficiency bonus (do not apply any other bonuses, penalties, or modifiers).</p>\n<hr />\n<p><strong>Special</strong> You can select this feat multiple times. Each time, choose a different skill and gain the benefits for that skill.</p>"
+			"name": "驾轻就熟 Assurance",
+			"description": "<p>即使在最麻烦的情况下，你仍然可以自然地发挥出基本水准。选择一个你已经受训的技能。在进行技能检定时，你可以放弃骰d20，而是自动获得10+你在技能上的熟练加值的检定结果（不获得任何除此之外的加值，减值和调整）。</p>\n<hr />\n<p><strong>特殊</strong> 你可以多次选择本专长。每次选择本专长时，你可以选择另一个技能获得本专长的好处。</p>"
 		},
 		"Assurance (Acrobatics)": {
 			"name": "Assurance (Acrobatics)",
@@ -998,8 +998,8 @@
 			"description": "<p>由于你持续不断地照料并给予指导，你的坐骑已经发展出了难以置信的智慧和技巧。你通过神圣盟友职业特性获得的坐骑现在是一只特化（Specialized）动物伙伴（217页）。你能够从正常的特化动物伙伴里选择一只，或者选择吉兆兽特化动物伙伴。吉兆兽坐骑获得如下这些好处：你的动物伙伴被视作你所侍奉的神祇的宗教象征，就如同神祇的神圣生物一般。它在宗教上的熟练等级提升至专家，它能够说一种和你所侍奉的神祇有所关联的语言（对于遵循善良信条的神卫来说是天界语），它的智力调整值提升2，感知调整值提升1。</p>"
 		},
 		"Automatic Knowledge": {
-			"name": "Automatic Knowledge",
-			"description": "<p>You know basic facts off the top of your head. Choose a skill you're an expert in that has the Recall Knowledge action and for which you have the Assurance feat. You can use the Recall Knowledge action with that skill as a free action once per round. If you do, you must use Assurance on the skill check.</p>\n<hr />\n<p><strong>Special</strong> You can select this feat multiple times, choosing a different skill each time. You can use Automatic Knowledge with any skills you have chosen, but you can still use Automatic Knowledge only once per round.</p>"
+			"name": "豆知识 Automatic Knowledge",
+			"description": "<p>关于某一领域的知识会在你需要时自动浮现在你的脑海中。选择一个你已经达到专家级熟练度，且拥有驾轻就熟专长，可以进行回忆知识动作的技能。每行动轮（Round）一次，你可以用一个自由动作（Free Action）进行本技能的回忆知识动作，但你必须使用驾轻就熟专长来进行这次回忆知识。</p>\n<hr />\n<p><strong>特殊</strong> 你可以多次选择本专长。每次选择本专长时，你可以选择另一个技能获得本专长的好处。但是，你每轮只能自动回忆知识一次。</p>"
 		},
 		"Automaton Armament": {
 			"name": "Automaton Armament",
@@ -1106,8 +1106,8 @@
 			"description": "<p>  你通过研习，对所有知识课题都有所涉猎。你在逸闻知识上受训，这是一种只能用来回想知识，但是回想主题可以为任意的特殊学识技能。如果你在神秘学技能上拥有传奇熟练，你获得逸闻知识的专家熟练，但是你没有办法通过任何其他方式提升逸闻知识熟练等级。</p>"
 		},
 		"Bargain Hunter": {
-			"name": "Bargain Hunter",
-			"description": "<p>You can Earn Income using Diplomacy, spending your days hunting for bargains and reselling at a profit. You can also spend time specifically sniffing out a great bargain on an item; this works as if you were using Earn Income with Diplomacy, except instead of gaining money, you purchase the item at a discount equal to the money you would have gained, gaining the item for free if your earned income equals or exceeds its cost. Finally, if you select Bargain Hunter during character creation at 1st level, you start play with an additional 2 gp.</p>"
+			"name": "二道贩子 Bargain Hunter",
+			"description": "<p>你可以通过交涉技能来赚取收入（见技能章节）——表现为你四处寻找商品，砍低价格收购，然后说服客人以高价买走它们。你也可以使用交涉技能来花时间寻找一件特别实惠的物品来购买。这个行动的方式和赚取收入相同，但你并不会获得现金收入，而是将这个休整期时间长度中你可以赚到的收入从一件你要购买的物品的价格中减去（如果收入超过或等于该物品的价格，则你可以免费获得该物品）。最后，如果你在创建1级新角色时选择了本专长，你的起始资金增加2GP。</p>"
 		},
 		"Bark and Tendril": {
 			"name": "Bark and Tendril",
@@ -1290,12 +1290,12 @@
 			"description": "<p>With careful observation during battle, you identify an enemy's strengths and weaknesses. The GM rolls a secret Perception check for you against the Deception or Stealth DC (whichever is higher) of an enemy of your choice who is not concealed from you, hidden from you, or undetected by you, and who is engaged in combat. The GM might apply a penalty for the distance between you and the enemy. The enemy is then temporarily immune to your Battle Assessment for 1 day.</p>\n<hr />\n<p><strong>Critical Success</strong> The GM chooses two of the following pieces of information about the enemy to tell you: which of the enemy's weaknesses is highest, which of the enemy's saving throws has the lowest modifier, one immunity the enemy has, or which of the enemy's resistances is highest. If the event of a tie, the GM should pick one at random.</p>\n<p><strong>Success</strong> The GM chooses one piece of information from the above list to tell you about the enemy.</p>\n<p><strong>Critical Failure</strong> The GM gives you false information (the GM makes up the information).</p>"
 		},
 		"Battle Cry": {
-			"name": "Battle Cry",
-			"description": "<p>When you roll initiative, you can yell a mighty battle cry and <span data-pf2-action=\"demoralize\" data-pf2-glyph=\"F\">Demoralize</span> an observed foe as a free action.</p>\n<p>If you're legendary in Intimidation, you can use a reaction to <span data-pf2-action=\"demoralize\" data-pf2-glyph=\"R\">Demoralize</span> your foe when you critically succeed at an attack roll.</p>"
+			"name": "战吼 Battle Cry",
+			"description": "<p>当你进行先攻检定（Initiative Roll）时，以一个自由动作，你可以对一个你可以观察到的敌人发出一声震耳欲聋的战吼来尝试对他发动<span data-pf2-action=\"demoralize\" data-pf2-glyph=\"F\">挫败士气</span>。</p>\n<p>如果你在威吓技能上达到了传奇熟练等级，那么你可以在一次攻击检定骰出大成功时，以一个反应动作（Reaction）尝试对你的敌人 <span data-pf2-action=\"demoralize\" data-pf2-glyph=\"R\">挫败士气</span> 。</p>"
 		},
 		"Battle Medicine": {
-			"name": "Battle Medicine",
-			"description": "<p><strong>Requirements</strong> You are holding or wearing healer's tools.</p>\n<hr />\n<p>You can patch up yourself or an adjacent ally, even in combat. Attempt a Medicine check with the same DC as for @Compendium[pf2e.actionspf2e.1kGNdIIhuglAjIp9]{Treat Wounds}, and restore a corresponding amount of Hit Points; this does not remove the @Compendium[pf2e.conditionitems.Yl48xTdMh3aeQYL2]{Wounded} condition. As with Treat Wounds, you can attempt checks against higher DCs if you have the minimum proficiency rank. The target is then temporarily immune to your Battle Medicine for 1 day.</p>\n<p><strong>Editors note</strong> Paizo has clarified the usage of worn tools:</p>\n<blockquote>Worn tools should only take 1 hand to use, as you only draw the things you need from the kit and not the entire kit. This has been marked for future errata.</blockquote>"
+			"name": "战地医疗 Battle Medicine",
+			"description": "<p><strong>需求</strong> 你持握或穿戴着医疗工具</p>\n<hr />\n<p>你可以在激烈的战斗中包扎你自己或是一个邻接你的盟友的伤口。你进行一个医疗技能检定，尝试进行与 @Compendium[pf2e.actionspf2e.1kGNdIIhuglAjIp9]{治疗伤害 Treat Wounds}的DC相同的医疗检定，并恢复相应的生命值，这不会解除 @Compendium[pf2e.conditionitems.Yl48xTdMh3aeQYL2]{受伤 Wounded}。并且可以如同治疗伤害动作一样，在技能熟练度达到特定等级时挑战较高的检定DC来增加治疗量。在此之后，被你包扎过的目标会在一天内免疫你的战地医疗能力。</p>\n<p><strong>勘误更新</strong> Paizo对工具的用法进行更新:</p>\n<blockquote>，穿戴着的医疗工具（和其他工具包）只需要一只手就能使用，因为你不需要用另一只手拿着整个工具包，只需要取出你需要的东西。对于战斗医疗来说，这意味着你只需要一只空手就能完成工作，并不需要两只手。</blockquote>"
 		},
 		"Battle Medicine (Forensic Medicine)": {
 			"name": "Battle Medicine (Forensic Medicine)",
@@ -1382,8 +1382,8 @@
 			"description": "<p>In even a brief conversation or social interaction, you pick up on subtle social and visual cues to learn a great deal about a person's origin and history. You might notice bits of green under the person's fingernails and determine they're an herbalist, a pin indicating their membership in a secret society, or something similar. You pick up on only details that have to do with their societal role, so you might learn the city district where a vampire lives, but wouldn't learn any of their weaknesses, nor necessarily even that they are a vampire.</p>\n<p>Spend 1 minute in the presence of someone you haven't met before, or haven't met since you first gained Biographical Eye, then attempt a DC 30 Society check. You gain a +1 circumstance bonus to the check if you engaged the person in conversation during this time. If the person is deliberately trying to conceal their nature or present a false identity, you learn about their false biography rather than their true one unless the result of your Society check exceeds their Will DC.</p>\n<hr />\n<p><strong>Critical Success</strong> You learn the creature's profession, their</p>\n<p>specialty within that profession, and a major accomplishment</p>\n<p>or controversy from their career. You also learn the nation</p>\n<p>and settlement where they live, as well as the district in a</p>\n<p>city large enough to have districts. In addition, you learn the</p>\n<p>nation or settlement where they spent their formative years.</p>\n<p><strong>Success</strong> You learn the creature's profession and specialty</p>\n<p>within that profession. You learn the nation or settlement</p>\n<p>where they normally live.</p>\n<p><strong>Failure</strong> You learn the creature's profession and the region of</p>\n<p>the world they hail from, but no more.</p>\n<p><strong>Critical Failure</strong> You learn a piece of erroneous information</p>\n<p>about the creature.</p>"
 		},
 		"Bizarre Magic": {
-			"name": "Bizarre Magic",
-			"description": "<p>You can draw upon strange variations in your spellcasting, whether or not you can cast occult spells. The DCs to Recognize Spells you cast and Identify Magic you use increase by 5.</p>"
+			"name": "怪异魔法 Bizarre Magic",
+			"description": "<p>你施展法术的方式过于诡异离奇，无论你施放的是异能或是其他宗派的法术。所有尝试辨识你施放的法术或是你造成的魔法效果的检定DC都要额外+5。</p>"
 		},
 		"Black Cat Curse": {
 			"name": "Black Cat Curse",
@@ -1570,8 +1570,8 @@
 			"description": "<p><strong>Requirements</strong> The last action you used was @Compendium[pf2e.actionspf2e.v82XtjAVN4ffgVVR]{Drain Bonded Item}.</p>\n<hr />\n<p>By carefully manipulating the arcane energies stored in your bonded item as you drain it, you can conserve just enough power to cast another, slightly weaker spell.</p>\n<p>If the next action you use is to Cast a Spell using the energy from Drain Bonded Item, you gain an extra use of Drain Bonded Item. You must use this extra use of Drain Bonded Item before the end of your next turn or you lose it, and you can use this additional use only to cast a spell 2 or more levels lower than the first spell cast with Drain Bonded Item.</p>"
 		},
 		"Bonded Animal": {
-			"name": "Bonded Animal",
-			"description": "<p>You forge strong connections with animals. You can spend 7 days of downtime trying to bond with a normal animal (not a companion or other special animal) that is friendly or helpful to you. After this duration, attempt a DC 20 Nature check. If successful, you bond with the animal. The animal is permanently helpful to you, unless you do something egregious to break your bond. A helpful animal is easier to direct. Bonding with a new animal ends any previous bond you had. You can't have both a bonded animal and an animal companion (though you can have both a bonded animal and a familiar).</p>"
+			"name": "动物朋友 Bonded Animal",
+			"description": "<p>你与一些动物之间结成了特别深厚的情谊。你可以花7天休整期和一只普通的动物（不能是动物伙伴[Animal Companion]或是特殊的动物）互动，以此来培养感情。在这段时间结束时，进行一个DC20的自然技能检定。如果成功，则你和这只动物成为朋友，该动物会永久性对你保持乐于帮助（Helpful）的态度（除非你做出什么出格的举动破坏你们之间的感情），并且你也可以更容易地指挥它的行动（见自然技能的指挥动物技能动作）。如果你和一只新的动物成为朋友，那么你和之前的一只动物朋友之间的连结会结束。你不能同时拥有动物朋友和动物伙伴，但你可以同时拥有动物朋友和魔宠（Familiar）。</p>"
 		},
 		"Bonded Focus": {
 			"name": "Bonded Focus",
@@ -1638,8 +1638,8 @@
 			"description": "<p>You know how to make the most of your attacks when fighting hand-to-hand. You gain access to the critical specialization effects of unarmed strikes in the brawling group and weapons in the brawling group. If you have Monastic Weaponry, you also gain the critical specialization effects of all monk weapons in which you are trained.</p>"
 		},
 		"Breath Control": {
-			"name": "Breath Control",
-			"description": "<p>You have incredible breath control, which grants you advantages when air is hazardous or sparse. You can hold your breath for 25 times as long as usual before suffocating. You gain a +1 circumstance bonus to saving throws against inhaled threats, such as inhaled poisons, and if you roll a success on such a saving throw, you get a critical success instead.</p>"
+			"name": "龟息 Breath Control",
+			"description": "<p>你拥有惊人的呼吸控制力，这让你在空气被污染或是缺乏的区域中拥有特别的优势。在开始窒息之前，你可以屏息（Hold Breath）一般人25倍长的时间。你在对抗任何通过呼吸吸入的危险，如吸入性（Inhaled）毒素时，在豁免检定上获得+1环境加值，并且你在这些检定上获得的成功结果会视为大成功结果。</p>"
 		},
 		"Breath Like Honey": {
 			"name": "Breath Like Honey",
@@ -1834,8 +1834,8 @@
 			"description": "<p>By loading special ammunition in a particular way, you can make your siege weapons do all manner of tricks that other siege engineers can barely even imagine. If you personally contribute an additional Load action to the siege weapon's loading, above the minimum, you can change a burst into a line twice as long as the size of the burst, or vice versa (so a @Template[type:burst|distance:10] turns into a @Template[type:line|distance:20], or a 20-foot line turns into a 10-foot burst).</p>"
 		},
 		"Canny Acumen": {
-			"name": "Canny Acumen",
-			"description": "<p>Your avoidance or observation is beyond the ken of most in your profession. Choose Fortitude saves, Reflex saves, Will saves, or Perception. You become an expert in your choice. At 17th level, you become a master in your choice.</p>"
+			"name": "审时度势 Canny Acumen",
+			"description": "<p>你观察环境的能力要比大多数你的同辈来的都要敏锐。在强韧豁免，反射豁免，意志豁免或是察觉检定中选择其一，你在这项能力上的熟练度提升到专家级。在17级时，你在这项能力上的熟练度提升到大师级。</p>"
 		},
 		"Cantorian Reinforcement": {
 			"name": "Cantorian Reinforcement",
@@ -1918,8 +1918,8 @@
 			"description": "<p>The force of your deity's castigation strengthens your body so you can strike down the wicked.</p>\n<p>After you damage a fiend using a <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Heal}</em> spell, your weapon or unarmed Strikes deal extra good damage to fiends equal to half the level of the heal spell until the end of your next turn. This is cumulative with any good damage the weapon already deals (such as from a holy rune).</p>"
 		},
 		"Cat Fall": {
-			"name": "Cat Fall",
-			"description": "<p>Your catlike aerial acrobatics allow you to cushion your falls. Treat falls as 10 feet shorter. If you're an expert in Acrobatics, treat falls as 25 feet shorter. If you're a master in Acrobatics, treat them as 50 feet shorter. If you're legendary in Acrobatics, you always land on your feet and don't take damage, regardless of the distance of the fall.</p>"
+			"name": "轻身落 Cat Fall",
+			"description": "<p>在坠落时，你可以灵巧地调整姿势，确保在落地的一刻身体受到冲击最小。你将任何你坠落的高度视为减少10尺。如果你在特技上拥有专家熟练等级，这个减免距离提升到25尺；如果你在特技上拥有大师熟练等级，这个减免距离提升到50尺；如果你在特技上拥有传奇熟练等级，那么你无论坠落多高都可以保证双脚落地，不承受任何伤害。</p>"
 		},
 		"Cat Nap": {
 			"name": "Cat Nap",
@@ -2150,8 +2150,8 @@
 			"description": "<p><strong>Trigger</strong> You attempt a saving throw, but you haven't rolled yet.</p>\n<hr />\n<p>When danger calls, you have a strange knack for coming out on top. You gain a +2 circumstance bonus to the triggering save.</p>"
 		},
 		"Charming Liar": {
-			"name": "Charming Liar",
-			"description": "<p>Your charm allows you to win over those you lie to. When you get a critical success using the Lie action, the target's attitude toward you improves by one step, as though you'd succeeded at using Diplomacy to Make an Impression. This works only once per conversation, and if you critically succeed against multiple targets using the same result, you choose one creature's attitude to improve. You must be lying to impart seemingly important information, inflate your status, or ingratiate yourself, which trivial or irrelevant lies can't achieve.</p>"
+			"name": "上流骗子 Charming Liar",
+			"description": "<p>你的风度让被你骗到的冤大头变得喜欢你。当你使用说谎（Lie）动作并取得大成功结果时，你欺骗的目标对你的态度上升一级，如同你成功地使用了交涉技能来对其建立印象（Make an Impression）。在一次交谈中，这只能生效一次。如果你同时对多个生物说谎并获得大成功，你只能指定一个目标获得本专长的好处。你尝试说谎的内容必须包括向目标揭露重要的信息，鼓吹你的地位，或是使你拥有特别的魅力。普通的颠倒黑白或是无伤大雅的谎言对本专长无效。</p>"
 		},
 		"Charred Remains": {
 			"name": "Charred Remains",
@@ -2270,8 +2270,8 @@
 			"description": "<p>Your connection to air allows you to see through obscuring mists. You can see well enough through fog, mist, and clouds that would normally cause creatures to be @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} that you don't need to succeed at a flat check to target creatures benefiting from such concealment.</p>"
 		},
 		"Cloud Jump": {
-			"name": "Cloud Jump",
-			"description": "<p>Your unparalleled athletic skill allows you to jump impossible distances. Triple the distance you Long Jump (so you could jump 60 feet on a successful DC 20 check). When you High Jump, use the calculation for a Long Jump but don't triple the distance. You can jump a distance greater than your Speed by spending additional actions when you Long Jump or High Jump. For each additional action spent, add your Speed to the limit on how far you can Leap.</p>"
+			"name": "梯云纵 Cloud Jump",
+			"description": "<p>你举世无双的运动技艺可以让你跳跃凡人看似绝不可能的距离。当你跳远时，你可以跳跃的距离翻三倍（也就是说如果你成功通过DC20的技能检定，你可以跳60尺远）。在跳高时，你使用跳远动作的距离（不翻三倍）来计算你可以跳的高度。当你跳远或跳高时，你可以通过花费额外的动作来跳过比你的速度更远的距离。你每花费一个额外动作，都能添加一次速度到你能跳跃的最大距离限制上。</p>"
 		},
 		"Cloud Step": {
 			"name": "Cloud Step",
@@ -2326,8 +2326,8 @@
 			"description": "<p>You make a telegraphed attack to learn about your foe.</p>\n<p>Make a melee Strike. On a hit, you can immediately attempt a check to @Compendium[pf2e.actionspf2e.KygTSeDvsFoSO6HW]{Recall Knowledge} about the target. On a critical hit, you gain a +2 circumstance bonus to the check to Recall Knowledge.</p>\n<p>The target is temporarily immune to Combat Assessment for 1 day.</p>"
 		},
 		"Combat Climber": {
-			"name": "Combat Climber",
-			"description": "<p>Your techniques allow you to fight as you climb. You're not flat-footed while Climbing and can Climb with a hand occupied. You must still use another hand and both legs to Climb.</p>"
+			"name": "战斗攀爬 Combat Climber",
+			"description": "<p>你可以在火热的战斗中维持稳定地攀爬。你在攀爬时不会陷入措手不及状态并且可以在只有一只空手时进行攀爬。但是你仍然需要双脚和至少一只手维持攀爬。</p>"
 		},
 		"Combat Grab": {
 			"name": "Combat Grab",
@@ -2398,8 +2398,8 @@
 			"description": "<p>You and your spotter combine your efforts to bring down your target. If you and your spotter both use the Ready activity to make a Strike against the same opponent and choose the same trigger for the readied action, resolve your attacks at the same time. Each of you can use the higher of the two attack rolls for your Strikes, each using your own modifier; this is a fortune effect. If both attacks are successful, total the damage for both attacks for the purpose of resistances and weaknesses.</p>"
 		},
 		"Confabulator": {
-			"name": "Confabulator",
-			"description": "<p>Even when caught in falsehoods, you pile lie upon lie. Reduce the circumstance bonus a target gains for your previous attempts to Create a Diversion or Lie to it from +4 to +2. If you're a master in Deception, reduce the bonus to +1, and if you're legendary, your targets don't get these bonuses at all.</p>"
+			"name": "天花乱坠 Confabulator",
+			"description": "<p>即使被人戳穿，你也能现编出新的招数来掩饰你之前欺骗中的漏洞。当目标因为你之前已经进行过的尝试而在对抗你这一次的分神（Create a Diversion）或是说谎（Lie）检定时获得加值时，它们获得的加值从+4降低到+2。当你在欺骗技能上达到大师级熟练度时，这个加值被降低到+1。当你在欺骗技能上达到传奇级熟练度时，对方不会因为你之前的欺骗尝试而在这次对抗时获得任何加值。</p>"
 		},
 		"Conflux Focus": {
 			"name": "汇聚能量 Conflux Focus",
@@ -2418,8 +2418,8 @@
 			"description": "<p><strong>Requirements</strong> You must be pursuing at least two leads.</p>\n<hr />\n<p>Ephemeral connections between people, places, and concepts are invisible to most, but seeing them is your stock and trade.</p>\n<p>You spend 10 minutes considering two different leads you're pursuing. You then attempt a check to investigate how connected the two are.</p>\n<p>Unless the GM determines otherwise, this is a Crafting check if they're both items or a Society check for other combinations of leads. If any subjects are creatures, this check usually uses the highest DC among their Deception and Will DCs. If no subjects are creatures, but at least one is an item, the DC is usually a hard DC for the level of the highest-level item. If neither case applies, the DC is usually a hard expert or hard master DC (22 or 32).</p>\n<p>Once you try to Connect the Dots between two particular leads, you can never try to Connect the Dots between those same leads again unless the GM allows it after you've learned a substantial amount of new information.</p>\n<hr />\n<p><strong>Critical Success</strong> The GM tells you how connected the two leads</p>\n<p>are to one another: highly connected, somewhat connected,</p>\n<p>tangentially connected, or not connected. The GM also tells</p>\n<p>you one specific way in which they're connected, if they are.</p>\n<p><strong>Success</strong> As critical success, but the GM doesn't tell you a</p>\n<p>specific connection.</p>\n<p><strong>Failure</strong> Your results are inconclusive.</p>\n<p><strong>Critical Failure</strong> You misconstrue the information. As success,</p>\n<p>but the GM provides an incorrect degree of connection.</p>"
 		},
 		"Connections": {
-			"name": "Connections",
-			"description": "<p>You have social connections you can leverage to trade favors or meet important people. When you're in an area with connections (typically a settlement where you've spent downtime building connections, or possibly another area in the same nation), you can attempt a Society check to arrange a meeting with an important political figure or ask for a favor in exchange for a later favor of your contact's choice. The GM decides the DC based on the difficulty of the favor and the figure's prominence.</p>"
+			"name": "关系户 Connections",
+			"description": "<p>你强大的社交网络允许你在需要的时候走合适的关系，交换人情或是和重要的人物见面。当你在一个你建立过社会关系的定居点（通常，你需要一定的休整期时间在某地建立关系，有时你可以在同一国家内其他的地方利用你在异地的关系）中时，你可以进行一个社交技能检定来约见特定的重要人物，或是请求他人的帮助——欠一个未来你需要还的人情。GM回根据你要求人情的重要程度和你想要约见的人物的地位来决定该检定的DC。</p>"
 		},
 		"Conrasu Lore": {
 			"name": "Conrasu Lore",
@@ -2474,8 +2474,8 @@
 			"description": "<p>你太聪明了，从不会慌乱，总是能找到可以解决现状的小装置。当你在每日准备中准备你的小装置时，你可以选择预留一个小装置以备不时之需，你不需要声明具体制作了什么小装置。使用交互Interact动作，你可以拿出这个小装置，此时你必须选择你预留的具体是什么小装置。</p>\n<p>如果你在手艺Crafting上达到传奇，你可以在每日准备时预留2个小装置，而非1个。</p>"
 		},
 		"Continual Recovery": {
-			"name": "Continual Recovery",
-			"description": "<p>You zealously monitor a patient's progress to administer treatment faster. When you @Compendium[pf2e.actionspf2e.1kGNdIIhuglAjIp9]{Treat Wounds}, your patient becomes immune for only 10 minutes instead of 1 hour. This applies only to your Treat Wounds activities, not any other the patient receives.</p>"
+			"name": "看护师 Continual Recovery",
+			"description": "<p>你热切的看护可以让病人的伤病恢复更快。当你使用 @Compendium[pf2e.actionspf2e.1kGNdIIhuglAjIp9]{治疗伤害 Treat Wounds}时，你的目标只会免疫该效果10分钟时间而非通常的一小时。本专长只对治疗伤害动作有效而不影响其他医疗技能动作。</p>"
 		},
 		"Continuous Assault": {
 			"name": "Continuous Assault",
@@ -2590,16 +2590,16 @@
 			"description": "<p><strong>Access</strong> Keleshite nationality</p>\n<p><strong>Requirements</strong> You're in a settlement or community, and you haven't used Courteous Comeback in this settlement or community within the past month.</p>\n<p><strong>Trigger</strong> You critically fail a Diplomacy check.</p>\n<hr />\n<p>You grew up in the proud Padishah Empire, where even insults have a certain poetic wit. Reroll the triggering Diplomacy check, using the second result.</p>"
 		},
 		"Courtly Graces": {
-			"name": "Courtly Graces",
-			"description": "<p>You were raised among the nobility or have learned proper etiquette and bearing, allowing you to present yourself as a noble and play games of influence and politics. You can use Society to Make an Impression on a noble, as well as with Impersonate to pretend to be a noble if you aren't one. If you want to impersonate a specific noble, you still need to use Deception to Impersonate normally, and to Lie when necessary.</p>"
+			"name": "贵族风范 Courtly Graces",
+			"description": "<p>你出身于贵族或是接受过足够多的社交礼节训练，这使你可以将自己的身段展现为一位贵族，参与复杂的社交和政治游戏。你可以使用社群技能来对一个贵族使用建立印象（Make an Impression）技能动作（见交涉技能）或是在贵族面前乔装（Impersonate）成一个贵族，如果你原本不是（见欺骗技能）。如果你想要乔装为一位特定的贵族人物，你仍然必须使用欺骗技能来乔装，并且可能需要说谎来支撑你的伪装。</p>"
 		},
 		"Cover Fire": {
 			"name": "Cover Fire",
 			"description": "<p><strong>Frequency</strong> once per round</p>\n<p><strong>Requirements</strong> You're wielding a loaded firearm or crossbow.</p>\n<hr />\n<p>You lay down suppressive fire to protect allies by forcing foes to take cover from your wild attacks. Make a firearm or crossbow Strike; the target must decide before you roll your attack whether it will duck out of the way. If the target ducks, it gains a +2 circumstance bonus to AC against your attack, or a +4 circumstance bonus to AC if it has cover. It also takes a -2 circumstance penalty to ranged attack rolls until the end of its next turn. If the target chooses not to duck, you gain a +1 circumstance bonus to your attack roll for that Strike.</p>"
 		},
 		"Craft Anything": {
-			"name": "Craft Anything",
-			"description": "<p>You can find ways to craft just about anything, despite restrictions. As long as you have the appropriate Crafting skill feat (such as Magical Crafting for magic items) and meet the item's level and proficiency requirement, you ignore just about any other requirement, such as being of a specific ancestry or providing spells. The only exceptions are requirements that add to the item's cost, including castings of spells that themselves have a cost, and requirements of special items such as the philosopher's stone that have exclusive means of access and Crafting. The GM decides whether you can ignore a requirement.</p>"
+			"name": "天工开物 Craft Anything",
+			"description": "<p>你几乎能做出任何你能想到的任何东西。只有你拥有相关的专长（比如为制作魔法物品，你需要制作魔导具专长），达到与物品等级相符的等级，以及技能熟练度，你就能随意制作物品，无视其他先决条件（如特定种族，需要特定法术，等等）。但是，你仍然需要满足一个特别的条件：制作物品可能的额外花费（包括施放法术需要的花费）或是必要的辅助器材（如那些必须需要贤者之石才能制作的物品）。GM对于你可以具体忽略的先决条件有最终解释权。</p>"
 		},
 		"Craft Facsimile": {
 			"name": "Craft Facsimile",
@@ -3106,8 +3106,8 @@
 			"description": "<p>When you find a glaring weakness, you can set your allies up to annihilate your foe.</p>\n<p>When you use @Compendium[pf2e.feats-srd.N4wCUZH2KG6FoGqh]{Shared Stratagem}, you can designate up to 10 allies instead of just one. The foe is @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} against the first attack from each designated ally before your next turn, and each ally's first attack deals an extra 2d6 precision damage to the target if it hits.</p>\n<p>@Compendium[pf2e.feat-effects.72THfaqak0F4XnON]{Effect: Didactic Strike}</p>"
 		},
 		"Diehard": {
-			"name": "Diehard",
-			"description": "<p>It takes more to kill you than most. You die from the dying condition at dying 5, rather than dying 4.</p>"
+			"name": "死硬 Diehard",
+			"description": "<p>你很难被弄死。你在处于濒死（Dying）5时才会死亡而非通常的濒死4。</p>"
 		},
 		"Different Worlds": {
 			"name": "Different Worlds",
@@ -3334,8 +3334,8 @@
 			"description": "<p><strong>触发</strong> 你尝试一次豁免检定对抗一个法术，在你进行投骰之前。</p>\n<hr />\n<p>你呼唤神祇的恩典，在这个豁免检定上获得+2的环境加值。</p>"
 		},
 		"Divine Guidance": {
-			"name": "Divine Guidance",
-			"description": "<p>You're so immersed in divine scripture that you find meaning and guidance in your texts in any situation. Spend 10 minutes Deciphering Writing on religious scriptures of your deity or philosophy while thinking about a particular problem or conundrum you face, and then attempt a Religion check (DC determined by the GM). If you succeed, you unearth a relevant passage, parable, or aphorism that can help you move forward or change your thinking to help solve your conundrum. For example, the GM might provide you with a cryptic poem or hint that can guide you to the next step of solving your problem.</p>"
+			"name": "开示 Divine Guidance",
+			"description": "<p>你在宗教经典中浸淫已久，无论你面对任何难解的问题，只要拿起一卷经文，你总能找出神之言语给你提供的解答。如果你在思考一个极难处理或是决断的困境时，同时花费10分钟时间使用解译文书（Deciphering Writing）动作解读你信仰的神祗的宗教经典或是你追随的哲学文书，同时进行一个宗教技能检定（具体DC由GM决定）如果你成功，你会从文书中发现一段特定的箴言，教导或是警句，正好为你脑海中的难题提供了隐晦的解答。举例来说，GM可能会给你展示一段意有所指的诗文或是模糊的线索，如果你沿着这个方向去找就一定能发现解决问题的方法。</p>"
 		},
 		"Divine Health": {
 			"name": "神圣强健 Divine Health",
@@ -3606,8 +3606,8 @@
 			"description": "<p>If your next action is to Cast a Spell from your spell slots, you gain a benefit. If the spell is arcane, you can attempt a skill check to @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Recall Knowledge} with a +1 status bonus to the check after casting the spell, or a +2 status bonus if the spell is 7th level or higher. If the spell is primal, you gain a number of temporary Hit Points equal to the spell's level for 1 round. If the spell is a halcyon spell, you gain both benefits.</p>"
 		},
 		"Dubious Knowledge": {
-			"name": "Dubious Knowledge",
-			"description": "<p>You're a treasure trove of information, but not all of it comes from reputable sources. When you fail (but don't critically fail) a Recall Knowledge check using any skill, you learn a bit of true knowledge and a bit of erroneous knowledge, but you don't have any way to differentiate which is which.</p>"
+			"name": "诡异知识 Dubious Knowledge",
+			"description": "<p>你的脑海中有着包罗万象的学问——至少你自己这么认为，它们并不全来自可靠的来源。当你使用一项技能来回忆知识且失败时（而不是大失败），你会同时获得一条正确的线索和一条错误的线索，并且你无法区分究竟哪一个才是真实的。</p>"
 		},
 		"Dueling Dance (Fighter)": {
 			"name": "Dueling Dance (Fighter)",
@@ -4298,20 +4298,20 @@
 			"description": "<p><strong>Requirements</strong> You are unarmored or wearing light armor.</p>\n<hr />\n<p>You advance and retreat quickly. You gain a +10-foot status bonus to your speed.</p>"
 		},
 		"Expeditious Search": {
-			"name": "Expeditious Search",
-			"description": "<p>You have a system that lets you search at great speed, finding details and secrets twice as quickly as others can. When Searching, you take half as long as usual to Search a given area. This means that while exploring, you double the Speed you can move while ensuring you've Searched an area before walking into it (up to half your Speed). If you're legendary in Perception, you instead Search areas four times as quickly.</p>"
+			"name": "迅速搜索 Expeditious Search",
+			"description": "<p>你有一套特别的方法可以让你迅速地找东西，你探寻线索或是隐藏的秘密的速度比别人快一倍。当你使用搜索（Searching）动作时，你只需要通常搜索一片区域所需时间的一半就可以完成搜索。同时，这也代表在处于探索模式时，你可以以通常双倍的速度在移动的同时进行搜索（不超过他原本速度的一半）。如果你在察觉上达到传奇熟练度，你的搜索速度可以再快一倍。</p>"
 		},
 		"Experienced Professional": {
-			"name": "Experienced Professional",
-			"description": "<p>You carefully safeguard your professional endeavors to prevent disaster. When you use Lore to Earn Income, if you roll a critical failure, you instead get a failure. If you're an expert in Lore, you gain twice as much income from a failed check to Earn Income, unless it was originally a critical failure.</p>"
+			"name": "熟练工 Experienced Professional",
+			"description": "<p>你谨慎地遵守专业模范以避免不期而遇的职业风险。如果你使用学识技能来赚取收入（Earn Income），但得出了大失败的结果，你只会视为失败。如果你在学识技能上达到专家熟练度，你在赚取收入得出失败结果时会获得通常失败时所得现金收入的两倍，除非你的失败是因为本专长而从大失败转化而来的。</p>"
 		},
 		"Experienced Smuggler": {
-			"name": "Experienced Smuggler",
-			"description": "<p>You often smuggle things past the authorities.</p>\n<p>When the GM rolls your Stealth check to see if a passive observer notices a small item you have concealed, the GM uses the number rolled or 10 - whichever is higher - as the result of your die roll, adding it to your Stealth modifier to determine your Stealth check result.</p>\n<p>If you're a master in Stealth, the GM uses the number rolled or 15, and if you're legendary in Stealth, you automatically succeed at hiding a small concealed item from passive observers.</p>\n<p>This provides no benefits when a creature attempts a Perception check while actively searching you for hidden items.</p>\n<p>Due to your smuggling skill, you're more likely to find more lucrative smuggling jobs when using Underworld Lore to Earn Income.</p>\n<hr />\n<p><strong>PFS Note</strong> This feat allows you to Earn Income with Underworld Lore with tasks of your level -1 (instead of the normal level -2).</p>"
+			"name": "偷渡老手 Experienced Smuggler",
+			"description": "<p>你善于在官方检查下隐藏随身物品。</p>\n<p>当GM为你暗骰隐秘技能检定来决定被动观察者是否发现你随身隐藏的物品时，如果他骰出的结果低于10，他使用10+你的隐秘技能调整值来决定你的检定结果。</p>\n<p>如果你在隐秘技能上达到大师熟练度，当GM为你暗骰隐秘技能检定时，如果他骰出的结果低于15，他使用15+你的隐秘技能调整值来决定你的检定结果。如果你在隐秘技能上达到传奇熟练度，你会在被动观察者面前自动成功隐藏随身的物品。</p>\n<p>本专长在对方主动搜查你随身隐藏的物品时没有效果。</p>\n<p>除此之外，因为你擅长瞒天过海的名声，你现在可以很容易地使用黑街学识（Underworld Lore）来寻找有利可图的收入来源。</p>"
 		},
 		"Experienced Tracker": {
-			"name": "Experienced Tracker",
-			"description": "<p>Tracking is second nature to you, and when necessary you can follow a trail without pause. You can Track while moving at full Speed by taking a -5 penalty to your Survival check. If you're a master in Survival, you don't take the -5 penalty. If you're legendary in Survival, you no longer need to roll a new Survival check every hour when tracking, though you still need to roll whenever there are significant changes in the trail.</p>"
+			"name": "追迹老手 Experienced Tracker",
+			"description": "<p>你随时都在追踪痕迹，当情况需要时，你可以快速而不间断地进行追踪。你可以使用生存技能来进行追踪（Track）动作同时全速移动而不承受通常的-5减值。当你在生存技能上达到传奇级熟练度时，你不会再需要每小时进行一次技能检定来保持追踪，但仍然需要在追踪路径上出现某些特别重要的变数时重新进行一次生存技能检定。</p>"
 		},
 		"Expert Alchemy": {
 			"name": "Expert Alchemy",
@@ -4586,8 +4586,8 @@
 			"description": "<p><strong>Trigger</strong> An enemy targets you with a melee Strike.</p>\n<hr />\n<p>Surprisingly agile even in a breastplate and carrying a full rucksack, Marcos Farabellus developed this evasive maneuver during one of his many adventures.</p>\n<p>Flinging your body into a twisting somersault, you gain a +2 circumstance bonus to your AC against the triggering attack. If the attack still hits you, you can Step to an open space that's still within the triggering enemy's reach, turning the impact of the blow into momentum.</p>"
 		},
 		"Fascinating Performance": {
-			"name": "Fascinating Performance",
-			"description": "<p>When you Perform, compare your result to the Will DC of one observer. If you succeed, the target is fascinated by you for 1 round. If the observer is in a situation that demands immediate attention, such as combat, you must critically succeed to fascinate it and the Perform action gains the incapacitation trait. You must choose which creature you're trying to fascinate before you roll your check, and the target is then temporarily immune for 1 hour. If you're an expert in Performance, you can fascinate up to four observers; if you're a master, you can fascinate up to 10 observers; and if you're legendary, you can fascinate any number of observers at the same time.</p>"
+			"name": "迷魂 Fascinating Performance",
+			"description": "<p>当你使用表演技能进行演出时，将你的检定结果用来对抗一个生物的意志DC，如果你胜出，这个生物陷入迷魂（Fascinated）状态1轮时间。如果周遭的环境会使目标因为直接的干扰而分心（比如身处战斗环境），你必须要在演出检定上大成功才可以将对方迷魂，并且你的演出动作获得【失能】（incapacitation）特性。你必须在开始演出前选择你希望迷魂的生物目标，并且对方会因此而在之后免疫你的迷魂尝试1小时。当你在表演技能上达到专家熟练度时，你可以同时迷魂最多4个生物；当你达到大师级熟练度时，你最多可以同时迷魂10个生物；当你达到传奇熟练度时，你可以同时迷魂所有正在观赏你演出的生物。</p>"
 		},
 		"Fast Channel": {
 			"name": "Fast Channel",
@@ -4598,8 +4598,8 @@
 			"description": "<p>While you are raging, you gain a +10-foot status bonus to your Speed.</p>"
 		},
 		"Fast Recovery": {
-			"name": "Fast Recovery",
-			"description": "<p>Your body quickly bounces back from afflictions. You regain twice as many Hit Points from resting. Each time you succeed at a Fortitude save against an ongoing disease or poison, you reduce its stage by 2, or by 1 against a virulent disease or poison. Each critical success you achieve against an ongoing disease or poison reduces its stage by 3, or by 2 against a virulent disease or poison. In addition, you reduce the severity of your drained condition by 2 when you rest for a night instead of by 1.</p>"
+			"name": "快速恢复 Fast Recovery",
+			"description": "<p>你的身体以超常的效率从伤痛中恢复正常。你在休息时可以恢复原本双倍数量的生命值。当你在对抗一个疾病（Disease）或是毒素（Poison）的一次强韧豁免检定（Fortitude Save）时获得成功，这个毒素或是疾病的状态等级（Stage）降低2级，恶性（Virulent）毒素或疾病的状态等级降低1级；当你在此类强韧豁免检定上获得大成功时，这个毒素或是疾病的状态等级降低3级，烈性毒素或疾病的状态等级降低2级。如果你承受流失（Drained）状态，每晚的休息可以使你承受的该状态等级降低2级而非通常的1级。</p>"
 		},
 		"Fatal Aria": {
 			"name": "致命咏叹调 Fatal Aria",
@@ -4634,8 +4634,8 @@
 			"description": "<p>Fear makes your foes weak and more vulnerable to your attacks.</p>\n<p>You gain a circumstance bonus to damage rolls for Strikes against @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened} creatures. The bonus is equal to double the target's frightened value.</p>\n<p>If you have master proficiency in Intimidation, increase the bonus to triple the target's frightened value.</p>"
 		},
 		"Feather Step": {
-			"name": "Feather Step",
-			"description": "<p>You step carefully and quickly. You can Step into difficult terrain.</p>"
+			"name": "轻羽步 Feather Step",
+			"description": "<p>你可以迅速而谨慎地踏出步伐。你在困难地形（Difficult Terrain）中也可以进行快步（Step）。</p>"
 		},
 		"Feathered Cloak": {
 			"name": "Feathered Cloak",
@@ -4894,8 +4894,8 @@
 			"description": "<p><strong>Frequency</strong> once per round</p>\n<hr />\n<p>You can fly through the air in short bursts at half your land Speed. If you don't end your movement on solid ground, you fall at the end of your turn.</p>"
 		},
 		"Fleet": {
-			"name": "Fleet",
-			"description": "<p>You move more quickly on foot. Your Speed increases by 5 feet.</p>\n<p>Automatically applied effects:</p>\n<ul>\n<li>+5 untyped bonus to land speed</li>\n</ul>"
+			"name": "飞跑 Fleet",
+			"description": "<p>你的移动速度极快。你的陆地速度（Speed）增进5尺。</p>\n<p>Automatically applied effects:</p>\n<ul>\n<li>+5 untyped bonus to land speed</li>\n</ul>"
 		},
 		"Fleet Tempo": {
 			"name": "Fleet Tempo",
@@ -4994,8 +4994,8 @@
 			"description": "<p><strong>Requirements</strong> You are in @Compendium[pf2e.feats-srd.YG2RxXE9SMfwo6wP]{Monastic Archer Stance}.</p>\n<hr />\n<p>You achieve a state of perfect calm before unleashing your attack, opening your mind to the minute movements of the world around you to increase your accuracy.</p>\n<p>Make a ranged weapon Strike against a target within your weapon's first range increment. This Strike ignores the target's @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} condition and all cover.</p>"
 		},
 		"Foil Senses": {
-			"name": "Foil Senses",
-			"description": "<p>You are adept at foiling creatures' special senses and cautious enough to safeguard against them at all times. Whenever you use the Avoid Notice, Hide, or Sneak actions, you are always considered to be taking precautions against special senses.</p>"
+			"name": "挫败感知 Foil Senses",
+			"description": "<p>你善于扰乱拥有特殊感知能力的生物，并且随时提防着自己的存在被特殊感官捕捉到。当你使用避人耳目（Avoid Notice），藏匿（Hide）或是潜行（Sneak）动作时，你总是视为提前对特殊感知做出过预警。</p>"
 		},
 		"Folklorist Dedication": {
 			"name": "Folklorist Dedication",
@@ -5026,8 +5026,8 @@
 			"description": "<p>You feel confident that you can explain your scrolls so well that even your allies can use them... hopefully. During your daily preparations, you can select a single scroll and instruct a single ally in its use. Until your next daily preparations, the ally can attempt to use the scroll with a single action that has the manipulate trait. The ally rolls the skill corresponding to the spellcasting tradition. The GM determines the DC based on the scroll's level, possibly adjusted for the situation. If the spell has a spell attack bonus or a spell DC, use your level as the proficiency bonus and the highest of your ally's Intelligence, Wisdom, or Charisma modifiers.</p>\n<hr />\n<p><strong>Success</strong> For the rest of the ally's turn, they can spend actions to Cast the Spell.</p>\n<p><strong>Failure</strong> The ally misremembers your instructions and can't use the scroll this turn.</p>\n<p><strong>Critical Failure</strong> The ally misunderstood your instructions and can't use the scroll.</p>"
 		},
 		"Forager": {
-			"name": "Forager",
-			"description": "<p>While using Survival to Subsist, if you roll any result worse than a success, you get a success.</p>\n<p>On a success, you can provide subsistence living for yourself and four additional creatures, and on a critical success, you can take care of twice as many creatures as on a success.</p>\n<p>Each time your proficiency rank in Survival increases, double the number of additional creatures you can take care of on a success (to eight if you're an expert, 16 if you're a master, or 32 if you're legendary).</p>\n<p>You can choose to care for half the number of additional creatures and provide a comfortable living instead of subsistence living.</p>\n<p>Multiple smaller creatures or creatures with significantly smaller appetites than a human are counted as a single creature for this feat, and larger creatures or those with significantly greater appetites each count as multiple creatures. The GM determines how much a non-human creature needs to eat.</p>"
+			"name": "采集者 Forager",
+			"description": "<p>每当你使用生存技能的求生（Subsist）动作时，如果你的检定结果低于成功，取而代之你自动获得成功结果。</p>\n<p>如果你在求生时获得了成功，你可以为自己加上另外四个生物提供足以维生程度的饮食和住所；如果你在求生时获得了大成功，你可以为双倍于成功时可以供给的生物提供这些物质。</p>\n<p>每当你在生存技能上的熟练等级获得提升，你在成功求生时可以支持的生物数量再加倍（专家时8个，大师时16个，传奇时32个）。</p>\n<p>Y或者，你可以选择为这个数目一半的生物提供舒适而非基本程度的生存物质。</p>\n<p>比人类体型小很多的生物可以视为只需要人类几分之一的生存资源，而体型较人类更大的生物需要占用更多的生存资源。GM会判断一个生物具体会占用几人份的生存资源。</p>"
 		},
 		"Force Fang": {
 			"name": "力牙术 Force Fang",
@@ -5350,8 +5350,8 @@
 			"description": "<p>当你从大发明中释放电能时，你可以让它在障碍间反弹，创造致命的电刑领域。当你使用百万伏特Megavolt，每当你的电击线击中一个固体屏障，例如墙壁，它会以你所选的角度反射并继续前进，直到达到线形区域的最大长度。即使1个生物处于多条反射线内，他也只承受1次伤害。</p>"
 		},
 		"Glad-Hand": {
-			"name": "Glad-Hand",
-			"description": "<p>First impressions are your strong suit. When you meet someone in a casual or social situation, you can immediately attempt a Diplomacy check to Make an Impression on that creature rather than needing to converse for 1 minute. You take a -5 penalty to the check. If you fail or critically fail, you can engage in 1 minute of conversation and attempt a new check at the end of that time rather than accepting the failure or critical failure result.</p>"
+			"name": "自来熟 Glad-Hand",
+			"description": "<p>你擅长于给人留下深刻的第一印象。当你和一个生物首次会面时，你可以立刻进行一次交涉技能检定（而非通常需要1分钟交谈）你在这次检定上承受-5减值。如果你在这次检定上失败或是大失败，你可以和对方尝试进行一次至少1分钟时间的对话来重新建立印象而非必须接受失败或大失败的结果。</p>"
 		},
 		"Gladiator Dedication": {
 			"name": "Gladiator Dedication",
@@ -5698,12 +5698,12 @@
 			"description": "<p>你所接受的教育强调团队协作，这使得协助盟友对你来说就好像是天性一般。</p>\n<p>在你 @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{协助} 1名盟友进行1次不具有攻击（Attack）特征的技能检定后，你还能协助任何其他在该轮为了相同目标而尝试相同检定的盟友。你这么做是自由动作（free action）而非反应动作（reaction）。</p>\n<p>你为了帮助他人所进行的准备应当也适用于其他盟友，而且每名盟友你仅能协助1次。举例说明，若你托举1名盟友来协助他的运动检定以翻越墙壁的话，你也可以在同一轮内保持同样的姿势来协助尝试翻越墙壁的其他盟友。</p>"
 		},
 		"Group Coercion": {
-			"name": "Group Coercion",
-			"description": "<p>When you Coerce, you can compare your Intimidation check result to the Will DCs of two targets instead of one. It's possible to get a different degree of success for each target. The number of targets you can Coerce in a single action increases to four if you're an expert, 10 if you're a master, and 25 if you're legendary.</p>"
+			"name": "集体胁迫 Group Coercion",
+			"description": "<p>当你使用胁迫（Coercion）技能动作时，你可以同时使用你的威吓检定结果对抗两个而非一个目标的意志DC，但可能会在两个目标上取得不同的成功等级。在你的熟练等级达到专家级时，你可以同时胁迫四个目标；在大师级时，10个目标；在传奇级时，25个目标。</p>"
 		},
 		"Group Impression": {
-			"name": "Group Impression",
-			"description": "<p>When you Make an Impression, you can compare your Diplomacy check result to the Will DCs of two targets instead of one. It's possible to get a different degree of success for each target. The number of targets increases to four if you're an expert, 10 if you're a master, and 25 if you're legendary.</p>"
+			"name": "集体印象 Group Impression",
+			"description": "<p>当你使用建立印象技能动作时，你可以同时使用你的交涉检定结果对抗两个而非一个目标的意志DC，但可能会在两个目标上取得不同的成功等级。在你的熟练等级达到专家级时，你可以同时向四个目标建立印象；在大师级时，10个目标；在传奇级时，25个目标。</p>"
 		},
 		"Grovel": {
 			"name": "Grovel",
@@ -5946,8 +5946,8 @@
 			"description": "<p>Your shadow can contain objects. You can Interact with your shadow to store or retrieve objects, just like you would a mundane container (meaning you spend two Interact actions total to store and then retrieve the object, for example). Your shadow can contain 2 Bulk of objects, which don't count toward the Bulk you're carrying. The items remain solid but take on a shadowy patina while stored this way. Though the items are in your shadow and can be detected normally, you gain a +2 circumstance bonus to Stealth checks to Conceal the Objects unless someone knows to check your shadow for items.</p>"
 		},
 		"Hefty Hauler": {
-			"name": "Hefty Hauler",
-			"description": "<p>You can carry more than your frame implies. Increase your maximum and encumbered Bulk limits by 2.</p>"
+			"name": "配达人 Hefty Hauler",
+			"description": "<p>你可以背起你的身材似乎不像是可能带动的大堆物品。你的可以携带的最大和超载（Encumbered）重量单位限度增加2。</p>"
 		},
 		"Heightened Captivation": {
 			"name": "Heightened Captivation",
@@ -6074,8 +6074,8 @@
 			"description": "<p>You are trained with @Compendium[pf2e.equipment-srd.dUC8Fsa6FZtVikS3]{Composite Longbows}, @Compendium[pf2e.equipment-srd.e4NwsnPnpQKbDZ9F]{Composite Shortbows}, @Compendium[pf2e.equipment-srd.vlnzTSsRmWeSkt9O]{Glaives}, @Compendium[pf2e.equipment-srd.MVAWttmT0QDa7LsV]{Longbows}, @Compendium[pf2e.equipment-srd.LJdbVTOZog39EEbi]{Longswords}, and @Compendium[pf2e.equipment-srd.hIgqLgH3YcLZBeoT]{Shortbows}.</p>\n<p>In addition, you gain access to all uncommon hobgoblin weapons. For the purpose of determining your proficiency, martial hobgoblin weapons are simple weapons and advanced hobgoblin weapons are martial weapons.</p>"
 		},
 		"Hobnobber": {
-			"name": "Hobnobber",
-			"description": "<p>You are skilled at learning information through conversation. The Gather Information exploration activity takes you half as long as normal (typically reducing the time to 1 hour). If you're a master in Diplomacy and you Gather Information at the normal speed, when you attempt to do so and roll a critical failure, you get a failure instead. There is still no guarantee that a rumor you learn with Gather Information is accurate.</p>"
+			"name": "飞短流长 Hobnobber",
+			"description": "<p>你惯于从众人的闲言碎语中截取有用的情报。你在进行搜集信息（Gather Information）技能动作时所花费的时间降低到通常的一半（在大多数情况下，降低到1小时）。如果你在交涉技能上达到大师熟练度，并且你以通常的速度进行搜集信息，那么假使你在技能检定上得出大失败结果，这个结果只会被视为普通失败结果。当然，本专长不会保证你搜集到的情报是否总是真实准确的。</p>"
 		},
 		"Hold Mark": {
 			"name": "Hold Mark",
@@ -6214,8 +6214,8 @@
 			"description": "<p>You refuse to let foes past your guard. As long as you are in this stance, when you critically hit with an @Compendium[pf2e.feats-srd.O2MwufzEHbuThoGr]{Attack of Opportunity} triggered by a move action, you disrupt that move action.</p>"
 		},
 		"Impeccable Crafting": {
-			"name": "Impeccable Crafting",
-			"description": "<p>You craft flawless creations with great efficiency. Whenever you roll a success at a Crafting check to make an item of the type you chose with Specialty Crafting, you get a critical success instead.</p>"
+			"name": "完美制作 Impeccable Crafting",
+			"description": "<p>你能够以极高的效率制造出精良的产品。每当你在使用专门制作专长制作物品并取得成功结果时，取而代之，你获得大成功结果。</p>"
 		},
 		"Impervious Vehicle": {
 			"name": "Impervious Vehicle",
@@ -6290,8 +6290,8 @@
 			"description": "<p>You've trained your mount to become a powerful force on the battlefield. The mount you gained through the Cavalier Dedication feat becomes a mature animal companion, granting it additional capabilities. During an encounter, even if you don't use the Command an Animal action, your animal companion can still use 1 action on your turn to Stride or Strike.</p>"
 		},
 		"Impressive Performance": {
-			"name": "Impressive Performance",
-			"description": "<p>Your performances inspire admiration and win you fans. You can Make an Impression using Performance instead of Diplomacy.</p>"
+			"name": "动人表演 Impressive Performance",
+			"description": "<p>你的演艺能够为你赢得支持者和敬意。你可以使用表演技能而非交涉技能来使用建立印象技能动作。</p>"
 		},
 		"Improbable Elixirs": {
 			"name": "Improbable Elixirs",
@@ -6414,12 +6414,12 @@
 			"description": "<p><strong>频率</strong> 一天一次</p>\n<p><strong>触发</strong> 当你使用一个未受训的技能进行检定</p>\n<hr />\n<p>尽管你缺乏经验，但你的灵机一动可以让你在一个技能上获得很多优势。你在触发技能检定上获得+4环境加值。</p>"
 		},
 		"Incredible Initiative": {
-			"name": "Incredible Initiative",
-			"description": "<p>You react more quickly than others can. You gain a +2 circumstance bonus to initiative rolls.</p>"
+			"name": "惊奇先攻 Incredible Initiative",
+			"description": "<p>你比别人的反应速度更快。你在先攻检定上获得+2环境加值。</p>"
 		},
 		"Incredible Investiture": {
-			"name": "Incredible Investiture",
-			"description": "<p>You have an incredible ability to invest more magic items. Increase your limit on invested items from 10 to 12.</p>"
+			"name": "额外绑定  Incredible Investiture",
+			"description": "<p>你拥有令人惊叹的魔法物品亲和度。你最多可以绑定12件而非10件魔法物品。</p>"
 		},
 		"Incredible Luck (Halfling)": {
 			"name": "Incredible Luck (Halfling)",
@@ -6610,12 +6610,12 @@
 			"description": "<p>You weave dispelling energy into a spell, sending both effects at a foe.</p>\n<p>If your next action is to cast a single-target spell against a creature, and you either hit the foe with the spell attack roll or the foe fails its saving throw, you can cast <em>@Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dispel Magic}</em> on the foe as a free action, expending a spell slot as normal and targeting one spell effect affecting the foe.</p>"
 		},
 		"Intimidating Glare": {
-			"name": "Intimidating Glare",
-			"description": "<p>You can Demoralize with a mere glare. When you do, Demoralize loses the auditory trait and gains the visual trait, and you don't take a penalty if the creature doesn't understand your language.</p>"
+			"name": "金刚怒目 Intimidating Glare",
+			"description": "<p>你能仅靠一个恫吓的眼神就使对手退缩。如果你选择这样做，你的挫败士气（Demoralize）技能动作失去【声音】特性但获得【视觉】特性，并且你不会因为和对方语言不通而在挫败士气时承受减值。</p>"
 		},
 		"Intimidating Prowess": {
-			"name": "Intimidating Prowess",
-			"description": "<p>In situations where you can physically menace the target when you Coerce or Demoralize, you gain a +1 circumstance bonus to your Intimidation check and you ignore the penalty for not sharing a language. If your Strength score is 20 or higher and you are a master in Intimidation, this bonus increases to +2.</p>"
+			"name": "威逼 Intimidating Prowess",
+			"description": "<p>你可以利用自己的肉体威慑力在尝试挫败士气和胁迫目标时获得额外的优势。你在进行这些技能动作时在检定上获得+1环境加值，并且你不会因为和对方语言不通而在威吓技能检定上承受减值。如果你的力量属性达到20且威吓技能达到大师级熟练度，这个加值提升到+2。</p>"
 		},
 		"Intimidating Strike": {
 			"name": "Intimidating Strike",
@@ -6642,8 +6642,8 @@
 			"description": "<p>You can jury-rig your weapons to perform in unexpected ways. When you use this ability, add one of the following weapon traits to a melee weapon you wield: deadly d6, disarm, nonlethal, shove, trip, versatile B, versatile P, or versatile S. You cannot add a trait that the weapon already has. The weapon retains this trait until you a successfully hit and deal damage with the weapon. The weapon retains this trait only while you wield it, and you can have only one weapon modified in this way at any time.</p>\n<p>If you have expert proficiency in Crafting, you can use this feat as a 2-action activity. If you have legendary proficiency in Crafting, you can apply two weapon traits from the list when using this feat.</p>"
 		},
 		"Inventor": {
-			"name": "Inventor",
-			"description": "<p>You are a genius at Crafting, easily able to determine how things are made and create new inventions. You can spend downtime to invent a common formula that you don't know. This works just like the Craft activity: you spend half the Price of the formula up front, attempt a Crafting check, and on a success either finish the formula by paying the difference or work for longer to decrease the Price. The difference is that you spend the additional time in research, design, and development, rather than in creating an item. Once it's complete, you add the new formula you invented to your formula book.</p>"
+			"name": "发明家 Inventor",
+			"description": "<p>你的手艺能力出类拔萃，让你可以轻易分析一件物品的运作原理并创作你自己的发明物。你可以使用你的休整期时间来创作一个你尚未获得的物品的稀有度为常见（Common）的设计图（Formula）。这个行动和制作物品的流程类似：你支付设计图价格的一半开始制作，进行手艺技能检定，任何决定是否花费另一半价格立刻完成制作，或是花费额外的时间来节约投资。这中间的区别在于，你并不是花时间来制造一件物品，而是进行分析，设计和创造。如果你成功完成了设计图，将它加入你已有的设计图集（Formula Book）中。</p>"
 		},
 		"Inventor Dedication": {
 			"name": "Inventor Dedication",
@@ -6862,8 +6862,8 @@
 			"description": "<p>Your star orb hides a deadly miasma. You can cast 5th-level <em>@Compendium[pf2e.spells-srd.MlpbeZ61Euhl0d60]{Cloudkill}</em> as a divine innate spell once per day. The spell's normal components are replaced with a focus component (your star orb) and a somatic component to aim the orb towards the location for the spell.</p>"
 		},
 		"Kip Up": {
-			"name": "Kip Up",
-			"description": "<p>You stand up. This movement doesn't trigger reactions.</p>"
+			"name": "鲤鱼打挺 Kip Up",
+			"description": "<p>你可以立刻站起身。这次移动不会触发反应动作。</p>"
 		},
 		"Kitsune Lore": {
 			"name": "Kitsune Lore",
@@ -6978,8 +6978,8 @@
 			"description": "<p>Your tail's chaotic and independent nature causes it to perform mischief even when you don't intend it, and it can somehow steal things it shouldn't be able to handle. You can use your tail to Steal an object, though your tail still can't hold onto it at the end of your action. If you have a hand free, you can transfer the stolen object to your hand. Otherwise, your tail surreptitiously drops it on the ground in your space, where you can grab it later. Observers other than your target who haven't witnessed you stealing something with your tail are usually distracted, meaning the GM will usually decrease their Perception DCs, as normal for Stealing something.</p>"
 		},
 		"Lasting Coercion": {
-			"name": "Lasting Coercion",
-			"description": "<p>When you successfully Coerce someone, the maximum time they comply increases to a week, still determined by the GM. If you're legendary, the maximum increases to a month.</p>"
+			"name": "持久威胁 Lasting Coercion",
+			"description": "<p>当你成功地对某人使用了胁迫技能动作后，这个效果对他们的最长影响时间提升到一周（但GM可以决定实际的作用时间）。如果你在威吓技能达到传奇级熟练度，你的胁迫效果最长影响时间延长到一个月。</p>"
 		},
 		"Lasting Doubt": {
 			"name": "恒久疑虑 Lasting Doubt",
@@ -7034,36 +7034,36 @@
 			"description": "<p>You are trained to capture deserters, or \"leeches.\" If you critically hit a foe with a weapon from the flail weapon group, you can wrap the weapon around the target's legs and then drop it, causing the foe to take a -10-foot circumstance penalty to their Speeds until they or their allies disentangle the weapon, which takes a total of 2 Interact actions.</p>"
 		},
 		"Legendary Codebreaker": {
-			"name": "Legendary Codebreaker",
-			"description": "<p>Your skill with languages and codes is so great that you can decipher information with little more than a quick read through a text.</p>\n<p>You can Decipher Writing using Society while reading at normal speed.</p>\n<p>If you slow down and spend the full amount of time that's ordinarily required and roll a success, you get a critical success; if you critically succeed while spending the normal amount of time, you gain a nearly word-for-word understanding of the document.</p>"
+			"name": "传奇译码员 Legendary Codebreaker",
+			"description": "<p> 你对于语言和密码惊人的理解能力使你可以在翻看一次的时间内就读出文本中被加密的内容。</p>\n<p>你可以正常阅读文本的速度来解译文书。</p>\n<p>，如果你选择以通常解译文书所需的时间来仔细阅读，那么你在解译文书时取得的成功结果视为大成功；如果你选择以通常解译文书所需的时间来仔细阅读并且取得了大成功结果，你可以获得对于文本逐字逐句程度的精确理解。</p>"
 		},
 		"Legendary Guide": {
 			"name": "Legendary Guide",
 			"description": "<p>You know the wilderness so well that you can help your party travel through it with ease.</p>\n<p>When you are setting the path for your party through wilderness terrain, your party gains a +10-foot circumstance bonus to its Speed for the purpose of calculating the party's travel speed, your party's travel speed doesn't decrease in difficult terrain, and greater difficult terrain halves your party's travel speed instead of reducing it to a third.</p>\n<p>This doesn't increase your party's Speed during an encounter or allow your party to ignore difficult terrain during an encounter.</p>"
 		},
 		"Legendary Linguist": {
-			"name": "Legendary Linguist",
-			"description": "<p>You're so skilled with languages you can create a pidgin instantly. You can always talk to any creature that has a language-even a language you don't know -by creating a new pidgin language that uses simplified terms and conveys basic concepts. To do so, you must first understand at least what medium of communication the creature uses (speech, sign language, and so on).</p>"
+			"name": "传奇语言学家 Legendary Linguist",
+			"description": "<p>你对于语言文化深入的研究使你可以在瞬间创造出一种自己的代码语言。你可以和任何使用某种语言的生物交谈——即使你们之间并没有可以交流的语言类型，你也可以迅速创作一种允许你们之间交换概念的简单代码语言。当然，你需要事先理解该生物的交流方式（口头语言，手语，等等）才可以编撰这种简易语言。</p>"
 		},
 		"Legendary Medic": {
-			"name": "Legendary Medic",
-			"description": "<p>You've discovered medical breakthroughs or techniques that achieve miraculous results. Once per day for each target, you can spend 1 hour treating that target and attempt a Medicine check to remove a disease or the blinded, deafened, doomed, or drained condition. Use the DC of the disease or of the spell or effect that created the condition. If the effect's source is an artifact, above 20th level, or similarly powerful, increase the DC by 10.</p>"
+			"name": "传奇医师 Legendary Medic",
+			"description": "<p>你发明了某些近乎奇迹般的医疗技术。每天一次，你可以花费1小时时间，进行一个医疗检定来为一个患者移除他承受的一个疾病、目盲、毁灭、耳聋、或是流失不良状态。使用这个效果原本的豁免DC来作为这次医疗检定的DC。如果这个效果来自一件神器（Artifact），等级超过20级，或是类似的强大来源，增加这个医疗检定的DC10点。</p>"
 		},
 		"Legendary Monster Hunter": {
 			"name": "Legendary Monster Hunter",
 			"description": "<p>Your knowledge of monsters is so incredible that it reveals glaring flaws in your prey. Your bonus from @Compendium[pf2e.feats-srd.YTTJqRKH8QZl6al2]{Monster Hunter} (and the bonus from @Compendium[pf2e.feats-srd.2yq3l8e2Vzz34yRV]{Monster Warden} if you have it) increases from +1 to +2 for you and any allies who benefit.</p>\n<p>@Compendium[pf2e.feat-effects.LB0PTV5yqMlBmRFj]{Effect: Legendary Monster Hunter}</p>\n<p>@Compendium[pf2e.feat-effects.aUpcWqaLBlmpnJgW]{Effect: Legendary Monster Warden}</p>"
 		},
 		"Legendary Negotiation": {
-			"name": "Legendary Negotiation",
-			"description": "<p>You can negotiate incredibly quickly in adverse situations. You attempt to Make an Impression and then Request your opponent cease their current activity and engage in negotiations. You take a -5 penalty to your Diplomacy check. The GM sets the DC of the Request based on the circumstances-it's generally at least a very hard DC of the creature's level. Some creatures might simply refuse, and even those who agree to parley might ultimately find your arguments lacking and return to violence.</p>"
+			"name": "传奇交涉者 Legendary Negotiation",
+			"description": "<p>你可以在敌意环伺的处境中快速交涉停火。你可以尝试立刻对和你交战的对手进行一次建立印象然后进行一次提出请求动作，要求他们停止攻击并和你谈判。你在这些交涉检定上承受-5减值。GM决定具体的检定DC——通常来说，这个DC以你面对的生物的等级来说会非常高。某些对手可能会立刻拒绝你的要求，另一些可能会在你提出的条件无法使他们满意时重新对你暴力相向。</p>"
 		},
 		"Legendary Performer": {
-			"name": "Legendary Performer",
-			"description": "<p>Your fame has spread throughout the lands. NPCs who succeed at a DC 10 Society check to Recall Knowledge have heard of you and usually have an attitude toward you one step better than normal, depending on your reputation and the NPC's disposition. For instance, if you're well-known for cruel and demanding behavior, creatures might be intimidated by you, rather than be friendly toward you. When you Earn Income with Performance, you attract higher-level audiences than your location would allow, as audiences flock to see you. For instance, rulers and angels might travel to your small tower in the woods to hear you perform. Typically, this increases the audiences available by 2 levels or more, determined by the GM.</p>"
+			"name": "传奇艺者 Legendary Performer",
+			"description": "<p>你作为演艺家的声望国际知名。NPC只需要通过一个DC10的社群技能检定就会认出你的身份，并且他们通常会对你提高一级态度——取决于该NPC的地位和你的名声。举例来说，如果你是一个世界知名的歌剧魅影，那么你的出现可能会引发人们的恐惧而非友善。如果你使用表演技能来赚取收入，那么你的名望会吸引到比起你所在的地区水平更高贵的观众——人们会旅行而来专门欣赏你的演出。比如，如果你在一个森林小镇中表演，皇室和天使可能会因此而专程前来。从游戏机制来说，这通常意味着你的观众等级增加2级（取决于GM的判断）。</p>"
 		},
 		"Legendary Professional": {
-			"name": "Legendary Professional",
-			"description": "<p>Your fame has spread throughout the lands (for instance, if you have Warfare Lore, you might be a legendary general or tactician). This works as @Compendium[pf2e.feats-srd.467qQoiy6bjWU1G8]{Legendary Performer}, except you gain higher-level jobs when you Earn Income with Lore.</p>"
+			"name": "传奇仕事人 Legendary Professional",
+			"description": "<p>你作为特定职业专家的声誉国际知名（举例来说，如果你选择的学识子类别是军事学识，那么你可能是一个传奇的将军或军师）。本专长的效果与 @Compendium[pf2e.feats-srd.467qQoiy6bjWU1G8]{传奇艺者 Legendary Performer}相同，但你在使用学识技能赚取收入时会获得较高等级的任务而非吸引较高等级的观众。</p>"
 		},
 		"Legendary Rider": {
 			"name": "Legendary Rider",
@@ -7074,20 +7074,20 @@
 			"description": "<p>You focus on your hunted prey, perceiving angles, air resistance, and every variable that would affect your ranged attack. If you have master proficiency with your ranged weapon, you can ignore the penalty for attacking up to five range increments away when attacking your hunted prey.</p>"
 		},
 		"Legendary Sneak": {
-			"name": "Legendary Sneak",
-			"description": "<p>You're always sneaking unless you choose to be seen, even when there's nowhere to hide. You can Hide and Sneak even without cover or being concealed. When you employ an exploration tactic other than Avoiding Notice, you also gain the benefits of Avoiding Notice unless you choose not to.</p>"
+			"name": "传奇潜行者 Legendary Sneak",
+			"description": "<p>即使在没有掩蔽物的环境中，你也可以保持潜行——只有你希望被人看到的时候，其他人才会看到你。你可以在没有掩蔽或是隐蔽的状态时尝试潜行（Sneak）和藏匿（Hide）技能动作。如果你在探索模式中使用回避注意以外的探索战术（Exploration Tactic），你视为总是拥有回避注意，除非你有意选择不这么做。见本书第479页理解更多关于探索战术的内容。</p>"
 		},
 		"Legendary Summoner": {
 			"name": "Legendary Summoner",
 			"description": "<p>Your ability to summon extends past your other spellcasting. When you sacrifice a 9th-level spell slot to gain two summoning slots using Master Summoner, you can use those slots to cast summoning spells heightened to 10th level.</p>\n<p>You can't use these spell slots for any purpose other than casting the summoning spells, and you don't count as having 10th-level spell slots for other abilities or rules.</p>"
 		},
 		"Legendary Survivalist": {
-			"name": "Legendary Survivalist",
-			"description": "<p>You can survive indefinitely without food or water and can endure severe, extreme, and incredible cold and heat without taking damage from doing so.</p>"
+			"name": "传奇生存专家 Legendary Survivalist",
+			"description": "<p>你可以无需食物和水便可以生存，并且不会因为严重（Severe），极端（Extreme）和灾难性（Incredible）寒冷或炎热环境而承受任何伤害。</p>"
 		},
 		"Legendary Thief": {
-			"name": "Legendary Thief",
-			"description": "<p>Your ability to Steal defies belief. You can attempt to Steal something that is actively wielded or that would be extremely noticeable or time consuming to remove (like worn shoes or armor). You must do so slowly and carefully, spending at least 1 minute (and significantly longer for items that are normally time consuming to remove, like armor). Throughout this duration you must have some means of staying hidden, such as the cover of darkness or a bustling crowd. You take a -5 penalty to your Thievery check. Even if you succeed, if the item is extremely prominent-like a suit of full plate armor-onlookers will quickly notice it's gone after you steal it.</p>"
+			"name": "传奇神偷 Legendary Thief",
+			"description": "<p>你的盗术令人匪夷所思。你可以下手偷窃被他人积极地使用，十分显眼或是难以移除的物品（比如正在被人穿着的鞋或是护甲）。你需要仔细而小心地进行你的偷窃，这通常会需要至少1分钟时间（或者，如果移除一件物品-比如护甲-需要比这更长的时间，那么这个时间也会相应延长）。你需要一定程度的隐蔽，比如黑暗或是拥挤的人群来掩盖你的行动，并且在贼活检定上承受-5减值。即使你在检定上成功，你的行动通常也会立刻吸引他人的注意——一件全身甲突然从穿着它的人身上消失自然是非常冲击性的。</p>"
 		},
 		"Legs of Stone": {
 			"name": "Legs of Stone",
@@ -7098,8 +7098,8 @@
 			"description": "<p>You've solved a tiny stepping stone in your self-discovery, awakening new depths in your sight. You gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision}.</p>"
 		},
 		"Lengthy Diversion": {
-			"name": "Lengthy Diversion",
-			"description": "<p>When you critically succeed to Create a Diversion, you continue to remain hidden after the end of your turn. This effect lasts for an amount of time that depends on the diversion and situation, as determined by the GM (minimum 1 additional round).</p>"
+			"name": "持久分神 Lengthy Diversion",
+			"description": "<p>当你在使用欺骗技能来尝试使敌人分神（Create a Diversion）并取得大成功时，你可以在你的本回合结束后仍然处于隐匿状态。根据GM基于环境和具体情势的判断，这个效果可以保持更长的时间（至少额外1轮）。</p>"
 		},
 		"Leshy Familiar": {
 			"name": "Leshy Familiar",
@@ -7150,8 +7150,8 @@
 			"description": "<p>You're adept at noticing the tells of a liar - sweat, flushing, a quavering voice, a quickening pulse.</p>\n<p>You gain a +1 circumstance bonus to Perception checks to @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Sense Motive} and to Perception DCs against attempts to @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Lie} to you.</p>\n<p>When you determine someone is lying to you, you can use their deceit to your advantage to gain a +1 circumstance bonus to the next Deception, Diplomacy, Intimidation, or Performance check you attempt against that creature within the next minute.</p>"
 		},
 		"Lie To Me": {
-			"name": "Lie To Me",
-			"description": "<p>You can use Deception to weave traps to trip up anyone trying to deceive you. If you can engage in conversation with someone trying to Lie to you, use your Deception DC if it is higher than your Perception DC to determine whether they succeed. This doesn't apply if you don't have a back-and-forth dialogue, such as when someone attempts to Lie during a long speech.</p>"
+			"name": "将计就计 Lie To Me",
+			"description": "<p>你可以使用自己的欺骗技巧来给对你撒谎的人布下话术圈套。如果你在和他人交谈时对方尝试对你说谎，你可以使用你的察觉DC或是欺骗技能DC（取其高者）来决定对方是否成功。本专长的效果只有在你可以和对方保持互动交流时才能生效——比如，对方在进行不被打断的独白演说时说谎，则本专长无效。</p>"
 		},
 		"Life Leap": {
 			"name": "Life Leap",
@@ -7446,8 +7446,8 @@
 			"description": "<p>Your eidolon gains more magic. Choose one 2nd-level spell and one 1st-level spell of your eidolon's tradition. Your eidolon can cast them each once per day as innate spells. At every even level after you take this feat, your eidolon can swap one of these innate spells for a new innate spell that's 2 or more levels lower than your highest-level spell slot.</p>"
 		},
 		"Magical Crafting": {
-			"name": "Magical Crafting",
-			"description": "<p>You can Craft magic items, though some have other requirements, as listed in Chapter 11. When you select this feat, you gain formulas for four common magic items of 2nd level or lower.</p>"
+			"name": "制作魔导具 Magical Crafting",
+			"description": "<p>你可以制作魔法物品，但通常这需要你满足一些特定的先决条件（见本书第11章）。当你选择获得本专长时，你会同时获得所有物品等级（Item Level）不高于2级的常见（Common）魔法物品的设计图。</p>"
 		},
 		"Magical Edification": {
 			"name": "Magical Edification",
@@ -7466,8 +7466,8 @@
 			"description": "<p>While study is key to your success, a bit of magic is a helpful tool in discovering the secrets of the past. You gain <em>@Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{Detect Magic}</em>, <em>@Compendium[pf2e.spells-srd.izcxFQFwf3woCnFs]{Guidance}</em>, and <em>@Compendium[pf2e.spells-srd.OhD2Z6rIGGD5ocZA]{Read Aura}</em> as occult innate cantrips.</p>"
 		},
 		"Magical Shorthand": {
-			"name": "Magical Shorthand",
-			"description": "<p>Learning spells comes easily to you. If you're an expert in a tradition's associated skill, you take 10 minutes per spell level to learn a spell of that tradition, rather than 1 hour per spell level. If you fail to learn the spell, you can try again after 1 week or after you gain a level, whichever comes first. If you're a master in the tradition's associated skill, learning a spell takes 5 minutes per spell level, and if you're legendary, it takes 1 minute per spell level. You can use downtime to learn and inscribe new spells. This works as if you were using Earn Income with the tradition's associated skill, but instead of gaining money, you choose a spell available to you to learn and gain a discount on learning it, learning it for free if your earned income equals or exceeds its cost.</p>"
+			"name": "魔法熟稔 Magical Shorthand",
+			"description": "<p>你可以轻松地掌握新法术。当你在一项与你所施展的法术宗派对应的技能上拥有专家级熟练度时，你学习该宗派的法术只需要花费10分钟/每环的时间而非通常的1小时/每环。如果你没能成功的掌握一个法术，那么你可以在下次提升等级或是一周以后（取其先者）重新尝试学习。当你在相应技能上达到大师级时，学习法术只需要5分钟/环；当你在相应技能上达到大师级时，学习法术只需要1分钟/环。除此之外，你可以在休整期间学习和抄录新的法术，这个行动和使用休整期赚取收入行动相似，不过使用你所施展的法术宗派对应的技能进行检定，并将赚取收入的金额从你学习法新术的花费中减去。如果你赚取的收入大于或等于你学习新法术的花费，则你可以免费学习该法术。</p>"
 		},
 		"Magical Trickster": {
 			"name": "Magical Trickster",
@@ -8002,8 +8002,8 @@
 			"description": "<p>你的缪斯并不唯一。选择一种自身以外的缪斯，你获得一个需求该缪斯的一级专长，并且你的缪斯当前也视为一种该类型的缪斯，让你可以选择其他需要该缪斯作为先决条件的专长。你不会获得所选缪斯带来的任何其他效果。</p>\n<p><strong>特殊</strong> 你可以多次选择这一专长，每次都必须选择一个与当前类型不同的缪斯类型。</p>"
 		},
 		"Multilingual": {
-			"name": "Multilingual",
-			"description": "<p>You easily pick up new languages. You learn two new languages, chosen from common languages, uncommon languages, and any others you have access to. You learn an additional language if you are or become a master in Society and again if you are or become legendary.</p>\n<p><strong>Special</strong> You can select this feat multiple times. Each time, you learn additional languages.</p>"
+			"name": "多语言 Multilingual",
+			"description": "<p>你很容易学习新的语言。你现在掌握了两门新的语言，它们可以是任何常见（Common），罕见（Uncommon）或是任何你可以接触到的语言。当你在社群技能上达到大师级熟练度和传奇级熟练度时，你再额外获得一门新的语言。</p>\n<p><strong>特殊</strong> 你可以多次选择本专长。每次选择本专长时，你都会获得额外的语言。</p>"
 		},
 		"Multilingual Cipher": {
 			"name": "Multilingual Cipher",
@@ -8094,8 +8094,8 @@
 			"description": "<p>By drawing upon the First World's magic, you can siphon a portion of that malleable world to create a convincing illusion. Once per day, you can cast <em>@Compendium[pf2e.spells-srd.i35dpZFI7jZcRoBo]{Illusory Disguise}</em>, <em>@Compendium[pf2e.spells-srd.4ZGte0i9YbLh4dRi]{Item Facade}</em>, or <em>@Compendium[pf2e.spells-srd.yV7Ouzaoe7DHLESI]{Ventriloquism}</em>. At 7th level, the spell is heightened to 2nd level, and every 2 levels thereafter, the spell is heightened an additional spell level.</p>"
 		},
 		"Natural Medicine": {
-			"name": "Natural Medicine",
-			"description": "<p>You can apply natural cures to heal your allies. You can use Nature instead of Medicine to Treat Wounds. If you're in the wilderness, you might have easier access to fresh ingredients, allowing you to gain a +2 circumstance bonus to your check to Treat Wounds using Nature, subject to the GM's determination.</p>"
+			"name": "自然疗法 Natural Medicine",
+			"description": "<p>你可以从自然环境中采集药材为盟友提供医疗。你可以使用自然而非医疗技能来使用治疗伤害技能动作。并且，如果你身处可以采集到新鲜的生药材料的环境中（由GM判断）时，你再使用自然技能进行治疗伤害动作的技能检定获得+2环境加值。</p>"
 		},
 		"Natural Performer": {
 			"name": "Natural Performer",
@@ -8146,8 +8146,8 @@
 			"description": "<p>The nanites in your ocular processors have adapted to darkness, enhancing your ability to see in the dark. You gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision}.</p>"
 		},
 		"Nimble Crawl": {
-			"name": "Nimble Crawl",
-			"description": "<p>You can Crawl incredibly swiftly-up to half your Speed, rather than 5 feet. If you're a master in Acrobatics, you can Crawl at full Speed, and if you're legendary, you aren't flat-footed while prone.</p>"
+			"name": "灵巧爬行 Nimble Crawl",
+			"description": "<p>你可以以惊人的速度匍匐爬行。你可以以通常陆地速度的一半而非通常的5尺速度进行爬行移动。当你在特技技能上达到大师级熟练度时，你可以以全速爬行移动，并且不会因为处于俯卧状态而陷入措手不及。</p>"
 		},
 		"Nimble Dodge": {
 			"name": "Nimble Dodge",
@@ -8242,8 +8242,8 @@
 			"description": "<p>Your study of occult practices has shown you how to best defend against them. You gain a +1 circumstance bonus to all saving throws against occult effects.</p>"
 		},
 		"Oddity Identification": {
-			"name": "Oddity Identification",
-			"description": "<p>You have a sense for spells that twist minds or reveal secrets. You gain a +2 circumstance bonus to Occultism checks to Identify Magic with the mental, possession, prediction, or scrying traits.</p>"
+			"name": "异常察觉 Oddity Identification",
+			"description": "<p>你对于那些用来窥探秘密和操控心智的法术效果异常敏感。你在用来辨识具有【心灵】（Mental）、【占据】（Possession）、【预见】（Prediction）或是【探知】（Scrying）特性的法术的神秘技能检定上获得+2环境加值。</p>"
 		},
 		"Ode To Ouroboros": {
 			"name": "衔尾蛇颂 Ode To Ouroboros",
@@ -8694,8 +8694,8 @@
 			"description": "<p>You lead by example and can help others push themselves beyond their normal limits. When @Compendium[pf2e.actionspf2e.JuqmIAnkL9hVGai8]{Hustling} in a group during exploration mode, your group can Hustle for up to 20 additional minutes, to a maximum of the amount of time the character with the highest Constitution modifier could Hustle alone.</p>"
 		},
 		"Pickpocket": {
-			"name": "Pickpocket",
-			"description": "<p>You can Steal or Palm an Object that's closely guarded, such as in a pocket, without taking the -5 penalty. You can't steal objects that would be extremely noticeable or time consuming to remove (like worn shoes or armor or actively wielded objects). If you're a master in Thievery, you can attempt to Steal from a creature in combat or otherwise on guard. When doing so, Stealing requires 2 manipulate actions instead of 1, and you take a -5 penalty.</p>"
+			"name": "扒手 Pickpocket",
+			"description": "<p>你可以尝试对被严密看护的物品——比如被装在荷包里的物品——使用偷窃或是手上功夫技能动作而不会承受通常的-5减值。但你仍然不能对那些正在被频繁使用或是过于引人注目的物品（比如正被人穿在脚上的鞋子或是被人穿着的护甲，或是正在被人持握着的物品）使用这些动作。当你在贼活技能上达到大师级熟练度时，你可以对处于战斗中或是类似的高度警戒状态的生物使用偷窃技能动作。但如果你选择这样做，偷窃会变成一个需要2个【操作】动作的技能动作，并且你在技能检定上承受-5减值。</p>"
 		},
 		"Pied Piping": {
 			"name": "Pied Piping",
@@ -8774,8 +8774,8 @@
 			"description": "<p>You can sniff out the pungent tang of disease. When you detect a creature by scent, you can also detect if that creature is suffering from a disease at a non-carrier state. If the disease is particularly subtle, you might need to attempt a Perception check against the disease's DC (subject to the GM's discretion).</p>"
 		},
 		"Planar Survival": {
-			"name": "Planar Survival",
-			"description": "<p>You can Subsist using Survival on different planes, even those without resources or natural phenomena you normally need. For instance, you can forage for food even if the plane lacks food that could normally sustain you. A success on your check to Subsist can also reduce the damage dealt by the plane, at the GM's discretion.</p>"
+			"name": "异界生存家 Planar Survival",
+			"description": "<p>你能够在异世界中使用生存技能的求生行动——即使这些位面中并不存在你通常需要赖以为生的自然特征或是资源。举例来说，你可以在通常不出产能让你食用的生物的位面中找到食物。除此之外，如果GM判断合理的话，你可以通过一个成功的求生行动检定来降低因为身处异位面而受到的环境伤害。</p>"
 		},
 		"Plant Evidence": {
 			"name": "Plant Evidence",
@@ -8866,8 +8866,8 @@
 			"description": "<p>Your stomach is particularly durable. When you succeed at a Fortitude save to reduce your @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened} value, you reduce it by 2 (or by 3 on a critical success).</p>"
 		},
 		"Powerful Leap": {
-			"name": "Powerful Leap",
-			"description": "<p>When you Leap, you can jump 5 feet up with a vertical Leap, and you increase the distance you can jump horizontally by 5 feet.</p>"
+			"name": "强力跳跃 Powerful Leap",
+			"description": "<p>当你使用跳跃动作时，你可以跳高的最高距离提高到5尺，跳远的距离增加5尺。</p>"
 		},
 		"Powerful Shove": {
 			"name": "Powerful Shove",
@@ -9106,20 +9106,20 @@
 			"description": "<p>You can shift between your identities with ease. Instead of spending 1 minute to change your identity, you can now do so as a 3-action activity. If you are legendary in Deception, you can perform this change as a 1-action activity.</p>"
 		},
 		"Quick Climb": {
-			"name": "Quick Climb",
-			"description": "<p>When Climbing, you move 5 more feet on a success and 10 more feet on a critical success, to a maximum of your Speed. If you're legendary in Athletics, you gain a climb Speed equal to your Speed.</p>"
+			"name": "迅速攀爬 Quick Climb",
+			"description": "<p>当你进行攀爬动作时，你可以在运动检定成功的情况下多移动5尺距离，或是在大成功的情况下多移动10尺距离，最多不超过你的最大陆地移动速度。当你在运动技能上达到传奇级熟练度时，你获得相当于你的陆地移动速度的攀爬速度。</p>"
 		},
 		"Quick Coercion": {
-			"name": "Quick Coercion",
-			"description": "<p>You can bully others with just a few choice implications. You can Coerce a creature after 1 round of conversation instead of 1 minute. You still can't Coerce a creature in the midst of combat, or without engaging in a conversation.</p>"
+			"name": "迅速胁迫 Quick Coercion",
+			"description": "<p>你可以用切中要害的三言两语让他人屈服。你只需要1轮时间而非通常的1分钟时间交谈就对另一个生物发动胁迫技能动作。拥有本专长不能使你可以对处于战斗中或是尚未和你展开交谈的生物进行胁迫技能动作。</p>"
 		},
 		"Quick Contacts": {
 			"name": "Quick Contacts",
 			"description": "<p>You know where to go, who to talk to, and how to make new connections, fast. Upon entering a new settlement, spending 1 day of downtime allows you to build enough connections to make use of the Connections or Underworld Connections feats. If you're legendary in Society, you can form the required connections within 1 hour of entering a new settlement.</p>"
 		},
 		"Quick Disguise": {
-			"name": "Quick Disguise",
-			"description": "<p>You can set up a disguise in half the usual time (generally 5 minutes). If you're a master, it takes one-tenth the usual time (usually 1 minute). If you're legendary, you can create a full disguise and Impersonate as a 3-action activity.</p>"
+			"name": "迅速易容 Quick Disguise",
+			"description": "<p>现在你只需要通常所需时间的一半（5分钟）就能完成乔装技能动作的易容。当你在欺骗技能上达到大师级熟练度时，你只需要通常所需时间的十分之一（1分钟）就能完成乔装技能动作的易容；当你在欺骗技能上达到传奇级熟练度时，你只需要3个动作就可以完成整个易容和乔装他人的行动。</p>"
 		},
 		"Quick Draw": {
 			"name": "Quick Draw",
@@ -9130,28 +9130,28 @@
 			"description": "<p>You can attach a talisman using only a bit of glue and some string. You gain the @Compendium[pf2e.feats-srd.x9xA8P2Vlz98He7C]{Rapid Affixture} skill feat, even if you don't meet the prerequisites. When you use it, you can affix or remove up to four talismans in 1 minute instead of just one.</p>\n<p>You gain the ability to @Compendium[pf2e.actionspf2e.UAaQk93a30nx0nYY]{Affix a Talisman} as a 3-action activity from that feat at 12th level, regardless of your Crafting proficiency.</p>"
 		},
 		"Quick Identification": {
-			"name": "Quick Identification",
-			"description": "<p>You can Identify Magic swiftly. You take only 1 minute when using Identify Magic to determine the properties of an item, ongoing effect, or location, rather than 10 minutes. If you're a master, it takes a 3-action activity, and if you're legendary, it takes 1 action.</p>"
+			"name": "迅速辨识 Quick Identification",
+			"description": "<p>你可以迅速地读出魔法的性质。你只需要花费1分钟，而非通常的10分钟时间就可以辨识出一件物品，一个区域或是一个魔法现象具备的魔法性质。当你在对应魔法宗派的技能上达到大师级熟练度时，你只需要3个动作就可以辨识魔法；当你在对应魔法宗派的技能上达到传奇级熟练度时，你只需要1个动作就可以辨识魔法。</p>"
 		},
 		"Quick Juggler": {
 			"name": "Quick Juggler",
 			"description": "<p>When you start to juggle or add another item to those you are Juggling, you add two items instead of one. Increase the maximum number of items you can Juggle by one.</p>"
 		},
 		"Quick Jump": {
-			"name": "Quick Jump",
-			"description": "<p>You can use High Jump and Long Jump as a single action instead of 2 actions. If you do, you don't perform the initial Stride (nor do you fail if you don't Stride 10 feet).</p>"
+			"name": "迅速跳跃 Quick Jump",
+			"description": "<p>你可以只用一个动作来进行跳高或是跳远而非通常所需的2个动作。若你如此做，则不执行最初的行走动作（不会因未行走助跑10尺而失败）</p>"
 		},
 		"Quick Mount": {
 			"name": "Quick Mount",
 			"description": "<p><strong>Requirements</strong> You are adjacent to a creature that is at least</p>\n<p>one size larger than you and is willing to be your mount.</p>\n<hr />\n<p>You and your mount can spring into action at a moment's notice. You @Compendium[pf2e.actionspf2e.PM5jvValFkbFH3TV]{Mount} the creature and @Compendium[pf2e.actionspf2e.q9nbyIF0PEBqMtYe]{Command an Animal} to issue it an order of your choice.</p>"
 		},
 		"Quick Recognition": {
-			"name": "Quick Recognition",
-			"description": "<p>You recognize spells swiftly.</p>\n<p>Once per round, you can @Compendium[pf2e.feats-srd.MjQyTcV8Jiv1Jtln]{Recognize Spell} using a skill in which you're a master as a free action.</p>"
+			"name": "迅速认知 Quick Recognition",
+			"description": "<p>你一眼就能看出法术的路数。</p>\n<p>每轮一次，你可以使用一项你达到大师级熟练度的技能，以一个自由动作来 @Compendium[pf2e.feats-srd.MjQyTcV8Jiv1Jtln]{辨识法术 Recognize Spell}。</p>"
 		},
 		"Quick Repair": {
-			"name": "Quick Repair",
-			"description": "<p>You take 1 minute to Repair an item. If you're a master in Crafting, it takes 3 actions. If you're legendary, it takes 1 action.</p>"
+			"name": "迅速修理 Quick Repair",
+			"description": "<p>你现在只需要1分钟时间就可以完成修理技能动作。当你在手艺技能上达到大师级熟练度时，你只需要3个动作就可以完成修理；当你在手艺技能上达到传奇级熟练度时，你只需要1个动作就可以完成修理。</p>"
 		},
 		"Quick Reversal": {
 			"name": "Quick Reversal",
@@ -9170,8 +9170,8 @@
 			"description": "<p>You can rig a snare in only moments. You can Craft snares that normally take 1 minute to @Compendium[pf2e.actionspf2e.rmwa3OyhTZ2i2AHl]{Craft} with 3 @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{Interact} actions, even if you haven't prepared them.</p>"
 		},
 		"Quick Squeeze": {
-			"name": "Quick Squeeze",
-			"description": "<p>You Squeeze 5 feet per round (10 feet on a critical success). If you're legendary in Acrobatics, you Squeeze at full Speed.</p>"
+			"name": "迅速穿越 Quick Squeeze",
+			"description": "<p>你现在可以以每轮5尺（技能检定大成功时10尺）的速度挤入一个狭窄空间。当你在特技技能上达到传奇级熟练度时，你可以以你通常的陆地移动动作挤过狭窄空间。</p>"
 		},
 		"Quick Stow (Ratfolk)": {
 			"name": "Quick Stow (Ratfolk)",
@@ -9186,12 +9186,12 @@
 			"description": "<p>During your daily preparations, you can study a particular subject to gain the trained proficiency rank in one Lore skill of your choice. You must have interacted with that subject in some way on the previous day, whether by reading about it, talking to someone knowledgeable on the topic, or experiencing it yourself.</p>\n<p>Alternatively, you can reference your notes to instead choose a Lore skill you've prepared before with Quick Study. This proficiency lasts until you prepare again. Since this proficiency is temporary, you can't use it as a prerequisite for a skill increase or a permanent character option like a feat.</p>"
 		},
 		"Quick Swim": {
-			"name": "Quick Swim",
-			"description": "<p>You Swim 5 feet farther on a success and 10 feet farther on a critical success, to a maximum of your Speed. If you're legendary in Athletics, you gain a swim Speed equal to your Speed.</p>"
+			"name": "迅速游泳 Quick Swim",
+			"description": "<p>当你进行游泳动作时，你可以在运动检定成功的情况下游动5尺距离，或是在大成功的情况下游动10尺距离，最多不超过你的最大陆地移动速度。当你在运动技能上达到传奇级熟练度时，你获得相当于你的陆地移动速度的游泳速度。</p>"
 		},
 		"Quick Unlock": {
-			"name": "Quick Unlock",
-			"description": "<p>You can Pick a Lock using 1 action instead of 2.</p>"
+			"name": "迅速开锁 Quick Unlock",
+			"description": "<p>你现在可以使用1个而非2个动作来进行开锁技能动作。</p>"
 		},
 		"Quicken Heartbeat": {
 			"name": "Quicken Heartbeat",
@@ -9206,8 +9206,8 @@
 			"description": "<p><strong>频率</strong> 每天一次</p>\n<hr />\n<p>如果你的下一个动作是施展一个诗人戏法，或者比你能施展最高等级诗人法术低2级或以下的诗人法术，将其施法动作减少一个（最少为一个动作）。</p>"
 		},
 		"Quiet Allies": {
-			"name": "Quiet Allies",
-			"description": "<p>You're skilled at moving with a group. When you are Avoiding Notice and your allies Follow the Expert, you and those allies can roll a single Stealth check, using the lowest modifier, instead of rolling separately. This doesn't apply for initiative rolls.</p>"
+			"name": "集体潜行 Quiet Allies",
+			"description": "<p>你擅长引导整个小队进行潜伏行动。当你尝试使用回避注意（Avoiding Notice）行动而你的队友选择使用跟随专家（Follow the Expert），你和所有跟随你的盟友可以进行单独一次隐秘技能检定，使用该结果加上你们中最低的隐秘技能调整值来决定所有人的隐秘检定结果，而不需要为每一个盟友单独投骰。本专长的效果不能应用在先攻检定上。</p>"
 		},
 		"Quill Spray": {
 			"name": "Quill Spray",
@@ -9378,8 +9378,8 @@
 			"description": "<p><strong>Trigger</strong> You roll initiative or a hazard attacks you.</p>\n<hr />\n<p>Your unwavering soul brings up your defenses as soon as you're in danger. You Manifest your Soulforged Armament.</p>"
 		},
 		"Rapid Mantel": {
-			"name": "Rapid Mantel",
-			"description": "<p>You easily pull yourself onto ledges. When you Grab an Edge, you can pull yourself onto that surface and stand. You can use Athletics instead of a Reflex save to Grab an Edge.</p>"
+			"name": "鹞子翻身 Rapid Mantel",
+			"description": "<p>你可以轻易地将自己托举起来。当你使用抓住边缘（Grab the Edge）动作来阻止专家坠落时，你可以同时将自己拉到你抓住的那个平面是并站起身来。除此之外，现在你可以使用运动技能检定取代反射豁免检定来尝试抓住边缘动作。</p>"
 		},
 		"Rapid Recharge": {
 			"name": "急速再充能 Rapid Recharge",
@@ -9478,8 +9478,8 @@
 			"description": "<p>You spend 10 minutes and open yourself to the divine mysteries of the world, peering into the most sinister portents of the future.</p>\n<p>You gain the effects of <em>@Compendium[pf2e.spells-srd.41TZEjhO6D1nWw2X]{Augury}</em>, except you learn only about the dangers ahead; any results of \"weal\" are instead \"nothing,\" and results of \"weal and woe\" are instead \"woe.\" If you are legendary in Religion, you take only 1 minute to Read Disaster.</p>"
 		},
 		"Read Lips": {
-			"name": "Read Lips",
-			"description": "<p>You can read lips of others nearby who you can clearly see. When you're at your leisure, you can do this automatically. In encounter mode or when attempting a more difficult feat of lipreading, you're fascinated and flat-footed during each round in which you focus on lip movements, and you must succeed at a Society check (DC determined by the GM) to successfully read someone's lips. In either case, the language read must be one that you know. If you are deaf or hard of hearing and have Read Lips, you recognize the lip movements for the spoken form of your languages. You can also speak the spoken form of your languages clearly enough for others to understand you.</p>"
+			"name": "读唇 Read Lips",
+			"description": "<p>当你可以清楚地看见他人的交谈但听不清他们说的是什么时，你可以尝试从他们嘴唇的动作中读出交谈的内容。当你处于空闲的状态时，你无需任何检定就可以自动读唇；当你处于探索模式，或是你尝试读唇的环境对你的尝试造成影响时，你在保持读唇的每一轮行动中都视为处于迷魂（Fascinated）和措手不及（Flat-footed）状态，并且你必须要跳高一个社群技能检定（GM决定DC）来读取他人说话的内容。无论如何，你只能读懂你本来就理解的语言。如果你拥有本专长但处于耳聋（Deaf）状态或是受到其他听力异常的影响时，读唇可以帮助你准确地理解他人的语言（如果你理解他们使用的语言），并且你也可以毫无障碍地使用你理解的语言和他人进行口头交谈。</p>"
 		},
 		"Read Shibboleths": {
 			"name": "Read Shibboleths",
@@ -9534,8 +9534,8 @@
 			"description": "<p><strong>Trigger</strong> You roll initiative.</p>\n<hr />\n<p>Your combat training has honed you to be ready for an attack at all times. You Interact to draw a weapon.</p>"
 		},
 		"Recognize Spell": {
-			"name": "Recognize Spell",
-			"description": "<p><strong>Trigger</strong> A creature within line of sight casts a spell that you don't have prepared or in your spell repertoire, or a trap or similar object casts such a spell. You must be aware of the casting.</p>\n<hr />\n<p>If you are trained in the appropriate skill for the spell's tradition and it's a common spell of 2nd level or lower, you automatically identify it (you still roll to attempt to get a critical success, but can't get a worse result than success). The highest level of spell you automatically identify increases to 4 if you're an expert, 6 if you're a master, and 10 if you're legendary.</p>\n<p>The GM rolls a secret Arcana, Nature, Occultism, or Religion check, whichever corresponds to the tradition of the spell being cast. If you're not trained in the skill, you can't get a result better than failure.</p>\n<hr />\n<p><strong>Critical Success</strong> You correctly recognize the spell and gain a +1 circumstance bonus to your saving throw or your AC against it.</p>\n<p><strong>Success</strong> You correctly recognize the spell.</p>\n<p><strong>Failure</strong> You fail to recognize the spell.</p>\n<p><strong>Critical Failure</strong> You misidentify the spell as another spell entirely, of the GM's choice.</p>"
+			"name": "认知法术 Recognize Spell",
+			"description": "<p><strong>触发</strong>有一个生物或是一个法术陷阱和类似的装置在你的视线范围内施放一个你尚未准备或是已知的法术，且你意识到有人在施法。</p>\n<hr />\n<p>如果你在对应这个法术所属魔法宗派的技能上拥有受训，且该法术是一个不高于2环的常见法术，你可以立刻辨识出该法术（你仍然可以要求尝试投骰来拼大成功结果，但你视为自动获得成功结果）。当你在对应魔法宗派的技能上达专家级熟练度时，你可以自动辨识出最高4环的法术；当你在对应魔法宗派的技能上达到大师级熟练度时，你可以自动辨识出最高6环的法术；当你在对应魔法宗派的技能上达到传奇级熟练度时，你可以自动辨识出最高10环的法术。</p>\n<p>GM会为你暗骰一个奥法、自然、神秘或是宗教技能检定（对应你辨识的法术宗派）。如果你在对应的技能上未受训，你们你最高只会获得失败结果。</p>\n<hr />\n<p><strong>大成功</strong> 你成功辨识出了该法术，并在对抗该法术的豁免检定和AC上获得+1环境加值。</p>\n<p><strong>成功</strong> 你成功辨识出了该法术。</p>\n<p><strong>失败</strong> 你未能辨识该魔法效果。</p>\n<p><strong>大失败</strong> 你误以为这是另一个法术，GM决定你把它看成了什么东西。</p>"
 		},
 		"Recognize Threat": {
 			"name": "Recognize Threat",
@@ -9834,8 +9834,8 @@
 			"description": "<p>You quickly use your momentum to topple and spring off of foes. You can use Wall Jump to make additional jumps off of creatures larger than you as if they were walls. Once per turn when you make an additional jump off of a creature in this way, you can also attempt to Shove or Trip that creature as a free action.</p>"
 		},
 		"Ride": {
-			"name": "Ride",
-			"description": "<p>When you Command an Animal you're mounted on to take a move action (such as Stride), you automatically succeed instead of needing to attempt a check. Any animal you're mounted on acts on your turn, like a minion. If you Mount an animal in the middle of an encounter, it skips its next turn and then acts on your next turn.</p>"
+			"name": "骁骑手 Ride",
+			"description": "<p>当你需要对一个你骑乘（Mounted）的动物使用指挥动物技能动作来要求它进行移动（比如跑动动作）时，它自动成功地服从你的要求而无需你进行检定。如同仆从（Minion）生物一样，你骑乘的生物会在你行动的回合进行行动如果你骑乘的动物进入战斗遭遇，它不会在属于它的回合行动，而是在你的下一个回合开始行动。参见本书249页来了解指挥动物的详细情况。</p>"
 		},
 		"Riftmarked": {
 			"name": "古魔血脉 Riftmarked",
@@ -9898,8 +9898,8 @@
 			"description": "<p><strong>Requirements</strong> You are piloting a vehicle.</p>\n<hr />\n<p>In your hands, any vehicle is a weapon. When you use @Compendium[pf2e.actionspf2e.lID4rJHAVZB6tavf]{Run Over}, you can use your class DC in place of the vehicle's collision DC. Your vehicle can Run Over any number of creatures up to one Size smaller than the vehicle or ram any one target creature or object in your path up to the size of your vehicle.</p>"
 		},
 		"Robust Recovery": {
-			"name": "Robust Recovery",
-			"description": "<p>You learned folk medicine to help recover from diseases and poison, and using it diligently has made you especially resilient. When you Treat a Disease or a Poison, or someone else uses one of these actions on you, increase the circumstance bonus granted on a success to +4, and if the result of the patient's saving throw is a success, the patient gets a critical success.</p>"
+			"name": "健体医疗 Robust Recovery",
+			"description": "<p>你掌握了各种用来滋补调养，祛病排毒的民间偏方，运用这些疗法使你的身体格外强韧。当你对其他人或是某人对你使用治疗疾病或治疗中毒技能动作时，如果检定成功，你在从该动作中获得的豁免检定环境加值提高到+4.除此之外，如果被治疗者之后尝试的豁免检定结果为成功，他视为取得了大成功结果。</p>"
 		},
 		"Rock Runner": {
 			"name": "Rock Runner",
@@ -10078,8 +10078,8 @@
 			"description": "<p>Glorious, storied scars cover and protect much of your body. Your DC on flat checks to end @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Bleed Damage} is reduced from 15 to 10, or from 10 to 5 after receiving especially appropriate assistance.</p>"
 		},
 		"Scare to Death": {
-			"name": "Scare to Death",
-			"description": "<p>You can frighten foes so much, they might die. Attempt an Intimidation check against the Will DC of a living creature within 30 feet of you that you sense or observe and who can sense or observe you. If the target can't hear you or doesn't understand the language you are speaking, you take a -4 circumstance penalty. The creature is temporarily immune for 1 minute.</p>\n<hr />\n<p><strong>Critical Success</strong> The target must succeed at a Fortitude save against your Intimidation DC or die. If the target succeeds at its save, it becomes @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 2} and is fleeing for 1 round; it suffers no effect on a critical success.</p>\n<p><strong>Success</strong> The target becomes Frightened 2.</p>\n<p><strong>Failure</strong> The target becomes @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 1}.</p>\n<p><strong>Critical Failure</strong> The target is unaffected.</p>"
+			"name": "肝胆俱裂 Scare to Death",
+			"description": "<p>你造成的恐怖如此之剧烈，以至于受害者可能被活活吓死。你可以对一个距离你不超过30尺距离，你可以感知和观察且它也可以感知和观察到你的活物进行一次威吓技能检定。如果对方听不懂你使用的语言，或是它听不见你，这会在你的检定上造成-4环境减值。这个生物在此之后会暂时免疫你的这个专长效果1分钟时间。</p>\n<hr />\n<p><strong>大成功</strong> 目标必须进行一次强韧豁免检定来对抗你的威吓检定结果，失败则暴死。如果目标在豁免检定上成功，它陷入 @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{惊惧 2}状态并开始逃跑（Fleeing）1轮；如果目标在豁免检定上大成功则不受任何影响。</p>\n<p><strong>成功</strong> 目标陷入陷入惊惧2状态。</p>\n<p><strong>失败</strong> 目标陷入 @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{惊惧 1}状态。</p>\n<p><strong>大失败</strong> 目标什么事也没有。</p>"
 		},
 		"Scarecrow": {
 			"name": "Scarecrow",
@@ -10410,8 +10410,8 @@
 			"description": "<p>You gain the <em>@Compendium[pf2e.spells-srd.rnFAHvKpcsU4BJD4]{Shall not Falter, Shall not Rout}</em> focus spell. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can regain using the Refocus activity to recite the Crimson Oath and meditate on its teachings. If you already have a focus pool, increase the number of Focus Points in your focus pool by 1. Your knight reclaimant focus spells are divine spells; when you gain this feat, you become trained in divine spell attacks and spell DCs and your spellcasting ability is Charisma.</p>"
 		},
 		"Shameless Request": {
-			"name": "Shameless Request",
-			"description": "<p>You can downplay the consequences or outrageousness of your requests using sheer brazenness and charm. When you Request something, you reduce any DC increases for making an outrageous request by 2, and if you roll a critical failure for your Request, you get a failure instead. While this means you can never cause your target to reduce their attitude toward you by making a Request, they eventually tire of requests, even though they still have a positive attitude toward you.</p>"
+			"name": "完美请求 Shameless Request",
+			"description": "<p>运用自己的魅力和胆识，你了解如何在交涉中避重就轻。当你使用交涉技能来提出请求（Request）时，如果你提出的要求非常不合理，交涉技能检定的DC会比通常的类似情况低2点。并且你在提出此类要求时如果交涉技能检定大失败，它只会视为普通失败结果。注意虽然这意味着即使你的检定失败对方对你的态度也不会降低，但如果你反复提出荒诞的要求，他仍然可能因为对你的行为感到厌恶，即便他对保持良好的态度。</p>"
 		},
 		"Shape Of The Dragon": {
 			"name": "Shape Of The Dragon",
@@ -10522,8 +10522,8 @@
 			"description": "<p>The stone around you is your ally, and you have learned to use it to shore up your weaknesses.</p>\n<p>As long as you remain on the ground and are adjacent to a vertical stone wall that rises to your height or taller, you aren't @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} against attacks as a result of being flanked. This works even if you are at the outside corner of the wall.</p>"
 		},
 		"Shield Block": {
-			"name": "Shield Block",
-			"description": "<p><strong>Trigger</strong> While you have your shield raised, you would take damage from a physical attack</p>\n<hr />\n<p>You snap your shield in place to ward off a blow. Your shield prevents you from taking an amount of damage up to the shield's Hardness. You and the shield each take any remaining damage, possibly breaking or destroying the shield.</p>"
+			"name": "盾牌格挡 Shield Block",
+			"description": "<p><strong>触发</strong> 你正处于举盾状态，并因为一次物理攻击而承受伤害</p>\n<hr />\n<p>你快速调整盾牌的角度，抵御一次猛烈的直击。你的盾牌会为你减免相当于它的硬度（Hardness）的伤害，但你和你的盾牌都必须承受相当于减免数值扣去以后的剩余伤害——这可能会导致你的盾牌破损或是被摧毁。</p>"
 		},
 		"Shield Of Faith": {
 			"name": "Shield Of Faith",
@@ -10674,8 +10674,8 @@
 			"description": "<p><strong>Trigger</strong> The attack roll for a Strike targeting you fails or critically fails</p>\n<hr />\n<p>You deftly step out of the way of an attack, letting the blow continue to the creature next to you. You redirect the attack to a creature of your choice that is adjacent to you and within the reach of the triggering attack. The attacker rerolls the Strike's attack roll against the new target.</p>"
 		},
 		"Sign Language": {
-			"name": "Sign Language",
-			"description": "<p>You learn the sign languages associated with the languages you know, allowing you to sign and understand signs. Sign languages typically require both hands to convey more complex concepts, and they are visual rather than auditory. Sign language is difficult to understand during combat due to the level of attention needed, unlike basic gestures like pointing at a foe to suggest a target. Sign language is hard to use in areas of low visibility, just like speech is difficult in a noisy environment.</p>"
+			"name": "手语 Sign Language",
+			"description": "<p>你知道如何用手势来表达你理解的一门语言，这样，你可以打手势传递自己的意思并读懂他人的手势。你可能需要同时用上双手才能表达某些复杂的意义，并且手语具有【视觉】而非【语言】特性。手语通常很难在战斗中使用——和普通的简单手势不同，在战斗中分神去解读复杂的手语是危险的。同样，手语在能见度很差的环境中也不好运作，就像普通的语言会受到嘈杂环境的影响一样。</p>"
 		},
 		"Signature Spell Expansion": {
 			"name": "Signature Spell Expansion",
@@ -10762,8 +10762,8 @@
 			"description": "<p>Increase your proficiency rank in one of your skills from expert to master and in another of your skills from trained to expert. You gain a skill feat associated with one of the skills you chose.</p>\n<hr />\n<p><strong>Special</strong> You can select this feat up to five times.</p>"
 		},
 		"Skill Training": {
-			"name": "Skill Training",
-			"description": "<p>You become trained in the skill of your choice.</p>\n<hr />\n<p><strong>Special</strong> You can select this feat multiple times, choosing a new skill to become trained in each time.</p>"
+			"name": "技能训练 Skill Training",
+			"description": "<p>你在你选择的技能上受训。</p>\n<hr />\n<p><strong>特殊</strong> 你可以多次选择此专长。每次只能选择一个之前未选择过的新技能。</p>"
 		},
 		"Skilled Partner": {
 			"name": "Skilled Partner",
@@ -10858,8 +10858,8 @@
 			"description": "<p>You create gusts of wind when you jump, allowing you to carry yourself across greater distances. You gain the @Compendium[pf2e.feats-srd.ZBhvJ9O8MvBFAlhq]{Quick Jump} and @Compendium[pf2e.feats-srd.HJYQlmGTdtyGWr6a]{Powerful Leap} skill feats as bonus feats.</p>"
 		},
 		"Slippery Secrets": {
-			"name": "Slippery Secrets",
-			"description": "<p>You elude and evade attempts to uncover your true nature or intentions. When a spell or magical effect tries to read your mind, detect whether you are lying, or reveal your alignment, you can attempt a Deception check against the spell or effect's DC. If you succeed, the effect reveals nothing.</p>"
+			"name": "滑头鬼 Slippery Secrets",
+			"description": "<p>你可以回避尝试探究你的真实信息的手段。当某人使用法术或是魔法效果尝试阅读你的思维，探测你是否说谎或是你的阵营时，你可以进行一次欺骗技能检定对抗该法术的DC。如果你成功，对方无法探知到任何东西。</p>"
 		},
 		"Slither": {
 			"name": "Slither",
@@ -10926,8 +10926,8 @@
 			"description": "<p><strong>Trigger</strong> A creature fails or critically fails a save against your snare.</p>\n<hr />\n<p>Your snares are so befuddling that your victims rarely notice you slipping out of sight. If you have expert proficiency in Deception, you can Create a Diversion against the triggering creature. If you have expert proficiency in Intimidation, you can instead Demoralize the triggering creature. If you have both, choose one of the two effects.</p>"
 		},
 		"Snare Crafting": {
-			"name": "Snare Crafting",
-			"description": "<p>You can use the Craft activity to create snares. When you select this feat, you add the formulas for four common snares to your formula book.</p>"
+			"name": "圈套制作 Snare Crafting",
+			"description": "<p>你可以使用手艺技能来制作圈套（Snare）。当你获得本专长时，你还会获得4种常见类型的圈套的设计图。</p>"
 		},
 		"Snare Genius": {
 			"name": "Snare Genius",
@@ -11450,8 +11450,8 @@
 			"description": "<p>Your presence alone is enough to provide your allies with emotional support. You can use the @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aid} reaction to grant a bonus to another creature's Will saving throw even when you haven't prepared to help.</p>"
 		},
 		"Steady Balance": {
-			"name": "Steady Balance",
-			"description": "<p>You can keep your balance easily, even in adverse conditions. Whenever you roll a success using the Balance action, you get a critical success instead. You're not flat-footed while attempting to Balance on narrow surfaces and uneven ground. Thanks to your incredible balance, you can attempt an Acrobatics check instead of a Reflex save to Grab an Edge.</p>"
+			"name": "四平八稳 Steady Balance",
+			"description": "<p>即使在恶劣的环境中你也可以轻易保持平衡的姿势。每当你在一次保持平衡（Balance）技能动作的检定上获得了成功结果，你会视为获得了大成功结果。你不会因为在狭窄的平面或是高低不平的位置上尝试保持平衡而陷入措手不及。最后，因为你精妙的平衡能力，你可以使用特技技能检定而非反射豁免检定来在坠落时尝试抓住边缘动作。</p>"
 		},
 		"Steady On Stone": {
 			"name": "Steady On Stone",
@@ -11618,8 +11618,8 @@
 			"description": "<p>You descend from one of the truly ancient vampires, a nosferatu cursed to eternal life but not eternal youth. People call you straveika, or ancient-born. The vestiges of your forebear's powers of domination have left you with an understanding of how a creature's intentions change its behaviors. You gain a +1 circumstance bonus to Perception checks to @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Sense Motive} and Perception DCs against attempts to @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Lie} to you.</p>"
 		},
 		"Streetwise": {
-			"name": "Streetwise",
-			"description": "<p>You know about life on the streets and feel the pulse of your local settlement. You can use your Society modifier instead of your Diplomacy modifier to Gather Information. In any settlement you frequent regularly, you can use the Recall Knowledge action with Society to know the same sorts of information that you could discover with Diplomacy to Gather Information. The DC is usually significantly higher, but you know the information without spending time gathering it. If you fail to recall the information, you can still subsequently attempt to Gather Information normally.</p>"
+			"name": "人情练达 Streetwise",
+			"description": "<p>你惯于在街头巷尾打探消息，随时触碰着当地社群的脉搏起伏。你可以使用社群技能调整值取代交涉技能调整值来使用搜集信息（Gather Information）。当你身处任何一个你经常性访问（Frequent regularly）的社区中时，你可以使用社群技能的回忆知识技能动作，取代交涉技能的搜集信息来获得同样的信息。通常，这样做会使技能检定的DC比使用交涉技能更高，但好处是你无需花费时间四下打听就能立即回忆起相关的讯息。即使你以此方式回忆知识的检定失败，你仍然可以尝试正常的通过交涉技能来重新收集信息。</p>"
 		},
 		"Strident Command": {
 			"name": "Strident Command",
@@ -11666,8 +11666,8 @@
 			"description": "<p><strong>Access</strong> You are from Jalmeray.</p>\n<hr />\n<p>You have learned the martial arts techniques of your House of Perfection. You become trained in your choice of Acrobatics or Athletics and Warfare Lore; if you were already trained, you become an expert instead. You gain the @Compendium[pf2e.feats-srd.3a07jkWezSuORSpS]{Ki Strike} monk class feat, which grants you the ki strike ki spell and a focus pool of 1 Focus Point that you can recover using the Refocus activity as a monk does. Your ki spells from Student of Perfection are occult spells.</p>\n<hr />\n<p><strong>Special</strong> You can't select another dedication feat until you have gained two other feats from the student of perfection archetype.</p>"
 		},
 		"Student of the Canon": {
-			"name": "Student of the Canon",
-			"description": "<p>You've researched many faiths enough to recognize notions about them that are unlikely to be true.</p>\n<p>If you roll a critical failure at a Religion check to Decipher Writing of a religious nature or to Recall Knowledge about the tenets of faiths, you get a failure instead.</p>\n<p>When attempting to Recall Knowledge about the tenets of your own faith, if you roll a failure, you get a success instead, and if you roll a success, you get a critical success instead.</p>"
+			"name": "神学士 Student of the Canon",
+			"description": "<p>你研究过各个宗教派别的教义要旨，这使你很难在相关的知识上被蒙骗或是混淆。</p>\n<p>当你使用宗教技能来解译一部具有宗教意义的文书或是回忆关于某一宗教信仰的教义的知识时，但获得了大失败结果时，你只会获得普通失败的结果。</p>\n<p>当你使用宗教技能来回忆关于你所信仰的宗教的教义知识且失败时，你视为获得了成功的结果；如果你的检定获得了成功结果，你视为获得了大成功结果。</p>"
 		},
 		"Student of the Staff": {
 			"name": "木杖学徒 Student of the Staff",
@@ -11726,8 +11726,8 @@
 			"description": "<p><strong>Access</strong> Help either the Washboard Dogs or the Diobel Sweepers destroy their rival.</p>\n<p><strong>Requirements</strong> You have a melee weapon of light bulk @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} on your person via the Stealth skill, and the target isn't aware of it.</p>\n<hr />\n<p>You draw a concealed weapon, attack with it, and then hide it away again in one smooth motion. Interact to draw the weapon, Strike with that weapon, and then Conceal it with a Stealth check. The target is @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} for this attack.</p>"
 		},
 		"Subtle Theft": {
-			"name": "Subtle Theft",
-			"description": "<p>When you successfully Steal something, observers (creatures other than the creature you stole from) take a -2 circumstance penalty to their Perception DCs to detect your theft. Additionally, if you first Create a Diversion using Deception, taking a single Palm an Object or Steal action doesn't end your undetected condition.</p>"
+			"name": "妙手空空 Subtle Theft",
+			"description": "<p>当你成功地使用偷窃（Steal）技能动作偷到了东西时，除了受害人以外的潜在会在他们发觉你在行窃的察觉检定上承受-2减值。除此之外，如果你你在对其他生物视为无踪状态时事先使用了欺骗技能来使对方分神，你接下来对其进行的一个藏匿物品或是偷窃技能动作不会导致你失去无踪状态。</p>"
 		},
 		"Sudden Charge": {
 			"name": "Sudden Charge",
@@ -11882,8 +11882,8 @@
 			"description": "<p>When you cast wall of fire, you can modify its standard effects as follows: Instead of a 5-foot-thick, 10-foot-radius ring of flame, you can form the wall into a 10-foot-radius hemisphere of fire.</p>"
 		},
 		"Survey Wildlife": {
-			"name": "Survey Wildlife",
-			"description": "<p>You can study details in the wilderness to determine the presence of nearby creatures. You can spend 10 minutes assessing the area around you to find out what creatures are nearby, based on nests, scat, and marks on vegetation. Attempt a Survival check against a DC determined by the GM based on how obvious the signs are. On a success, you can attempt a Recall Knowledge check with a -2 penalty to learn more about the creatures just from these signs. If you're a master in Survival, you don't take the penalty.</p>"
+			"name": "荒野见识 Survey Wildlife",
+			"description": "<p>你可以通过荒野环境中存在的种种蛛丝马迹判断该区域里有什么类型的生物存在。如果你花费10分钟时间在附近寻找诸如生物巢穴，粪便，以及植被留下的痕迹等线索，在此之后，进行一个生存技能检定（DC由GM决定，取决于附近环境中具体有什么痕迹和明显程度）。如果你的技能检定成功，你可以再进行一个回忆知识检定（承受-2减值）来判断具体在该区域中存在何种生物。当你在生存技能上达到大师级熟练度时，你无视本减值。</p>"
 		},
 		"Survivor of Desolation": {
 			"name": "Survivor of Desolation",
@@ -11942,8 +11942,8 @@
 			"description": "<p><strong>Trigger</strong> Your turn ends and you have a status penalty to your Speed or are @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilized} or @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Slowed}</p>\n<hr />\n<p>You flow like water, avoiding all restraints. End one status penalty to your speed, or end one immobilized or slowed condition affecting you.</p>"
 		},
 		"Swift Sneak": {
-			"name": "Swift Sneak",
-			"description": "<p>You can move your full Speed when you Sneak. You can use Swift Sneak while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type.</p>"
+			"name": "迅速潜行 Swift Sneak",
+			"description": "<p>你可以在潜行（Sneak）时全速移动，并且只要你可以使用以下这些移动方式，你便可以在掘地（Burrowing）、攀爬（Climbing）、飞行（Flying）或是游泳（Swimming）时同时使用潜行。</p>"
 		},
 		"Swift Swimmer": {
 			"name": "Swift Swimmer",
@@ -12155,7 +12155,7 @@
 		},
 		"Terrain Expertise": {
 			"name": "Terrain Expertise",
-			"description": "<p>Your experience in navigating a certain type of terrain makes you supremely confident while doing so. You gain a +1 circumstance bonus to Survival checks in one of the following types of terrain, chosen when you select this feat: aquatic, arctic, desert, forest, mountain, plains, sky, swamp, or underground.</p>\n<hr />\n<p><strong>Special</strong> You can select this feat more than once, choosing a different type of terrain each time.</p>"
+			"description": "<p>你对于某一种特定环境的旅行经验使你在徜徉其中时绝对自信。从以下这些地形环境中选择一种：水域（Aquatic）、极地（Arctic）、荒漠（Desert）、林地（Forest）、山地（Mountain）、平原（Plain）、空域（Sky）、沼泽（Swamp）或是地下（Underground），当你处于该地形环境中时，你在生存技能检定上获得+1环境加值。</p>\n<hr />\n<p><strong>特殊</strong> 你可以多次选择本专长。每次选择本专长时，你可以选择另一种地形环境获得本专长的好处。</p>"
 		},
 		"Terrain Expertise (Aquatic)": {
 			"name": "Terrain Expertise (Aquatic)",
@@ -12206,16 +12206,16 @@
 			"description": "<p><strong>Frequency</strong> once per 10 minutes</p>\n<p><strong>Trigger</strong> A Strike would damage you.</p>\n<p><strong>Requirements</strong> You gained a terrain attunement benefit since the start of your most recent turn and that attunement matches the terrain you're in.</p>\n<hr />\n<p>You're so attuned to the land that it rises up to protect you from a potentially fatal blow in a seeming coincidence. For instance, a branch suddenly falls from a nearby tree to take the brunt of a sword swing or a surprising change of current disrupts an enemy's attack. You gain resistance to physical damage equal to double your level against the triggering Strike.</p>"
 		},
 		"Terrain Stalker": {
-			"name": "Terrain Stalker",
-			"description": "<p>Select one type of difficult terrain from the following list: rubble, snow, or underbrush. While undetected by all non-allies in that type of terrain, you can Sneak without attempting a Stealth check as long as you move no more than 5 feet and do not move within 10 feet of an enemy at any point during your movement. This also allows you to automatically approach creatures to within 15 feet while Avoiding Notice during exploration as long as they aren't actively Searching or on guard.</p>\n<p><strong>Special</strong> You can select this feat multiple times. Each time, choose a different type of terrain.</p>"
+			"name": "地形潜伏 Terrain Stalker",
+			"description": "<p>从以下三种困难地形中选择一种：岩地（Rubble）、雪地（Snow）、灌木丛（Underbrush），当你身处该困难地形并对非盟友的生物视为拥有无踪状态时，你可以无需隐秘技能检定就自动进入潜行状态——前提是你在每次移动时不超过5尺距离，并且在任何时候都不进入任何敌人周围10尺范围以内。在本状态下，只要其他生物没有在积极地寻找你或是处于警戒状态，你也可以自动在探索模式下保持回避注意（Avoiding Notice）状态并进入到该生物周围15尺范围内。</p>\n<p><strong>特殊</strong> 你可以多次选择本专长。每次选择本专长时，你可以选择另一种困难地形获得本专长的好处。</p>"
 		},
 		"Terrain Transposition": {
 			"name": "Terrain Transposition",
 			"description": "<p>You are so connected to the wilderness that you can magically jump from place to place within it. You gain the <em>@Compendium[pf2e.spells-srd.rtA3HRGoy7PQTOhq]{Terrain Transposition}</em> warden spell. Increase the number of Focus Points in your focus pool by 1.</p>"
 		},
 		"Terrified Retreat": {
-			"name": "Terrified Retreat",
-			"description": "<p>When you critically succeed at the Demoralize action, if the target's level is lower than yours, the target is fleeing for 1 round.</p>"
+			"name": "破胆威吓 Terrified Retreat",
+			"description": "<p>如果你在一次挫败使其技能动作上获得了大成功并且目标的等级比你要低，该目标会开始逃跑（Fleeing）1轮时间。</p>"
 		},
 		"Terrifying Countenance": {
 			"name": "Terrifying Countenance",
@@ -12330,8 +12330,8 @@
 			"description": "<p>You have learned how to use your sling to fell enormous creatures. When you hit on an attack with a sling against a Large or larger creature, increase the size of the weapon damage die by one step.</p>"
 		},
 		"Titan Wrestler": {
-			"name": "Titan Wrestler",
-			"description": "<p>You can attempt to @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Disarm}, @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Grapple}, @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Shove}, or @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Trip} creatures up to two sizes larger than you, or up to three sizes larger than you if you're legendary in Athletics.</p>"
+			"name": "巨人摔角术 Titan Wrestler",
+			"description": "<p>你可以尝试对体型比你大最多两级的生物使用 @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{卸武 Disarm}, @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{擒拿 Grapple}, @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{推撞 Shove}或 @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{摔绊 Trip} 动作。当你在运动技能上达到传奇级熟练度时，你可以尝试对体型比你大最多三级的生物使用这些动作。</p>"
 		},
 		"Titan's Stature": {
 			"name": "Titan's Stature",
@@ -12394,8 +12394,8 @@
 			"description": "<p>You've taken your share of licks while scurrying around the battlefield and know how to defend yourself against opportunistic attackers. Your movement ends only when you critically fail an Acrobatics check to Tumble Through an enemy's space (or when you don't have enough Speed to move all the way through its space). You still trigger reactions on a failure to Tumble Through, but you gain a +1 circumstance bonus to AC against attacks that you trigger in this way.</p>"
 		},
 		"Toughness": {
-			"name": "Toughness",
-			"description": "<p>You can withstand more punishment than most before succumbing. Increase your maximum Hit Points by your level. The DC of recovery checks is equal to 9 + your dying condition value.</p>"
+			"name": "健壮 Toughness",
+			"description": "<p>你可以承受惊人的创伤而不倒下。你的最大生命值会额外提升相当于你的等级的数值。稳定伤势检定的DC 等于9+濒死状态值。</p>"
 		},
 		"Towering Size": {
 			"name": "Towering Size",
@@ -12410,8 +12410,8 @@
 			"description": "<p>You are used to moving through the wilderness. While moving on land, you ignore the effects of non-magical difficult terrain.</p>"
 		},
 		"Train Animal": {
-			"name": "Train Animal",
-			"description": "<p>You spend time teaching an animal to do a certain action. You can either select a basic action the animal already knows how to do (typically those listed in the Command an Animal action) or attempt to teach the animal a new basic action. The GM determines the DC of any check required and the amount of time the training takes (usually at least a week). It's usually impossible to teach an animal a trick that uses critical thinking. If you're expert, master, or legendary in Nature, you might be able to train more unusual creatures, at the GM's discretion.</p>\n<p><strong>Success</strong> The animal learns the action. If it was an action the animal already knew, you can Command the Animal to take that action without attempting a Nature check. If it was a new basic action, add that action to the actions the animal can take when Commanded, but you must still roll.</p>\n<p><strong>Failure</strong> The animal doesn't learn the trick.</p>"
+			"name": "训练动物 Train Animal",
+			"description": "<p>你可花费时间教授动物接受使用一些特定动作的指令。你可以选择教授动物一个它本身就理解如何进行的基础动作（Basic Action，见技能章节的指挥动物行动）或是教给它一个全新的基础动作。DM决定教授这个动作给一只动物所需的技能检定DC和所需的具体时间（通常至少要一周时间）。一般而言，动物不可能学会任何需要它们进行深入思考判断的行动。如果你在自然技能上达到专家/大师或传奇熟练等级，GM也许会允许你向更加珍奇的动物教授动作。</p>\n<p><strong>成功</strong>动物学会了你教给它的动作。如果这个动作它本来就理解如何使用，你现在可以用指挥动物技能动作要求它进行该动作而无需自然技能检定；若这是一个它新学会的动作，你可以将它加入你使用指挥动物行动所能要求动物进行的动作列表，但必须骰自然技能检定来尝试要求动物进行它们。</p>\n<p><strong>失败</strong> 动物没学会你教它的新玩意。</p>"
 		},
 		"Trample": {
 			"name": "Trample",
@@ -12474,8 +12474,8 @@
 			"description": "<p>You are equally at home piloting any vehicle, adapting yourself instantly to varied controls, movements, and handling. Whenever piloting a vehicle requires a Piloting Lore or Sailing Lore check, you can use your Driving Lore proficiency instead. You can use Dexterity in place of Intelligence when attempting piloting checks with Driving Lore. You become an expert in Driving Lore. At 7th level, you become a master in Driving Lore, and at 15th level, you become legendary in Driving Lore.</p>\n<p><strong>Special</strong> You cannot select another dedication feat until you have gained two other feats from the trick driver archetype.</p>"
 		},
 		"Trick Magic Item": {
-			"name": "Trick Magic Item",
-			"description": "<p>You examine a magic item you normally couldn't use in an effort to fool it and activate it temporarily. For example, this might allow a fighter to cast a spell from a wand or allow a wizard to cast a spell that's not on the arcane list using a scroll. You must know what activating the item does, or you can't attempt to trick it.</p>\n<p>Attempt a check using the skill matching the item's magic tradition, or matching a tradition that has the spell on its list, if you're trying to cast a spell from the item. The relevant skills are Arcana for arcane, Nature for primal, Occultism for occult, Religion for divine, or any of the four for an item that has the magical trait and not a tradition trait. The GM determines the DC based on the item's level (possibly adjusted depending on the item or situation).</p>\n<p>If you activate a magic item that requires a spell attack roll or spell DC and you don't have the ability to cast spells of the relevant tradition, use your level as your proficiency bonus and the highest of your Intelligence, Wisdom, or Charisma modifiers.</p>\n<p>If you're a master in the appropriate skill for the item's tradition, you instead use the trained proficiency bonus, and if you're legendary, you instead use the expert proficiency bonus.</p>\n<hr />\n<p><strong>Success</strong> For the rest of the current turn, you can spend actions to activate the item as if you could normally use it.</p>\n<p><strong>Failure</strong> You can't use the item or try to trick it again this turn, but you can try again on subsequent turns.</p>\n<p><strong>Critical Failure</strong> You can't use the item, and you can't try to trick it again until your next daily preparations.</p>"
+			"name": "巧取魔法物品 Trick Magic Item",
+			"description": "<p>你分析了一件魔法物品的运行机制，即使你本身不具备使用它的条件，你也可以用取巧的方法暂时激活它。举例来说，这个专长可以让不会施法的战士临时使用一下魔杖，或是让法师施放一个不在他的法术列表上的法术卷轴。你必须理解一件魔法物品激活后会产生的具体效果才能尝试取巧。</p>\n<p>你使用对应该魔法物品的魔法宗派，或是其中记载法术的魔法宗派的技能进行检定；如果你要使用该物品施放一个法术，使用以下对应法术宗派的技能检定：奥术-奥法，原能-自然，异能-神秘，神术-宗教，或是其中任何一个技能（如果该物品的魔法力量不属于任何魔法宗派）。GM会根据该物品的物品等级决定技能检定的DC（可能会根据该物品的特性和局体情景调整）。</p>\n<p>如果你要启动的一件魔法物品需要骰法术攻击检定或是法术DC，而你并不具有施放该魔法宗派的法术的属性条件，则使用你的人物等级作为使用该效果的熟练等级，以及你在智力、感知或魅力中最高一项的属性调整值。</p>\n<p>如果你在对应魔法宗派的技能上达到了大师级熟练度，那么你可以使用“受训”熟练加值进行检定；如果你在对应魔法宗派的技能上达到了传奇级熟练度，那么你可以使用“专家”熟练加值进行检定。</p>\n<hr />\n<p><strong>成功</strong> 在本回合中，你可以使用接下来的动作启动该魔法物品，如同你本来就可以使用它一样。</p>\n<p><strong>失败</strong> 你不能使用该魔法物品或是尝试巧取它。但在你的下个回合你可以再试试。</p>\n<p><strong>大失败</strong> 你不能使用或尝试巧取该魔法物品，直到次日你的每日准备为止。</p>"
 		},
 		"Trick Shot": {
 			"name": "Trick Shot",
@@ -12742,8 +12742,8 @@
 			"description": "<p>You capitalize on the distraction provided by an ally. You @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Sneak} up to a foe adjacent to one of your allies. You can roll against the foe you're Sneaking up on, even if it's currently observing you, as though you were hidden. You take a -2 penalty on your Stealth check.</p>\n<p>If your Stealth check against the chosen foe succeeds, you can make a melee Strike against that foe at the end of your Sneak.</p>"
 		},
 		"Underwater Marauder": {
-			"name": "Underwater Marauder",
-			"description": "<p>You've learned to fight underwater. You are not flat-footed while in water, and you don't take the usual penalties for using a bludgeoning or slashing melee weapon in water.</p>"
+			"name": "水下熟手 Underwater Marauder",
+			"description": "<p> 你可以熟练地在水中作战。当身处水中时你不会陷入措手不及，也不会因为在水中使用挥砍（Slashing）和钝击（Bludgeoning）伤害类型的武器而承受减值。</p>"
 		},
 		"Underwater Volcano": {
 			"name": "Underwater Volcano",
@@ -12794,8 +12794,8 @@
 			"description": "<p>You won't allow others to restrain you. You can cast <em>@Compendium[pf2e.spells-srd.aqRYNoSvxsVfqglH]{Freedom of Movement}</em> on yourself as a primal innate spell once per day.</p>"
 		},
 		"Unified Theory": {
-			"name": "Unified Theory",
-			"description": "<p>You've started to make a meaningful connection about the common underpinnings of the four traditions of magic and magical essences, allowing you to understand them all through an arcane lens. Whenever you use a skill action or a skill feat that requires a Nature, Occultism, or Religion check, depending on the magic tradition, you can use Arcana instead. If you would normally take a penalty or have a higher DC for using Arcana on other magic (such as when using Identify Magic), you no longer do so.</p>"
+			"name": "源符论 Unified Theory",
+			"description": "<p>通过深入研究，你发现了隐藏在四大魔法宗派的魔法本质之间固有的联系——并且它们可以全部以奥法理论来解释。当你使用任何因为对应魔法宗派而需要你进行自然、神秘或是宗教技能检定的技能动作或是技能专长时，你可以取而代之使用奥法技能来进行检定；除此之外，如果你使用奥法技能检定，承受较高的DC或是减值来达成特定的行动（比如尝试辨识非奥术宗派的法术）时，你不需要再承受这些惩罚。</p>"
 		},
 		"Unimpeded Step": {
 			"name": "无阻快步 Unimpeded Step",
@@ -12810,8 +12810,8 @@
 			"description": "<p>You can access the fundamental abilities of any school of magic. During your daily preparations, choose one of the eight school spells gained by 1st-level specialist wizards. You can use that school spell until your next daily preparations. When you Refocus, you can choose a different school spell from among those eight school spells, replacing the previous one. Increase the number of Focus Points in your focus pool by 1.</p>"
 		},
 		"Unmistakable Lore": {
-			"name": "Unmistakable Lore",
-			"description": "<p>You never get information about your areas of expertise wrong. When you Recall Knowledge using any Lore subcategory in which you're trained, if you roll a critical failure, you get a failure instead. If you're a master in a Lore subcategory, on a critical success, you gain even more information or context than usual.</p>"
+			"name": "无错学识 Unmistakable Lore",
+			"description": "<p>只要是你的专项研究范畴，你就决不可能犯错。当你使用任何一个你拥有受训等级的学识门类进行技能检定时，如果你的检定结果是大失败，你只会得到失败结果；如果你在一个学识门类上达到了大师级熟练等级，当你在技能检定上获得大成功结果时，你可以回想起比通常还要多的额外的信息和背景。</p>"
 		},
 		"Unnerving Prowess": {
 			"name": "Unnerving Prowess",
@@ -12850,8 +12850,8 @@
 			"description": "<p>You have become a brutal, unstoppable force of nature, able to shrug off mortal wounds with ease. You gain resistance equal to 3 + your Constitution modifier to all damage, and your resistance from @Compendium[pf2e.actionspf2e.Ah5g9pDwWF9b9VW9]{Raging} increases to 8 + your Constitution modifier.</p>\n<p>In addition, if you are reduced to 0 Hit Points while raging, you can end your @Compendium[pf2e.actionspf2e.Ah5g9pDwWF9b9VW9]{Rage} as a reaction to stay at 1 Hit Point. If you do, you become @Compendium[pf2e.conditionitems.Yl48xTdMh3aeQYL2]{Wounded 2} (or increase your wounded condition by 2 if you are already wounded).</p>"
 		},
 		"Untrained Improvisation": {
-			"name": "Untrained Improvisation",
-			"description": "<p>You've learned how to handle situations when you're out of your depth. Your proficiency bonus to untrained skill checks is equal to half your level instead of +0. If you're 7th level or higher, the bonus increases to your full level instead. This doesn't allow you to use the skill's trained actions.</p>"
+			"name": "即兴发挥 Untrained Improvisation",
+			"description": "<p>即便你没有经验，你也知道怎么解决面前的问题。现在你在所有未受训技能检定时都可以使用你的人物等级的一般而非通常的+0来进行检定.当你达到至少7级时，你在这些检定上获得相当于你的人物等级的加值。拥有加值并不会允许你使用这些技能的受训技能动作。</p>"
 		},
 		"Unusual Composition": {
 			"name": "特殊组曲 Unusual Composition",
@@ -13054,8 +13054,8 @@
 			"description": "<p>Your tattoos are a work of eldritch genius, a masterpiece of art, magic, and skin. Choose a 3rd-level arcane spell from the same school as your Arcane Tattoos, either a common spell or another to which you have access, including a lower-level spell heightened to 3rd level if you wish. You can cast that spell once per day as an innate arcane spell.</p>"
 		},
 		"Virtuosic Performer": {
-			"name": "Virtuosic Performer",
-			"description": "<p>You have exceptional talent with one type of performance. You gain a +1 circumstance bonus when making a certain type of performance. If you are a master in Performance, this bonus increases to +2. Select one of the following specialties and apply the bonus when attempting Performance checks of that type. If it's unclear whether the specialty applies, the GM decides.</p>"
+			"name": "精湛演技 Virtuosic Performer",
+			"description": "<p>你特别擅长一种表演类型。你在一种表演形式的演出上获得+1环境加值。当你在表演技能上达到大师级熟练度时，这个加值提升到+2。当你使用下表中的一种表演形式时获得本专长的加值。如果你的演出无法被归类到特定的表演类型时，GM决定你的具体表演类型。</p>"
 		},
 		"Virtuosic Performer (Acting)": {
 			"name": "Virtuosic Performer (Acting)",
@@ -13134,8 +13134,8 @@
 			"description": "<p>You frighten a foe into moving where you want them, traditionally demanding they walk the plank. Attempt to @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Demoralize} an opponent; this check gains the incapacitation trait.</p>\n<p>On a success, in addition to the normal effects, you can also force the target to Stride up to its Speed. You choose the path the target takes, and it does so as part of your Walk the Plank action. You can't force the target to move into a harmful space (one where it will take damage, fall, provoke reactions, or similar) unless the result of your check to @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Demoralize} was a critical success.</p>\n<p>The target then becomes temporarily immune to Walk the Plank for 24 hours.</p>"
 		},
 		"Wall Jump": {
-			"name": "Wall Jump",
-			"description": "<p>You can use your momentum from a jump to propel yourself off a wall. If you're adjacent to a wall at the end of a jump (whether performing a High Jump, Long Jump, or Leap), you don't fall as long as your next action is another jump. Furthermore, since your previous jump gives you momentum, you can use High Jump or Long Jump as a single action, but you don't get to Stride as part of the activity. You can use Wall Jump only once in a turn, unless you're legendary in Athletics, in which case you can use Wall Jump as many times as you can use consecutive jump actions in that turn.</p>"
+			"name": "弹墙跳 Wall Jump",
+			"description": "<p>你可以蹬墙借力，连续跳几次。如果你在结束一次跳跃（跳高或是跳远）时邻接一个墙面，那么只要你的下一个动作仍然是尝试跳跃，那么你就不会因为身处高处而开始坠落。除此之外，因为你是借上一次跳跃的势能继续跳跃，你可以在下一次跳跃时只使用一个动作，但你不能在其中包括助跑的跑动动作。你每回合只能弹墙跳一次。当你在运动技能上达到传奇级熟练度时，你只要你的回合中仍然还有剩余的动作，那么你就可以继续进行跳跃。</p>"
 		},
 		"Wall Run": {
 			"name": "Wall Run",
@@ -13162,8 +13162,8 @@
 			"description": "<p><strong>Trigger</strong> You attempt a flat check for Steady Spellcasting, but you haven't rolled yet.</p>\n<hr />\n<p>You carefully ward your spell by drawing from a mantle of magical energy you prepared to protect your casting, increasing your chance of retaining the spell. You reduce the DC of the flat check for Steady Spellcasting from 15 to 10.</p>"
 		},
 		"Ward Medic": {
-			"name": "Ward Medic",
-			"description": "<p>You've studied in large medical wards, treating several patients at once and tending to all their needs. When you use Treat Disease or Treat Wounds, you can treat up to two targets. If you're a master in Medicine, you can treat up to four targets, and if you're legendary, you can treat up to eight targets.</p>"
+			"name": "医护长 Ward Medic",
+			"description": "<p>你可以照料一整个病房的病人，同时满足每一个伤患所需要的治疗。当你使用治疗疾病或是治疗伤害技能动作时，你可以同时为两个对象提供治疗；当你在医疗技能上达到大师级熟练度时，你可以同时为四个对象提供治疗；当你在医疗技能上达到传奇级时，你可以同时为八个对象提供治疗。</p>"
 		},
 		"Ward Mind": {
 			"name": "Ward Mind",
@@ -13238,8 +13238,8 @@
 			"description": "<p>You're particularly good at solving mazes and navigating twists and turns. You gain the trained proficiency rank in Survival. If you would automatically become trained in Survival (from your background or class, for example), you become trained in another skill of your choice. When you @Compendium[pf2e.actionspf2e.fJImDBQfqfjKJOhk]{Sense Direction} or attempt a roll against a <em>@Compendium[pf2e.spells-srd.Oj1PJBMQD9vuwCv7]{Maze}</em> spell, you get a result one degree of success better than you rolled. You don't take a penalty to @Compendium[pf2e.actionspf2e.fJImDBQfqfjKJOhk]{Sense Direction} when you lack a compass.</p>"
 		},
 		"Wary Disarmament": {
-			"name": "Wary Disarmament",
-			"description": "<p>If you trigger a device or set off a trap while disarming it, you gain a +2 circumstance bonus to your AC or saving throw against the device or trap. This applies only to attacks or effects triggered by your failed attempt, not to any later ones, such as additional attacks from a complex trap.</p>"
+			"name": "谨慎解除 Wary Disarmament",
+			"description": "<p>如果你在解除一件装置或是陷阱时意外触发了它，你会在对抗这件装置或陷阱对你的攻击时在AC和豁免检定上获得+2环境加值。只有你因为解除装置失败而触发的那一次攻击时这个专长的加值才会生效，而后续的任何效果——比如一个多重触发的复杂陷阱——不会获得这个好处。</p>"
 		},
 		"Wary Skulker": {
 			"name": "Wary Skulker",
@@ -13314,8 +13314,8 @@
 			"description": "<p>You don't take the normal -2 penalty to attack rolls with improvised weapons. Additionally, whenever you gain a class feature that grants you expert or greater proficiency with any weapon, you also gain that proficiency with improvised weapons.</p>\n<p><strong>Special</strong> You can't select another dedication feat until you have gained two other feats from the weapon improviser archetype.</p>"
 		},
 		"Weapon Proficiency": {
-			"name": "Weapon Proficiency",
-			"description": "<p>You become trained in all simple weapons. If you were already trained in all simple weapons, you become trained in all martial weapons. If you were already trained in all martial weapons, you become trained in one advanced weapon of your choice.</p>\n<hr />\n<p><strong>Special</strong> You can select this feat more than once. Each time you do, you become trained in additional weapons as appropriate, following the above progression.</p>"
+			"name": "武器擅长 Weapon Proficiency",
+			"description": "<p>你现在获得对所有的简单武器（Simple Weapons）的受训。如果你已经在所有的简单武器上受训，你获得所有军用武器（Military Weapons）的受训。如果你已经在所有的军用武器上受训，你获得一件你所选的进阶武器（Advanced Weapons）的受训</p>\n<hr />\n<p><strong>特殊</strong> 你可以多次选择本专长。每次选择本专长时，你可以获得新的武器受训，按照本专长效果所述的提升步骤。</p>"
 		},
 		"Weapon Supremacy": {
 			"name": "Weapon Supremacy",
