@@ -366,12 +366,12 @@
 			"description": "<p>You've devoted extra time in the lab to improve your knowledge of alchemy. You learn the formulas for two alchemical items each time you level up instead of one; these must still be elixirs or tools.</p>\n<p>The number of versatile vials you can create each day increases by 1 if you're an expert in Crafting, 2 if you're a master, or 3 if you're legendary.</p>"
 		},
 		"Alchemical Familiar": {
-			"name": "Alchemical Familiar",
-			"description": "<p>You have used alchemy to create life, a simple creature formed from alchemical materials, reagents, and a bit of your own blood. This alchemical familiar appears to be a small creature of flesh and blood, though it might have some unusual or distinguishing aspects depending on your creative process. Like other familiars, your alchemical familiar assists you in your laboratory and on adventures. The familiar uses your Intelligence modifier to determine its Perception, Acrobatics, and Stealth modifiers.</p>"
+			"name": "炼金魔宠 Alchemical Familiar",
+			"description": "<p>Y你运用炼金术创造生命，一个由炼金材料、试剂再加上一点你的血液构成的简单生物。这个炼金魔宠看上去就像拥有血肉之躯的小生物，尽管它可能会因为你在制造过程中的创意而具有一些不同寻常或是格外显眼的样貌。就像其他魔宠那样，你的炼金魔宠能够在你的实验室和你的冒险中协助你。这只魔宠使用你的智力调整值决定它的察觉，特技和隐匿调整值。</p>"
 		},
 		"Alchemical Savant": {
-			"name": "Alchemical Savant",
-			"description": "<p>You can identify alchemical items quickly. When using the Crafting skill to @Compendium[pf2e.actionspf2e.Q4kdWVOf2ztIBFg1]{Identify Alchemy} on an alchemical item you hold, you can do so as a single action, which has the concentrate and manipulate traits, instead of spending 10 minutes.</p>\n<p>If you have the formula for the item you are attempting to identify, you gain a +2 circumstance bonus to your check, and if you roll a critical failure, you get a failure instead.</p>"
+			"name": "炼金学究 Alchemical Savant",
+			"description": "<p>你能够快速鉴定炼金物品。当对你手持的炼金物品使用手艺技能来 @Compendium[pf2e.actionspf2e.Q4kdWVOf2ztIBFg1]{鉴别炼金术 Identify Alchemy} 时，取代原本所需的10分钟，你只需要一个单独的动作就可以这样做，这个动作会具有专注和操纵特征。</p>\n<p>如果你拥有你正在尝试鉴定的这件物品的公式，你在检定上获得+2环境加值，如果你骰出大失败，你可以用失败代替。</p>"
 		},
 		"Alchemical Scholar": {
 			"name": "Alchemical Scholar",
@@ -1778,8 +1778,8 @@
 			"description": "<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p>You've spent many an evening learning songs and tales featuring calacas, death's wandering minstrels. You dramatically unleash a stunning blast of sound by smashing an instrument you hold or belting out a discordant note. This has the effects of <em>@Compendium[pf2e.spells-srd.BilnTGuXrof9Dt9D]{Synaptic Pulse}</em>, but the effect is auditory rather than mental. The DC is either your class DC or spell DC, whichever is higher.</p>"
 		},
 		"Calculated Splash": {
-			"name": "Calculated Splash",
-			"description": "<p>You have calculated all the angles to maximize a bomb's splash. When you throw an alchemical bomb with the splash trait, you can cause the bomb to deal splash damage equal to your Intelligence modifier (minimum 0) instead of the normal amount.</p>"
+			"name": "溅射演算 Calculated Splash",
+			"description": "<p>你演算出了足以将炸弹的溅射威力提升至极致的全部角度。当你投掷一枚具有溅射特征的炼金炸弹时，你能够取代原本的数值，而让这枚炼金炸弹造成等同于你智力调整值（最低为0）的溅射伤害。</p>"
 		},
 		"Call And Response": {
 			"name": "对唱呼应 Call And Response",
@@ -2346,8 +2346,8 @@
 			"description": "<p>You combine a series of attacks with a powerful finishing blow. Your finishers' Strikes have a lower multiple attack penalty: -4 (or -3 with an agile weapon) if it's the second attack on your turn, or -8 (or -6 with an agile weapon) if it's the third or subsequent attack on your turn, instead of -5 and -10, respectively.</p>"
 		},
 		"Combine Elixirs": {
-			"name": "Combine Elixirs",
-			"description": "<p><strong>Frequency</strong> once per round</p>\n<p><strong>Trigger</strong> You use @Compendium[pf2e.classfeatures.sPtl05wwTpqFI0lL]{Quick Alchemy} to craft an alchemical item that has the elixir trait and is at least 2 levels lower than your advanced alchemy level.</p>\n<hr />\n<p>You've discovered how to mix two elixirs into a single hybrid concoction.</p>\n<p>You can spend 2 additional batches of @Compendium[pf2e.classfeatures.wySB9VHOW1v3TX1L]{Infused Reagents} to add a second elixir to the one you're crafting. The second elixir must also be at least 2 levels lower than your advanced alchemy level, and the combination elixir is an alchemical item two levels higher than the higher of the two elixirs' levels. When this combination elixir is consumed, both the constituent elixirs take effect.</p>\n<p>For example, you can combine two elixirs of life to create a combined elixir that heals twice the normal amount, or you can combine a lesser darkvision elixir with a lesser eagle-eye elixir to both gain darkvision and find secret doors.</p>"
+			"name": "结合灵药 Combine Elixirs",
+			"description": "<p><strong>频率</strong> 每轮一次</p>\n<p><strong>触发条件</strong> 你使用 @Compendium[pf2e.classfeatures.sPtl05wwTpqFI0lL]{高速炼金 Quick Alchemy} 制作了一件具有灵药特征的炼金物品，它的等级至少比你的高阶炼金术等级低2级。</p>\n<hr />\n<p>你发现了将两种灵药混合为一瓶合剂的方法。</p>\n<p>你可以花费额外2批 @Compendium[pf2e.classfeatures.wySB9VHOW1v3TX1L]{灌注试剂 Infused Reagents} 将第二种灵药添加至你刚刚制作出的灵药中。第二种灵药的等级必须比你的高阶炼金术等级低2级，而这份结合灵药是一件比这两种灵药中等级较高的那种还要高2级的炼金物品。这份结合灵药被消耗时，构成它的两种灵药会同时生效。</p>\n<p>例如，你能够将两份生命灵药结合为一瓶治疗量为通常两倍的结合灵药，或者你也可以将一份次等黑暗视觉灵药（Lesser darkvision elixir）与一份次等鹰眼灵药（Lesser eagle-eye elixir）结合来同时获得黑暗视觉与侦测密门的效果。</p>"
 		},
 		"Come and Get Me": {
 			"name": "Come and Get Me",
@@ -2606,8 +2606,8 @@
 			"description": "<p>You're renowned for your ability to recover important items, whether they're from a long-abandoned temple or a thieves' den, and sometimes that requires creating a stand-in. You can spend 1 minute to assemble a facsimile of an object of no more than 1 Bulk that you can see from available materials. The facsimile has the same shape and Bulk as the replaced object and can pass as the object if not examined. A creature familiar with the original who examines the object automatically realizes that it is a fake. A creature not familiar with the original can still tell it was a hastily jury-rigged stand-in of some kind, but they might not know the object was supposed to be something else.</p>"
 		},
 		"Craft Philosopher's Stone": {
-			"name": "Craft Philosopher's Stone",
-			"description": "<p>Your research has paid off, culminating in the legendary philosopher's stone. You learn the formula for the @Compendium[pf2e.equipment-srd.Fv97oB3iEIFAyzTu]{Philosopher's Stone} and can add it to your formula book.</p>"
+			"name": "制作贤者之石 Craft Philosopher's Stone",
+			"description": "<p>你的研究已见成效，最终抵达了炼金术的顶点——传说中的贤者之石。你学会了 @Compendium[pf2e.equipment-srd.Fv97oB3iEIFAyzTu]{贤者之石 Philosopher's Stone} 的公式，并将它加入你的公式簿中。</p>"
 		},
 		"Crafter's Appraisal": {
 			"name": "Crafter's Appraisal",
@@ -2862,8 +2862,8 @@
 			"description": "<p>Your life has been spent challenging death itself, and proximity to that implacable foe only makes your heart beat harder.</p>\n<p>When you are taking persistent damage or your @Compendium[pf2e.conditionitems.Yl48xTdMh3aeQYL2]{Wounded} value is 1 or greater, you gain a +2 circumstance bonus to Fortitude saving throws.</p>"
 		},
 		"Debilitating Bomb": {
-			"name": "Debilitating Bomb",
-			"description": "<p><strong>Frequency</strong> once per round</p>\n<p><strong>Trigger</strong> You use @Compendium[pf2e.classfeatures.sPtl05wwTpqFI0lL]{Quick Alchemy} to craft an alchemical bomb that is at least 2 levels lower than your advanced alchemy level.</p>\n<hr />\n<p>Your bombs impose additional effects on your enemies. You mix a substance into the bomb that causes one of the following: @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Dazzled}, @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Deafened}, @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed}, or a -5-foot status penalty to Speeds.</p>\n<p>If the attack with that bomb hits, the target must succeed at a Fortitude saving throw or suffer that effect until the start of your next turn. Use your class DC for this saving throw (even if someone else throws the bomb).</p>"
+			"name": "衰弱炸弹 Debilitating Bomb",
+			"description": "<p><strong>频率</strong> 每轮一次</p>\n<p><strong>触发条件</strong> 你使用 @Compendium[pf2e.classfeatures.sPtl05wwTpqFI0lL]{高速炼金 Quick Alchemy} 制作了一件炼金炸弹，它的等级至少比你的高阶炼金术等级低2级。</p>\n<hr />\n<p>你的炸弹会对敌人施加额外的影响。你将一种能够导致下述效果之一的物质添加至炸弹中： @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{目眩 Dazzled}， @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{耳聋 Deafened}，@Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{措手不及 Flat-Footed}，或者是在速度（Speed）上造成-5尺的状态减值。</p>\n<p>如果这枚炸弹成功命中，目标必须在一次强韧豁免上取得成功，否则会在你下一回合开始之前承受所选效果的影响。使用你的职业DC作为这次豁免检定的DC（即使是其他人投掷了这枚炸弹）。</p>"
 		},
 		"Debilitating Dichotomy": {
 			"name": "Debilitating Dichotomy",
@@ -3142,8 +3142,8 @@
 			"description": "<p>When you cast <em>@Compendium[pf2e.spells-srd.MlpbeZ61Euhl0d60]{Cloudkill}</em>, modify its duration to be sustained up to 1 minute, and modify its standard effect to include the following: The cloud doesn't move away from you each round. Once per round when you Sustain the Spell, you can move the cloud 10 feet in the direction of your choice.</p>"
 		},
 		"Directional Bombs": {
-			"name": "Directional Bombs",
-			"description": "<p>You can lob bombs with great force and a precise trajectory to angle the splash in a cone spraying in a single direction. When throwing an alchemical bomb with the splash trait, instead of splashing all squares adjacent to the target, you can treat the target's space as the first affected square of a 15-foot cone directed away from you, potentially allowing you to avoid allies and splash deeper into enemy lines. If the target takes up more than a single square, the target's square closest to you is the first affected square of the cone.</p>"
+			"name": "定向爆破 Directional Bombs",
+			"description": "<p>你能够投掷一枚威力巨大且精准定向的炸弹，它将向着某一方向的锥形范围内爆发溅射。 当投掷一枚具有溅射特征的炼金炸弹时，取代原本影响目标所有邻接方格的溅射，你可以将目标所在空间视作远离你的15尺锥形溅射范围的第一个受影响方格，这可能让你避开盟友并溅射到同一直线上的更远处的敌人。如果目标占据了不止一个方格，这个目标离你最近的方格被视作锥形范围内第一个受影响的方格。</p>"
 		},
 		"Dirge of Doom": {
 			"name": "末日丧歌 Dirge of Doom",
@@ -3762,8 +3762,8 @@
 			"description": "<p>Your limbs and even your torso can collapse in on themselves, allowing you to fit through tight spaces as though you were a Small creature. You can move at full Speed while Squeezing.</p>"
 		},
 		"Efficient Alchemy (Alchemist)": {
-			"name": "Efficient Alchemy (Alchemist)",
-			"description": "<p>Thanks to the time you've spent studying and experimenting, you know how to scale your formulas into larger batches that don't require any additional attention.</p>\n<p>When spending downtime to Craft alchemical items, you can produce twice as many alchemical items in a single batch without spending additional preparatory time. For instance, if you are creating elixirs of life, you can craft up to eight elixirs in a single batch using downtime, rather than four.</p>\n<p>This does not reduce the amount of alchemical reagents required or other ingredients needed to craft each item, nor does it increase your rate of progress for days past the base downtime spent. This also does not change the number of items you can create in a batch using @Compendium[pf2e.classfeatures.Pe0zmIqyTBc2Td0I]{Advanced Alchemy}.</p>"
+			"name": "高效炼金术 Efficient Alchemy (Alchemist)",
+			"description": "<p>得益于你花费在研究和实验上的时光，你知道该怎样扩大公式的生产规模而无需额外的注意力。</p>\n<p>当花费休整期去制作（Craft）炼金物品时，你能够在单一批次中生产两倍的炼金物品而无需花费额外的准备时间。举例而言，如果你正在制造生命灵药，你能够使用休整期在单一批次中制作至多八份灵药，而不是原本的四份。</p>\n<p>这不会减少制作每份炼金物品所需的炼金试剂或其他材料的数量，也不会将你的每日进度提升至基础休整期花费之上。这也不会改变你在使用 @Compendium[pf2e.classfeatures.Pe0zmIqyTBc2Td0I]{高阶炼金术 Advanced Alchemy} 时每一批次所能创造的物品的数量。</p>"
 		},
 		"Efficient Alchemy (Paragon)": {
 			"name": "Efficient Alchemy (Paragon)",
@@ -3814,8 +3814,8 @@
 			"description": "<p>You embellish your spellcasting with entrancing flourishes and grand pronouncements, making it harder to identify or counter.</p>\n<p>If the next action you use is to @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Cast a Spell}, creatures with the ability to Cast that Spell don't automatically know what the spell is.</p>\n<p>In addition, creatures that witness your spellcasting take a -2 circumstance penalty to checks to identify the spell with @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Recall Knowledge} and checks to counteract the spell during its casting (such as with @Compendium[pf2e.feats-srd.EpBG4CFMNSZQx7vI]{Counterspell}).</p>"
 		},
 		"Elastic Mutagen": {
-			"name": "Elastic Mutagen",
-			"description": "<p>You can cause your body to twist and flow like the quicksilver within your mutagens.</p>\n<p>Whenever you are under the effects of a @Compendium[pf2e.equipment-srd.5MKBwpE401uz4kNN]{Quicksilver Mutagen}, you can stretch your legs and Step up to 10 feet, and you can squish and compress your body, allowing you to make it through tight spaces as if you were one size smaller, in addition to any effect from @Compendium[pf2e.actionspf2e.kMcV8e5EZUxa6evt]{Squeezing}.</p>"
+			"name": "弹性突变药剂 Elastic Mutagen",
+			"description": "<p>在突变药剂的作用之下，你能将你的身体变得犹如水银一般柔软易弯的流体。</p>\n<p>当你处于 @Compendium[pf2e.equipment-srd.5MKBwpE401uz4kNN]{水银突变药剂 Quicksilver Mutagen} 的影响之下时，你能够延展你的腿并且使用快步（Step）移动至多10尺，你还能挤扁压缩你的身体，让你能够如同小一级的生物一般通过狭窄的空间，但仍如原本的体型一样受到 @Compendium[pf2e.actionspf2e.kMcV8e5EZUxa6evt]{挤压Squeezing} 带来的任何影响。</p>"
 		},
 		"Elbow Breaker": {
 			"name": "Elbow Breaker",
@@ -4030,8 +4030,8 @@
 			"description": "<p><strong>Requirements</strong> You are wearing medium or heavy armor in which you have expert proficiency.</p>\n<p><strong>Trigger</strong> An undead hits you with an unarmed attack.</p>\n<hr />\n<p>Your conviction redirects the undead's attack through your armor and then harmlessly away. You gain resistance 5 to physical damage and resistance 10 to negative damage against the triggering attack. You gain a +2 circumstance bonus on any saving throws against effects from the undead's natural attack; if you succeed at the saving throw, you get a critical success instead.</p>"
 		},
 		"Enduring Alchemy": {
-			"name": "Enduring Alchemy",
-			"description": "<p>You've learned how to make your personal energy last just a little bit longer when quickly brewing ad hoc concoctions.</p>\n<p>When using @Compendium[pf2e.classfeatures.sPtl05wwTpqFI0lL]{Quick Alchemy} to create an alchemical tool or elixir, that tool or elixir remains potent until the end of your next turn, instead of losing its potency at the start of your next turn.</p>"
+			"name": "持久炼金术 Enduring Alchemy",
+			"description": "<p>你知晓如何在快速调制合剂时使其中所蕴含的个人能量持续得更久一些。</p>\n<p>当使用高速炼金创造一件炼金工具或灵药时，这件工具或灵药的效力会保持到你下一轮结束为止，而不是在你下一轮开始时失效。</p>"
 		},
 		"Enduring Debilitation": {
 			"name": "Enduring Debilitation",
@@ -4198,8 +4198,8 @@
 			"description": "<p>这个世界就是你永远的表演舞台。你受到恒定的加速效果；你仅可以使用该额外动作来施展需要一个动作施放的组曲戏法。当处于探索模式时，你可以在使用探索策略的时候，声明你施展一个可用的组曲戏法。在你开始战斗遭遇的第一回合之前，该戏法就可以如同在前一回合已经施展一般生效。</p>"
 		},
 		"Eternal Elixir": {
-			"name": "Eternal Elixir",
-			"description": "<p>Your body readily accepts and retains minor changes. When you drink one of your alchemical items that has the elixir and infused traits and a duration of 1 minute or more, you can make the elixir's duration indefinite. You can do so only if the elixir's level is half your level or lower. If you later consume a different elixir and make it indefinite, the effect of the previous indefinite elixir ends.</p>"
+			"name": "永恒灵药 Eternal Elixir",
+			"description": "<p>你的身体很容易接受并保留最微小的改变。当你饮用一瓶来自于你的，具有灵药和灌注特征且持续时间为1分钟或更长的炼金物品时，你能够让这份灵药的持续时间变为无限。你只能对等级为你等级的一半或更低的灵药使用这个能力。如果你在之后消耗了一份不同的灵药并让它的持续时间变为无限，前一个无限灵药的效果会立即结束。</p>"
 		},
 		"Eternal Wings (Aasimar)": {
 			"name": "Eternal Wings (Aasimar)",
@@ -4286,8 +4286,8 @@
 			"description": "<p>Your eidolon evolves more acute senses.</p>\n<p>Your eidolon gains low-light vision and darkvision, as well as scent as an imprecise sense with a range of 30 feet.</p>"
 		},
 		"Expanded Splash": {
-			"name": "Expanded Splash",
-			"description": "<p>You can throw bombs at just the right trajectory to create especially large and powerful explosions. When you throw an alchemical bomb and that bomb has the splash trait, you can add your Intelligence modifier to the bomb's usual splash damage, and it deals splash damage to every creature within 10 feet of the target.</p>"
+			"name": "溅射扩展 Expanded Splash",
+			"description": "<p>你调制出极不稳定的化合物并将其加入炸弹之中，让它能够造成强烈的大范围爆炸。当你投掷一枚具有溅射特征的炼金炸弹时，你能够将你的智力调整值加到炸弹正常的溅射伤害上，此外它还会对目标周围10尺范围内所有生物造成溅射伤害。</p>"
 		},
 		"Expansive Spellstrike": {
 			"name": "扩展法术打击 Expansive Spellstrike",
@@ -4414,8 +4414,8 @@
 			"description": "<p><strong>Trigger</strong> Your spotter critically succeeds at a Strike against a creature, and that creature is within your ranged weapon's first range increment.</p>\n<hr />\n<p>You take advantage of your spotter's devastating attack to unleash your own follow-up attack. Make a ranged Strike with a -2 penalty against the target of the triggering attack. This Strike doesn't count toward your multiple attack penalty and your multiple attack penalty doesn't apply to the Strike.</p>"
 		},
 		"Exploitive Bomb": {
-			"name": "Exploitive Bomb",
-			"description": "<p><strong>Frequency</strong> once per round</p>\n<p><strong>Trigger</strong> You craft an alchemical bomb using @Compendium[pf2e.classfeatures.sPtl05wwTpqFI0lL]{Quick Alchemy} that's at least 2 levels lower than your advanced alchemy level.</p>\n<hr />\n<p>You mix a substance into the bomb to foil resistances. The bomb reduces any resistance the enemy has to its damage type by an amount equal to your level, but only for that attack.</p>"
+			"name": "剥离炸弹 Exploitive Bomb",
+			"description": "<p><strong>频率</strong> 每轮一次</p>\n<p><strong>触发条件</strong> 你使用 @Compendium[pf2e.classfeatures.sPtl05wwTpqFI0lL]{高速炼金 Quick Alchemy} 制作一枚炼金炸弹，它的等级至少比你的高阶炼金术等级低2级。</p>\n<hr />\n<p>你将一种能够阻碍抗力的物质混入炸弹之中。这枚炸弹能够减少敌人针对它自身的伤害类型所具有的任何抗力，数值等于你的等级，但这种削弱只会对那次攻击生效。</p>"
 		},
 		"Explosion": {
 			"name": "Explosion",
@@ -4462,8 +4462,8 @@
 			"description": "<p>You can increase the duration of your eidolon's boosts.</p>\n<p>You learn the <em>extend boost</em> link spell. Increase the number of Focus Points in your focus pool by 1.</p>"
 		},
 		"Extend Elixir": {
-			"name": "Extend Elixir",
-			"description": "<p>Integrating your own personal energy into the elixirs you create causes them to affect you for longer. When you consume one of your alchemical items that has the elixir and infused traits and a duration of 1 minute or longer, that elixir's duration is doubled.</p>"
+			"name": "延时灵药 Extend Elixir",
+			"description": "<p>你将个人能量浓缩到你制造的灵药之中，让它能够在你身上生效更长的时间。当你消耗一瓶来自于你的，具有灵药和灌注特征且持续时间为1分钟或更久的炼金物品时，这份灵药的持续时间翻倍。</p>"
 		},
 		"Extinguish Light": {
 			"name": "Extinguish Light",
@@ -4570,8 +4570,8 @@
 			"description": "<p>You launch yourself through the air at a foe. Attempt a @Compendium[pf2e.action-macros.v3dlDjFlOmT5T2gC]{High Jump} or @Compendium[pf2e.action-macros.QPsV0qi2zXm7syt6]{Long Jump}. If you attempt a High Jump, determine the distance you can travel using the scale of a Long Jump.</p>\n<p>At the end of your jump, you can make a melee Strike. After your Strike, you fall to the ground if you're in the air. If the distance of your fall is no more than the height of your jump, you take no damage and land upright.</p>"
 		},
 		"Far Lobber": {
-			"name": "Far Lobber",
-			"description": "<p>You've learned how to throw a longer distance. When you throw an alchemical bomb, it has a range increment of 30 feet instead of the usual 20 feet.</p>"
+			"name": "远距投手 Far Lobber",
+			"description": "<p>你知晓如何进行长距离投掷。当你投掷一枚炼金炸弹时，它拥有30尺的射程增量而不是原本的20尺。</p>"
 		},
 		"Far Shot": {
 			"name": "Far Shot",
@@ -4662,8 +4662,8 @@
 			"description": "<p>Your attack can ground an airborne foe.</p>\n<p>Make a Strike. If it hits and deals damage to a flying target, the target falls up to 120 feet. The fall is gradual enough that if it causes the target to hit the ground, the target takes no damage from the fall.</p>\n<p>If the attack is a critical hit, the target can't @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Fly}, @Compendium[pf2e.actionspf2e.d5I6018Mci2SWokk]{Leap}, levitate, or otherwise leave the ground until the end of your next turn.</p>"
 		},
 		"Feral Mutagen": {
-			"name": "Feral Mutagen",
-			"description": "<p>Your bestial mutagen brings out the beast lurking within you, granting you especially sharp claws and teeth as well as a ferocious appearance.</p>\n<p>Whenever you're affected by a @Compendium[pf2e.equipment-srd.IQK9N2mEOyAj3iWU]{Bestial Mutagen}, you gain the mutagen's item bonus to your Intimidation checks.</p>\n<p>In addition, your claws and jaws are increasingly vicious, and they gain the deadly d10 trait. Finally, you can increase the mutagen's penalty to AC from -1 to -2 and, in exchange, increase the damage die size of your claws and jaws by one step.</p>"
+			"name": "凶猛突变药剂 Feral Mutagen",
+			"description": "<p>你的野性突变药剂将唤醒潜藏于你体内的野兽，赋予你利爪和尖牙，以及骇人的外貌。</p>\n<p>当你处在一份 @Compendium[pf2e.equipment-srd.IQK9N2mEOyAj3iWU]{野性突变药剂 Bestial Mutagen} 的影响下时，你能够将突变药剂的物品加值加到你的威吓检定上。</p>\n<p>此外，你的爪击（Claws）和啮咬（Jaws）变得愈发恶毒，它们获得致命（Deadly）d10的特征。最后，你能够将突变药剂在AC上的减值从-1提升至-2，此时，你的爪击和啮咬的伤害骰大小也会提升一级。</p>"
 		},
 		"Ferocious Beasts": {
 			"name": "Ferocious Beasts",
@@ -5302,8 +5302,8 @@
 			"description": "<p>Whenever you critically hit using a @Compendium[pf2e.equipment-srd.XGtIUZ4ZNKuFx1uL]{Falchion}, @Compendium[pf2e.equipment-srd.UfurZQK6H6SgOjqe]{Ranseur}, @Compendium[pf2e.equipment-srd.grmaV4GdoGD7sKbn]{Scimitar}, @Compendium[pf2e.equipment-srd.FJrsDoaIXksVjld9]{Trident}, or a geniekin weapon, you apply the weapon's critical specialization effect.</p>"
 		},
 		"Genius Mutagen": {
-			"name": "Genius Mutagen",
-			"description": "<p>Specialized tweaks to your body's chemical composition considerably broaden the benefits you gain from cognitive mutagens.</p>\n<p>When you're affected by a @Compendium[pf2e.equipment-srd.wbr6rkyaVYnDhdgV]{Cognitive Mutagen}, you also gain the mutagen's item bonus to Deception, Diplomacy, Intimidation, Medicine, Nature, Performance, Religion, and Survival checks.</p>\n<p>In addition, you can communicate telepathically with creatures within 60 feet with whom you share a language. The communication is two-way once you establish it, so a creature you contact can also communicate with you.</p>"
+			"name": "天才突变药剂 Genius Mutagen",
+			"description": "<p>针对你那增幅智慧的公式的专业调整拓宽了你从认知突变药剂中获得的好处。</p>\n<p>当你处于 @Compendium[pf2e.equipment-srd.wbr6rkyaVYnDhdgV]{认知突变药剂 Cognitive Mutagen}的影响下时，你也会在欺骗，交涉，威吓，医疗，自然，表演，宗教和生存检定上获得突变药剂的物品加值。</p>\n<p>此外，你可以通过心灵感应与周围60尺内和你使用同一种语言的生物进行交流。这种交流一旦建立起来就是双向的，所以与你联结的生物同样能和你进行交流。</p>"
 		},
 		"Geomancer Dedication": {
 			"name": "Geomancer Dedication",
@@ -5366,8 +5366,8 @@
 			"description": "<p>You tap into the collected lore of the divine, accessing a variety of potentially useful information.</p>\n<p>Attempt a Religion check to understand the information you gain. The GM sets the DC (similar to the DC to @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Recall Knowledge}), potentially adjusting the DC of the check for topics far removed from your mystery.</p>\n<hr />\n<p><strong>Critical Success</strong> You comprehend the lore accurately or gain a</p>\n<p>useful clue from the divine about your situation.</p>\n<p><strong>Success</strong> You learn two pieces of information about the topic,</p>\n<p>one true and one erroneous, but you don't know which is which.</p>\n<p><strong>Failure</strong> You recall incorrect information or gain an erroneous</p>\n<p>or misleading clue.</p>\n<p><strong>Critical Failure</strong> You recall two pieces of incorrect information</p>\n<p>or gain two erroneous or misleading clues.</p>"
 		},
 		"Glib Mutagen": {
-			"name": "Glib Mutagen",
-			"description": "<p>Your silvertongue mutagen transcends languages and plausibility.</p>\n<p>When affected by a @Compendium[pf2e.equipment-srd.YwRAHWW8yUI07sy9]{Silvertongue Mutagen} you have created, you ignore circumstance penalties to Deception, Diplomacy, Intimidation, and Performance checks.</p>\n<p>In addition, your words transcend linguistic barriers; everyone listening to you speak hears your words as if you were speaking in their own language (though you do not actually speak that language, nor does this ability allow you to understand any additional languages).</p>"
+			"name": "伶俐突变药剂 Glib Mutagen",
+			"description": "<p>你的巧舌突变药剂超越了语言和理论的界限。</p>\n<p>当你处于你制造的 @Compendium[pf2e.equipment-srd.YwRAHWW8yUI07sy9]{巧舌突变药剂 Silvertongue Mutagen} 的影响下时，你忽视欺骗，交涉，威吓和表演检定上的环境减值。</p>\n<p>此外，你的话语超越了语言的桎梏；任何能够听到你讲话的听众都能够理解你说的话，就好像你正在说他们自己的语言一样（尽管你实际上并不会说这种语言，这个能力也不会让你额外理解任何语言）。</p>"
 		},
 		"Glider Form": {
 			"name": "Glider Form",
@@ -5586,8 +5586,8 @@
 			"description": "<p>The extent of the corruption within you does more than simply sap your foes' strength, it devastates their minds and reflexes.</p>\n<p>When you use @Compendium[pf2e.feats-srd.vxA0VRN10OwUkGAr]{Cruelty}, choose whether you want to make the creature enfeebled as normal, to make it @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 1} on a failed save (clumsy 2 on a critical failure), or to make it @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied 1} on a failed save (stupefied 2 on a critical failure).</p>"
 		},
 		"Greater Debilitating Bomb": {
-			"name": "Greater Debilitating Bomb",
-			"description": "<p>You have learned enhanced techniques and alchemical secrets that allow you to expand the range of effects you can impose with your bombs.</p>\n<p>When you use @Compendium[pf2e.feats-srd.sv4LeEbkOJyLen10]{Debilitating Bomb}, add the following to the list you can choose from: @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 1}, @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled 1}, @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied 1}, or -10-foot status penalty to Speeds.</p>"
+			"name": "高等衰弱炸弹 Greater Debilitating Bomb",
+			"description": "<p>你所掌握的先进技术和炼金秘密扩展了你的炸弹所能施加的影响的种类。</p>\n<p>当你使用 @Compendium[pf2e.feats-srd.sv4LeEbkOJyLen10]{衰弱炸弹 Debilitating Bomb} 时，将下述效果添加到你能够选择的列表中：@Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{笨拙 Clumsy 1}， @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{力竭 Enfeebled 1} ，@Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{呆滞 Stupefied 1}，或在速度上造成-10尺的状态减值。</p>"
 		},
 		"Greater Distracting Shot": {
 			"name": "Greater Distracting Shot",
@@ -5614,8 +5614,8 @@
 			"description": "<p>Your bloodline's deep connection to mental essence greatly enhances your spell repertoire. Add one spell to your spell repertoire for each spell level you can cast.</p>"
 		},
 		"Greater Merciful Elixir": {
-			"name": "Greater Merciful Elixir",
-			"description": "<p>Your additives contain panaceas that can remedy a plethora of maladies. When you use @Compendium[pf2e.feats-srd.Mvw3ZFrdwMHedAxY]{Merciful Elixir}, your elixir can instead attempt to counteract the @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Blinded}, @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Deafened}, @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened}, or @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Slowed} condition.</p>"
+			"name": "高等慈悲灵药 Greater Merciful Elixir",
+			"description": "<p>你的添加剂中含有能够治疗绝大多数病痛的万能药。当你使用 @Compendium[pf2e.feats-srd.Mvw3ZFrdwMHedAxY]{慈悲灵药 Merciful Elixir} 时，你的灵药能够转而尝试反制 @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{目盲 Blinded}，@Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{耳聋 Deafened} ，@Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{恶心 Sickened}，或 @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{缓慢 Slowed}状态。</p>"
 		},
 		"Greater Mercy": {
 			"name": "Greater Mercy",
@@ -6294,8 +6294,8 @@
 			"description": "<p>Your performances inspire admiration and win you fans. You can Make an Impression using Performance instead of Diplomacy.</p>"
 		},
 		"Improbable Elixirs": {
-			"name": "Improbable Elixirs",
-			"description": "<p>Your mastery of alchemical secrets enables you to replicate effects most believe can be achieved only via magic.</p>\n<p>Select a number of potions equal to your Intelligence modifier (minimum 1); these potions must be of 9th level or lower. You gain formulas to create these potions as alchemical items with the elixir trait.</p>\n<p>When making these alchemical elixirs, you can substitute alchemical reagents for an equal value of magical components, and you can use @Compendium[pf2e.equipment-srd.4ftXXUCBHcf4b0MH]{Alchemist's Tools} (for @Compendium[pf2e.classfeatures.sPtl05wwTpqFI0lL]{Quick Alchemy}) or an @Compendium[pf2e.equipment-srd.k6xZkDUpF7E1Totd]{Alchemist's Lab}(for the @Compendium[pf2e.actionspf2e.rmwa3OyhTZ2i2AHl]{Craft} activity) instead of any other required tool kits. Other than that, the formula does not change.</p>\n<p>Once you've chosen the potion formulas, they can't be changed.</p>"
+			"name": "不可思议灵药 Improbable Elixirs",
+			"description": "<p>你对炼金术奥秘的掌握让你能够复制绝大多数人认为只有通过魔法才能达成的效果。</p>\n<p>选择数量为你的智力调整值（至少为1）的不高于九级的药水（Potions）。你获得如同具有灵药（Elixir）特征的炼金物品一般制作这些药水的公式。</p>\n<p>当你制作这些炼金灵药时，你能够用炼金试剂代替等值的魔法成分，你也可以用 @Compendium[pf2e.equipment-srd.4ftXXUCBHcf4b0MH]{炼金工具 Alchemist's Tools} （在使用 @Compendium[pf2e.classfeatures.sPtl05wwTpqFI0lL]{快速炼金 Quick Alchemy}时）或 @Compendium[pf2e.equipment-srd.k6xZkDUpF7E1Totd]{炼金实验室 Alchemist's Lab}（在进行 @Compendium[pf2e.actionspf2e.rmwa3OyhTZ2i2AHl]{手艺 Craft} 活动时）代替任何必需的工具包。除此之外，这些公式本身不会改变。</p>\n<p>你一旦你决定了所选的药水公式，你就不能更改它们。</p>"
 		},
 		"Improved Command Undead": {
 			"name": "Improved Command Undead",
@@ -6666,8 +6666,8 @@
 			"description": "<p>Your divine touch rejuvenates the weak and tired.</p>\n<p>When you use @Compendium[pf2e.feats-srd.zilwynzk8lIujgZo]{Mercy}, you can instead attempt a counteract check to remove the @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy} or @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled} conditions, using the source of that condition to determine the counteract level and DC.</p>\n<p>If the condition was caused by an ongoing effect and you don't remove that effect, the condition returns at the end of your next turn.</p>"
 		},
 		"Invincible Mutagen": {
-			"name": "Invincible Mutagen",
-			"description": "<p>Repeated exposure to fortifying additives in mutagens makes your juggernaut form impervious.</p>\n<p>Whenever you're affected by a @Compendium[pf2e.equipment-srd.xE0EdDrf734l2fQH]{Juggernaut Mutagen}, you gain resistance to all physical damage equal to your Intelligence modifier (minimum 0).</p>"
+			"name": "无敌突变药剂 Invincible Mutagen",
+			"description": "<p>你将这种特地调制的强化添加剂加入你的突变药剂之中，令你的主宰形态变得坚不可摧。</p>\n<p>当你处于 @Compendium[pf2e.equipment-srd.xE0EdDrf734l2fQH]{主宰突变药剂 Juggernaut Mutagen} 的影响下时，你获得针对所有物理伤害的抗力，数值等同于你的智力调整值（最低为0）。</p>"
 		},
 		"Invisible Trickster": {
 			"name": "Invisible Trickster",
@@ -7754,8 +7754,8 @@
 			"description": "<p>You learn a monstrous ki technique that infuses your blows with the petrifying power of a medusa's gaze. You gain the <em>@Compendium[pf2e.spells-srd.wTYxxYJWN348oV15]{Medusa's Wrath}</em> ki spell. Increase the number of Focus Points in your focus pool by 1.</p>"
 		},
 		"Mega Bomb": {
-			"name": "Mega Bomb",
-			"description": "<p><strong>Requirements</strong> You are holding an infused alchemical bomb you crafted, with a level at least 3 lower than your advanced alchemy level</p>\n<hr />\n<p>You add an incredibly powerful additive to a held bomb to create a mega bomb, greatly increasing its area and power.</p>\n<p>You use an @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{Interact} action to throw the mega bomb, rather than Strike, and you don't make an attack roll.</p>\n<p>The mega bomb affects creatures in a 30-foot-radius burst, centered within 60 feet of you. The bomb deals damage as if each creature were the primary target, with a basic Reflex save. On a failed save, a creature also takes any extra effects that affect a primary target (such as flat-footed from bottled lightning). While all targets in the area take splash damage as primary targets, there is no further splash beyond that area.</p>\n<p>If your next action after creating a mega bomb isn't an Interact action to throw it, the mega bomb denatures and loses all effects.</p>"
+			"name": "超能炸弹 Mega Bomb",
+			"description": "<p><strong>需求</strong> 你持有一枚你制作的灌注炼金炸弹，它的等级至少比你的高阶炼金术等级低3级。</p>\n<hr />\n<p>你将一种超乎想象的强力添加剂加入你所持有的炸弹中，就此创造出了超能炸弹，这将会大幅提升这枚炸弹的爆炸范围和威力。</p>\n<p>你使用 @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{互动 Interact} 动作投掷这枚超能炸弹，而不是使用打击（Strike），你也不需要进行攻击骰。</p>\n<p>超能炸弹以你周围60尺内的某一点为中心，影响30尺爆炸半径内的所有生物。这枚炸弹会像每个生物都是主要目标一般对其造成伤害，并且它们需要进行一个基础反射豁免（Basic Reflex save）。一旦在豁免中失败，生物就会承受所有只影响主要目标的额外效果（例如瓶装闪电造成的措手不及）。区域内的所有目标都会如同主要目标一般受到溅射伤害，哪怕原本的溅射效果并不会影响这么大的范围。</p>\n<p>如果你在制造一枚超能炸弹后的下一个动作不是通过互动动作将其投掷出去的话，这枚超能炸弹就会变质并失去所有的效果。</p>"
 		},
 		"Megaton Strike": {
 			"name": "百万吨强击 Megaton Strike",
@@ -7778,8 +7778,8 @@
 			"description": "<p>Scaring off multiple people at once is your specialty. When you Demoralize, you can target up to 2 creatures within 30 feet of you at once. If you are a master of Intimidation, you can Demoralize up to 4 creatures at once; if you're legendary, you can Demoralize up to 8 creatures at once.</p>"
 		},
 		"Merciful Elixir": {
-			"name": "Merciful Elixir",
-			"description": "<p><strong>Frequency</strong> once per round</p>\n<p><strong>Trigger</strong> You craft an @Compendium[pf2e.equipment-srd.hDLbR56Id2OtU318]{Elixir of Life} using @Compendium[pf2e.classfeatures.sPtl05wwTpqFI0lL]{Quick Alchemy}, and that elixir is at least 2 levels lower than your advanced alchemy level</p>\n<hr />\n<p>You mix a special additive into your elixir that calms the drinker's body and mind.</p>\n<p>The elixir of life attempts to counteract one fear effect or one effect imposing the @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralyzed} condition on the drinker using the item's level and a counteract modifier equal to your class DC - 10.</p>"
+			"name": "慈悲灵药 Merciful Elixir",
+			"description": "<p><strong>频率</strong> 每轮一次</p>\n<p><strong>触发条件</strong> 你使用 @Compendium[pf2e.classfeatures.sPtl05wwTpqFI0lL]{高速炼金 Quick Alchemy} 制作了一份 @Compendium[pf2e.equipment-srd.hDLbR56Id2OtU318]{生命灵药Elixir of Life} ，这份生命灵药至少比你的高阶炼金术等级低2级。</p>\n<hr />\n<p>你将一种特殊的添加剂混合至你的灵药中，让它能够抚慰饮用者的身心。</p>\n<p>这份生命灵药会尝试反制一个恐惧效果或一个会导致饮用者陷入 @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{麻痹 Paralyzed} 状态的效果。使用该物品的等级以及等同于你职业DC-10的反制调整值。</p>"
 		},
 		"Merciless Rend": {
 			"name": "Merciless Rend",
@@ -7834,8 +7834,8 @@
 			"description": "<p>By adopting resonant reflections, you have learned to copy the abilities of other creatures as well. When you use @Compendium[pf2e.actionspf2e.JYi4MnsdFu618hPm]{Hunt Prey} on a foe within 100 feet, you gain resistance 10 to all damage types that target has resistance or immunity to for as long as the foe remains within 100 feet.</p>"
 		},
 		"Mindblank Mutagen": {
-			"name": "Mindblank Mutagen",
-			"description": "<p>With the right mindset, consuming a serene mutagen grants you special mental protections.</p>\n<p>When you're affected by a @Compendium[pf2e.equipment-srd.bOPQDM54W8ZDoULY]{Serene Mutagen}, detection, revelation, and scrying effects of 9th level or lower detect nothing from you or your possessions and auras.</p>\n<p>For instance, detect magic would still detect other magic in the area, but not any magic on you.</p>"
+			"name": "空白思维突变药剂 Mindblank Mutagen",
+			"description": "<p>通过对宁静突变药剂（Serene mutagen）的公式进行一些微小的调整，你能从中获取精神防护。</p>\n<p>当你处于 @Compendium[pf2e.equipment-srd.bOPQDM54W8ZDoULY]{宁静突变药剂 Serene Mutagen} 的影响下时，不高于九级的侦测（Detection），揭示（Revelation），探知（Scrying）效果在探测你或者你的所有物及灵光时，得到的只会是一片空白。</p>\n<p>举例而言，侦测魔法（Detect magic）仍然可以侦测到区域内的其他魔法，但无法侦测到你身上的魔法。</p>"
 		},
 		"Miniaturize": {
 			"name": "Miniaturize",
@@ -7850,8 +7850,8 @@
 			"description": "<p>You've dabbled in minor magical abilities. Choose arcane, divine, occult, or primal magic, and gain two cantrips from the common cantrips that are available in that tradition. Your key spellcasting ability is Charisma, and you're trained in spell attack rolls and DCs for the tradition of your chosen cantrips..</p>"
 		},
 		"Miracle Worker": {
-			"name": "Miracle Worker",
-			"description": "<p><strong>Frequency</strong> once every 10 minutes</p>\n<hr />\n<p>Your alchemical mastery can resuscitate the recently slain. You can administer a @Compendium[pf2e.equipment-srd.qK964kZz1ALcysOa]{True Elixir of Life} to a creature who has been dead for no more than 2 rounds. When you do, that creature is immediately returned to life with 1 Hit Point and becomes wounded 1.</p>"
+			"name": "奇迹缔造者 Miracle Worker",
+			"description": "<p><strong>频率</strong> 每10分钟一次</p>\n<hr />\n<p>你对炼金术的掌握让你能够扭转新近产生的死亡。你能够将一瓶 @Compendium[pf2e.equipment-srd.qK964kZz1ALcysOa]{真实生命灵药 True Elixir of Life} 给予一个死亡不超过2轮的生物。你这样做之后，这名生物会立即以生命值为1的状态重获生命并且获得受伤（Wounded）1。</p>"
 		},
 		"Miraculous Flight": {
 			"name": "Miraculous Flight",
@@ -8566,8 +8566,8 @@
 			"description": "<p><strong>Trigger</strong> You fail or critically fail an attack roll or Will save</p>\n<hr />\n<p>You burn out all of your rage to ensure that your attack lands and your mind remains free. Reroll the triggering attack roll or Will save with a +2 circumstance bonus, use the better result, and resolve the effect. You then immediately stop raging.</p>"
 		},
 		"Perfect Debilitation": {
-			"name": "Perfect Debilitation",
-			"description": "<p>You have perfected the formulas for bombs that impede your enemies.</p>\n<p>When you use @Compendium[pf2e.feats-srd.sv4LeEbkOJyLen10]{Debilitating Bomb}, your target avoids the condition the bomb imposes only if it critically succeeds at its saving throw.</p>"
+			"name": "完美衰弱 Perfect Debilitation",
+			"description": "<p>你将制作用于阻碍敌人的炸弹的公式完善得近乎完美。</p>\n<p>当你使用 @Compendium[pf2e.feats-srd.sv4LeEbkOJyLen10]{衰弱炸弹 Debilitating Bomb} 时，你的目标只有在豁免检定上取得大成功才能避免承受炸弹施加的状态。</p>"
 		},
 		"Perfect Distraction": {
 			"name": "Perfect Distraction",
@@ -8594,8 +8594,8 @@
 			"description": "<div><strong>Archetype</strong> @Compendium[pf2e.archetypes.JiRqSMv1STETLwSP]{Student of Perfection}</div>\n<div></div>\n<hr />\n<p>You gain the appropriate ki spell for your School of Perfection: <em>@Compendium[pf2e.spells-srd.VBNevVovTCpn04vL]{Unblinking Flame Revelation}</em> for Unblinking Flame, <em>@Compendium[pf2e.spells-srd.ytboJsyZEbE1MLeV]{Unbreaking Wave Advance}</em> for Unbreaking Waves, <em>@Compendium[pf2e.spells-srd.tvO6Kmc2pQve9DC5]{Unfolding Wind Rush}</em> for Unfolding Wind, or <em>@Compendium[pf2e.spells-srd.FPnkOYyWIaOzkmqn]{Untwisting Iron Buffer}</em> for Untwisting Iron. Increase the number of Focus Points in your focus pool by 1.</p>"
 		},
 		"Perfect Mutagen": {
-			"name": "Perfect Mutagen",
-			"description": "<p>You have enhanced the formulas for your mutagens, aligning them perfectly to your physiology. When under the effect of a mutagen you crafted, you do not suffer its drawback.</p>"
+			"name": "完美突变药剂 Perfect Mutagen",
+			"description": "<p>你调整并强化了所有突变药剂的公式，让他们能够完美适应你的生理机能。当你处于你制作的突变药剂的影响下时，你不会承受它们带来的缺陷。</p>"
 		},
 		"Perfect Readiness": {
 			"name": "Perfect Readiness",
@@ -8650,8 +8650,8 @@
 			"description": "<p>You can cast <em>@Compendium[pf2e.spells-srd.TUj8eugNqAvB1vVR]{Creation}</em> as an innate spell at will, choosing whether it is arcane or primal each time. The created object lasts until you spend 1 hour not within its immediate vicinity or until it is destroyed. Such objects are called persistent creations. If you cast <em>creation</em> again, any persistent creation you previously created with the spell immediately disintegrates.</p>"
 		},
 		"Persistent Mutagen": {
-			"name": "Persistent Mutagen",
-			"description": "<p>You've trained your physical form to remain stable within the a given altered state. Once per day, when you consume an alchemical item with the infused and mutagen traits, you can retain its effects until the next time you make your daily preparations instead of its normal duration.</p>"
+			"name": "恒久突变药剂 Persistent Mutagen",
+			"description": "<p>你的训练让你的物理形态能够在变异状态中保持稳定。每天一次，当你消耗一份带有灌注和突变药剂特征的炼金物品时，取代它原本的持续时间，你能够将它的效果保持到下一次你进行日常准备为止。</p>"
 		},
 		"Pervasive Superstition": {
 			"name": "Pervasive Superstition",
@@ -8814,8 +8814,8 @@
 			"description": "<p><strong>Trigger</strong> A creature adjacent to you hits you with a melee unarmed Strike.</p>\n<p><strong>Requirements</strong> You have prepared your clothing to poison</p>\n<p>attackers (see below).</p>\n<hr />\n<p>In nature, certain animals are covered in venomous spines, such that even touching them is deadly.</p>\n<p>To use this reaction, you must have brushed poison onto your clothing or woven sharp poisoned needles into the garment's fabric. This takes 10 minutes and uses one dose of contact or injury poison. You can have only one such poison suffused into your clothing at a time.</p>\n<p>When you use this reaction, the triggering creature is exposed to the suffused poison.</p>"
 		},
 		"Poison Resistance": {
-			"name": "Poison Resistance",
-			"description": "<p>(Alchemist) Repeated exposure to toxic reagents has fortified your body against poisons of all kinds.</p>\n<p>(Druid) Your affinity for the natural world grants you protection against some of its dangers.</p>\n<hr />\n<p>You gain poison resistance equal to half your level, and you gain a +1 status bonus to saving throws against poisons.</p>"
+			"name": "毒素抗力 Poison Resistance",
+			"description": "<p>(炼金术士) 反复曝露在有毒试剂下使得你的身体具备了针对所有毒素的抵抗力。</p>\n<p>(Druid) Your affinity for the natural world grants you protection against some of its dangers.</p>\n<hr />\n<p你获得等同于你等级一半的毒素抗力，并且在对抗毒素的豁免检定上获得+1的状态加值。</p>"
 		},
 		"Poison Weapon": {
 			"name": "Poison Weapon",
@@ -8846,8 +8846,8 @@
 			"description": "<p><strong>Requirements</strong> You have designated prey with @Compendium[pf2e.actionspf2e.JYi4MnsdFu618hPm]{Hunt Prey}.</p>\n<hr />\n<p>By spending 1 minute giving guidance to help hunt down your prey, you instruct up to five willing creatures to assist you. They gain a +1 circumstance bonus to @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Seek} your prey, to @Compendium[pf2e.actionspf2e.EA5vuSgJfiHH7plD]{Track} your prey, and to @Compendium[pf2e.actionspf2e.plBGdZhqq5JBl1D8]{Gather Information} about your prey. You and the creatures assisting you gain a +1 circumstance bonus to initiative rolls when entering combat with your prey.</p>\n<p>This benefit lasts until you designate a new prey or your prey dies, whichever comes first. An individual creature assisting you loses this benefit if they're out of your presence for too long to benefit from your instructions. This is usually 1 hour, but is determined by the GM.</p>"
 		},
 		"Potent Poisoner": {
-			"name": "Potent Poisoner",
-			"description": "<p>By concentrating your poisons' toxic components, you make them harder for victims to resist. When you craft an alchemical item with the poison trait by any means, the DC is increased by up to 4, to a maximum of your class DC.</p>"
+			"name": "强效制毒师 Potent Poisoner",
+			"description": "<p>通过浓缩毒药中的剧毒成分，你让受害者更加难以抵挡毒素的侵袭。当你通过任何方式制作一份具有毒素特征的炼金物品时，这份物品的DC提升4，至多提升至你的职业DC。</p>"
 		},
 		"Poultice Preparation": {
 			"name": "Poultice Preparation",
@@ -9093,9 +9093,9 @@
 			"name": "Quick Block",
 			"description": "<p>You can block with your shield instinctively. At the start of each of your turns, you gain an additional reaction that you can use only to perform a Shield Block.</p>"
 		},
-		"Quick Bomber": {
+		"高速投弹手 Quick Bomber": {
 			"name": "Quick Bomber",
-			"description": "<p>You keep your bombs in easy-to-reach pouches from which you draw without thinking. You @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{Interact} to draw a bomb, then Strike with it.</p>"
+			"description": "<p>你把你的炸弹放在容易触及的弹药袋中，以便你不假思索地取出。你通过 @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{互动 Interact} 取出一枚炸弹，然后立即用它进行打击（Strike）。</p>"
 		},
 		"Quick Change (Beastkin)": {
 			"name": "Quick Change (Beastkin)",
@@ -9802,8 +9802,8 @@
 			"description": "<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> You have the dying condition and are about to attempt a recovery check.</p>\n<hr />\n<p>Your nanites are programmed to automatically revive you. You're restored to 1 Hit Point, lose the dying and unconscious conditions, and can act normally on this turn. You gain or increase the wounded condition as normal when losing the dying condition in this way.</p>"
 		},
 		"Revivifying Mutagen": {
-			"name": "Revivifying Mutagen",
-			"description": "<p>While under the effect of a mutagen, you can metabolize that mutagen's power to heal yourself.</p>\n<p>This uses a single action, which has the concentrate and manipulate traits.</p>\n<p>Once the action is complete, you regain [[/r 1d6]] Hit Points for every 2 item levels of the mutagen (minimum 1d6), but the mutagen's duration immediately ends, even if you are under the effect of Persistent Mutagen.</p>"
+			"name": "再生突变药剂 Revivifying Mutagen",
+			"description": "<p>当你处于一份突变药剂的影响下时，你能够代谢掉这份突变药剂的力量来治疗自己。</p>\n<p>这需要使用一个单独的动作，该动作会具有专注和操纵特征。</p>\n<p>一旦动作完成，这份突变药剂每2个物品等级便会让你恢复1d6点生命值（至少1d6），但这份突变药剂的持续时间会立即结束，哪怕它是一份恒久突变药剂（Persistent Mutagen）也是如此。</p>"
 		},
 		"Ricochet Feint": {
 			"name": "Ricochet Feint",
@@ -10886,8 +10886,8 @@
 			"description": "<p>Your blade ally shares your lust for the blood of good creatures.</p>\n<p>Select one enemy you can see. Until the start of your next turn, your Strikes against that foe using the weapon your blade ally inhabits deal an extra 4 evil damage, increasing to 6 if you have master proficiency with this weapon.</p>\n<p>If the chosen enemy attacks you before the start of your next turn, the duration extends to the end of that enemy's next turn. If the enemy continues to attack you each turn, the duration continues to extend.</p>\n<p>@Compendium[pf2e.feat-effects.2MIn8qyPTmz4ZyO1]{Effect: Smite Good}</p>"
 		},
 		"Smoke Bomb": {
-			"name": "Smoke Bomb",
-			"description": "<p><strong>Frequency</strong> once per round</p>\n<p><strong>Trigger</strong> You use @Compendium[pf2e.classfeatures.sPtl05wwTpqFI0lL]{Quick Alchemy} to craft an alchemical bomb with a level at least 1 lower than your advanced alchemy level</p>\n<hr />\n<p>You cause the bomb to create a cloud of thick smoke, in addition to its normal effects.</p>\n<p>When thrown, the bomb creates a cloud of smoke in a 10-foot-radius burst. You choose which corner of the target's space (or the space in which the bomb lands) the cloud is centered on.</p>\n<p><span style=\"color: var(--body); font-size: 1em;\">Creatures within that area have the @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} condition, and all other creatures are concealed to them. The smoke lasts for 1 minute or until dissipated by a strong wind.</span></p>"
+			"name": "烟雾炸弹 Smoke Bomb",
+			"description": "<p><strong>频率</strong> 每轮一次</p>\n<p><strong>触发条件</strong> 你使用 @Compendium[pf2e.classfeatures.sPtl05wwTpqFI0lL]{高速炼金 Quick Alchemy} 制作了一份至少比你的高阶炼金术等级低1级的炼金炸弹。</p>\n<hr />\n<p>你使得炸弹在它的通常效果之外，还能够创造出一片浓厚的烟雾。</p>\n<p>这枚炸弹在投掷后会在爆炸点半径10尺的范围内创造出一片烟云。由你选择目标所在空间（或是炸弹落入的空间）的一角作为烟云的中心。</p>\n<p><span style=\"color: var(--body); font-size: 1em;\">处在这片区域内的生物都会获得 @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{隐蔽 Concealed} 状态，而其他的生物对他们而言也处于隐蔽之中。这阵烟雾持续1分钟或直到被强风吹散。</span></p>"
 		},
 		"Smoke Curtain": {
 			"name": "Smoke Curtain",
@@ -11522,8 +11522,8 @@
 			"description": "<p>You obtain a sterling dynamo prosthetic, which allows you to replace or augment a limb, or even add a simple new non-prehensile limb, such as a tail. While your sterling dynamo prosthetic can replace a missing prehensile limb, such as an arm, choosing to add a new limb can never increases your character's number of hands or prehensile limbs beyond two, even in combination with other abilities or effects.</p>\n<p>Your sterling dynamo prosthesis is especially optimized for combat, granting you a dynamo melee unarmed attack that is in the brawling weapon group and is made of silver (which makes it more effective against certain types of creatures, such as devils and werewolves).</p>\n<p>You have several options to customize your sterling dynamo. First, choose whether you have a power driver dynamo, which deals [[/r {1d6}[bludgeoning]]]{1d6 bludgeoning damage} and has the shove trait, or a percussive striker dynamo, which deals [[/r {1d4}[bludgeoning]]]{1d4 bludgeoning damage} and has the agile and finesse traits. Most dynamos are automated, so they don't require a free hand to use, like other unarmed attacks. However, you can instead choose to make your dynamo be manually controlled via a handheld switch, lever, or other device; to make an attack with a manually controlled dynamo, you must have a hand free to operate it, but the benefit is great control and a more devastating strike. This increases the damage die by one size, to a 1d8 for a power drive dynamo or 1d6 for a percussive striker dynamo. Arm dynamos are always manual, but they use the hand on that arm to operate the dynamo when making strikes. Manual control is required only in the heat of combat, not for less strenuous adventuring or everyday activities.</p>\n<p>You need to keep your sterling dynamo wound, but the process isn't particularly onerous, so in most situations, it won't be an issue. If you spend 1 minute winding up your dynamo, it can remain active for 24 hours before needing additional winding. However, enemies can attempt to Disable the dynamo, which has a level equal to your own, to reduce the remaining operational time by 1 hour, or 2 hours on a critical success. Certain other abilities that adversely affect technology might also reduce the dynamo's remaining operational time. When your dynamo is out of operational time, you can still use it as a normal prosthetic, but you cannot use your dynamo unarmed attack or any other abilities from this archetype until you wind the dynamo again. You can wind the dynamo for 1 minute at any time to return it to the maximum 24 hours of operational time.</p>\n<p><strong>Special</strong> You cannot select another dedication feat until you have gained two other feats from the sterling dynamo archetype.</p>"
 		},
 		"Sticky Bomb": {
-			"name": "Sticky Bomb",
-			"description": "<p><strong>Frequency</strong> once per round</p>\n<p><strong>Trigger</strong> You use @Compendium[pf2e.classfeatures.sPtl05wwTpqFI0lL]{Quick Alchemy} to craft an alchemical bomb, and that bomb's level is at least 2 levels lower than your advanced alchemy level</p>\n<hr />\n<p>You mix in an additive to make your bomb's contents adhere to the target and continue to deal damage.</p>\n<p>A creature that takes a direct hit from one of your sticky bombs also takes persistent damage equal to and of the same type as the bomb's splash damage. If the bomb already deals persistent damage, combine the two amounts.</p>"
+			"name": "黏性炸弹 Sticky Bomb",
+			"description": "<p><strong>频率</strong> 每轮一次</p>\n<p><strong>触发条件</strong> 你使用 @Compendium[pf2e.classfeatures.sPtl05wwTpqFI0lL]{高速炼金 Quick Alchemy} 制作一枚炼金炸弹，这个炸弹的等级至少比你的高阶炼金术等级低2级。</p>\n<hr />\n<p>你混入其中的添加剂能够使得炸弹的内容物附着在目标身上并持续造成伤害。</p>\n<p>一名被你的黏性炸弹直接命中的生物也会受到与这枚炸弹的溅射伤害数值与类型相同的持续伤害。如果这枚炸弹本身也会造成持续伤害，那么将二者的数值相加。</p>"
 		},
 		"Sticky Poison": {
 			"name": "Sticky Poison",
@@ -12506,8 +12506,8 @@
 			"description": "<p><strong>触发</strong> 你在一次近战武器打击或一次近战非武装攻击重击一名敌人。</p>\n<hr />\n<p>伴随胜利的呼喊，你激励了你的盟友。你施放一个你所知且通常花一个动作施放的组曲戏法。</p>"
 		},
 		"True Debilitating Bomb": {
-			"name": "True Debilitating Bomb",
-			"description": "<p>Ever inventive, you have discovered increasingly devastating ways for your bombs to impede and hamper your foes.</p>\n<p>When you use @Compendium[pf2e.feats-srd.sv4LeEbkOJyLen10]{Debilitating Bomb}, add the following to the list you can choose from: @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled 2}, @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied 2}, or -15-foot status penalty to Speeds.</p>\n<p>If you instead apply one of the effects listed in Debilitating Bomb the target avoids the effect only if the result of its saving throw is a critical success.</p>"
+			"name": "真实衰弱炸弹 True Debilitating Bomb",
+			"description": "<p>你已经为你过去发明的炸弹找到了更具毁灭性的方式去阻碍和束缚你的敌人。</p>\n<p>当你使用 @Compendium[pf2e.feats-srd.sv4LeEbkOJyLen10]{衰弱炸弹 Debilitating Bomb} 时，将后述效果添加到你的可选效果列表中： @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{力竭 Enfeebled 2}，@Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{呆滞 Stupefied 2}，或在速度上造成-15尺的状态减值。</p>\n<p>如果你没有从上述列表中为你的衰弱炸弹挑选效果，那么你可以让目标只有在豁免检定上取得大成功时才能避免衰弱炸弹的效果。</p>"
 		},
 		"True Gaze": {
 			"name": "True Gaze",
@@ -12698,8 +12698,8 @@
 			"description": "<p>You have a keen sense of movement around you. You gain motion sense as an imprecise sense out to 30 feet. Motion sense allows you to detect nearby motion through vibration and air movement.</p>"
 		},
 		"Uncanny Bombs": {
-			"name": "Uncanny Bombs",
-			"description": "<p>You lob bombs unerringly, despite obstructions or distance.</p>\n<p>When you throw an alchemical item with the bomb trait, its range increment increases to 60 feet, you reduce any circumstance bonus to the target's AC from cover by 1, and you automatically succeed at the flat check when targeting a <a tabindex=\"0\" title=\"\" role=\"button\" data-trigger=\"focus\" data-toggle=\"popover\" data-boundary=\"window\" data-placement=\"auto\" data-html=\"true\" data-content=\"<p>While you are <em>concealed</em> from a creature, such as in a thick fog, you are difficult for that creature to see. You can still be observed, but you're tougher to target. A creature that you're <em>concealed</em> from must succeed at a DC 5 flat check when targeting you with an attack, spell, or other effect.</p>\n<p>Area effects aren't subject to this flat check. If the check fails, the attack, spell, or effect doesn't affect you.</p>\" data-original-title=\"<strong>condition: concealed</strong>\">concealed</a> creature.</p>"
+			"name": "诡奇炸弹 Uncanny Bombs",
+			"description": "<p>你投掷的炸弹忽视障碍和距离，精准地命中目标。</p>\n<p>当你投掷一枚具有炸弹特征的炼金物品时，它的射程增量提升至60尺，目标在AC上来自于掩蔽的任何环境加值都会减少1，而你在目标为 <a tabindex=\"0\" title=\"\" role=\"button\" data-trigger=\"focus\" data-toggle=\"popover\" data-boundary=\"window\" data-placement=\"auto\" data-html=\"true\" data-content=\"<p>While you are <em>concealed</em> from a creature, such as in a thick fog, you are difficult for that creature to see. You can still be observed, but you're tougher to target. A creature that you're <em>concealed</em> from must succeed at a DC 5 flat check when targeting you with an attack, spell, or other effect.</p>\n<p>Area effects aren't subject to this flat check. If the check fails, the attack, spell, or effect doesn't affect you.</p>\" data-original-title=\"<strong>condition: concealed</strong>\">隐蔽</a> 生物时进行的裸骰检定上自动取得成功。</p>"
 		},
 		"Uncanny Cheeks": {
 			"name": "Uncanny Cheeks",
