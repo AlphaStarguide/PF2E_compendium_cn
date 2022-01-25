@@ -2466,8 +2466,8 @@
 			"description": ""
 		},
 		"Dart": {
-			"name": "Dart",
-			"description": "<p>This thrown weapon is larger than an arrow but shorter than a javelin. It typically has a short shaft of wood ending in a metal tip and is sometimes stabilized by feathers or fur.</p>"
+			"name": "飞镖 Dart",
+			"description": "<p>这种投掷武器比箭大，但比标枪短。它通常有一根短的木头轴，末端是一个金属尖，有时被羽毛或毛皮固定。</p>"
 		},
 		"Dart Umbrella": {
 			"name": "Dart Umbrella",
@@ -2718,8 +2718,8 @@
 			"description": "<p>The burnished red faces of djezet‑alloy shields attract effects made of pure magic.</p>\n<p>While you have a djezet shield Raised, you can use the @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Shield Block} reaction when you would take energy damage in addition to the reaction's usual trigger. When taking energy damage from a spell, the shield's listed Hardness doubles.</p>\n<p><strong>Craft Requirements</strong> djezet worth at least 82.5 gp</p>"
 		},
 		"Dogslicer": {
-			"name": "Dogslicer",
-			"description": "<p>This short, curved, and crude makeshift blade often has holes drilled into it to reduce its weight. It's a favored weapon of goblins.</p>"
+			"name": "屠狗刀 Dogslicer",
+			"description": "<p>这种短小的、弯曲的、粗糙的临时刀片通常钻有孔洞以减轻重量。它是地精最喜欢的武器。</p>"
 		},
 		"Doll": {
 			"name": "Doll",
@@ -3014,8 +3014,8 @@
 			"description": "<p>This +2 striking warhammer is inlaid with precious metals and decorated with geometric patterns in a dwarven style. If you're a dwarf, a dwarven thrower functions for you as a +2 greater striking returning warhammer with the thrown 30 feet trait, and your attacks with the hammer deal 1d8 additional damage against giants.</p>"
 		},
 		"Dwarven War Axe": {
-			"name": "Dwarven War Axe",
-			"description": "<p>This favored weapon of the dwarves has a large, ornate head mounted on a thick handle. This powerful axe can be wielded with one hand or two.</p>"
+			"name": "矮人战斧 Dwarven War Axe",
+			"description": "<p>矮人最喜欢的武器有一个巨大的华丽的头部，安装在一个厚手柄上。这把强有力的斧子可以用一只手或两只手挥舞。</p>"
 		},
 		"Dweomerweave Robe": {
 			"name": "Dweomerweave Robe",
@@ -3150,8 +3150,8 @@
 			"description": "<p>Elven chain is a chain shirt made of mithral that glitters in even the faintest light. It grants a +2 item bonus to AC and has no check penalty.</p>\n<p>Created by elven artisans employing ancient crafting techniques, elven chain is exceptionally quiet. Unlike other chain shirts-even other mithral chain shirts-elven chain does not have the noisy trait. This suit of armor can be etched with runes like any other mithral chain shirt.</p>\n<p><strong>Craft Requirements</strong> The initial raw materials must include mithral worth at least 3,125 sp.</p>"
 		},
 		"Elven Curve Blade": {
-			"name": "Elven Curve Blade",
-			"description": "<p>Essentially a longer version of the scimitar, this traditional elven weapon has a thinner blade than its cousin.</p>"
+			"name": "精灵曲刃 Elven Curve Blade",
+			"description": "<p>本质上说就是加长版的弯刀，这种传统的精灵武器有比表兄更纤细的刀刃。</p>"
 		},
 		"Emberheart": {
 			"name": "Emberheart",
@@ -3474,8 +3474,8 @@
 			"description": "<p>Adventurers have found a number of uses for these animal blood-filled bladders, which were originally used in theatrical productions. Whenever you take slashing or piercing damage with the fake blood pack under your clothes or armor, roll a DC 11 flat check. On a success, the blood pack is punctured. You or an ally can puncture the hidden pack intentionally.</p>\n<p>When faking an injury, the blood pack grants a +2 item bonus to relevant Deception checks, such as to @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Lie} about being injured. Abilities that trigger when a creature deals bleed damage, determine if a creature is bleeding, or are otherwise based on bleed damage don't trigger or apply for blood from a fake blood pack, which might mean creatures with such abilities automatically realize the ruse.</p>"
 		},
 		"Falchion": {
-			"name": "Falchion",
-			"description": "<p>This weapon is a heavier, two‑handed version of the curved‑bladed scimitar. It is weighted toward the blade's end, making it a powerful slashing weapon.</p>"
+			"name": "弯刃大刀 Falchion",
+			"description": "<p>这种武器是一种较重的双手曲刃的弯刀。它的重量倾向刀刃的末端，使之成为一种强大的挥砍武器。</p>"
 		},
 		"False Death": {
 			"name": "False Death",
@@ -3606,8 +3606,8 @@
 			"description": "<p>This hard but flexible longsword-length piece of wood looks more like a pole than a weapon, but can be deadly in the right hands. While generally not used for combat outside of Song'o culture, some halflings have become so proficient as to make it just as effective as a blade in a fight. Many halflings will even sing to maintain a certain tempo and rhythm during combat. It deals 1d6 bludgeoning damage. A fighting stick is a martial one-handed melee weapon in the club weapon group.</p>"
 		},
 		"Filcher's Fork": {
-			"name": "Filcher's Fork",
-			"description": "<p>This halfling weapon looks like a long, two-pronged fork and is used as both a weapon and a cooking implement.</p>"
+			"name": "窃贼刺叉 Filcher's Fork",
+			"description": "<p>这种半身人武器看起来像长长的两股叉，既是武器也是烹饪工具。</p>"
 		},
 		"Final Blade": {
 			"name": "Final Blade",
@@ -3694,8 +3694,8 @@
 			"description": "<p>Identical feathers radiate from the center of this spellheart, held in place by woven straw. The spell attack roll of any spell cast by Activating this item is +19, and the spell DC is 29.</p>\n<ul>\n<li><strong>Armor</strong> You gain a +2 item bonus to Acrobatics checks and resistance 10 to falling damage. @Compendium[pf2e.equipment-effects.ccMa75bqXo3ZnlHM]{Equipment Effect: Major Five-Feather Wreath}</li>\n<li><strong>Weapon</strong> After you cast an air spell by Activating the wreath, you can Fly 5 feet as a single action, or you can Fly 40 feet as a free action if the spell you cast wasn't a cantrip. This must be your next action, and if you don't have a fly Speed, you must end the flight on solid ground or fall.</li>\n</ul>\n<p><strong>Activate</strong> Cast a Spell</p>\n<p><strong>Effect</strong> You cast <em>@Compendium[pf2e.spells-srd.dDiOnjcsBFbAvP6t]{Gale Blast}</em>.</p>\n<hr />\n<p><strong>Activate</strong> Cast a Spell</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You cast 4th level <em>@Compendium[pf2e.spells-srd.it4ZsAi6XgvGcodc]{Wall of Wind}</em>.</p>\n<hr />\n<p><strong>Activate</strong> Cast a Spell</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You cast <em>@Compendium[pf2e.spells-srd.b5sGjGlBf58f8jn0]{Air Walk}</em>.</p>"
 		},
 		"Flail": {
-			"name": "Flail",
-			"description": "<p>This weapon consists of a wooden handle attached to a spiked ball or cylinder by a chain, rope, or strap of leather.</p>"
+			"name": "连枷 Flail",
+			"description": "<p>这种武器是一个木柄通过链条、绳索或皮带链接着带刺铁球或铁柱。</p>"
 		},
 		"Flame Drake Snare": {
 			"name": "Flame Drake Snare",
@@ -4042,8 +4042,8 @@
 			"description": "<p>Activate <span class=\"pf2-icon\">1</span> Interact</p>\n<hr />\n<p>The shaft of this silver bolt is engraved with wiry designs.</p>\n<p>When a <em>garrote bolt</em> hits a target, it transforms into a silver garrote and wraps around one of the target's appendages, dealing an additional [[/r {2d12}[persistent,slashing]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Slashing Damage}. On a critical hit, it wraps around the target's throat, and the target can't breathe until the persistent damage ends.</p>"
 		},
 		"Gauntlet": {
-			"name": "Gauntlet",
-			"description": "<p>A pair of these metal gloves comes with full plate, half plate, and splint armor; they can also be purchased separately and worn with other types of armor. They not only protect your hands but also transform your hands into lethal weapons.</p>"
+			"name": "铁手套 Gauntlet",
+			"description": "<p>全身甲、半身甲和板条甲都配有一副这种金属手套，也可以单独购买并与其他类型的盔甲一起佩戴。他们不仅保护你的手，而且把你的手变成致命的武器。</p>"
 		},
 		"Gauntlight": {
 			"name": "Gauntlight",
@@ -4142,8 +4142,8 @@
 			"description": "<p>This spear has a specialized hook just before the tip that can catch on the gills of large fish. Azarketis primarily use this to hunt sharks, but it can also be used to hook flesh or armor.</p>"
 		},
 		"Glaive": {
-			"name": "Glaive",
-			"description": "<p>This polearm consists of a long, single‑edged blade on the end of a 7‑foot pole. It is extremely effective at delivering lethal cuts at a distance.</p>"
+			"name": "大砍刀 Glaive",
+			"description": "<p>这件长兵由7英尺长杆和顶端的单刃组成。它在一定距离外进行致命的切割时，非常有效。</p>"
 		},
 		"Glaive of the Artist": {
 			"name": "Glaive of the Artist",
@@ -4202,12 +4202,12 @@
 			"description": "<p>Rumored to be the result of a gnomish dare to make a variant of a hooked hammer that's even more intricate and complex, this weapon adds a musket to the mix of an already overcomplicated device.</p>"
 		},
 		"Gnome Flickmace": {
-			"name": "Gnome Flickmace",
-			"description": "<p>More a flail than a mace, this weapon has a short handle attached to a length of chain with a ball at the end. The ball is propelled to its reach with the flick of the wrist, the momentum of which brings the ball back to the wielder after the strike.</p>"
+			"name": "侏儒弹簧锤 Gnome Flickmace",
+			"description": "<p>这种武器与其说是硬头锤不如说是连枷，这种武器有一个短柄，连着一段链条，末端有一个球。球在手腕的轻挥下打到其所及之处，然后将球带回持球者手中。</p>"
 		},
 		"Gnome Hooked Hammer": {
-			"name": "Gnome Hooked Hammer",
-			"description": "<p>This gnome tool and weapon features a hammer at one end and a curved pick on the other. It's such a strange and awkward weapon that others think the gnomes are slightly erratic for using it.</p>"
+			"name": "侏儒钩式战锤 Gnome Hooked Hammer",
+			"description": "<p>这件侏儒的家伙事同时具备工具和武器的特征，一端是锤子，一端是弯曲的镐。这是一种如此奇怪而笨拙的武器，以至于其他人会认为使用这种武器的侏儒都有点儿不可靠。</p>"
 		},
 		"Goblin-Eye Orb": {
 			"name": "Goblin-Eye Orb",
@@ -4370,20 +4370,20 @@
 			"description": "<p>This snare releases a stream of grease that coats the area, making movement difficult and potentially making the target slippery and clumsy. The square with the snare, as well as three adjacent squares you determine when you set the snare, become difficult terrain when a creature triggers the snare. The triggering creature must attempt a @Check[type:reflex|dc:22] saving throw. A creature can use three Interact actions to wipe away the grease from a single square or from the triggering creature; removing the grease from the triggering creature ends the effects on it.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature is @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 1} for 1 round.</p>\n<p><strong>Failure</strong> For 1 minute, the creature is clumsy 1 and must roll twice and use the worse result whenever attempting a Thievery check. If the target rolls a failure at a Thievery check, it gets a critical failure instead. This is a misfortune effect.</p>\n<p><strong>Critical Failure</strong> As failure, but the effects last for 1 hour instead of 1 minute, and removing the grease from the triggering creature requires a 1-minute activity instead of three Interact actions.</p>"
 		},
 		"Greataxe": {
-			"name": "Greataxe",
-			"description": "<p>This large battle axe is too heavy to wield with only one hand. Many greataxes incorporate two blades, and they are often \"bearded\", having a hook at the bottom to increase the strength of their chopping power.</p>"
+			"name": "巨斧 Greataxe",
+			"description": "<p>这把巨大的战斧太重了，单手无法使用。许多巨斧都有两头 \"胡须\"般的刃，底部有一个钩子以增加它们的切割力。</p>"
 		},
 		"Greatclub": {
-			"name": "Greatclub",
-			"description": "<p>While many greatclubs are intricately carved, others are little more than a sturdy tree branch. These massive clubs are too heavy to wield with only one hand.</p>"
+			"name": "巨木棒 Greatclub",
+			"description": "<p>有些巨木棒有复杂的雕刻，而另一些就是粗壮的树枝。这把巨大的木棒太重了，单手无法使用。</p>"
 		},
 		"Greatpick": {
-			"name": "Greatpick",
-			"description": "<p>This pick has a longer handle and broader head than a regular pick. It is too heavy to wield in one hand.</p>"
+			"name": "巨镐 Greatpick",
+			"description": "<p>这种镐比普通镐具有更长的手柄和更宽的头部。它太重了，单手无法使用。</p>"
 		},
 		"Greatsword": {
-			"name": "Greatsword",
-			"description": "<p>This immense two‑handed sword is nearly as tall as its wielder. Its lower blade is often somewhat dulled to allow it to be gripped for extra leverage in close‑quarter fights.</p>"
+			"name": "巨剑 Greatsword",
+			"description": "<p>这把巨大的双手剑几乎和它的使用者一样高。它的下刃一般较钝，以便在近距离格斗中获得额外的杠杆作用力。</p>"
 		},
 		"Green Dragon's Breath Potion (Adult)": {
 			"name": "Green Dragon's Breath Potion (Adult)",
@@ -4458,8 +4458,8 @@
 			"description": "<p>This +1 striking returning starknife is made of dark blue metal overlaid with smoky flecks of fused quartz. When you Cast an evocation Spell, your next attack this turn with this starknife reduces the target's cover, changing greater cover to standard cover or ignoring standard and lesser cover.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">r</span> envision</p>\n<p><strong>Frequency</strong> once per 10 minutes</p>\n<p><strong>Trigger</strong> You successfully Strike a creature with a thrown Strike with guiding star</p>\n<p><strong>Effect</strong> Soft light outlines the target. At the beginning of your next turn, the guiding star's blades detach and form into darts of starlight, flying up to 40 feet and striking the target unerringly, collectively dealing [[/r {4}[piercing]]]{4 piercing damage} and [[/r {1}[good]]]{1 good damage} before re-forming. The piercing damage increases to [[/r {6}[piercing]]]{6 piercing damage} with a greater striking rune and [[/r {8}[piercing]]]{8 piercing damage} with a major striking rune.</p>"
 		},
 		"Guisarme": {
-			"name": "Guisarme",
-			"description": "<p>This polearm bears a long, often one‑sided, curved blade with a hook protruding from the blunt side of the blade, which can allow its wielder to trip opponents at a distance. Its shaft is usually 8 feet long.</p>"
+			"name": "长勾刀 Guisarme",
+			"description": "<p>这种长兵通常有长长的单边曲刃，刀刃钝侧伸出一个钩子，可以让使用者在一定距离外摔绊对手。它的柄通常有8英尺长。</p>"
 		},
 		"Gun Sword": {
 			"name": "Gun Sword",
@@ -4486,16 +4486,16 @@
 			"description": "<p>When a creature enters the snare's square, it releases hundreds upon hundreds of carefully prepared arrows, blanketing a 20-foot radius around the snare's square with massive arrow fire that deals [[/r {18d6}[piercing]]]{18d6 piercing damage}. Creatures in the area must attempt a @Check[type:reflex|dc:37|basic:true|traits:piercing] saving throw.</p>"
 		},
 		"Halberd": {
-			"name": "Halberd",
-			"description": "<p>This polearm has a relatively short, 5‑foot shaft. The business end is a long spike with an axe blade attached.</p>"
+			"name": "戟 Halberd",
+			"description": "<p>这种长兵相对较短，只有5英尺长。使用的那头是带长钉的斧头。</p>"
 		},
 		"Half Plate": {
 			"name": "半身甲 Half Plate",
 			"description": "<p>半身甲由大部分全身甲的上半身板件组成，用较轻或较薄的钢板保护臂和腿。它既提供了一部分全身甲的保护，同时兼顾了更大的灵活性和速度。这种盔甲包含一套内衬的布甲（见下文）和一双手套。</p>"
 		},
 		"Halfling Sling Staff": {
-			"name": "Halfling Sling Staff",
-			"description": "<p>This staff ends in a Y‑shaped split that cradles a sling. The length of the staff provides excellent leverage when used two‑handed to fling rocks or bullets from the sling.</p>"
+			"name": "半身人投石杖 Halfling Sling Staff",
+			"description": "<p>木杖末端是Y型分岔，挂着一根吊索。当用双手通过吊索投掷石块或弹丸时，长杖提供了极好的杠杆作用力。</p>"
 		},
 		"Hammer": {
 			"name": "Hammer",
@@ -4518,8 +4518,8 @@
 			"description": "<p>Popular among privateers and mercenaries in Goka, hand cannons are little more than a hardened tube with a handle and external ignition attached. A hand cannon can be used to fire almost anything that can be packed into its barrel. The wielder of a hand cannon can change the damage type granted by its modular trait as part of the same Interact action used to reload.</p>"
 		},
 		"Hand Crossbow": {
-			"name": "Hand Crossbow",
-			"description": "<p>Sometimes referred to as an alley bow by rogues or ruffians, this small crossbow fires small bolts that are sometimes used to deliver poison to the target. It's small enough to be shot one-handed, but it still requires two hands to load.</p>"
+			"name": "手弩 Hand Crossbow",
+			"description": "<p>有时被游荡者和暴徒称为小巷弓，这种小型弩时常用来发射喂毒的小型矢。因为足够小，可以单手使用，但装填依然需要双手。</p>"
 		},
 		"Hand mirror with decorated frame": {
 			"name": "Hand mirror with decorated frame",
@@ -4598,8 +4598,8 @@
 			"description": "<p>This hat comes in many forms, such as a colorful turban or a pointy hat with a brim, and can bear symbols or runes. It grants you a +2 item bonus to Arcana checks and allows you to cast the <em>@Compendium[pf2e.spells-srd.Qw3fnUlaUbnn7ipC]{Prestidigitation}</em> cantrip as an arcane innate spell.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">T</span> Cast a Spell</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You cast a 4th-level arcane <em>@Compendium[pf2e.spells-srd.lpT6LotUaQPfinjj]{Summon Elemental}</em> spell.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+1 item bonus to Arcana checks</li>\n</ul>"
 		},
 		"Hatchet": {
-			"name": "Hatchet",
-			"description": "<p>This small axe can be used in close combat or thrown.</p>"
+			"name": "短柄斧 Hatchet",
+			"description": "<p>这种小斧头可用于近战或投掷。</p>"
 		},
 		"Hauling": {
 			"name": "Hauling",
@@ -4674,8 +4674,8 @@
 			"description": "<p>This fine cloak is lined with tiny tubes of slowly reacting alchemical reagents. These chemicals generate heat, which is circulated throughout the cloak by the wearer's movements. While active, the wearer is protected from severe cold. The cloak offers no protection from extreme or incredible cold. It operates for 24 hours and can be reset with a simple process that takes 1 minute.</p>"
 		},
 		"Heavy Crossbow": {
-			"name": "Heavy Crossbow",
-			"description": "<p>This large crossbow is harder to load and more substantial than a regular crossbow, but it packs a greater punch.</p>"
+			"name": "重弩 Heavy Crossbow",
+			"description": "<p>这种大型弩比普通弩更难装填也更坚固，也有更强的冲击力。</p>"
 		},
 		"Heedless Spurs": {
 			"name": "Heedless Spurs",
@@ -4774,8 +4774,8 @@
 			"description": "<p>This imposing helm bears the horns of a powerful black dragon. While wearing the Horns of Naraga, you gain greater darkvision and immunity to acid. If you are undead, you gain resistance 40 to positive damage. If you are not undead, the helm quickly saps the life from you, dealing [[/r {10d6}[negative]]]{10d6 negative damage} to you every round. If you die from this damage, you rise as an undead of an equal level in [[/br 1d4 #rounds]]{1d4 rounds}.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> envision</p>\n<p><strong>Trigger</strong> You touch a creature as part of an unarmed attack or melee spell attack roll</p>\n<p><strong>Effect</strong> The creature takes [[/r {5d6}[negative]]]{5d6 negative damage}. If you are an undead, you regain Hit Points equal to the negative damage the creature took.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">T</span> command</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> The Horns of Naraga transform into Naraga, an ancient black dragon. Naraga appears in an adjacent appropriate space, and if no such space is available, she does not appear. Naraga follows your commands without question. She remains for up to 1 hour or until you use an Interact action to dismiss her, after which she reverts back to the helm. If Naraga is slain, she immediately reverts back to the helm and can't be summoned for 1 week. You don't receive any of the helm's other benefits while it is transformed.</p>\n<p><strong>Destruction</strong> The helm is utterly obliterated if crushed between the jaws of an ancient black dragon's skull located in a desert while the sun is at its zenith.</p>"
 		},
 		"Horsechopper": {
-			"name": "Horsechopper",
-			"description": "<p>Created by goblins to battle horses, this weapon is essentially a long shaft ending in a blade with a large hook.</p>"
+			"name": "斩马刀 Horsechopper",
+			"description": "<p>地精为了对付马匹而制造的武器，一柄长杆末端是带着钩子的刀刃。</p>"
 		},
 		"Horseshoes of Speed": {
 			"name": "Horseshoes of Speed",
@@ -5126,8 +5126,8 @@
 			"description": ""
 		},
 		"Javelin": {
-			"name": "Javelin",
-			"description": "<p>This thin spear is well balanced for throwing but is not designed for melee use.</p>"
+			"name": "标枪 Javelin",
+			"description": "<p>这种细矛在投掷中能保持平衡，但并非设计用于近战。</p>"
 		},
 		"Javelin of Lightning": {
 			"name": "Javelin of Lightning",
@@ -5218,20 +5218,20 @@
 			"description": "<p>Ontained with @Compendium[pf2e.feats-srd.CZQgH17ZxoBiVXLa]{Ka Stone Ritual}</p>\n<p>You inscribe your true name on your <em>ka stone</em>, as well as oaths to gods and pharaohs, and embed it in your forehead in a special ritual with a sphinx or with a living monolith who already has this feat. The <em>ka stone</em> is an invested magic item that you automatically invest each day. It can't be removed without your permission, nor can it be dispelled, and you can never lose investiture in the ka stone. Its Bulk is negligible.</p>\n<p>The ka stone grants you a +1 item bonus to saves against death effects and negative effects, which increases to +2 at 8th level, +3 at 14th level, and +4 at 20th level.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> (envision), or a different activation if otherwise specified</p>\n<p><strong>Frequency</strong> a number of times each day equal to the number of class feats you have from the Living Monolith archetype</p>\n<p><strong>Effect</strong> You cast <em>@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Enlarge}</em> on yourself or use one of the other activated abilities granted by a later Living Monolith feat.</p>"
 		},
 		"Kama": {
-			"name": "Kama",
-			"description": "<p>Similar to a sickle and used in some regions to reap grain, a kama has a short, slightly curved blade and a wooden handle.</p>"
+			"name": "单镰 Kama",
+			"description": "<p>类似镰刀，在某些地区用来收割谷物，单镰有着短而弯的刀刃和木柄。</p>"
 		},
 		"Karambit": {
 			"name": "Karambit",
 			"description": "<p>This small curved blade resembles a tiger's claw and is capable of delivering deep wounds.</p>"
 		},
 		"Katana": {
-			"name": "Katana",
-			"description": "<p>A katana is a curved, single‑edged sword known for its wickedly sharped blade.</p>"
+			"name": "打刀 Katana",
+			"description": "<p>打刀有着弯曲的单边刀刃，以其锋利而闻名。</p>"
 		},
 		"Katar": {
-			"name": "Katar",
-			"description": "<p>Also known as punching daggers, katars are characterized by their H‑shaped hand grip that allows the blade to jut out from the knuckles.</p>"
+			"name": "拳刃 Katar",
+			"description": "<p>也被称为拳刃，其特定是Ｈ型的握把，允许刀刃从指关节外突出。</p>"
 		},
 		"Keen": {
 			"name": "Keen",
@@ -5286,8 +5286,8 @@
 			"description": "<p>This steel shield is painted a mottled crimson, and it always glistens as if wet. Its crest is composed of eight appendages that curl around each other, resembling the swirling tentacles of a giant kraken. Two ferocious eyes sit in its center, gleaming with an inner light.</p>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>Hardness</th>\n<th>HP</th>\n<th>BT</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>16</td>\n<td>96</td>\n<td>48</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> Raise a Shield</p>\n<p><strong>Frequency</strong> once per hour</p>\n<p><strong>Effect</strong> You unleash the kraken's wrath. You Raise the Shield. The shield's appendages briefly extend to impossible length as they wriggle and lash out at your foes, dealing [[/r {10d10}[bludgeoning]]]{10d10 bludgeoning damage} to all enemies in a @Template[type:cone|distance:30] (@Check[type:reflex|dc:41|basic:true|name:Kraken's Guard Tentacle Attack|traits:uncommon] save). The shield remains animated for 1 minute, during which you can use it to Grapple a creature within 10 feet of you without needing a free hand. When you use the shield to Grapple, you gain a +3 item bonus to your Athletics check.</p>\n<p>@Compendium[pf2e.equipment-effects.wFP3SqPoO0bCPmyK]{Effect: Kraken's Guard}</p>"
 		},
 		"Kukri": {
-			"name": "Kukri",
-			"description": "<p>The blade of this foot‑long knife curves inward and lacks a cross guard at the hilt.</p>"
+			"name": "反曲刀 Kukri",
+			"description": "<p>这把一英尺长的小刀，向内弯曲，刀柄上没有刀镡。</p>"
 		},
 		"Kusarigama": {
 			"name": "Kusarigama",
@@ -5302,8 +5302,8 @@
 			"description": "<p>This <em>+1 striking returning dagger</em> has an elaborate, gemmed handle and can be worn strapped to the inside of a wrist or tucked within a decorative bodice. Despite the name, which stems from the dagger's historical basis in Oppara as a lady's favor, this dagger is common among wielders of all genders and has become quite fashionable in Absalom of late, with most nobles who carry them matching their evening finery to the gems on the hilt.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> command, Interact</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You offer this weapon as a romantic or platonic favor to an ally. You and the ally become linked for 1 day. During this time, you each benefit from the effects of <em>@Compendium[pf2e.spells-srd.HTou8cG05yuSkesj]{Status}</em>, using each other as the targets.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> envision</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Requirements</strong> You have become linked with an ally by offering them the <em>lady's knife</em></p>\n<p><strong>Effect</strong> You call forth the blade. The <em>lady's knife</em> instantly teleports to your hand. The attempt to recall the knife fails if you are more than 1 mile away from the knife's current location. Your linked ally can use the same Activation to recall the knife once per day as well.</p>"
 		},
 		"Lance": {
-			"name": "Lance",
-			"description": "<p>This spear‑like weapon is used by a mounted creature to deal a great deal of damage.</p>"
+			"name": "长枪 Lance",
+			"description": "<p>这种长矛状的武器用于骑乘生物时造成巨大的伤害。</p>"
 		},
 		"Lantern (Bull's Eye)": {
 			"name": "Lantern (Bull's Eye)",
@@ -5402,16 +5402,16 @@
 			"description": "<p>This wide leather belt grants you a +1 item bonus to Athletics checks and increases the amount you can easily carry. You can carry Bulk equal to 6 + your Strength modifier before becoming encumbered, and you can hold and carry a total Bulk up to 11 + your Strength modifier.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> Interact</p>\n<p><strong>Effect</strong> You lift an object of up to 8 Bulk as though it were weightless. This requires two hands, and if the object is locked or otherwise held in place, you can attempt to Force it Open using Athletics as part of this activation. The object still has its full weight and Bulk for all other purposes-you just ignore that weight. The effect lasts until the end of your next turn.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+1 item bonus to Athletics checks</li>\n</ul>"
 		},
 		"Light Hammer": {
-			"name": "Light Hammer",
-			"description": "<p>This smaller version of the warhammer has a wooden or metal shaft ending in a metal head. Unlike its heavier cousin, it is light enough to throw.</p>"
+			"name": "轻锤 Light Hammer",
+			"description": "<p>这种小号的战锤的木质或金属柄顶端有个金属头，不像它沉重的表亲，足够轻巧到能够投掷。</p>"
 		},
 		"Light Mace": {
-			"name": "Light Mace",
-			"description": "<p>A light mace has a short wooden or metal shaft ending with a dense metal head. Used much like a club, it delivers heavy bludgeoning blows, but with extra power derived from the head's metal ridges or spikes.</p>"
+			"name": "轻型硬头锤 Light Mace",
+			"description": "<p>轻型硬头锤有根短短的木质或金属柄顶端有个厚重的金属头，使用它更像使用棍棒，它能造成沉重的钝击，头上的金属棱或刺还提供额外的力量。</p>"
 		},
 		"Light Pick": {
-			"name": "Light Pick",
-			"description": "<p>A light pick is a modified mining implement with a wooden shaft ending in a pick head crafted more to pierce armor and flesh than chip rocks.</p>"
+			"name": "轻型镐 Light Pick",
+			"description": "<p>轻型镐是一种改良的采矿工具，其木柄顶端是一个镐头，设计目的是刺穿盔甲和肉身，而不是岩石碎片。</p>"
 		},
 		"Light Writer": {
 			"name": "Light Writer",
@@ -5478,16 +5478,16 @@
 			"description": "<p>Like the one-handed air repeater, this thin-barreled firearm uses a container of pressurized air instead of black powder to propel small metal pellets from an attached cartridge. The long air repeater has better range and ammo capacity than the one-handed variant, though it still lacks significant stopping power. A typical long air repeater magazine holds 8 pellets.</p>"
 		},
 		"Longbow": {
-			"name": "Longbow",
-			"description": "<p>This 5‑foot‑tall bow, usually made of a single piece of elm, hickory, or yew, has a powerful draw and is excellent at propelling arrows with great force and at an extreme distance. You must use two hands to fire a longbow, and it can't be used while mounted.</p>"
+			"name": "长弓 Longbow",
+			"description": "<p>这种5英尺的长弓，通常由榆木、山胡桃木或紫杉木制成，具有很强的弹力能以巨大的力量和极远的距离发射箭支。长弓必须用双手射击，并且在骑乘时不能使用。</p>"
 		},
 		"Longspear": {
-			"name": "Longspear",
-			"description": "<p>This very long spear, sometimes called a pike, is purely for thrusting rather than throwing. Used by many soldiers and city watch for crowd control and defense against charging enemies, it must be wielded with two hands.</p>"
+			"name": "长矛 Longspear",
+			"description": "<p>这种很长的矛，有时被称为长矛（Pike），纯粹是用来刺戳而不是投掷的。许多士兵和城市守卫用来控制人群和防御冲锋的敌人，这种武器必须用双手挥舞。</p>"
 		},
 		"Longsword": {
-			"name": "Longsword",
-			"description": "<p>Longswords can be one‑edged or two‑edged swords. Their blades are heavy and they're between 3 and 4 feet in length.</p>"
+			"name": "长剑 Longsword",
+			"description": "<p>长剑可以是单刃或双刃，其刀刃很重，长约3到4英尺之间。</p>"
 		},
 		"Looter's Lethargy": {
 			"name": "Looter's Lethargy",
@@ -5522,8 +5522,8 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">R</span> envision</p>\n<p><strong>Trigger</strong> You fail a Reflex save against a damaging effect.</p>\n<p>This treated rabbit's foot has shockingly blue fur and is often carried by vagabonds who worship Desna. When you activate the foot, reroll the triggering Reflex save. If you fail the second roll as well, you can Stride up to your Speed.</p>"
 		},
 		"Mace": {
-			"name": "Mace",
-			"description": "<p>With a stout haft and a heavy metal head, a mace is sturdy and allows its wielder to deliver powerful blows and dent armor.</p>"
+			"name": "硬头锤 Mace",
+			"description": "<p>有着结实的柄和沉重的金属头，硬头锤坚固到可以让使用者造成强力打击给盔甲留下凹痕。</p>"
 		},
 		"Mace Multipistol": {
 			"name": "Mace Multipistol",
@@ -5658,8 +5658,8 @@
 			"description": "<p>This suit of +2 resilient splint mail has a large, green gemstone inset in a prominent location.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Envision</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> You are hit or critically hit with an attack, but damage hasn't been rolled yet</p>\n<p><strong>Effect</strong> You force the attacker to reroll the attack roll and use the worse result. This effect has the misfortune trait.</p>\n<p>Activating the armor causes the gemstone to turn gray and become inert. You cannot activate the armor again until the stone returns to its original green color. The gem turns green again after 1 week or when a significant foe critically succeeds at an attack roll targeting you. (If an enemy rolls a critical success at an attack against you and you force the attacker to reroll that critical success, that critical success does not recharge the mail of luck.) Even if the armor's power returns before a week has elapsed, it can't be activated more than once per day.</p>"
 		},
 		"Main-Gauche": {
-			"name": "Main-Gauche",
-			"description": "<p>This parrying dagger features a robust guard to protect the wielder's hand.</p>"
+			"name": "格挡匕首 Main-Gauche",
+			"description": "<p>这种格挡匕首有坚固的刀镡保护使用者的手。</p>"
 		},
 		"Major Painting by a Legend": {
 			"name": "Major Painting by a Legend",
