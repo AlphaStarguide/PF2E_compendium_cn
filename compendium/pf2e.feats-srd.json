@@ -2963,7 +2963,7 @@
 		},
 		"Deity's Domain": {
 			"name": "神授领域 Deity's Domain",
-			"description": "<p>你是神祇某一方面的具现。从列举于441页的你所侍奉的神祇的领域中选择一个。你获得这个领域的初始领域法术作为你的虔诚法术。</p>"
+			"description": "<p>你是神祇某一方面的具现。从你所侍奉的神祇的领域中选择一个。你获得这个领域的初始领域法术作为你的虔诚法术。</p>"
 		},
 		"Deity's Protection": {
 			"name": "Deity's Protection",
