@@ -1,5 +1,5 @@
 {
-	"label": "Equipment",
+	"label": "装备 Equipment",
 	"entries": {
 		"Abadar's Flawless Scale": {
 			"name": "Abadar's Flawless Scale",
@@ -574,8 +574,8 @@
 			"description": "<p>This wooden shield (Hardness 10, HP 40, BT 20) is carved with images of overlapping fletched arrows.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">R</span> Interact</p>\n<p><strong>Trigger</strong> A ranged weapon Strike targets a creature within 15 feet of you when you have this shield raised, and the attacker has not yet rolled their attack</p>\n<p><strong>Effect</strong> The triggering Strike targets you instead of its normal target. If it hits, you gain the effects of the @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Shield Block} reaction.</p>"
 		},
 		"Arrows": {
-			"name": "Arrows",
-			"description": "<p>These projectiles are the ammunition for bows. The shaft of an arrow is made of wood. It is stabilized in flight by fletching at one end and bears a metal head on the other.</p>"
+			"name": "箭 Arrows",
+			"description": "<p>这些箭头是弓的弹药。箭杆是木制的。一端是羽毛保持飞行中的平稳，另一端是金属头。</p>"
 		},
 		"Arsenic": {
 			"name": "Arsenic",
@@ -778,12 +778,12 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Envision</p>\n<p><strong>Trigger</strong> You @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Shield Block} a melee attack with the affixed shield.</p>\n<p>This slimy green stone glows with a strong light whenever the shield it adorns blocks a melee attack. When the eye is activated, the attacker must succeed at a @Check[type:fortitude|dc:25] save or become @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Slowed 1} for 1 minute as its body slowly stiffens in partial petrification.</p>"
 		},
 		"Bastard Sword": {
-			"name": "Bastard Sword",
-			"description": "<p>This broad-bladed sword, sometimes called the hand-and-a-half sword, has a longer grip so it can be held in one hand or used with two hands to provide extra piercing or slashing power.</p>"
+			"name": "变种剑 Bastard Sword",
+			"description": "<p>这种宽刃剑，有时被称为半手剑，有较长的握柄，因此可以一手握住或双手使用，以提供额外的刺穿或切割力。</p>"
 		},
 		"Battle Axe": {
-			"name": "Battle Axe",
-			"description": "<p>These axes are designed explicitly as weapons, rather than tools. They typically weigh less, with a shaft reinforced with metal bands or bolts, and have a sharper blade, making them ideal for chopping limbs rather than wood.</p>"
+			"name": "战斧 Battle Axe",
+			"description": "<p>这些斧子被明确设计成武器，而不是工具。它们通常重量较轻，轴由金属带或螺栓加固，刀片更锋利，非常适合切碎四肢而不是木头。</p>"
 		},
 		"Battle Lute": {
 			"name": "Battle Lute",
@@ -1110,12 +1110,12 @@
 			"description": "<p><strong>Usage</strong> etched onto a slashing or piercing melee weapon</p>\n<hr />\n<p>The magic in this rune sings in time with your attacks and coaxes you into finishing your opponent. When you critically hit a target that's taking persistent bleed damage, your target becomes @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drained 1}.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">r</span> envision</p>\n<p><strong>Trigger</strong> You reduce a creature to 0 Hit Points with the weapon</p>\n<p><strong>Effect</strong> You gain a number of temporary Hit Points equal to twice the creature's level. These Hit Points remain for 1 minute.</p>"
 		},
 		"Blowgun": {
-			"name": "Blowgun",
-			"description": "<p>This long, narrow tube is used for shooting blowgun darts, using only the power of a forcefully exhaled breath.</p>"
+			"name": "吹箭 Blowgun",
+			"description": "<p>这条又长又窄的管子用来射击吹箭镖，仅仅需要强力呼气的力量。</p>"
 		},
 		"Blowgun Darts": {
-			"name": "Blowgun Darts",
-			"description": "<p>These thin, light darts are typically made of hardwood and stabilized with fletching of down or fur. They are often hollow so they can be used to deliver poison.</p>"
+			"name": "吹箭镖 Blowgun Darts",
+			"description": "<p>这些薄而轻的飞镖通常是用硬木制成的，用羽毛或毛皮固定。它们通常是空心的，所以可以用来喂毒。</p>"
 		},
 		"Blue Dragon's Breath Potion (Adult)": {
 			"name": "Blue Dragon's Breath Potion (Adult)",
@@ -1142,8 +1142,8 @@
 			"description": "<p>This weapon fires pellets from a trumpet-shaped barrel, making it an excellent choice for hunting brush fowl or dealing damage within a short, broad area. Adventuring gunslingers often carry a blunderbuss to deal with swarms of vermin and similar threats.</p>"
 		},
 		"Bo Staff": {
-			"name": "Bo Staff",
-			"description": "<p>This strong but slender staff is tapered at the ends and well balanced. It's designed to be an offensive and defensive weapon.</p>"
+			"name": "长棒 Bo Staff",
+			"description": "<p>这根粗壮而纤细的棍子末端呈锥形，平衡良好。它被设计成一种攻守兼备的武器。</p>"
 		},
 		"Boarding Axe": {
 			"name": "Boarding Axe",
@@ -1166,8 +1166,8 @@
 			"description": "<p>This throwing weapon consists of weights tied to the end of long cords, which can be used to bludgeon foes or entangle their legs.</p>"
 		},
 		"Bolts": {
-			"name": "Bolts",
-			"description": "<p>Shorter than traditional arrows but similar in construction, bolts are the ammunition used by crossbows.</p>"
+			"name": "矢 Bolts",
+			"description": "<p>比传统箭短，但结构相似，矢是弩使用的弹药。</p>"
 		},
 		"Bomb Launcher": {
 			"name": "Bomb Launcher",
@@ -1346,8 +1346,8 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This flask of foaming beer grants courage. For the next hour after drinking this elixir, you gain a +2 item bonus to Will saves, or +3 when attempting Will saves against fear.</p>\n<p>@Compendium[pf2e.consumable-effects.wTZnKkT0K4Tdy8mD]{Effect: Bravo's Brew (Moderate)}</p>"
 		},
 		"Breastplate": {
-			"name": "Breastplate",
-			"description": "<p>Though referred to as a breastplate, this type of armor consists of several pieces of plate or half‑plate armor that protect the torso, chest, neck, and sometimes the hips and lower legs. It strategically grants some of the protection of plate while allowing greater flexibility and speed.</p>"
+			"name": "胸甲 Breastplate",
+			"description": "<p>虽然被称为胸甲，但这类盔甲其实是由几块保护躯干、胸部、颈部，有时还有臀部和小腿的部件组成的半身甲。它既提供了一部分板甲的保护，同时兼顾了更大的灵活性和速度。</p>"
 		},
 		"Breastplate of Command": {
 			"name": "Breastplate of Command",
@@ -1450,8 +1450,8 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<hr />\n<p>This dark, iridescent scale is about the size of a small coin. When you swallow the scale, you immediately grow a patch of scales that cover the majority of your body.</p>\n<p>For 1 hour, you can hold your breath for 15 rounds plus your Constitution modifier (instead of 5 rounds + your Constitution modifier) before drowning. It has no effect in non-aquatic environments that require you to hold your breath.</p>\n<p>After this time, the scales wither and fall off your body.</p>"
 		},
 		"Buckler": {
-			"name": "Buckler",
-			"description": "<p>This very small shield is a favorite of duelists and quick, lightly armored warriors. It's typically made of steel and strapped to your forearm. You can Raise a Shield with your buckler as long as you have that hand free or are holding a light object that's not a weapon in that hand.</p>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>Hardness</th>\n<th>HP</th>\n<th>BT</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3</td>\n<td>6</td>\n<td>3</td>\n</tr>\n</tbody>\n</table>"
+			"name": "小圆盾 Buckler",
+			"description": "<p>这面小盾牌是决斗者和快速的轻甲战斗者的最爱。它通常由刚制成，绑在你的前臂上。你可以用小圆盾举起盾牌，只要那只手没有被占用，或者拿着轻巧的非武器物品。。</p>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>硬度</th>\n<th>HP</th>\n<th>BT</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3</td>\n<td>6</td>\n<td>3</td>\n</tr>\n</tbody>\n</table>"
 		},
 		"Bullhook": {
 			"name": "Bullhook",
@@ -1634,12 +1634,12 @@
 			"description": "<p>10 feet of chain.</p>"
 		},
 		"Chain Mail": {
-			"name": "Chain Mail",
-			"description": "<p>A suit of chain mail consists of several pieces of armor composed of small metal rings linked together in a protective mesh. It typically includes a chain shirt, leggings, a pair of arms, and a coif, collectively protecting most of the body.</p>"
+			"name": "链甲 Chain Mail",
+			"description": "<p>一套链甲由链接在一个防护网中的多个小金属环组成。它通常包括链甲衫，护腿，护臂和罩帽，组合起来保护大部分的躯体。</p>"
 		},
 		"Chain Shirt": {
-			"name": "Chain Shirt",
-			"description": "<p>Sometimes called a hauberk, this is a long shirt constructed of the same metal rings as chainmail. However, it is much lighter than chainmail and protects only the torso, upper arms, and upper legs of its wearer.</p>"
+			"name": "链甲衫 Chain Shirt",
+			"description": "<p>有时也被称为锁子甲，这是一件如同链甲一样，由相同的金属环构成的长衫。然而，它比链甲轻得多，且只能保护穿戴者的躯干、上臂和大腿。</p>"
 		},
 		"Chain of the Stilled Spirit": {
 			"name": "Chain of the Stilled Spirit",
@@ -1738,8 +1738,8 @@
 			"description": ""
 		},
 		"Clan Dagger": {
-			"name": "Clan Dagger",
-			"description": "<p>This broad dagger is carried by dwarves as a weapon, tool, and designation of clan. Losing or having to surrender a clan dagger is considered a mark of embarrassment to most dwarves.</p>"
+			"name": "氏族匕首 Clan Dagger",
+			"description": "<p>这把宽大的匕首由矮人携带，作为武器、工具和氏族标志。对于大多数矮人来说，丢失或不得不交出氏族匕首被认为是一种耻辱。</p>"
 		},
 		"Clan Pistol": {
 			"name": "Clan Pistol",
@@ -1950,8 +1950,8 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<hr />\n<p>While arachnophobes don't need to fear this contraption's spiderlike appearance, they should probably worry if it starts ticking. When you activate the spider bomb, you place it on the ground and the clockwork spider crawls 5 feet in a straight line, continuing to advance 5 feet in the same straight line at the end of each of your turns for the next 4 rounds (traveling a total of 25 feet). If it takes any damage during this time, its bulbous abdomen detonates in a raging flame, dealing [[/r {5d6}[fire]]]{5d6 fire damage} to all creatures in a @Template[type:burst|distance:5] (@Check[type:reflex|dc:24|basic:true|name:Clockwork Spider Bomb Explosion|traits:fire|showDC:all]). You can also activate it a second time with a single-action command word activation, causing it to explode. The spider bomb has an AC of 10, 5 Hit Points, and +0 to all saving throws. After it detonates, the spider bomb is completely destroyed, regardless of the effects of its detonation. If it survives to the end of the 4-round duration without being detonated, the spider harmlessly loses its explosive charge and falls apart.</p>"
 		},
 		"Clothing (Explorer's)": {
-			"name": "Clothing (Explorer's)",
-			"description": "<p>Explorer's clothing is sturdy enough that it can be reinforced to protect you, even though it isn't a suit of armor. It comes in many forms, though the most common sorts look like clerical vestments, monk's garments, or wizard's robes, as members of all three classes are likely to avoid wearing armor.</p>"
+			"name": "探险者服装 Clothing (Explorer's)",
+			"description": "<p>不穿盔甲的冒险家穿着耐用的衣服旅行。虽然它不是盔甲并且应用你的无甲防御熟练，但它仍然有一个敏捷上限，而且如果蚀刻了效力符文，也可以在AC上获得物品加值。</p>"
 		},
 		"Clothing (Fine)": {
 			"name": "Clothing (Fine)",
@@ -1970,8 +1970,8 @@
 			"description": "<p>Winter clothing allows you to negate the damage from severe environmental cold and reduce the damage from extreme cold to that of severe cold.</p>"
 		},
 		"Club": {
-			"name": "Club",
-			"description": "<p>This is a piece of stout wood shaped or repurposed to bludgeon an enemy. Clubs can be intricately carved pieces of martial art or as simple as a tree branch or piece of wood.</p>"
+			"name": "棍棒 Club",
+			"description": "<p>这是一块结实的木头，打磨形状用来敲击敌人。棍棒可以是复杂雕刻的武术作品，也可以像树枝或木块一样简单。</p>"
 		},
 		"Coat Pistol": {
 			"name": "Coat Pistol",
@@ -2114,12 +2114,12 @@
 			"description": "<p>A compass helps you Sense Direction or navigate, provided you're in a location with uniform magnetic fields. Without a compass, you take a -2 item penalty to these checks (similar to using a shoddy item).</p>\n<p>A lensatic compass gives you a +1 item bonus to these checks.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+1 item bonus to Survival checks to Sense Direction or navigate</li>\n</ul>"
 		},
 		"Composite Longbow": {
-			"name": "Composite Longbow",
-			"description": "<p>This projectile weapon is made from horn, wood, and sinew laminated together to increase the power of its pull and the force of its projectile. Like all longbows, its great size also increases the bow's range and power. You must use two hands to fire it, and it cannot be used while mounted. Any time an ability is specifically restricted to a longbow, such as Erastil's favored weapon, it also applies to composite longbows unless otherwise stated.</p>"
+			"name": "复合长弓 Composite Longbow",
+			"description": "<p>这种抛射武器是由角、木头和肌腱复合而成，以增加其拉力和抛射力。像所有长弓一样，它的巨大尺寸也增加了弓的射程和力量。你必须用两只手去射击，而且它不能在骑乘时使用。任何被特别限制于长弓上的能力，比如Erastil的偏好武器，也同时适用于复合长弓，除非另有说明。</p>"
 		},
 		"Composite Shortbow": {
-			"name": "Composite Shortbow",
-			"description": "<p>This shortbow is made from horn, wood, and sinew laminated together to increase the power of its pull and the force of its projectile. Its compact size and power make it a favorite of mounted archers. Any time an ability is specifically restricted to a shortbow, it also applies to composite shortbows unless otherwise stated.</p>"
+			"name": "复合短弓 Composite Shortbow",
+			"description": "<p>这种抛射武器是由角、木头和肌腱复合而成，以增加其拉力和抛射力。它的尺寸和力量使它成为了骑乘射手的最爱。任何被特别限制于短弓上的能力，也同时适用于复合短弓，除非另有说明。</p>"
 		},
 		"Comprehension Elixir (Greater)": {
 			"name": "Comprehension Elixir (Greater)",
@@ -2246,8 +2246,8 @@
 			"description": "<p><strong>Activate</strong> 1 minute (Interact)</p>\n<p>Cave worm repellent is a highly noxious oil that can be applied to a creature or sprinkled in a circle around a 10-foot-radius area. In either case, after it is applied, it lasts for 24 hours or until it is scrubbed clean with 1 minute of work.</p>\n<p>When applied to a creature, the repellent causes cave worms of the indicated type to avoid attacking that creature in melee as long as they have something else nearby to attack. The repellent does not deter a cave worm from making ranged attacks against a coated target. If no creatures are within a cave worm's reach and it wants to approach and make a melee attack, it approaches and attacks a non-coated creature if it can without spending more actions to do so.</p>\n<p>If the coated creature is swallowed by the designated type of cave worm, the cave worm must succeed at a Fortitude save or involuntarily regurgitate the swallowed creature on the next round (a single action).</p>\n<p>When sprinkled around an area, cave worm repellent negates any chance of a random encounter with the particular type of cave worm in that area, as the creatures purposefully avoid the affected area.</p>\n<p>Other types of repellent that function similarly to this one might exist at the GM's discretion. Uncommon or rare creatures are typically much harder to repel, and repellent against them might necessitate harvesting ingredients from the creatures themselves (such as the creature's liver or a certain gland).</p>\n<hr />\n<p><strong>Craft Requirements</strong> The initial raw ingredients must include a crimson worm's liver.</p>"
 		},
 		"Crossbow": {
-			"name": "Crossbow",
-			"description": "<p>This ranged weapon has a bow-like assembly mounted on a handled frame called a tiller. The tiller has a mechanism to lock the bowstring in place, attached to a trigger mechanism that releases the tension and launches a bolt.</p>"
+			"name": "弩 Crossbow",
+			"description": "<p>这种远程武器有一个类似弓形的组件，安装在一个被称为舵柄的框架上。舵柄有一个将弓弦锁定在适当位置的机件，并与一个释放张力并发射矢的扳机相连。</p>"
 		},
 		"Crowbar": {
 			"name": "Crowbar",
@@ -2370,8 +2370,8 @@
 			"description": "<p>This thick substance is distilled from the mind-robbing cytillesh fungus, though it lacks memory-altering capabilities.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> Interact (Injury)</p>\n<p><strong>Saving Throw</strong> @Check[type:fortitude|dc:19]</p>\n<p><strong>Maximum Duration</strong> 4 rounds</p>\n<p><strong>Stage 1</strong> [[/r {1d10}[poison]]]{1d10 poison damage} (1 round)</p>\n<p><strong>Stage 2</strong> [[/r {1d12}[poison]]]{1d12 poison damage} (1 round)</p>\n<p><strong>Stage 3</strong> [[/r {2d10}[poison]]]{2d10 poison damage} (1 round)</p>"
 		},
 		"Dagger": {
-			"name": "Dagger",
-			"description": "<p>This small, bladed weapon is held in one hand and used to stab a creature in close combat. It can also be thrown.</p>"
+			"name": "匕首 Dagger",
+			"description": "<p>这种小型有刃的武器可以单手持握并在近战中刺伤生物。也可以用来投掷。</p>"
 		},
 		"Dagger Pistol": {
 			"name": "Dagger Pistol",
@@ -3958,8 +3958,8 @@
 			"description": "<p>This silver and copper framework is shaped to hold four focusing lenses, one behind the other, from smallest to largest. It has a socketed base to be mounted into a stand, such as that found in a lighthouse lantern. The Fulcrum Lattice was specifically designed to hold the four fulcrum lenses from smallest to largest (ebon, crimson, ochre, emerald), and it hums slightly while within 10 feet of any fulcrum lens. A fulcrum lens slotted into the Fulcrum Lattice has no Bulk; the lattice remains at 1 Bulk and can be carried easily. Inserting or removing a lens from the Fulcrum Lattice requires a single Interact action.</p>\n<p>The Fulcrum Lattice channels the power of fulcrum lenses joined with it. While you hold the Fulcrum Lattice, lenses socketed into it are considered to be in your hand for the purpose of activating their abilities. When you make a melee spell attack with a lens in the Fulcrum Lattice, you use the highest melee spell attack modifier of any lens in the lattice, or you can use your melee attack modifier with simple weapons if it's greater.</p>"
 		},
 		"Full Plate": {
-			"name": "Full Plate",
-			"description": "<p>Plate mail consists of interlocking plates that encase nearly the entire body in a carapace of steel. It is costly and heavy, and the wearer often requires help to don it correctly, but it provides some of the best defense armor can supply. A suit of this armor comes with an undercoat of padded armor and a pair of gauntlets.</p>"
+			"name": "全身甲 Full Plate",
+			"description": "<p>全身甲由连锁的板件组成，几乎将整个身体包裹在一个钢壳中。它既昂贵又沉重，使用者通常需要帮助才能正确穿戴，但它是最好的防御盔甲之一。这种盔甲包含一套内衬的布甲和一双手套。</p>"
 		},
 		"Fulminating Spear": {
 			"name": "Fulminating Spear",
@@ -4490,8 +4490,8 @@
 			"description": "<p>This polearm has a relatively short, 5‑foot shaft. The business end is a long spike with an axe blade attached.</p>"
 		},
 		"Half Plate": {
-			"name": "Half Plate",
-			"description": "<p>Half plate consists of most of the upper body plates used in full plate, with lighter or sparser steel plate protection for the arms and legs. This provides some of the protection of full plate with greater flexibility and speed. A suit of this armor comes with an undercoat of padded armor and a pair of gauntlets.</p>"
+			"name": "半身甲 Half Plate",
+			"description": "<p>半身甲由大部分全身甲的上半身板件组成，用较轻或较薄的钢板保护臂和腿。它既提供了一部分全身甲的保护，同时兼顾了更大的灵活性和速度。这种盔甲包含一套内衬的布甲（见下文）和一双手套。</p>"
 		},
 		"Halfling Sling Staff": {
 			"name": "Halfling Sling Staff",
@@ -4702,8 +4702,8 @@
 			"description": "<p>All herd masks are linked to at least one other herd mask and are usually sold in sets of multiple masks. Linked herd masks look similar to one another, with only the slightest of differences to tell them apart.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> envision</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You swap locations with another creature wearing a linked herd mask within 100 feet. If you and the creature you swapped with are disguised as each other, other creatures gain an immediate Perception check against the lower of your or the other wearer's Deception DCs to Impersonate each other. On a failure, they don't realize the swap occurred.</p>\n<hr />\n<p><strong>Craft Requirements</strong> Supply a casting of <em>@Compendium[pf2e.spells-srd.VlNcjmYyu95vOUe8]{Dimension Door}</em>. You can link a herd mask you create to another herd mask in your possession when you finish crafting it, which causes it to be linked to the chosen mask as well as all other herd masks that are also linked to the chosen mask.</p>"
 		},
 		"Hide Armor": {
-			"name": "Hide Armor",
-			"description": "<p>A mix of furs, sturdy hide, and sometimes molded boiled leather, this armor provides protection due to its layers of leather, though its bulkiness slows the wearer down and decreases mobility.</p>"
+			"name": "革甲 Hide Armor",
+			"description": "<p>这种盔甲混合了毛皮、结实的皮革，有时还有成型的熟皮，它的多层皮革提供了保护，尽管它的笨重会减慢穿戴者的速度，并降低其活动性。</p>"
 		},
 		"Hobbling Snare": {
 			"name": "Hobbling Snare",
@@ -5346,8 +5346,8 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<p>This tingly solution increases the elasticity and contraction of your leg muscles. For 1 minute after drinking this elixir, you can @Compendium[pf2e.actionspf2e.2HJ4yuEFY1Cast4h]{High Jump} or @Compendium[pf2e.actionspf2e.JUvAvruz7yRQXfz2]{Long Jump} as a single action instead of 2 actions. If you do, you don't perform the initial Stride (nor do you fail if you don't Stride 10 feet).</p>"
 		},
 		"Leather Armor": {
-			"name": "Leather Armor",
-			"description": "<p>A mix of flexible and molded boiled leather, a suit of this type of armor provides some protection with maximum flexibility.</p>"
+			"name": "皮甲 Leather Armor",
+			"description": "<p>这种盔甲混合了柔韧的生皮和成型的熟皮，在最大限度的灵活下提供了保护。</p>"
 		},
 		"Leather flagon with Caydenite symbol": {
 			"name": "Leather flagon with Caydenite symbol",
@@ -6442,8 +6442,8 @@
 			"description": "<p>Granted by Katapesh's Pactmasters to influential merchants, exceptional Zephyr Guards, and favorite retainers, these blue crystal-studded platinum rings sharpen their wearers' urban instincts.</p>\n<p>You gain a +3 item bonus to Mercantile Lore checks while wearing the ring, and you can attempt checks that require a proficiency rank of master in Society.</p>\n<p>While invested, the ring grants a +2 item bonus to saving throws while you are in an urban setting, and this increases to a +3 item bonus if you have legendary proficiency in Guild Lore, Katapesh Lore, Mercantile Lore, or Society.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+2 item bonus to saving throws while you are in an urban setting</li>\n<li>+3 item bonus to saving throws while you are in an urban setting if you have legendary proficiency in Guild Lore, Katapesh Lore, Mercantile Lore, or Society.</li>\n</ul>"
 		},
 		"Padded Armor": {
-			"name": "Padded Armor",
-			"description": "<p>This armor is simply a layer of heavy, quilted cloth, but it is sometimes used because it's so inexpensive. Padded armor is easier to damage and destroy than other types of armor. Heavy armor comes with a padded armor undercoat included in its Price, though it loses the comfort trait when worn under heavy armor. You can wear just that padded armor or undercoat to sleep in, if your heavy armor is destroyed, or when otherwise not wearing the full heavy armor. This allows you to keep the armor invested and benefit from the power of any runes on the associated heavy armor, but no one else can wear your heavy armor without the padded undercoat.</p>"
+			"name": "布甲 Padded Armor",
+			"description": "<p>这种盔甲只是简单的一件厚重的，有衬芯的衣服，但因为很便宜，也时常会被用到。布甲比其他类型的盔甲更容易被损害和破坏。重型盔甲的价格中包含了一件内衬布甲，但将它穿在重型盔甲下时会失去舒适特征。如果你的重型盔甲被破坏或者你不穿全套重型盔甲时，你可以只穿那件内衬布甲睡觉。这种方法允许你保有任何附着在重型盔甲上的符文的力量，没有人可以不用内衬布甲就穿着你的重甲。</p>"
 		},
 		"Paint Set": {
 			"name": "Paint Set",
@@ -7954,8 +7954,8 @@
 			"description": "<p>The signature weapon of the Red Mantis assassins, this curved blade is serrated like a saw, hence the name.</p>"
 		},
 		"Scale Mail": {
-			"name": "Scale Mail",
-			"description": "<p>Scale mail consists of many metal scales sewn onto a reinforced leather backing, often in the form of a long shirt that protects the torso, arms, and legs.</p>"
+			"name": "鳞甲 Scale Mail",
+			"description": "<p>鳞甲由许多缝制在加固皮背衬上的金属鳞片组成，通常以长衫的形式保护你的躯干、臂和腿。</p>"
 		},
 		"Scarab Cuirass": {
 			"name": "Scarab Cuirass",
@@ -9066,8 +9066,8 @@
 			"description": "<p>Splints can be applied to the following joints: finger, hand, wrist, elbow, knee, and shin. They are strapped to the desired area but are more rigid in structure than supports and braces, with metal or wooden bars pulled firmly against the bone structure to provide constant support (ring splints only attach to a single digit). They are a little less flexible, but you still have full use of your limbs and fingers when using one. You still have full mobility of the limb when not wearing it, but the limb becomes painful and feels less secure without the extra support it normally has, which might present physical symptoms.</p>"
 		},
 		"Splint Mail": {
-			"name": "Splint Mail",
-			"description": "<p>This type of armor is chain mail reinforced with flexible, interlocking metal plates, typically located on the wearer's torso, upper arms, and legs. A suit of this armor comes with an undercoat of padded armor and a pair of gauntlets.</p>"
+			"name": "板条甲 Splint Mail",
+			"description": "<p>这种盔甲在链甲上灵活加固并连锁金属板件，通常位于穿戴者的躯干、上臂和腿上。这种盔甲包含一套内衬的布甲和一双手套</p>"
 		},
 		"Spoon Gun": {
 			"name": "Spoon Gun",
@@ -9446,8 +9446,8 @@
 			"description": "<p><strong>Activate</strong><span class=\"pf2-icon\">1</span> Interact</p>\n<p>The steamflight pack allows its user to fly without using magic or wings. Each steamflight pack looks like a large brass backpack with two large nozzles mounted on the sides pointing downward. It also features metal arms reaching around the front that terminate in handles with activation buttons on them. When the user holds down an activation button, a complex series of mechanisms pumps water from the large tank in the backpack and releases it through the nozzles as powerful jets of steam, enabling the user to fly short distances. Tilting the handle adjusts the nozzles' angles, allowing the user to control the direction of their flight.</p>\n<p>When active, the steamflight pack gives the user a fly Speed of 20 feet. It carries enough water for 20 minutes of operation and can be refilled in five minutes with a supply of normal water and a funnel.</p>\n<p><strong>Activate</strong><span class=\"pf2-icon\">2</span> Interact</p>\n<p><strong>Effect</strong> You turn the steamflight pack on or off.</p>"
 		},
 		"Steel Shield": {
-			"name": "Steel Shield",
-			"description": "<p>Like wooden shields, steel shields come in a variety of shapes and sizes. Though more expensive than wooden shields, they are much more durable.</p>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>Hardness</th>\n<th>HP</th>\n<th>BT</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>5</td>\n<td>20</td>\n<td>10</td>\n</tr>\n</tbody>\n</table>"
+			"name": "钢盾 Steel Shield",
+			"description": "<p>如同木盾，钢盾也有多种形状和尺寸。虽然比木盾昂贵，但也更加耐用。</p>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>硬度</th>\n<th>HP</th>\n<th>BT</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>5</td>\n<td>20</td>\n<td>10</td>\n</tr>\n</tbody>\n</table>"
 		},
 		"Stepping Stone Shot": {
 			"name": "Stepping Stone Shot",
@@ -9554,8 +9554,8 @@
 			"description": "<p>You affix a trip line or other trigger to a group of either stones or wooden stakes to strike a creature that enters the snare's square. The creature must attempt a @Check[type:reflex|dc:26|basic:true] saving throw. If you choose stones, the snare deals 9d8 bludgeoning damage; if you choose spikes, it deals 9d8 piercing damage.</p>"
 		},
 		"Studded Leather Armor": {
-			"name": "Studded Leather Armor",
-			"description": "<p>This leather armor is reinforced with metal studs and sometimes small metal plates, providing most of the flexibility of leather armor with more robust protection.</p>"
+			"name": "镶嵌皮甲 Studded Leather Armor",
+			"description": "<p>这种皮甲用金属铆钉加固，有时也用小金属板加固，使皮甲保留大部分的柔韧性的同时得到更有力的保护。</p>"
 		},
 		"Stunning Snare": {
 			"name": "Stunning Snare",
@@ -10062,8 +10062,8 @@
 			"description": ""
 		},
 		"Tower Shield": {
-			"name": "Tower Shield",
-			"description": "<p>These massive shields can be used to provide cover to nearly the entire body. Due to their size, they are typically made of wood reinforced with metal. AC increases to +4 if you are using the Take Cover action.</p>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>Hardness</th>\n<th>HP</th>\n<th>BT</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>5</td>\n<td>20</td>\n<td>10</td>\n</tr>\n</tbody>\n</table>"
+			"name": "塔盾 Tower Shield",
+			"description": "<p>这种巨大的盾牌几乎可以复盖整个身体。由于尺寸因素，通常用金属加固的木材制成。</p>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>硬度</th>\n<th>HP</th>\n<th>BT</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>5</td>\n<td>20</td>\n<td>10</td>\n</tr>\n</tbody>\n</table>"
 		},
 		"Towering sculpture by a master": {
 			"name": "Towering sculpture by a master",
@@ -10978,8 +10978,8 @@
 			"description": "<p>This roughly hewn ruby figurine shimmers with a deep red hue and is carved into the likeness of an ornery hippopotamus. When activated, it transforms into an enraged @Compendium[pf2e.pathfinder-bestiary-2.5CixyyBkCLj2VI8q]{Hippopotamus} that sees everything within 30 feet of its activation area as its territory. It will relentlessly and ferociously attack anyone within this area except you, but it ignores your commands in favor of defending its area. The hippopotamus is active for 1 minute before reverting to its statue shape, satisfied that it has punished all possible interlopers into its territory. The figurine can be used only once per day.</p>"
 		},
 		"Wooden Shield": {
-			"name": "Wooden Shield",
-			"description": "<p>Though they come in a variety of shapes and sizes, the protection offered by wooden shields comes from the stoutness of their materials. While wooden shields are less expensive than steel shields, they break more easily.</p>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>Hardness</th>\n<th>HP</th>\n<th>BT</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3</td>\n<td>12</td>\n<td>6</td>\n</tr>\n</tbody>\n</table>"
+			"name": "木盾 Wooden Shield",
+			"description": "<p>虽然它们的形状和尺寸各不相同，但木盾提供的保护来自其材料的坚固性。虽然木盾比钢盾便宜，但它们更容易破损。</p>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>硬度</th>\n<th>HP</th>\n<th>BT</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3</td>\n<td>12</td>\n<td>6</td>\n</tr>\n</tbody>\n</table>"
 		},
 		"Wooden Taws": {
 			"name": "Wooden Taws",
