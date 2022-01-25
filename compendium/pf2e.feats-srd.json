@@ -134,12 +134,12 @@
 			"description": "<p><strong>Access</strong> Mihrini ethnicity</p>\n<hr />\n<p>You've fiddled with knots, locks, and blacksmith's puzzles since you were a child to give your hands something to do. You gain the trained proficiency rank in <a href=\"https://2e.aonprd.com/Skills.aspx?ID=17\">Thievery</a> (or another skill of your choice, if you're already trained in Thievery). If you roll a success on a Thievery check to Pick a Lock, you get a critical success instead.</p>"
 		},
 		"Advanced Arcana": {
-			"name": "Advanced Arcana",
-			"description": "<p>You gain one wizard feat. For the purpose of meeting its prerequisites, your wizard level is equal to half your character level.</p>\n<hr />\n<p><strong>Special</strong> You can select this feat more than once. Each time you select it, you gain another wizard feat.</p>"
+			"name": "进阶奥法 Advanced Arcana",
+			"description": "<p>你获得一个法师专长。为了满足其先决条件，将你的法师等级视为你的等级减半。</p>\n<hr />\n<p><strong>特殊</strong> 你可以多次选择本专长。每次都必须选择不同的法师专长。</p>"
 		},
 		"Advanced Blood Potency": {
-			"name": "Advanced Blood Potency",
-			"description": "<p>You gain one sorcerer feat. For the purpose of prerequisites, your sorcerer level is half your character level.</p>\n<hr />\n<p><strong>Special</strong> You can select this feat more than once. Each time you do, you gain another sorcerer feat.</p>"
+			"name": "进阶血脉潜能 Advanced Blood Potency",
+			"description": "<p>你获得一个术士专长。为了满足其先决条件，将你的术士等级视为你的等级减半。/p>\n<hr />\n<p><strong>特殊</strong> 你可以多次选择本专长。每次都必须选择不同的术士专长。</p>"
 		},
 		"Advanced Bloodline": {
 			"name": "Advanced Bloodline",
@@ -154,8 +154,8 @@
 			"description": "<p>You gain one inventor feat. For the purpose of meeting its prerequisites, your inventor level is equal to half your character level.</p>\n<p><strong>Special</strong> You can select this feat more than once. Each time you select it, you gain another inventor feat.</p>"
 		},
 		"Advanced Concoction": {
-			"name": "Advanced Concoction",
-			"description": "<p>You gain one alchemist feat. For the purpose of meeting its prerequisites, your alchemist level is equal to half your character level.</p>\n<hr />\n<p><strong>Special</strong> You can select this feat more than once. Each time you select it, you gain another alchemist feat.</p>"
+			"name": "进阶调和 Advanced Concoction",
+			"description": "<p>你获得一个炼金术师专长。为了满足其先决条件，将你的炼金术师等级视为你的等级减半。</p>\n<hr />\n<p><strong>特殊</strong> 你可以多次选择本专长。每次都必须选择不同的炼金术师专长。</p>"
 		},
 		"Advanced Construct Companion": {
 			"name": "进阶构装伙伴 Advanced Construct Companion",
@@ -170,12 +170,12 @@
 			"description": "<p>凭借你的信仰，你得以一窥神祇领域更深层的秘密。你从你在神授领域中选择的领域里获得高阶领域法术。你能够将这个法术作为虔诚法术施展。你的聚能池中的聚能点容量提升1。</p>"
 		},
 		"Advanced Devotion": {
-			"name": "Advanced Devotion",
-			"description": "<p>You gain one champion feat. For the purpose of meeting its prerequisites, your champion level is equal to half your character level.</p>"
+			"name": "进阶虔诚 Advanced Devotion",
+			"description": "<p>你获得一个神卫专长。为了满足其先决条件，将你的神卫等级视为你的等级减半。特殊：你可以多次选择本专长。每次都必须选择不同的神卫专长。</p>"
 		},
 		"Advanced Dogma": {
 			"name": "Advanced Dogma",
-			"description": "<p>You gain one cleric feat. For the purpose of meeting its prerequisites, your cleric level is equal to half your character level.</p>\n<hr />\n<p><strong>Special</strong> You can select this feat more than once. Each time you select it, you gain another cleric feat.</p>"
+			"description": "<p>你获得一个牧师专长。为了满足其先决条件，将你的牧师等级视为你的等级减半。</p>\n<hr />\n<p><strong>特殊</strong> 你可以多次选择本专长。每次都必须选择不同的牧师专长。</p>"
 		},
 		"Advanced Domain": {
 			"name": "Advanced Domain",
@@ -194,32 +194,32 @@
 			"description": "<p>You gain one swashbuckler feat. For the purpose of meeting its prerequisites, your swashbuckler level is equal to half your character level.</p>\n<hr />\n<p><strong>Special</strong> You can select this feat more than once. Each time you select it, you gain another swashbuckler feat.</p>"
 		},
 		"Advanced Fury": {
-			"name": "Advanced Fury",
-			"description": "<p>You gain one barbarian feat. For the purpose of meeting its prerequisites, your barbarian level is equal to half your character level.</p>\n<hr />\n<p><strong>Special</strong> You can select this feat more than once. Each time you select it, you gain another barbarian feat.</p>"
+			"name": "进阶狂怒 Advanced Fury",
+			"description": "<p>你获得一个野蛮人专长。为了满足其先决条件，将你的野蛮人等级视为你的等级减半。</p>\n<hr />\n<p><strong>特殊</strong> 你可以多次选择本专长。每次都必须选择不同的野蛮人专长。</p>"
 		},
 		"Advanced General Training": {
 			"name": "进阶通用训练 Advanced General Training",
 			"description": "<p>在冒险途中，你的适应力让自己习得了许多有用的能力。你获得1个7级或更低等级的通用专长（general feat），你必须满足专长的先决条件（prerequisites）。</p>\n<hr />\n<p><strong>特殊</strong> 你能够多次选取该专长，每次选取都要选择不同的专长。</p>"
 		},
 		"Advanced Hunter's Trick": {
-			"name": "Advanced Hunter's Trick",
-			"description": "<p>You gain one ranger feat. For the purpose of meeting its prerequisites, your ranger level is equal to half your character level.</p>\n<hr />\n<p><strong>Special</strong> You can select this feat more than once. Each time you select it, you gain another ranger feat.</p>"
+			"name": "进阶猎人技巧 Advanced Hunter's Trick",
+			"description": "<p>你获得一个游侠专长。为了满足其先决条件，将你的游侠等级视为你的等级减半。</p>\n<hr />\n<p><strong>特殊</strong> 你可以多次选择本专长。每次都必须选择不同的游侠专长。</p>"
 		},
 		"Advanced Kata": {
-			"name": "Advanced Kata",
-			"description": "<p>You gain one monk feat. For the purpose of meeting its prerequisites, your monk level is equal to half your character level.</p>\n<hr />\n<p><strong>Special</strong> You can select this feat more than once. Each time you select it, you gain another monk feat.</p>"
+			"name": "进阶形 Advanced Kata",
+			"description": "<p>你获得一个武僧专长。为了满足其先决条件，将你的武僧等级视为你的等级减半。</p>\n<hr />\n<p><strong>特殊</strong> 你可以多次选择本专长。每次都必须选择不同的武僧专长。</p>"
 		},
 		"Advanced Maneuver": {
-			"name": "Advanced Maneuver",
-			"description": "<p>You gain a fighter feat. For the purpose of meeting its prerequisites, your fighter level is equal to half your character level.</p>\n<hr />\n<p><strong>Special</strong> You can select this feat more than once. Each time you select it, you gain another fighter feat.</p>"
+			"name": "进阶演习 Advanced Maneuver",
+			"description": "<p>你获得一个战士专长。为了满足其先决条件，将你的战士等级视为你的等级减半。</p>\n<hr />\n<p><strong>特殊</strong> 你可以多次选择本专长。每次都必须选择不同的战士专长。</p>"
 		},
 		"Advanced Martial Magic": {
 			"name": "Advanced Martial Magic",
 			"description": "<p>You gain one magus feat. For the purpose of meeting its prerequisites, your magus level is equal to half your character level.</p>\n<hr />\n<p><strong>Special</strong> You can select this feat more than once. Each time you select it, you gain another magus feat.</p>"
 		},
 		"Advanced Muse's Whispers": {
-			"name": "Advanced Muse's Whispers",
-			"description": "<p>You gain one bard feat. For the purpose of meeting its prerequisites, your bard level is equal to half your character level.</p>\n<p><strong>Special</strong> You can select this feat more than once. Each time you select it, you gain another bard feat.</p>"
+			"name": "进阶缪斯低语 Advanced Muse's Whispers",
+			"description": "<p>你获得一个吟游诗人专长。为了满足其先决条件，将你的吟游诗人等级视为你的等级减半。</p>\n<p><strong>特殊</strong> 你可以多次选择本专长。每次都必须选择不同的吟游诗人专长。</p>"
 		},
 		"Advanced Mysteries": {
 			"name": "Advanced Mysteries",
@@ -262,8 +262,8 @@
 			"description": "<p>Your ocular processors are augmented with advanced targeting systems, which allow you to more easily pinpoint your enemy and read their movements. You can cast <em>@Compendium[pf2e.spells-srd.Gb7SeieEvd0pL2Eh]{True Strike}</em> once per day as a 1st-level arcane innate spell.</p>"
 		},
 		"Advanced Trickery": {
-			"name": "Advanced Trickery",
-			"description": "<p>You gain one rogue feat. For the purpose of meeting its prerequisites, your rogue level is equal to half your character level.</p>\n<hr />\n<p><strong>Special</strong> You can select this feat more than once. Each time you select it, you gain another rogue feat.</p>"
+			"name": "进阶诡计 Advanced Trickery",
+			"description": "<p>你获得一个游荡者专长。为了满足其先决条件，将你的游荡者等级视为你的等级减半。</p>\n<hr />\n<p><strong>特殊</strong> 你可以多次选择本专长。每次都必须选择不同的游荡者专长。</p>"
 		},
 		"Advanced Weapon Training": {
 			"name": "Advanced Weapon Training",
@@ -274,8 +274,8 @@
 			"description": "<p>Your eidolon's attack evolves.</p>\n<p>Choose one of your eidolon's starting melee unarmed attacks. It gains one of the following traits, chosen when you gain the feat: disarm, grapple, nonlethal, shove, trip, or versatile bludgeoning, piercing, or slashing.</p>"
 		},
 		"Advanced Wilding": {
-			"name": "Advanced Wilding",
-			"description": "<p>You gain one druid feat. For the purpose of meeting its prerequisites, your druid level is equal to half your character level.</p>\n<hr />\n<p><strong>Special</strong> You can select this feat more than once. Each time you select it, you gain another druid feat.</p>"
+			"name": "进阶野性 Advanced Wilding",
+			"description": "<p>你获得一个德鲁伊专长。为了满足其先决条件，将你的德鲁伊等级视为你的等级减半。</p>\n<hr />\n<p><strong>特殊</strong> 你可以多次选择本专长。每次都必须选择不同的德鲁伊专长。</p>"
 		},
 		"Advanced Witchcraft": {
 			"name": "Advanced Witchcraft",
@@ -383,7 +383,7 @@
 		},
 		"Alchemist Dedication": {
 			"name": "Alchemist Dedication",
-			"description": "<p>You put your alchemical interest into practice. You become trained in alchemical bombs and Crafting; if you were already trained in Crafting, you instead become trained in a skill of your choice. You become trained in alchemist class DC. You gain the alchemist's infused reagents class feature, gaining a number of reagents each day equal to your level. You also gain the Alchemical Crafting feat and four additional formulas for 1st-level alchemical items, as well as the ability to create free items during your daily preparations. Your advanced alchemy level is 1 and doesn't increase on its own.</p>\n<p><strong>Special</strong> You cannot select another dedication feat until you have gained two other feats from the alchemist archetype.</p>"
+			"description": "<p>你将对炼金术的兴趣转变成系统的训练。你在炼金炸弹和手艺Crafting中受训；如果你已经受训于手艺Crafting，你在另一个你自选的技能中受训。你在炼金术师职业DC中受训。你获得炼金术师灌注试剂Infused Reagents职业特性，获得等同于你等级灌注试剂数量。你也获得炼金工艺Alchemical Crafting专长，以及额外4个1级炼金物品的公式，也能够在每日准备中创造免费的物品。你的高阶炼金术等级是1级，并且不会自动升级。</p>\n<p><strong>特殊</strong> 你不能选择其他入门专长，除非你从炼金术师变体中获得了其他两个专长。</p>"
 		},
 		"Aldori Duelist Dedication": {
 			"name": "Aldori Duelist Dedication",
@@ -674,8 +674,8 @@
 			"description": "<p>As your connection to water grows, you can see more easily in places with less light, such as the depths of the ocean. You gain @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Low-Light Vision}, or you gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision} if your ancestry already has low-light vision.</p>\n<hr />\n<p><strong>Special</strong> If your ancestry has neither low-light vision nor darkvision, you can take this ancestry feat a second time to gain darkvision. You can't retrain out of this feat.</p>"
 		},
 		"Arcane Breadth": {
-			"name": "Arcane Breadth",
-			"description": "<p>You can cast more arcane spells each day. Increase the spell slots you gain from wizard archetype feats by 1 for each spell level other than your two highest spell slots.</p>"
+			"name": "奥术扩展 Arcane Breadth",
+			"description": "<p>你每天可以施展更多的法师法术。除了最高两个环级以外，每个环级你都额外获得一个来自法师变体专长的每日法术位。</p>"
 		},
 		"Arcane Camouflage": {
 			"name": "Arcane Camouflage",
@@ -714,8 +714,8 @@
 			"description": "<p>The magic powering you makes it difficult for outside magic to affect you. You gain the Resist Magic reaction.</p>\n<p><strong>Enhancement</strong> Your safeguards improve. When you Resist Magic, you gain a number of temporary Hit Points equal to the spell level of the triggering effect.</p>"
 		},
 		"Arcane School Spell": {
-			"name": "Arcane School Spell",
-			"description": "<p>Select one arcane school of magic. You gain the school's initial school spell. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can Refocus by studying.</p>"
+			"name": "奥术学派法术 Arcane School Spell",
+			"description": "<p>选择一个奥术魔法学派。你获得该学派的初始学派法术。如果你没有聚能池，你获得一个含有1点聚能点的聚能池，通过学习，你可以再聚能Refocus。</p>"
 		},
 		"Arcane Sense": {
 			"name": "奥法感知 Arcane Sense",
@@ -1090,16 +1090,16 @@
 			"description": "<p>You've learned how to pull off a sudden noisemaker at just the right moment in your display, a technique that can disrupt precise wording. You gain the @Compendium[pf2e.actionspf2e.b3h3QqvwS5fnaiu1]{Banshee Cry} fireworks display.</p>"
 		},
 		"Barbarian Dedication": {
-			"name": "Barbarian Dedication",
-			"description": "<p>You become trained in Athletics; if you were already trained in Athletics, you instead become trained in a skill of your choice. You become trained in barbarian class DC. You can use the Rage action. Choose an instinct as you would if you were a barbarian. You have that instinct for all purposes and become bound by its anathema, but you don't gain any of the other abilities it grants.</p>\n<hr />\n<p><strong>Special</strong> You cannot select another dedication feat until you have gained two other feats from the barbarian archetype.</p>"
+			"name": "野蛮人入门 Barbarian Dedication",
+			"description": "<p>你在运动Athletics中受训；如果你已经受训于运动Athletics，你在另一个你自选的技能中受训。你在野蛮人职业DC中受训。你可以使用狂暴Rage动作。你如野蛮人一样选择一个本能。你在任何情况下都视为拥有这个本能，并受到对应禁忌的限制，但你不会得到本能给予的其他能力。</p>\n<hr />\n<p><strong>特殊</strong> 你不能选择其他入门专长，除非你从野蛮人变体中获得了其他两个专长。</p>"
 		},
 		"Barbarian Resiliency": {
-			"name": "Barbarian Resiliency",
-			"description": "<p>You gain 3 additional Hit Points for each barbarian archetype class feat you have. As you continue selecting barbarian archetype class feats, you continue to gain additional Hit Points in this way.</p>"
+			"name": "野蛮人韧性 Barbarian Resiliency",
+			"description": "<p>你获得的每个野蛮人的变体职业专长都会给予你3点额外生命值。如果你继续选择野蛮人变体职业专长，你就会继续按这种方式获得额外生命值。</p>"
 		},
 		"Bard Dedication": {
-			"name": "Bard Dedication",
-			"description": "<p>You cast spells like a bard and gain the Cast a Spell activity. You gain a spell repertoire with two common cantrips from the occult spell list, or any other cantrips you learn or discover. You're trained in spell attack rolls and spell DCs for occult spells. Your key spellcasting ability for bard archetype spells is Charisma, and they are occult bard spells. You become trained in Occultism and Performance; for each of these skills in which you were already trained, you instead become trained in a skill of your choice. Choose a muse as you would if you were a bard. You have that muse for all purposes, allowing you to take that muse's feats, but you don't gain any of the other abilities it grants.</p>\n<hr />\n<p><strong>Special</strong> You cannot select another dedication feat until you have gained two other feats from the bard archetype.</p>"
+			"name": "吟游诗人入门 Bard Dedication",
+			"description": "<p>你像一个吟游诗人一样施法。你获得施法Cast a Spell行动。你获得一个法术库，内含两个来自异能施法根源的常见戏法，这些戏法可以来自于本书或其他你学习或发现到的异能戏法。你在异能的法术攻击骰和法术DC中受训。你在吟游诗人变体法术中的施法主属性是魅力Charisma，可以施展的是异能根源的吟游诗人法术。你在神秘Occultism和表演Performance中受训；对于每一个你已经达成受训的上述技能，你都可以在你自选的另一个技能中受训。你如吟游诗人一样选择一个缪斯。你在任何情况下都视为拥有这个缪斯，这让你可以选择该缪斯的专长，但你不会得到缪斯给予的其他能力。</p>\n<hr />\n<p><strong>特殊</strong> 你不能选择其他入门专长，除非你从吟游诗人变体中获得了其他两个专长。</p>"
 		},
 		"Bardic Lore": {
 			"name": "逸闻知识 Bardic Lore",
@@ -1126,24 +1126,24 @@
 			"description": "<p>You smash, bust, and charge through solid obstacles without hesitation. Stride twice.</p>\n<p>Once during your movement, if your movement passes through or ends adjacent to a door, window, fence, wall, or similar obstacle, you can attempt an Athletics check to @Compendium[pf2e.actionspf2e.SjmKHgI7a5Z9JzBx]{Force Open} the obstacle with a +1 circumstance bonus to the roll; on a failure, your movement ends at that obstacle.</p>"
 		},
 		"Basic Arcana": {
-			"name": "Basic Arcana",
-			"description": "<p>You gain a 1st- or 2nd-level wizard feat of your choice.</p>"
+			"name": "基础奥法 Basic Arcana",
+			"description": "<p>你获得一个1级或2级的法师专长。</p>"
 		},
 		"Basic Bard Spellcasting": {
-			"name": "Basic Bard Spellcasting",
-			"description": "<p>You gain the basic spellcasting benefits. Each time you gain a spell slot of a new level from the bard archetype, add a common occult spell or another spell you learned or discovered to your repertoire, of the appropriate spell level.</p>"
+			"name": "基础吟游诗人施法 Basic Bard Spellcasting",
+			"description": "<p>你获得基础施法能力。每当你从吟游诗人变体中获得一个新环级的法术位，为你的法术库添加一个环级合适的常见异能法术或其他你学习或发现到的异能法术。</p>"
 		},
 		"Basic Beast Gunner Spellcasting": {
 			"name": "Basic Beast Gunner Spellcasting",
 			"description": "<p>You've unlocked the first secrets of beast guns, granting you the power of their synergistic magic. You gain the basic spellcasting benefits. Each time you gain a spell slot of a new level from this archetype, add a spell of the appropriate spell level to your repertoire, either a common spell of your chosen tradition or another spell of that tradition you've learned or discovered.</p>"
 		},
 		"Basic Blood Potency": {
-			"name": "Basic Blood Potency",
-			"description": "<p>You gain a 1st- or 2nd-level sorcerer feat.</p>"
+			"name": "基础血脉潜能 Basic Blood Potency",
+			"description": "<p>你获得一个1级或2级的术士专长。</p>"
 		},
 		"Basic Bloodline Spell": {
-			"name": "Basic Bloodline Spell",
-			"description": "<p>You gain your bloodline's initial bloodline spell. If you don't already have one, you also gain a focus pool of 1 Focus Point, which you can Refocus without any special effort.</p>"
+			"name": "基础血统法术 Basic Bloodline Spell",
+			"description": "<p>你获得所选血统的初始血统法术。如果你没有聚能池，你获得一个含有1点聚能点的聚能池，你不需要做什么特别的工作就可以再聚能Refocus。</p>"
 		},
 		"Basic Breakthrough": {
 			"name": "Basic Breakthrough",
@@ -1158,28 +1158,28 @@
 			"description": "<p>You gain the basic spellcasting benefits. Each time you gain a spell slot of a new level from this archetype, add a spell of that spell level from your chosen tradition to your repertoire-either a common spell or another spell you've learned or discovered.</p>"
 		},
 		"Basic Cleric Spellcasting": {
-			"name": "Basic Cleric Spellcasting",
-			"description": "<p>You gain the basic spellcasting benefits. You can prepare your deity's spells in your spell slots of the appropriate level from the cleric archetype.</p>"
+			"name": "基础牧师施法 Basic Cleric Spellcasting",
+			"description": "<p>你获得基础施法能力。你可以在来自牧师变体的法术位中准备所选神祗的法术，只要法术环级合适。</p>"
 		},
 		"Basic Concoction": {
-			"name": "Basic Concoction",
-			"description": "<p>You gain a 1st- or 2nd-level alchemist feat.</p>"
+			"name": "基础调和 Basic Concoction",
+			"description": "<p>你获得一个1级或2级的炼金术师专长。</p>"
 		},
 		"Basic Deduction": {
 			"name": "Basic Deduction",
 			"description": "<p>You gain a 1st- or 2nd-level investigator feat of your choice.</p>"
 		},
 		"Basic Devotion": {
-			"name": "Basic Devotion",
-			"description": "<p>You gain a 1st- or 2nd-level champion feat.</p>"
+			"name": "基础虔诚 Basic Devotion",
+			"description": "<p>你获得一个1级或2级的神卫专长。</p>"
 		},
 		"Basic Dogma": {
-			"name": "Basic Dogma",
-			"description": "<p>You gain a 1st- or 2nd-level cleric feat.</p>"
+			"name": "基础信条 Basic Dogma",
+			"description": "<p>你获得一个1环或2环的牧师专长。</p>"
 		},
 		"Basic Druid Spellcasting": {
-			"name": "Basic Druid Spellcasting",
-			"description": "<p>You gain the basic spellcasting benefits.</p>"
+			"name": "基础德鲁伊施法 Basic Druid Spellcasting",
+			"description": "<p>你获得基础施法能力。</p>"
 		},
 		"Basic Eldritch Archer Spellcasting": {
 			"name": "Basic Eldritch Archer Spellcasting",
@@ -1190,16 +1190,16 @@
 			"description": "<p>You gain a 1st- or 2nd-level swashbuckler feat of your choice.</p>"
 		},
 		"Basic Fury": {
-			"name": "Basic Fury",
-			"description": "<p>You gain a 1st- or 2nd-level barbarian feat.</p>"
+			"name": "基础狂怒 Basic Fury",
+			"description": "<p>你获得一个1级或2级的野蛮人专长。</p>"
 		},
 		"Basic Hunter's Trick": {
-			"name": "Basic Hunter's Trick",
-			"description": "<p>You gain a 1st- or 2nd-level ranger feat.</p>"
+			"name": "基础猎人技巧 Basic Hunter's Trick",
+			"description": "<p>你获得一个1级或2级的游侠专长。</p>"
 		},
 		"Basic Kata": {
-			"name": "Basic Kata",
-			"description": "<p>You gain a 1st- or 2nd-level monk feat.</p>"
+			"name": "基础形 Basic Kata",
+			"description": "<p>你获得一个1级或2级的武僧专长。</p>"
 		},
 		"Basic Lesson": {
 			"name": "Basic Lesson",
@@ -1210,8 +1210,8 @@
 			"description": "<p>You gain the basic bounded spellcasting benefits.</p>"
 		},
 		"Basic Maneuver": {
-			"name": "Basic Maneuver",
-			"description": "<p>You gain a 1st- or 2nd-level fighter feat.</p>"
+			"name": "基础演习 Basic Maneuver",
+			"description": "<p>你获得一个1级或2级的战士专长。</p>"
 		},
 		"Basic Martial Magic": {
 			"name": "Basic Martial Magic",
@@ -1222,8 +1222,8 @@
 			"description": "<p>You've learned to modify your innovation in order to enhance its capabilities beyond what an ordinary piece of equipment can accomplish. You gain a basic modification of your choice for your innovation. Your innovation must meet any requirements for the modification you choose, as normal.</p>"
 		},
 		"Basic Muse's Whispers": {
-			"name": "Basic Muse's Whispers",
-			"description": "<p>You gain a 1st- or 2nd-level bard feat.</p>"
+			"name": "基础缪斯低语 Basic Muse's Whispers",
+			"description": "<p>你获得一个1级或2级的吟游诗人专长。</p>"
 		},
 		"Basic Mysteries": {
 			"name": "Basic Mysteries",
@@ -1246,8 +1246,8 @@
 			"description": "<p>You gain a 1st- or 2nd-level gunslinger feat of your choice.</p>"
 		},
 		"Basic Sorcerer Spellcasting": {
-			"name": "Basic Sorcerer Spellcasting",
-			"description": "<p>You gain the basic spellcasting benefits. Each time you gain a spell slot of a new level from the sorcerer archetype, add a spell of the appropriate spell level to your repertoire: a common spell of your bloodline's tradition, one of your bloodline's granted spells, or another spell you have learned or discovered.</p>"
+			"name": "基础术士施法 Basic Sorcerer Spellcasting",
+			"description": "<p>你获得基础施法能力。每当你从术士变体中获得一个新环级的法术位，为你的法术库添加一个环级合适的法术：一个所选血统魔法根源的常见法术，一个所选血统提供的法术或其他你学习或发现到的法术。</p>"
 		},
 		"Basic Spellcasting": {
 			"name": "Basic Spellcasting",
@@ -1262,12 +1262,12 @@
 			"description": "<p>You gain a 1st- or 2nd-level summoner feat of your choice.</p>"
 		},
 		"Basic Trickery": {
-			"name": "Basic Trickery",
-			"description": "<p>You gain a 1st- or 2nd-level rogue feat.</p>"
+			"name": "基础诡计 Basic Trickery",
+			"description": "<p>你获得一个1级或2级的游荡者专长。</p>"
 		},
 		"Basic Wilding": {
-			"name": "Basic Wilding",
-			"description": "<p>You gain a 1st- or 2nd-level druid feat.</p>"
+			"name": "基础野性 Basic Wilding",
+			"description": "<p>你获得一个1级或2级的德鲁伊专长。</p>"
 		},
 		"Basic Witch Spellcasting": {
 			"name": "Basic Witch Spellcasting",
@@ -1278,8 +1278,8 @@
 			"description": "<p>You gain a 1st- or 2nd-level witch feat of your choice. Your familiar no longer has one less familiar ability than normal.</p>"
 		},
 		"Basic Wizard Spellcasting": {
-			"name": "Basic Wizard Spellcasting",
-			"description": "<p>You gain the basic spellcasting benefits. Each time you gain a spell slot of a new level from the wizard archetype, add two common spells of that level to your spellbook.</p>"
+			"name": "基础法师施法 Basic Wizard Spellcasting",
+			"description": "<p>你获得基础施法能力。每当你从法师变体中获得一个新环级的法术位，在你的法术书中添加两个环级合适的常见法术。</p>"
 		},
 		"Bastion Dedication": {
 			"name": "Bastion Dedication",
@@ -1514,8 +1514,8 @@
 			"description": "<p>You emulate your vampiric parent's techniques for drawing blood from a victim. Your fangs Strikes deal an additional [[/r {1d4}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Bleed Damage} on a critical hit.</p>"
 		},
 		"Bloodline Breadth": {
-			"name": "Bloodline Breadth",
-			"description": "<p>Your repertoire expands, and you can cast more spells of your bloodline's tradition each day. Increase the number of spells in your repertoire and number of spell slots you gain from sorcerer archetype feats by 1 for each spell level other than your two highest spell slots.</p>"
+			"name": "血统扩展 Bloodline Breadth",
+			"description": "<p>你的法术库扩展了，你每天也能施放更多的来自所选血统魔法根源的法术。除了最高两个环级以外，每个环级你都额外获得一个来自术士变体专长的法术库法术和每日法术位。</p>"
 		},
 		"Bloodline Conduit": {
 			"name": "Bloodline Conduit",
@@ -2102,16 +2102,16 @@
 			"description": "<p><strong>Frequency</strong> once per 10 minutes</p>\n<hr />\n<p>You fire your gun once, creating a devastating and unpredictable chain of events; perhaps your bullet strikes exactly the right spot on a water tower, causing it to flood and incite a stampede of horses which knock over a lantern that sets a city on fire. Whatever the exact chain reaction, and no matter how improbable, the indiscriminate catastrophe creates significant challenges for your enemies across a wide area while leaving everyone else alone.</p>\n<p>Make a Strike with a ranged weapon, and if you hit, you can make another Strike at a target within 30 feet of the first target. If you hit the second target, attempt to Strike a third target within 30 feet of the second target, and so on, continuing until you miss a target. You can cease the chain at any point; otherwise, it ends when you first miss an attack. However, you can't target the same creature more than once; each time you move to a new target, it must be a target you haven't made a Strike against yet during this particular use of Chain Reaction.</p>\n<p>This damage is caused by some improbable set of events that injures one target after another, rather than from actually making several shots. Perhaps you shot at a tree branch that then fell on the targets, or one target's scream caused another to accidentally set off their gun and shoot themselves in the foot. This means that only the first target suffers any special effects tied to the bullet (if it was magical ammunition, for example), but each target you hit still takes the same damage dealt by your Strike. Normally, all damage is of the same damage type as the initial bullet. However, the GM might choose to change the damage type based on their description of the chain reaction. For example, if one target was burned by fire, that target might take fire damage instead of physical damage.</p>"
 		},
 		"Champion Dedication": {
-			"name": "Champion Dedication",
-			"description": "<p>Choose a deity and cause as you would if you were a champion. You become trained in light, medium, and heavy armor. You become trained in Religion and your deity's associated skill; for each of these skills in which you were already trained, you instead become trained in a skill of your choice. You become trained in champion class DC.</p>\n<p>You are bound by your deity's anathema and must follow the champion's code and alignment requirements for your cause. You don't gain any other abilities from your choice of deity or cause.</p>\n<hr />\n<p><strong>Special</strong> You cannot select another dedication feat until you have gained two other feats from the champion archetype.</p>"
+			"name": "神卫入门 Champion Dedication",
+			"description": "<p>你如神卫一样选择一个神祗以及事业。你在轻甲、中甲以及重甲上受训。你在宗教Religion以及所选神祗的偏好技能上受训；对于每一个你已经达成受训的上述技能，你都可以在你自选的另一个技能中受训。你在神卫的职业DC中受训。</p>\n<p>你受限于神祗的禁忌，且必须遵循神卫事业的准则以及阵营要求。你不会得到所选神祗或事业给予的其他能力。</p>\n<hr />\n<p><strong>特殊</strong> 你不能选择其他入门专长，除非你从神卫变体中获得了其他两个专长。</p>"
 		},
 		"Champion Resiliency": {
-			"name": "Champion Resiliency",
-			"description": "<p>You gain 3 additional Hit Points for each champion archetype class feat you have. As you continue selecting champion archetype class feats, you continue to gain additional Hit Points in this way.</p>"
+			"name": "神卫韧性 Champion Resiliency",
+			"description": "<p>你获得的每个神卫的变体职业专长都会给予你3点额外生命值。如果你继续选择神卫变体职业专长，你就会继续按这种方式获得额外生命值。</p>"
 		},
 		"Champion's Reaction": {
-			"name": "Champion's Reaction",
-			"description": "<p>You can use the champion's reaction associated with your cause.</p>"
+			"name": "神卫反应 Champion's Reaction",
+			"description": "<p>你可以使用与你的事业相关的神卫反应。</p>"
 		},
 		"Champion's Sacrifice": {
 			"name": "神卫之牺牲 Champion's Sacrifice",
@@ -2218,8 +2218,8 @@
 			"description": "<p><strong>Trigger</strong> Your melee Strike kills a creature or knocks it unconscious, and another foe is adjacent to that creature.</p>\n<hr />\n<p>You swing clear through one foe and into another. Make a melee Strike against the second foe.</p>"
 		},
 		"Cleric Dedication": {
-			"name": "Cleric Dedication",
-			"description": "<p>You cast spells like a cleric. You gain access to the Cast a Spell activity. You can prepare two common cantrips each day from the divine spell list in this book or any other cantrips you learn or discover. You're trained in spell attack rolls and spell DCs for divine spells. Your key spellcasting ability for cleric archetype spells is Wisdom, and they are divine cleric spells. Choose a deity as you would if you were a cleric. You become bound by that deity's anathema. You become trained in Religion and your deity's associated skill; for each of these skills in which you were already trained, you instead become trained in a skill of your choice. You don't gain any other abilities from your choice of deity.</p>\n<hr />\n<p><strong>Special</strong> You cannot select another dedication feat until you have gained two other feats from the cleric archetype.</p>"
+			"name": "牧师入门 Cleric Dedication",
+			"description": "<p>你像一个牧师一样施法，并获得施法Cast a Spell行动。你每天可以准备两个来自神术施法根源的常见戏法，这些戏法可以来自于本书或其他你学习或发现到的神术戏法。你在神术的法术攻击骰和法术DC中受训。你在牧师变体法术中的施法主属性是感知Wisdom，可以施展的是神术根源的牧师法术。你如牧师一样选择一个神祗。你受限于该神祗的禁忌。你在宗教Religion和所选神祗的偏好技能中受训；对于每一个你已经达成受训的上述技能，你都可以在你自选的另一个技能中受训。你不会得到所选神祗给予的其他能力。</p>\n<hr />\n<p><strong>特殊</strong> 你不能选择其他入门专长，除非你从牧师变体中获得了其他两个专长。</p>"
 		},
 		"Clever Counterspell": {
 			"name": "Clever Counterspell",
@@ -2550,8 +2550,8 @@
 			"description": "<p>This display emits a cascade of loud bangs or glittering trails. While you initially designed the display to captivate your audience's attention, it turns out to have a surprisingly effective use in combat, suppressing auditory or visual effects behind your magnificent display. You gain the @Compendium[pf2e.actionspf2e.mech0dhb4eKbCAu0]{Coughing Dragon} fireworks display.</p>"
 		},
 		"Counter Perform": {
-			"name": "Counter Perform",
-			"description": "<p>You gain the counter performance composition spell. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can Refocus by engaging your muse.</p>"
+			"name": "反制表演 Counter Perform",
+			"description": "<p>你获得反制表演Counter Performance组曲法术。如果你没有聚能池，你获得一个含有1点聚能点的聚能池，通过与缪斯交流，你可以再聚能Refocus。</p>"
 		},
 		"Countercharm": {
 			"name": "Countercharm",
@@ -3282,8 +3282,8 @@
 			"description": "<p>You utter a litany of dreadful names, prophecies, and descriptions of realms beyond mortal comprehension, drawn from your study of forbidden tomes and scrolls. Even those who don't understand your language are unsettled by these dire secrets.</p>\n<p>Attempt an Occultism check and compare the result to the Will DC of an enemy within 30 feet, or to the Will DCs of any number of enemies within 30 feet if you are legendary in Occultism. Those creatures are temporarily immune for 24 hours.</p>\n<hr />\n<p><strong>Critical Success</strong> The target becomes @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confused} for 1 round and @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 1}.</p>\n<p><strong>Success</strong> The target becomes frightened 1.</p>\n<p><strong>Failure</strong> The target is unaffected.</p>\n<p><strong>Critical Failure</strong> You get overly caught up in your own words</p>\n<p>and become frightened 1.</p>"
 		},
 		"Diverse Armor Expert": {
-			"name": "Diverse Armor Expert",
-			"description": "<p>Your proficiency ranks for light armor, medium armor, heavy armor, and unarmored defense increase to expert.</p>"
+			"name": "多样化盔甲专家 Diverse Armor Expert",
+			"description": "<p>你在轻甲、中甲、重甲以及无武装防御中的熟练等级均提升至专家。</p>"
 		},
 		"Diverse Mystery": {
 			"name": "Diverse Mystery",
@@ -3294,8 +3294,8 @@
 			"description": "<p><strong>Frequency</strong> once per round</p>\n<p><strong>Trigger</strong> You successfully Recall Knowledge about a creature you can see, using a skill in which you are a master.</p>\n<hr />\n<p>Your Pathfinder training allows you to quickly size up numerous threats. Attempt to Recall Knowledge against a different kind of creature you can see using the same skill. You must still meet the requirements to attempt this check.</p>"
 		},
 		"Diverse Weapon Expert": {
-			"name": "Diverse Weapon Expert",
-			"description": "<p>Your proficiency ranks for simple weapons and martial weapons increase to expert, and your proficiency rank for advanced weapons increases to trained.</p>"
+			"name": "多样化武器专家 Diverse Weapon Expert",
+			"description": "<p>你在简易武器和军用武器中的熟练等级提升至专家，你在进阶武器中的熟练等级提升至受训。</p>"
 		},
 		"Diverting Vortex": {
 			"name": "Diverting Vortex",
@@ -3310,12 +3310,12 @@
 			"description": "<p><strong>Trigger</strong> You attempt a saving throw against a magical effect, but you haven't rolled yet.</p>\n<hr />\n<p>You summon divine energy to shield yourself, offering protection against other traditions but leaving you exposed to other divine effects.</p>\n<p>Until the beginning of your next turn, you gain a +1 circumstance bonus to saving throws against non-divine magical effects, but you also take a -1 circumstance penalty to saves against divine effects.</p>\n<p>@Compendium[pf2e.feat-effects.K1IgNCf3Hh2EJwQ9]{Effect: Divine Aegis}</p>"
 		},
 		"Divine Ally": {
-			"name": "Divine Ally",
-			"description": "<p>You gain a divine ally of your choice.</p>"
+			"name": "神圣盟友 Divine Ally",
+			"description": "<p>你获得一个自选的神圣盟友。</p>"
 		},
 		"Divine Breadth": {
-			"name": "Divine Breadth",
-			"description": "<p>You can cast more divine spells each day. Increase the spell slots you gain from cleric archetype feats by 1 for each spell level other than your two highest spell slots.</p>"
+			"name": "神术扩展 Divine Breadth",
+			"description": "<p>你每天可以施展更多的牧师法术。除了最高两个环级以外，每个环级你都获得额外一个来自牧师变体专长的每日法术位。</p>"
 		},
 		"Divine Countermeasures": {
 			"name": "Divine Countermeasures",
@@ -3554,8 +3554,8 @@
 			"description": "<p>Every chance you get, you practice with the hand crossbow to increase your draw speed and accuracy. Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in the hand crossbow. If you're at least an expert in a hand crossbow you're using, you gain access to its critical specialization effect. You also gain the Shootist's Draw action.</p>\n<hr />\n<p><strong>@Compendium[pf2e.actionspf2e.hV9wXLvgH2LBaBwk]{Shootist's Draw}</strong> <span class=\"pf2-icon\">1 </span></p>\n<p><strong>Frequency</strong> once per round</p>\n<p><strong>Effect</strong> You Interact to draw a @Compendium[pf2e.equipment-srd.XyA6PKV46aNlLXOd]{Hand Crossbow} and Strike with it, or you Strike with a loaded hand crossbow you're already holding and then Interact to stow it.</p>\n<hr />\n<p><strong>Special</strong> You can't select another dedication feat until you've gained two other feats from the drow shootist archetype.</p>"
 		},
 		"Druid Dedication": {
-			"name": "Druid Dedication",
-			"description": "<p>You cast spells like a druid. You gain access to the Cast a Spell activity. You can prepare two common cantrips each day from the primal spell list in this book or any other cantrips you learn or discover. You're trained in spell attack rolls and spell DCs for primal spells. Your key spellcasting ability for druid archetype spells is Wisdom, and they are primal druid spells. You learn the Druidic language, and you are bound by the druid's anathema. Choose a druidic order. You become a member of that order and are also bound by its specific anathema, allowing you to take the order's feats. You become trained in Nature and your order's associated skill; for each of these skills in which you were already trained, you become trained in a skill of your choice. You don't gain any other abilities from your choice of order.</p>\n<p><strong>Special</strong> You cannot select another dedication feat until you have gained two other feats from the druid archetype.</p>"
+			"name": "德鲁伊入门 Druid Dedication",
+			"description": "<p>你像一个德鲁伊一样施法，并获得施法Cast a Spell行动。你每天可以准备两个来自原能施法根源的常见戏法，这些戏法可以来自于本书或其他你学习或发现到的原能戏法。你在原能的法术攻击骰和法术DC中受训。你在德鲁伊变体法术中的施法主属性是感知Wisdom，可以施展的是原能根源的德鲁伊法术。你学会德鲁伊语言Druidic Language。你如德鲁伊一样选择一个派系。你成为该派系的成员，并受限于其禁忌。你在自然Nature和所选派系的偏好技能中受训；对于每一个你已经达成受训的上述技能，你都可以在另一个你自选的技能中受训。你不会得到所选派系给予的其他能力。</p>\n<p><strong>特殊</strong> 你不能选择其他入门专长，除非你从德鲁伊变体中获得了其他两个专长。</p>"
 		},
 		"Dual Energy Heart": {
 			"name": "Dual Energy Heart",
@@ -4222,8 +4222,8 @@
 			"description": "<p>You point out a detail that incontrovertibly supports your faith, causing a listener's mind to whirl. Attempt a Diplomacy check and compare the result to the Will DC of a single target that can hear you and understands your language; that target is then temporarily immune to Evangelize with respect to your deity or philosophy for 1 day. A creature that already agrees with you is unaffected, and at the GM's discretion, a target that genuinely changes its perspective to support your faith as a result of the argument is also otherwise unaffected.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied 2} for 1 round.</p>\n<p><strong>Success</strong> The target is @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied 1} for 1 round.</p>\n<p><strong>Failure</strong> The target is unaffected.</p>"
 		},
 		"Evasiveness (Rogue)": {
-			"name": "Evasiveness (Rogue)",
-			"description": "<p>Your proficiency rank for Reflex saves increases to master.</p>"
+			"name": "闪电回避(游荡者) Evasiveness (Rogue)",
+			"description": "<p>你在反射Reflex中的熟练等级提升至大师。</p>"
 		},
 		"Evasiveness (Swashbuckler)": {
 			"name": "Evasiveness (Swashbuckler)",
@@ -4314,16 +4314,16 @@
 			"description": "<p>你随时都在追踪痕迹，当情况需要时，你可以快速而不间断地进行追踪。你可以使用生存技能来进行追踪（Track）动作同时全速移动而不承受通常的-5减值。当你在生存技能上达到传奇级熟练度时，你不会再需要每小时进行一次技能检定来保持追踪，但仍然需要在追踪路径上出现某些特别重要的变数时重新进行一次生存技能检定。</p>"
 		},
 		"Expert Alchemy": {
-			"name": "Expert Alchemy",
-			"description": "<p>Your advanced alchemy level increases to 3. At 10th level, it increases to 5.</p>"
+			"name": "专家炼金术 Expert Alchemy",
+			"description": "<p>你的高阶炼金术等级提升至3。在10级，提升至5。</p>"
 		},
 		"Expert Backstabber": {
 			"name": "Expert Backstabber",
 			"description": "<p>When you Strike a @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} foe with a weapon that has the backstabber weapon trait, you deal 2 extra precision damage instead of 1.</p>\n<p>If the weapon is a +3 weapon, you deal 4 extra precision damage instead of 2.</p>"
 		},
 		"Expert Bard Spellcasting": {
-			"name": "Expert Bard Spellcasting",
-			"description": "<p>You gain the expert spellcasting benefits.</p>"
+			"name": "专家吟游诗人施法 Expert Bard Spellcasting",
+			"description": "<p>你获得专家施法能力。</p>"
 		},
 		"Expert Beast Gunner Spellcasting": {
 			"name": "Expert Beast Gunner Spellcasting",
@@ -4338,8 +4338,8 @@
 			"description": "<p>You gain the expert spellcasting benefits.</p>"
 		},
 		"Expert Cleric Spellcasting": {
-			"name": "Expert Cleric Spellcasting",
-			"description": "<p>You gain the expert spellcasting benefits.</p>"
+			"name": "专家牧师施法 Expert Cleric Spellcasting",
+			"description": "<p>你获得专家施法能力。</p>"
 		},
 		"Expert Combat Eidolon": {
 			"name": "Expert Combat Eidolon",
@@ -4354,8 +4354,8 @@
 			"description": "<p>You know how to get the most out of your allies. While exploring, when you are leading and allies are @Compendium[pf2e.actionspf2e.tfa4Sh7wcxCEqL29]{Following the Expert}, you grant a +3 circumstance bonus instead of +2 if you're an expert in the applicable skill, and a +4 circumstance bonus if you're a master.</p>"
 		},
 		"Expert Druid Spellcasting": {
-			"name": "Expert Druid Spellcasting",
-			"description": "<p>You gain the expert spellcasting benefits.</p>"
+			"name": "专家德鲁伊施法 Expert Druid Spellcasting",
+			"description": "<p>你获得专家施法能力。</p>"
 		},
 		"Expert Eldritch Archer Spellcasting": {
 			"name": "Expert Eldritch Archer Spellcasting",
@@ -4390,8 +4390,8 @@
 			"description": "<p>Your scroll collection is more powerful.</p>\n<p>In addition to your daily scrolls from Basic Scroll Cache, add a scroll with a 3rd-level spell. At 14th level, add a scroll with a 4th-level spell. At 16th level, add a scroll with a 5th-level spell.</p>"
 		},
 		"Expert Sorcerer Spellcasting": {
-			"name": "Expert Sorcerer Spellcasting",
-			"description": "<p>You gain the expert spellcasting benefits.</p>"
+			"name": "专家术士施法 Expert Sorcerer Spellcasting",
+			"description": "<p>你获得专家施法能力。</p>"
 		},
 		"Expert Spellcasting": {
 			"name": "Expert Spellcasting",
@@ -4406,8 +4406,8 @@
 			"description": "<p>You gain the expert spellcasting benefits.</p>"
 		},
 		"Expert Wizard Spellcasting": {
-			"name": "Expert Wizard Spellcasting",
-			"description": "<p>You gain the expert spellcasting benefits.</p>"
+			"name": "专家法师施法 Expert Wizard Spellcasting",
+			"description": "<p>你获得专家施法能力。</p>"
 		},
 		"Exploit Opening": {
 			"name": "Exploit Opening",
@@ -4766,12 +4766,12 @@
 			"description": "<p><strong>Trigger</strong> An opponent adjacent to you hits you with a melee weapon or a melee unarmed attack.</p>\n<p><strong>Frequency</strong> once per minute</p>\n<hr />\n<p>Ignoring your pain, you sear your attacker with a wave of flame. The triggering opponent takes fire damage equal to your [[/r @actor.level #fire]]{level}.</p>"
 		},
 		"Fighter Dedication": {
-			"name": "Fighter Dedication",
-			"description": "<p>You become trained in simple weapons and martial weapons. You become trained in your choice of Acrobatics or Athletics; if you are already trained in both of these skills, you instead become trained in a skill of your choice. You become trained in fighter class DC.</p>\n<p><strong>Special</strong> You cannot select another dedication feat until you have gained two other feats from the fighter archetype.</p>"
+			"name": "战士入门 Fighter Dedication",
+			"description": "<p>你在简易武器和军用武器中受训。你在特技Acrobatics或运动Athletics中选择一个受训。如果你已经受训于上述两个技能，你在另一个你自选的技能中受训。你在战士的职业DC中受训。</p>\n<p><strong>特殊</strong> 你不能选择其他入门专长，除非你从战士变体中获得了其他两个专长。</p>"
 		},
 		"Fighter Resiliency": {
-			"name": "Fighter Resiliency",
-			"description": "<p>You gain 3 additional Hit Points for each fighter archetype class feat you have. As you continue selecting fighter archetype class feats, you continue to gain additional Hit Points in this way.</p>"
+			"name": "战士韧性 Fighter Resiliency",
+			"description": "<p>你获得的每个战士的变体职业专长都会给予你3点额外生命值。如果你继续选择战士变体职业专长，你就会继续按这种方式获得额外生命值。</p>"
 		},
 		"Final Form": {
 			"name": "最终形态 Final Form",
@@ -5922,8 +5922,8 @@
 			"description": "<p>Your positive energy is even more vibrant and restorative. When you cast <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Heal}</em>, you roll d10s instead of d8s.</p>"
 		},
 		"Healing Touch": {
-			"name": "Healing Touch",
-			"description": "<p>You gain the appropriate devotion spell for your cause ( lay on hands for the paladin, redeemer, and liberator). If you don't already have one, you gain a focus pool of 1 Focus Point, which you can Refocus by praying or serving your deity.</p>"
+			"name": "治愈之手 Healing Touch",
+			"description": "<p>你获得所选事业提供的虔诚法术（对于圣武士、救赎者和解放者来说是圣疗Lay on Hands）。如果你没有聚能池，你获得一个含有1点聚能点的聚能池，通过祈祷或服侍于你的神祗，你可以再聚能Refocus。</p>"
 		},
 		"Healing Transformation": {
 			"name": "Healing Transformation",
@@ -6518,8 +6518,8 @@
 			"description": "<p>你跟缪斯的连接赋予了你非同寻常的聚能能力。如果你距上次再聚能起花费了至少2点聚能值，你进行再聚能的时候回复2点而非1点聚能。</p>"
 		},
 		"Inspirational Performance": {
-			"name": "Inspirational Performance",
-			"description": "<p>You gain the inspire courage composition cantrip.</p>"
+			"name": "激励表演 Inspirational Performance",
+			"description": "<p>你获得激发勇气Inspire Courage组曲戏法。</p>"
 		},
 		"Inspire Competence": {
 			"name": "激发表现 Inspire Competence",
@@ -6562,8 +6562,8 @@
 			"description": "<p><strong>Trigger</strong> An enemy misses you with a ranged attack using a type of ammunition appropriate to your weapon (a bullet if you're wielding a firearm).</p>\n<p><strong>Requirements</strong> You're wielding an unloaded firearm or crossbow.</p>\n<hr />\n<p>With a single fluid gesture, you catch a projectile out of the air, load it in your weapon, and shoot it back at the attacker. Interact to load the projectile into your weapon, then make a Strike with the required weapon against the triggering opponent. Since you're using the foe's ammunition, this Strike applies any special effects that ammunition would have (for instance, if it was @Compendium[pf2e.equipment-srd.rKknk8odXDBpON5l]{Explosive Ammunition}, it would explode in a burst of fire if your Strike hits).</p>"
 		},
 		"Instinct Ability": {
-			"name": "Instinct Ability",
-			"description": "<p>You gain the instinct ability for the instinct you chose for Barbarian Dedication.</p>"
+			"name": "本能能力 Instinct Ability",
+			"description": "<p>你获得你为野蛮人入门Barbarian Dedication所选本能的本能能力。</p>"
 		},
 		"Instinctive Obfuscation": {
 			"name": "Instinctive Obfuscation",
@@ -6778,8 +6778,8 @@
 			"description": "<p>You can use the oaths bound in your ka stone to compel the truth from the living and the dead. You can activate your ka stone to target a single living creature, causing that creature to experience the effects of being in a zone of truth. You can also activate it with a 10-minute activation (envision) to cast talking corpse.</p>"
 		},
 		"Juggernaut's Fortitude": {
-			"name": "Juggernaut's Fortitude",
-			"description": "<p>Your proficiency rank in Fortitude saves increases to master.</p>"
+			"name": "主宰强韧 Juggernaut's Fortitude",
+			"description": "<p>你在强韧豁免中的熟练等级提升至大师。</p>"
 		},
 		"Juggle": {
 			"name": "Juggle",
@@ -7606,12 +7606,12 @@
 			"description": "<p><strong>Requirements</strong> You are wearing your signifer's mask.</p>\n<p><strong>Trigger</strong> You begin Casting a Spell.</p>\n<hr />\n<p>You harness the magical energy flowing through your eyeless mask to effortlessly protect you from visual effects. You @Compendium[pf2e.actionspf2e.UWdRX1VelipCzrCg]{Avert your Gaze}.</p>"
 		},
 		"Master Alchemy": {
-			"name": "Master Alchemy",
-			"description": "<p>Your advanced alchemy level increases to 7. For every level you gain beyond 12th, your advanced alchemy level increases by 1.</p>"
+			"name": "大师炼金术 Master Alchemy",
+			"description": "<p>你的高阶炼金术等级提升至7。超过12级后，每升1级都会使你的高阶炼金术等级提升1级。</p>"
 		},
 		"Master Bard Spellcasting": {
-			"name": "Master Bard Spellcasting",
-			"description": "<p>You gain the master spellcasting benefits.</p>"
+			"name": "大师吟游诗人施法 Master Bard Spellcasting",
+			"description": "<p>你获得大师施法能力。</p>"
 		},
 		"Master Beast Gunner Spellcasting": {
 			"name": "Master Beast Gunner Spellcasting",
@@ -7626,12 +7626,12 @@
 			"description": "<p>You gain the master spellcasting benefits.</p>"
 		},
 		"Master Cleric Spellcasting": {
-			"name": "Master Cleric Spellcasting",
-			"description": "<p>You gain the master spellcasting benefits.</p>"
+			"name": "大师牧师施法 Master Cleric Spellcasting",
+			"description": "<p>你获得大师施法能力。</p>"
 		},
 		"Master Druid Spellcasting": {
-			"name": "Master Druid Spellcasting",
-			"description": "<p>You gain the master spellcasting benefits.</p>"
+			"name": "大师德鲁伊施法 Master Druid Spellcasting",
+			"description": "<p>你获得大师施法能力。</p>"
 		},
 		"Master Eldritch Archer Spellcasting": {
 			"name": "Master Eldritch Archer Spellcasting",
@@ -7658,8 +7658,8 @@
 			"description": "<p>What you don't know about artillery isn't worth knowing and your mastery allows you to perform an impossible number of actions as part of a siege weapon's crew. You're permanently @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Quickened}. You can only use the extra action to Aim or Launch a siege weapon.</p>"
 		},
 		"Master Sorcerer Spellcasting": {
-			"name": "Master Sorcerer Spellcasting",
-			"description": "<p>You gain the master spellcasting benefits.</p>"
+			"name": "大师术士施法 Master Sorcerer Spellcasting",
+			"description": "<p>你获得大师施法能力。</p>"
 		},
 		"Master Spellcasting": {
 			"name": "Master Spellcasting",
@@ -7674,8 +7674,8 @@
 			"description": "<p>Your proficiency rank in Perception increases to master.</p>"
 		},
 		"Master Spotter (Ranger)": {
-			"name": "Master Spotter (Ranger)",
-			"description": "<p>Your proficiency rank in Perception increases to master.</p>"
+			"name": "大师斥候 (游侠) Master Spotter (Ranger)",
+			"description": "<p>你在察觉Perception中的熟练等级提升至大师。</p>"
 		},
 		"Master Summoner": {
 			"name": "Master Summoner",
@@ -7690,8 +7690,8 @@
 			"description": "<p>You gain the master spellcasting benefits.</p>"
 		},
 		"Master Wizard Spellcasting": {
-			"name": "Master Wizard Spellcasting",
-			"description": "<p>You gain the master spellcasting benefits.</p>"
+			"name": "大师法师施法 Master Wizard Spellcasting",
+			"description": "<p>你获得大师施法能力。</p>"
 		},
 		"Master of Many Styles": {
 			"name": "Master of Many Styles",
@@ -7922,20 +7922,20 @@
 			"description": "<p>You have trained with the traditional weaponry of your monastery or school. You gain access to uncommon weapons that have the monk trait and become trained in simple and martial monk weapons. When your proficiency rank for unarmed attacks increases to expert or master, your proficiency rank for these weapons increases to expert or master as well. You can use melee monk weapons with any of your monk feats or monk abilities that normally require unarmed attacks, though not if the feat or ability requires you to use a single specific type of attack, such as Crane Stance.</p>"
 		},
 		"Monk Dedication": {
-			"name": "Monk Dedication",
-			"description": "<p>You become trained in unarmed attacks and gain the @Compendium[pf2e.classfeatures.SB8UJ8rZmvbcBweJ]{Powerful Fist} class feature. You become trained in your choice of Acrobatics or Athletics; if you are already trained in both of these skills, you become trained in a skill of your choice. You become trained in monk class DC.</p>\n<p><strong>Special</strong> You can't select another dedication feat until you have gained two other feats from the monk archetype.</p>"
+			"name": "武僧入门 Monk Dedication",
+			"description": "<p>你在无武装攻击中受训，并获得 @Compendium[pf2e.classfeatures.SB8UJ8rZmvbcBweJ]{强力拳 Powerful Fist} 职业特性。你在特技Acrobatics或运动Athletics中选择一个受训。如果你已经受训于上述两个技能，你在另一个你自选的技能中受训。你在武僧的职业DC中受训。</p>\n<p><strong>特殊</strong> 你不能选择其他入门专长，除非你从武僧变体中获得了其他两个专长。</p>"
 		},
 		"Monk Moves": {
-			"name": "Monk Moves",
-			"description": "<p>You gain a +10-foot status bonus to your Speed when you're not wearing armor.</p>"
+			"name": "武僧步法 Monk Moves",
+			"description": "<p>在你未穿戴盔甲时，你的速度Speed获得+10尺状态加值。</p>"
 		},
 		"Monk Resiliency": {
-			"name": "Monk Resiliency",
-			"description": "<p>You gain 3 additional Hit Points for each monk archetype class feat you have. As you continue selecting monk archetype class feats, you continue to gain additional Hit Points in this way.</p>"
+			"name": "武僧韧性 Monk Resiliency",
+			"description": "<p>你获得的每个武僧的变体职业专长都会给予你3点额外生命值。如果你继续选择武僧变体职业专长，你就会继续按这种方式获得额外生命值。</p>"
 		},
 		"Monk's Flurry": {
-			"name": "Monk's Flurry",
-			"description": "<p>You gain the @Compendium[pf2e.actionspf2e.nbfNETdpee8CVM17]{Flurry of Blows} action.</p>"
+			"name": "武僧连击 Monk's Flurry",
+			"description": "<p>你获得 @Compendium[pf2e.actionspf2e.nbfNETdpee8CVM17]{疾风连击 Flurry of Blows} 动作。</p>"
 		},
 		"Monster Hunter": {
 			"name": "Monster Hunter",
@@ -8230,8 +8230,8 @@
 			"description": "<p>Thanks to the time you've spent wandering through wild and untamed environments, you've gained an intuitive sense about creatures. You sometimes notice them before they attack, or spot them nearby even if they weren't planning on attacking. You can attempt a check to notice hidden creatures attempting to Avoid Notice nearby even if you aren't actively Searching for them. You still need to meet any other requirements to notice a particular creature.</p>"
 		},
 		"Occult Breadth": {
-			"name": "Occult Breadth",
-			"description": "<p>Your repertoire expands, and you can cast more occult spells each day. Increase the number of spells in your repertoire and the number of spell slots you gain from bard archetype feats by 1 for each spell level other than your two highest spell slots.</p>"
+			"name": "异能扩展 Occult Breadth",
+			"description": "<p>你的剧目扩展了，你每天也能施放更多的异能法术。除了最高两个环级以外，每个环级你都额外获得一个来自吟游诗人变体专长的剧目法术和每日法术位。</p>"
 		},
 		"Occult Evolution": {
 			"name": "Occult Evolution",
@@ -8314,8 +8314,8 @@
 			"description": "<p><strong>Requirements</strong> You are Juggling a thrown weapon.</p>\n<p><strong>Trigger</strong> A creature within 10 feet of you uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.</p>\n<hr />\n<p>You make a thrown ranged Strike with the required weapon against the triggering creature. If you critically succeed and the trigger was a manipulate action, you disrupt that action. This Strike doesn't count against your multiple attack penalty, and your multiple attack penalty doesn't apply to this Strike.</p>"
 		},
 		"Opportunist": {
-			"name": "Opportunist",
-			"description": "<p>You gain the @Compendium[pf2e.feats-srd.O2MwufzEHbuThoGr]{Attack of Opportunity (Fighter)} reaction.</p>"
+			"name": "机会主义者 Opportunist",
+			"description": "<p>你获得 @Compendium[pf2e.feats-srd.O2MwufzEHbuThoGr]{借机攻击（战士） Attack of Opportunity (Fighter)}反应动作。</p>"
 		},
 		"Opportunistic Grapple": {
 			"name": "Opportunistic Grapple",
@@ -8374,8 +8374,8 @@
 			"description": "<p>You have delved deeper into the teaching of a new order, gaining access to a coveted order spell. Choose an order you have selected with @Compendium[pf2e.feats-srd.9onf3uGvZRnNLPR6]{Order Explorer}. You gain the initial order spell from that order.</p>\n<p><strong>Special</strong> You can take this feat multiple times. Each time you do, you must choose a different order you have selected with Order Explorer.</p>"
 		},
 		"Order Spell": {
-			"name": "Order Spell",
-			"description": "<p>You gain the initial order spell from your order. If you don't already have one, you gain a focus pool of 1 Focus Point, which you can Refocus by being one with nature.</p>"
+			"name": "派系法术 Order Spell",
+			"description": "<p>你获得来自所选派系的初始派系法术。如果你没有聚能池，你获得一个含有1点聚能点的聚能池，通过成为自然的一部分，你可以再聚能Refocus。</p>"
 		},
 		"Order Training": {
 			"name": "Order Training",
@@ -8610,16 +8610,16 @@
 			"description": "<div><strong>Archetpe</strong> @Compendium[pf2e.archetypes.JiRqSMv1STETLwSP]{Student of Perfection}</div>\n<div></div>\n<hr />\n<p>You gain the <em>@Compendium[pf2e.spells-srd.GQopUYTuhmtb7WMG]{Perfect Strike}</em> ki spell. Increase the number of Focus Points in your focus pool by 1.</p>"
 		},
 		"Perfection's Path (Fortitude)": {
-			"name": "Perfection's Path (Fortitude)",
-			"description": "<p>Choose one saving throw (Fortitude, Reflex, or Will) in which you are an expert. Your proficiency rank in the chosen saving throw increases to master.</p>"
+			"name": "完美道途(强韧) Perfection's Path (Fortitude)",
+			"description": "<p>选择一个你达成专家的豁免骰（强韧Fortitude，反射Reflex或意志Will）。你在所选豁免骰中的熟练等级提升至大师。</p>"
 		},
 		"Perfection's Path (Reflex)": {
-			"name": "Perfection's Path (Reflex)",
-			"description": "<p>Choose one saving throw (Fortitude, Reflex, or Will) in which you are an expert. Your proficiency rank in the chosen saving throw increases to master.</p>"
+			"name": "完美道途(反射) Perfection's Path (Reflex)",
+			"description": "<p>选择一个你达成专家的豁免骰（强韧Fortitude，反射Reflex或意志Will）。你在所选豁免骰中的熟练等级提升至大师。</p>"
 		},
 		"Perfection's Path (Will)": {
-			"name": "Perfection's Path (Will)",
-			"description": "<p>Choose one saving throw (Fortitude, Reflex, or Will) in which you are an expert. Your proficiency rank in the chosen saving throw increases to master.</p>"
+			"name": "完美道途(意志) Perfection's Path (Will)",
+			"description": "<p>选择一个你达成专家的豁免骰（强韧Fortitude，反射Reflex或意志Will）。你在所选豁免骰中的熟练等级提升至大师。</p>"
 		},
 		"Performance Weapon Expert": {
 			"name": "Performance Weapon Expert",
@@ -8986,8 +8986,8 @@
 			"description": "<p>You surround yourself with a thick field of protective primal energy. You and allies within 30 feet of you gain resistance equal to your Wisdom modifier to acid, cold, electricity, fire, negative, and positive damage.</p>"
 		},
 		"Primal Breadth": {
-			"name": "Primal Breadth",
-			"description": "<p>Increase the spell slots you gain from druid archetype feats by 1 for each spell level other than your two highest spell slots.</p>"
+			"name": "原能扩展 Primal Breadth",
+			"description": "<p>你每天可以施展更多的德鲁伊法术。除了最高两个环级以外，每个环级你都获得额外一个来自德鲁伊变体专长的每日法术位。</p>"
 		},
 		"Primal Evolution": {
 			"name": "Primal Evolution",
@@ -9086,8 +9086,8 @@
 			"description": "<p><strong>Frequency</strong> once per 10 minutes</p>\n<hr />\n<p>You stomp the ground with such force that it creates a minor earthquake, with the effects of the <em>@Compendium[pf2e.spells-srd.x7SPrsRxGb2Vy2nu]{Earthquake}</em> spell.</p>"
 		},
 		"Quick Alchemy": {
-			"name": "Quick Alchemy",
-			"description": "<p>You gain the @Compendium[pf2e.actionspf2e.yzNJgwzV9XqEhKc6]{Quick Alchemy} action.</p>"
+			"name": "高速炼金 Quick Alchemy",
+			"description": "<p>你获得 @Compendium[pf2e.actionspf2e.yzNJgwzV9XqEhKc6]{高速炼金 Quick Alchemy}动作。</p>"
 		},
 		"Quick Block": {
 			"name": "快速格挡 Quick Block",
@@ -9358,12 +9358,12 @@
 			"description": "<p>你能够使用远程武器发动报应打击。此外，如果触发反应动作的敌人在你的触及范围周围5尺之中，而不在你的触及范围之内，你可以在发动一次近战报应打击之前，作为反应动作的一部分进行快步（Step）好让敌人处于你的触及范围之内。</p>"
 		},
 		"Ranger Dedication": {
-			"name": "Ranger Dedication",
-			"description": "<p>You become trained in Survival; if you were already trained in Survival, you instead become trained in another skill of your choice. You become trained in ranger class DC. You can use the @Compendium[pf2e.actionspf2e.JYi4MnsdFu618hPm]{Hunt Prey} action.</p>\n<hr />\n<p><strong>Special</strong> You cannot select another dedication feat until you have gained two other feats from the ranger archetype.</p>"
+			"name": "游侠入门 Ranger Dedication",
+			"description": "<p>你在生存Survival中受训；如果你已经在生存Survival中受训，你在另一个你自选的技能中受训。你在游侠的职业DC中受训。你可以使用 @Compendium[pf2e.actionspf2e.JYi4MnsdFu618hPm]{猎杀目标 Hunt Prey} 动作。</p>\n<hr />\n<p><strong>特殊</strong> 你不能选择其他入门专长，除非你从游侠变体中获得了其他两个专长。</p>"
 		},
 		"Ranger Resiliency": {
-			"name": "Ranger Resiliency",
-			"description": "<p>You gain 3 additional Hit Points for each ranger archetype class feat you have. As you continue selecting ranger archetype class feats, you continue to gain additional Hit Points in this way.</p>"
+			"name": "游侠韧性 Ranger Resiliency",
+			"description": "<p>你获得的每个游侠的变体职业专长都会给予你3点额外生命值。如果你继续选择游侠变体职业专长，你就会继续按这种方式获得额外生命值。</p>"
 		},
 		"Ranger's Bramble": {
 			"name": "Ranger's Bramble",
@@ -9910,8 +9910,8 @@
 			"description": "<p>You enhance your spell with elemental earth, causing chunks of stone to litter the ground.</p>\n<p>If the next action you use is to Cast a non-cantrip Spell that affects an area, a number of 5-foot squares in the area equal to the spell level become difficult terrain for 1 round. These squares must be on the ground, and the entire area of difficult terrain must be contiguous.</p>\n<p>The spell gains the earth trait.</p>"
 		},
 		"Rogue Dedication": {
-			"name": "Rogue Dedication",
-			"description": "<p>You gain a skill feat and the rogue's surprise attack class feature. You become trained in light armor. In addition, you become trained in Stealth or Thievery plus one skill of your choice; if you are already trained in both Stealth and Thievery, you become trained in an additional skill of your choice. You become trained in rogue class DC.</p>\n<p><strong>Special</strong> You cannot gain another dedication feat until you have gained two other feats from the rogue archetype.</p>"
+			"name": "游荡者入门 Rogue Dedication",
+			"description": "<p>你获得一个技能专长以及游荡者的突袭打击Surprise Attack职业特性。你在轻甲中受训。另外，你在隐匿Stealth或盗窃Thievery，外加一个你自选的技能中受训；如果你已经受训于隐匿Stealth和盗窃Thievery，你在另一个你自选的技能中受训。你在游荡者的职业DC中受训。</p>\n<p><strong>特殊</strong> 你不能选择其他入门专长，除非你从游荡者变体中获得了其他两个专长。</p>"
 		},
 		"Rokoan Arts": {
 			"name": "Rokoan Arts",
@@ -10758,8 +10758,8 @@
 			"description": "<p>Increase your proficiency rank in one of your skills from expert to master and in another of your skills from trained to expert. You gain a skill feat associated with one of the skills you chose.</p>\n<hr />\n<p><strong>Special</strong> You can select this feat up to five times.</p>"
 		},
 		"Skill Mastery (Rogue)": {
-			"name": "Skill Mastery (Rogue)",
-			"description": "<p>Increase your proficiency rank in one of your skills from expert to master and in another of your skills from trained to expert. You gain a skill feat associated with one of the skills you chose.</p>\n<hr />\n<p><strong>Special</strong> You can select this feat up to five times.</p>"
+			"name": "技能大师(游荡者) Skill Mastery (Rogue)",
+			"description": "<p>将你的一个技能的熟练等级从专家提升至大师，另一个技能的熟练等级从受训提升至专家。你获得一个关联于其中一个所选技能的技能专长。</p>\n<hr />\n<p><strong>特殊</strong> 你可以选择这个专长最多五次。</p>"
 		},
 		"Skill Training": {
 			"name": "技能训练 Skill Training",
@@ -10950,8 +10950,8 @@
 			"description": "<p>You've learned to create a limited number of snares at no cost. Each day during your daily preparations, you can prepare four snares from your formula book for quick deployment; if they normally take 1 minute to @Compendium[pf2e.actionspf2e.rmwa3OyhTZ2i2AHl]{Craft}, you can Craft them with 3 @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{Interact} actions. The number of snares increases to six if you're a master in Crafting and eight if you're legendary.</p>\n<p>Snares prepared in this way don't cost you any resources to Craft.</p>\n<hr />\n<p><strong>Special</strong> The feat counts as @Compendium[pf2e.feats-srd.0haS0qXR9xTYKoTG]{Snare Specialist} for the purpose of feat prerequisites. If you also have the Snare Specialist ranger feat, the @Compendium[pf2e.feats-srd.KW6K5Zv4J7ClWkKA]{Quick Snares} from both feats are cumulative. You can't select another dedication feat until you have gained two other feats from the snarecrafter archetype.</p>"
 		},
 		"Sneak Attacker": {
-			"name": "Sneak Attacker",
-			"description": "<p>You gain the @Compendium[pf2e.classfeatures.j1JE61quDxdge4mg]{Sneak Attack} class feature, except it deals 1d4 damage, increasing to 1d6 at 6th level. You don't increase the number of dice as you gain levels.</p>"
+			"name": "偷袭者 Sneak Attacker",
+			"description": "<p>你获得 @Compendium[pf2e.classfeatures.j1JE61quDxdge4mg]{偷袭 Sneak Attack} 职业特性，但只造成1d4点伤害，并在6级时提升至1d6点。你在升级时不会增加偷袭骰的个数。</p>"
 		},
 		"Sneak Savant": {
 			"name": "Sneak Savant",
@@ -11042,8 +11042,8 @@
 			"description": "<p>You have a connection to the healing properties of nature and can produce a magical mist to heal damage and stop burning or bleeding. You gain the <em>@Compendium[pf2e.spells-srd.RGBZrVRIEDb2G48h]{Soothing Mist}</em> warden spell. Increase the number of Focus Points in your focus pool by 1.</p>"
 		},
 		"Sorcerer Dedication": {
-			"name": "Sorcerer Dedication",
-			"description": "<p>Choose a bloodline. You become trained in the bloodline's two skills; for each of these skills in which you were already trained, you become trained in a skill of your choice. You cast spells like a sorcerer. You gain access to the Cast a Spell activity. You gain a spell repertoire with two common cantrips from the spell list associated with your bloodline, from the spells granted by your bloodline, or any other cantrips of that tradition you learn or discover. You're trained in spell attack rolls and spell DCs for your tradition's spells. Your key spellcasting ability for sorcerer archetype spells is Charisma, and they are sorcerer spells of your bloodline's tradition. You don't gain any other abilities from your choice of bloodline.</p>\n<hr />\n<p><strong>Special</strong> You cannot select another dedication feat until you have gained two other feats from the sorcerer archetype.</p>"
+			"name": "术士入门 Sorcerer Dedication",
+			"description": "<p>选择一个血统。你在该血统的两个技能中受训；对于每一个你已经达成受训的上述技能，你都可以在另一个你自选的技能中受训。你像一个术士一样施法。你获得施法Cast a Spell行动。你获得一个内含两个常见戏法的法术库，这些戏法来自于与你的血统相关联的法术列表、你的血统的馈赠法术、或任何其他你学习或发现到的属于该根源的戏法。你在所选魔法根源中的法术攻击骰和法术DC中受训。你在术士变体法术中的施法主属性是魅力Charisma，可以施展的是血统魔法根源的术士法术。你不会获得血统给予的其他能力。</p>\n<hr />\n<p><strong>特殊</strong> 你不能选择其他入门专长，除非你从术士变体中获得了其他两个专长。</p>"
 		},
 		"Soul Arsenal": {
 			"name": "Soul Arsenal",
@@ -12706,8 +12706,8 @@
 			"description": "<p>You squirrel away useful objects and seem to retrieve them at just the right time. You gain the @Compendium[pf2e.feats-srd.lHFz4MmebvPqTb0A]{Prescient Consumable} and @Compendium[pf2e.feats-srd.bh2jHyyYrkLMsIdX]{Prescient Planner} feats, except that you always withdraw the objects from your cheek pouches. This means the object you retrieve must fit in your cheek pouches; this is generally an item of negligible Bulk unless you also have the @Compendium[pf2e.feats-srd.Pox93XMBaFmeLIDM]{Cheek Pouches} feat.</p>"
 		},
 		"Uncanny Dodge": {
-			"name": "Uncanny Dodge",
-			"description": "<p>You gain the @Compendium[pf2e.classfeatures.PNpmVmD21zViDtGC]{Deny Advantage} class feature.</p>"
+			"name": "离奇闪避 Uncanny Dodge",
+			"description": "<p>你获得 @Compendium[pf2e.classfeatures.PNpmVmD21zViDtGC]{否决优势 Deny Advantage} 职业特性。</p>"
 		},
 		"Uncanny Suction": {
 			"name": "Uncanny Suction",
@@ -13574,8 +13574,8 @@
 			"description": "<p>Your home is an animated structure that obeys your commands. By performing a rite that takes 1 day, you create an animated object from a hut, small house, covered wagon, tent, or similar construction of up to Huge size.</p>\n<p>The hut uses your AC, saving throw modifiers, and Perception modifier and has 150 HP and Hardness 10. It has the construct armor ability, meaning once it's reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its AC is reduced by 4 until it is repaired.</p>\n<p>The hut can't attack or attempt skill checks. You can give the hut a command as a single action, which has the auditory and concentrate traits; after 1 round of reconfiguring itself, the hut then follows that command until you give it a different command.</p>\n<ul>\n<li><strong>Guard</strong> The hut watches for trespassers within 120 feet using your Perception modifier and screams if it spots any.</li>\n<li><strong>Lock</strong> Each entrance to the hut is sealed with a <em>@Compendium[pf2e.spells-srd.Azoh0BSoCASrA1lr]{Lock}</em> spell.</li>\n<li><strong>Move</strong> The hut gains a Speed of 60 feet, growing giant bird or bone legs, if necessary, and follows an extremely basic movement command you give it, such as \"follow me\" or \"move that direction.\" While perfectly suitable for overland travel, the hut's broad movements and 1-round delay on response time are too imprecise to predictably direct in a combat encounter or other situation where seconds and precise locations count.</li>\n<li><strong>Hide</strong> The hut appears to be a normal, mundane object of its type. This is a 10th-level illusion effect.</li>\n</ul>\n<p>You can have only one hut at a time. If you animate a new hut, your previous hut immediately reverts to its original, mundane form. If you die, the hut continues following the last order you gave it indefinitely.</p>"
 		},
 		"Wizard Dedication": {
-			"name": "Wizard Dedication",
-			"description": "<p>You cast spells like a wizard, gaining a spellbook with four common arcane cantrips of your choice. You gain the Cast a Spell activity. You can prepare two cantrips each day from your spellbook. You're trained in arcane spell attack rolls and spell DCs. Your key spellcasting ability for wizard archetype spells is Int, and they are arcane wizard spells. You become trained in Arcana; if you were already trained in Arcana, you instead become trained in a skill of your choice.</p>\n<hr />\n<p><strong>Special</strong> You can't select another dedication feat until you have gained two other feats from the wizard archetype.</p>"
+			"name": "法师入门 Wizard Dedication",
+			"description": "<p>你像一个法师一样施法。你获得施法Cast a Spell行动。你获得一本法术书，记录了自选的四个常见的奥术戏法。你每天可以从你的法术书中准备两个戏法。你在奥术的法术攻击骰和法术DC中受训。你在法师变体法术中的施法主属性是智力Intelligence，可以施展的是奥术根源的法师法术。你在奥法Arcana中受训；如果你已经在奥法Arcana中受训，你在另一个你自选的技能中受训。</p>\n<hr />\n<p><strong>特殊</strong> 你不能选择其他入门专长，除非你从法师变体中获得了其他两个专长。</p>"
 		},
 		"Wolf Drag": {
 			"name": "Wolf Drag",
