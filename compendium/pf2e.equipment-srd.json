@@ -154,8 +154,8 @@
 			"description": "<p>The book is leather-bound and decorated with the symbol of the Lantern Lodge. Red and gold cords wrap around the book and tie to keep it shut. Each volume offers translation for a different language. When working with a book of translation, you can attempt Diplomacy checks to Gather Information or to Make an Impression with creatures that speak the language featured in the book, even if you do not speak the language. Such checks take 10 times longer to complete. An advanced book of translation features more complex phrases, local colloquialisms, and assumes a rudimentary understanding of the featured language. Checks attempted while using an advanced book of translation do not take a circumstance penalty.</p>"
 		},
 		"Adventurer's Pack": {
-			"name": "Adventurer's Pack",
-			"description": "<p>This item is the starter kit for an adventurer, containing the essential items for exploration and survival. The Bulk value is for the entire pack together, but see the descriptions of individual items as necessary.</p>"
+			"name": "冒险装备包 Adventurer's Pack",
+			"description": "<p>这个物品是冒险者的入门套件，包含探索和生存的基本物品。 负载值是整个装备包的数值，但必要时请参阅各个物品的说明。</p>"
 		},
 		"Adze": {
 			"name": "Adze",
@@ -298,16 +298,16 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Strike</p>\n<p>Alchemist's fire is a combination of volatile liquids that ignite when exposed to air. Alchemist's fire deals 2d8 fire damage, 2 persistent fire damage, and 2 fire splash damage. You gain a +1 item bonus to attack rolls.</p>"
 		},
 		"Alchemist's Lab": {
-			"name": "Alchemist's Lab",
-			"description": "<p>You need an alchemist's lab to Craft alchemical items during downtime.</p>"
+			"name": "炼金实验室 Alchemist's Lab",
+			"description": "<p>在休整期，你需要一个炼金实验室来制作炼金物品。</p>"
 		},
 		"Alchemist's Lab (Expanded)": {
-			"name": "Alchemist's Lab (Expanded)",
-			"description": "<p>You need an alchemist's lab to Craft alchemical items during downtime.</p>\n<p>An expanded alchemist's lab gives a +1 item bonus to Crafting checks to create alchemical items.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+1 item bonus to Crafting alchemical item</li>\n</ul>"
+			"name": "炼金实验室(专家) (Expanded)",
+			"description": "<p>在休整期，你需要一个炼金实验室来制作炼金物品。</p>\n<p>专家级炼金实验室为你在制作炼金物品的工艺（Craft）检定上提供+1物品加值。</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>制作炼金物品 +1 物品加值</li>\n</ul>"
 		},
 		"Alchemist's Tools": {
-			"name": "Alchemist's Tools",
-			"description": "<p>This mobile collection of vials and chemicals can be used for simple alchemical tasks.</p>"
+			"name": "炼金工具 Alchemist's Tools",
+			"description": "<p>这组方便携带的安瓿和化学物能用来进行简单的炼金工作。如果你穿戴着炼金工具，你可以作为使用它的动作的一部分将它拿出来。</p>"
 		},
 		"Alcohol": {
 			"name": "Alcohol",
@@ -582,12 +582,12 @@
 			"description": "<p>This toxin is a compound of arsenic and other substances. You can't reduce your sickened condition while affected.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact (Ingested)</p>\n<p><strong>Saving Throw</strong> @Check[type:fortitude|dc:18]</p>\n<p><strong>Onset</strong> 10 minutes</p>\n<p><strong>Maximum Duration</strong> 5 minutes</p>\n<p><strong>Stage 1</strong> [[/r {1d4}[poison]]]{1d4 poison damage} and @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened 1} (1 minute)</p>\n<p><strong>Stage 2</strong> [[/r {1d6}[poison]]]{1d6 poison damage} and @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened 2} (1 minute)</p>\n<p><strong>Stage 3</strong> [[/r {2d6}[poison]]]{2d6 poison damage} and @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened 3} (1 minute)</p>"
 		},
 		"Artisan's Tools": {
-			"name": "Artisan's Tools",
-			"description": "<p>You need these tools to create items from raw materials with the Craft skill. Different sets are needed for different work, as determined by the GM; for example, blacksmith's tools differ from woodworker's tools.</p>"
+			"name": "工匠工具 Artisan's Tools",
+			"description": "<p>你可以使用工匠工具从原材料制作物品。 这涉及使用手艺技能来制作物品。根据GM的决定，不同类型的工作可能需要不同的工具; 例如，铁匠的工具与木匠的工具不同。</p>"
 		},
 		"Artisan's Tools (Sterling)": {
-			"name": "Artisan's Tools (Sterling)",
-			"description": "<p>You need these tools to create items from raw materials with the Craft skill. Sterling artisan's tools give you a +1 item bonus to the check.</p>\n<p>Different sets are needed for different work, as determined by the GM; for example, blacksmith's tools differ from woodworker's tools.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+1 item bonus to Crafting roll to Craft items</li>\n</ul>"
+			"name": "工匠工具(专家) Artisan's Tools (Sterling)",
+			"description": "<p>你可以使用工匠工具从原材料制作物品。 这涉及使用手艺技能来制作物品。专家级工匠工具为此提供+1物品加值。</p>\n<p>根据GM的决定，不同类型的工作可能需要不同的工具; 例如，铁匠的工具与木匠的工具不同。</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>制作物品手艺+1物品加值</li>\n</ul>"
 		},
 		"Asp Coil": {
 			"name": "Asp Coil",
@@ -646,8 +646,8 @@
 			"description": "<p>This vivid red cloak of sturdy fabric is favored by aggressive battle alchemists and mages, as well as those cautious warriors who need to advance into the fray ahead of the blast-happy back line. The mantle interposes to protect you from your own and allies' magic, granting you a +2 circumstance bonus to Reflex saves against your own spells, as well as those of your allies. You also gain resistance 10 to splash damage from your own alchemical items and those of your allies.</p>"
 		},
 		"Backpack": {
-			"name": "Backpack",
-			"description": "<p>A backpack holds up to 4 Bulk of items and the first 2 Bulk of these items don't count against your Bulk limits. If you're carrying or stowing the pack rather than wearing it on your back, its Bulk is light instead of negligible</p>"
+			"name": "背包 Backpack",
+			"description": "<p>一个背包最多可容纳4B物品。前2B不计入你的负载。 如果你抓着背包而不是背着背包，那么它将有L的负载而不是可以忽略不计。</p>"
 		},
 		"Backpack Ballista": {
 			"name": "Backpack Ballista",
@@ -758,8 +758,8 @@
 			"description": "<p>A set of corrective lenses might take the form of eyeglasses or specialized goggles. You can don or remove your corrective lenses as an Interact action.</p>"
 		},
 		"Basic Crafter's Book": {
-			"name": "Basic Crafter's Book",
-			"description": "<p>This book contains the formulas for Crafting the common items in Chapter 6 of the core rulebook.</p>"
+			"name": "基本匠人书籍 Basic Crafter's Book",
+			"description": "<p>包含CRB中所有常见物品的制造公式</p>"
 		},
 		"Basic Crutch": {
 			"name": "Basic Crutch",
@@ -1510,8 +1510,8 @@
 			"description": "<p>This snare consists of a hidden canister of caltrops attached to a trip wire. When the snare is triggered, it flings the caltrops into either the snare's square or a square adjacent to the snare. You choose which square when you set up the snare.</p>\n<p>If the caltrops scatter into the same square as a creature, that creature must attempt the Acrobatics check immediately.</p>\n<hr />\n<p><strong>Craft Requirements</strong> Supply a container of caltrops.</p>"
 		},
 		"Caltrops": {
-			"name": "Caltrops",
-			"description": "<p>These four‑pronged metal spikes can cause damage to a creature's feet. You can scatter caltrops in an empty square adjacent to you with an Interact action. The first creature that moves into that square must succeed at a DC 14 Acrobatics check or take 1d4 piercing damage and [[/r {1}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Bleed Damage}. A creature taking persistent bleed damage from caltrops takes a -5‑foot penalty to its Speed. Spending an Interact action to pluck the caltrops free reduces the DC to stop the bleeding. Once a creature takes damage from caltrops, enough caltrops are ruined that other creatures moving into the square are safe. Deployed caltrops can be salvaged and reused if no creatures took damage from them. Otherwise, enough caltrops are ruined that they can't be salvaged.</p>"
+			"name": "铁蒺藜 Caltrops",
+			"description": "<p>这些四尖金属钉可能会对生物的脚造成伤害。你可以使用【互动（Interact）动作】在与你相邻的一个空方格中散布铁蒺藜。进入该方格的第一个生物必须成功进行DC 14的特技检定，否则就会受到1d4穿刺伤害和 [[/r {1}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续流血伤害}。受到来自铁蒺藜的持续流血伤害的生物受到-5尺的速度减值。花费一个【互动（Interact）动作】来拔除铁蒺藜可以降低停止流血的DC。 一旦一个生物受到来自铁蒺藜的伤害，足够多的铁蒺藜会被毁掉，后续的其他生物进入这个方格是安全的。如果没有生物受到伤害，可以回收散布的铁蒺藜以再次使用。否则足够多的铁蒺藜会被破坏，这样无法回收。</p>"
 		},
 		"Camouflage Suit": {
 			"name": "Camouflage Suit",
@@ -1522,8 +1522,8 @@
 			"description": "<p>This lightweight mesh fits easily over light armor. The suit is designed to incorporate local flora and ground clutter into the mesh to help you blend in seamlessly with the environment. Due to the abrasive nature of the materials used, this item is unsuitable for use by unarmored characters. You can prepare the suit for use within your current environment by using an exploration activity that takes at least 10 minutes, but sometimes longer if the materials are hard to find or the environment is unusual enough to warrant additional difficulty in preparing camouflage that can blend with it consistently.</p>\n<p>A superb camouflage suit is fashioned from especially well-blended materials grants you a +2 item bonus to Stealth checks while you attempt to Hide or Sneak in the specific environment it has been prepared for. The suit remains usable in this manner until you rest for the night, though it doesn't grant the benefit whenever you aren't in the appropriate environment. The GM might rule that some environments are unusual enough that you can't create a camouflage suit appropriate for the environment.</p>\n<p>@Compendium[pf2e.equipment-effects.DfAyZW2vkhTygZVC]{Effect: Prepared Camouflage Suit (Superb)}</p>"
 		},
 		"Candle": {
-			"name": "Candle",
-			"description": "<p>A lit candle sheds dim light in a 10‑foot radius.</p>"
+			"name": "蜡烛 Candle",
+			"description": "<p>点燃的蜡烛在10尺半径范围内散发出昏暗的光芒，持续8小时。</p>"
 		},
 		"Candle of Invocation": {
 			"name": "Candle of Invocation",
@@ -1690,8 +1690,8 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>Enzymatic compounds in this elixir strengthen and excite the muscles in your legs. You gain a +10 foot status bonus to your Speed for 10 minutes.</p>\n<p>@Compendium[pf2e.consumable-effects.j9zVZwRBVAcnpEkE]{Effect: Cheetah's Elixir (Moderate)}</p>"
 		},
 		"Chest": {
-			"name": "Chest",
-			"description": "<p>A wooden chest can hold up to 8 Bulk of items.</p>"
+			"name": "箱子 Chest",
+			"description": "<p>一个木箱可容纳最多8B物品。</p>"
 		},
 		"Chime of Opening": {
 			"name": "Chime of Opening",
@@ -1830,12 +1830,12 @@
 			"description": "<p>The shaft of this bolt is wrapped with fine twine. When the bolt strikes a solid surface, the twine unwinds and enlarges into a 50-foot-long rope, securely fastened to the surface the bolt struck. The rope can be pulled free with an Interact action and a successful DC 20 Athletics check.</p>"
 		},
 		"Climbing Kit": {
-			"name": "Climbing Kit",
-			"description": "<p>This satchel includes 50 feet of rope, pulleys, a dozen pitons, a hammer, a grappling hook, and one set of crampons. Climbing kits allow you to attach yourself to the wall you're Climbing, moving half as quickly as usual (minimum 5 feet) but letting you attempt a DC 5 flat check whenever you critically fail to prevent a fall. A single kit has only enough materials for one climber; each climber needs their own kit.</p>"
+			"name": "攀爬工具包 Climbing Kit",
+			"description": "<p>这个工具包包括50尺的麻绳，一些滑轮，一打岩钉，一把锤子，一个抓钩和一套冰爪。攀爬工具包可让你将自己固定在攀爬的墙上，以正常速度的一半移动（最小5尺），还可以让你在避免坠落的检定中大失败时进行一次DC为5的纯粹检定。一个工具包只够一位攀爬者的使用的材料; 每个攀爬者都需要有自己的工具包。</p>"
 		},
 		"Climbing Kit (Extreme)": {
-			"name": "Climbing Kit (Extreme)",
-			"description": "<p>This satchel includes 50 feet of rope, pulleys, a dozen pitons, a hammer, a grappling hook, and one set of crampons. Climbing kits allow you to attach yourself to the wall you're Climbing, moving half as quickly as usual (minimum 5 feet) but letting you attempt a DC 5 flat check whenever you critically fail to prevent a fall.</p>\n<p>You gain a +1 item bonus to Athletics checks to Climb while using an extreme climbing kit. A single kit has only enough materials for one climber; each climber needs their own kit.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+1 item bonus to Athletics checks to Climb</li>\n</ul>"
+			"name": "攀爬工具包(专家) Climbing Kit (Extreme)",
+			"description": "<p>这个工具包包括50尺的麻绳，一些滑轮，一打岩钉，一把锤子，一个抓钩和一套冰爪。攀爬工具包可让你将自己固定在攀爬的墙上，以正常速度的一半移动（最小5尺），还可以让你在避免坠落的检定中大失败时进行一次DC为5的纯粹检定。</p>\n<p>在使用专家级攀爬工具包时，你可以在运动检定上获得+1物品加值。一个工具包只够一位攀爬者的使用的材料; 每个攀爬者都需要有自己的工具包。</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>攀爬的运动检定上获得+1物品加值</li>\n</ul>"
 		},
 		"Clinging Ooze Snare": {
 			"name": "Clinging Ooze Snare",
@@ -1950,24 +1950,24 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<hr />\n<p>While arachnophobes don't need to fear this contraption's spiderlike appearance, they should probably worry if it starts ticking. When you activate the spider bomb, you place it on the ground and the clockwork spider crawls 5 feet in a straight line, continuing to advance 5 feet in the same straight line at the end of each of your turns for the next 4 rounds (traveling a total of 25 feet). If it takes any damage during this time, its bulbous abdomen detonates in a raging flame, dealing [[/r {5d6}[fire]]]{5d6 fire damage} to all creatures in a @Template[type:burst|distance:5] (@Check[type:reflex|dc:24|basic:true|name:Clockwork Spider Bomb Explosion|traits:fire|showDC:all]). You can also activate it a second time with a single-action command word activation, causing it to explode. The spider bomb has an AC of 10, 5 Hit Points, and +0 to all saving throws. After it detonates, the spider bomb is completely destroyed, regardless of the effects of its detonation. If it survives to the end of the 4-round duration without being detonated, the spider harmlessly loses its explosive charge and falls apart.</p>"
 		},
 		"Clothing (Explorer's)": {
-			"name": "探险者服装 Clothing (Explorer's)",
-			"description": "<p>不穿盔甲的冒险家穿着耐用的衣服旅行。虽然它不是盔甲并且应用你的无甲防御熟练，但它仍然有一个敏捷上限，而且如果蚀刻了效力符文，也可以在AC上获得物品加值。</p>"
+			"name": "服装(探险者) Clothing (Explorer's)",
+			"description": "<p>探索服装足够结实，可以被增强以保护你，即便它不是盔甲。它有多种形式，但最常见的种类看起来像牧师服，僧侣服装或巫师的长袍，因为这三个职业都尽可能避免穿盔甲。</p>"
 		},
 		"Clothing (Fine)": {
-			"name": "Clothing (Fine)",
-			"description": "<p>Fine clothing, suitable for a noble or royal, is made with expensive fabrics, precious metals, and intricate patterns.</p>"
+			"name": "服装(精致) Clothing (Fine)",
+			"description": "<p>精致的服装适合贵族或皇室，由昂贵的面料、贵重金属和复杂的图案制成。</p>"
 		},
 		"Clothing (High-Fashion Fine)": {
-			"name": "Clothing (High-Fashion Fine)",
-			"description": "<p>Fine clothing, suitable for a noble or royal, is made with expensive fabrics, precious metals, and intricate patterns. You gain a +1 item bonus to checks to Make an Impression on nobility or other upper‑class folk while wearing high‑fashion fine clothing.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+1 item bonus to checks to Make an Impression on nobility</li>\n</ul>"
+			"name": "服装(高级时装) Clothing (High-Fashion Fine)",
+			"description": "<p>精致的服装适合贵族或皇室，由昂贵的面料、贵重金属和复杂的图案制成。当你穿着高级时装时，在贵族或其他上流社会的【留下印象（Make an Impression）】检定中获得+1物品加值。</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>在贵族或其他上流社会的【留下印象（Make an Impression）】检定中获得+1物品加值</li>\n</ul>"
 		},
 		"Clothing (Ordinary)": {
-			"name": "Clothing (Ordinary)",
-			"description": "<p>Ordinary clothing is functional with basic tailoring, such as peasant garb, monk's robes, or work clothes.</p>"
+			"name": "服装(普通) Clothing (Ordinary)",
+			"description": "<p>普通的服装功能齐全并且剪裁合适，例如农民服装，僧侣长袍或工作服。</p>"
 		},
 		"Clothing (Winter)": {
-			"name": "Clothing (Winter)",
-			"description": "<p>Winter clothing allows you to negate the damage from severe environmental cold and reduce the damage from extreme cold to that of severe cold.</p>"
+			"name": "服装(冬季) Clothing (Winter)",
+			"description": "<p>冬季服装可以抵消严寒环境带来的伤害，可将酷寒的伤害减少为严寒的伤害。</p>"
 		},
 		"Club": {
 			"name": "棍棒 Club",
@@ -2106,12 +2106,12 @@
 			"description": "<p>Each of these matching necklaces has been constructed using one half of a purple teardrop-shaped gem, split in two. These pendants function only with the other pendant in their pair and must be crafted together. If one pendant becomes broken, the other shatters into non-magical shards. The price listed above is for a pair of pendants.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<p><strong>Effect</strong> You speak, audibly projecting your voice from the pendant you're wearing to the other. Your voice can be heard by whoever is wearing the other pendant no matter how far away the pendants are from each other, as long as the wearer has invested the other pendant and is on the same plane as you. Continued activation allows you to communicate with the other pendant's wearer whenever and for as long as your desire.</p>"
 		},
 		"Compass": {
-			"name": "Compass",
-			"description": "<p>A compass helps you Sense Direction or navigate, provided you're in a location with uniform magnetic fields. Without a compass, you take a -2 item penalty to these checks (similar to using a shoddy item).</p>"
+			"name": "罗盘 Compass",
+			"description": "<p>罗盘可以帮助您【感知方向（Sense Direction）】或导航，只要您处于具有均匀磁场的位置。如果没有罗盘，则会对这些检定带来-2物品减值（类似于使用简陋物品）。</p>"
 		},
 		"Compass (Lensatic)": {
-			"name": "Compass (Lensatic)",
-			"description": "<p>A compass helps you Sense Direction or navigate, provided you're in a location with uniform magnetic fields. Without a compass, you take a -2 item penalty to these checks (similar to using a shoddy item).</p>\n<p>A lensatic compass gives you a +1 item bonus to these checks.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+1 item bonus to Survival checks to Sense Direction or navigate</li>\n</ul>"
+			"name": "罗盘(透镜) Compass (Lensatic)",
+			"description": "<p>罗盘可以帮助您【感知方向（Sense Direction）】或导航，只要您处于具有均匀磁场的位置。如果没有罗盘，则会对这些检定带来-2物品减值（类似于使用简陋物品）</p>\n<p>透镜罗盘为这些检定提供+1物品加值。</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>【感知方向（Sense Direction）】或导航时+1物品加值</li>\n</ul>"
 		},
 		"Composite Longbow": {
 			"name": "复合长弓 Composite Longbow",
@@ -2250,12 +2250,12 @@
 			"description": "<p>这种远程武器有一个类似弓形的组件，安装在一个被称为舵柄的框架上。舵柄有一个将弓弦锁定在适当位置的机件，并与一个释放张力并发射矢的扳机相连。</p>"
 		},
 		"Crowbar": {
-			"name": "Crowbar",
-			"description": "<p>When Forcing Open an object that doesn't have an easy grip, a crowbar makes it easier to gain the necessary leverage. Without a crowbar, prying something open takes a -2 item penalty to the Athletics check to Force Open (similar to using a shoddy item).</p>"
+			"name": "撬棍 Crowbar",
+			"description": "<p>当需要强行打开一个没法轻易抓握的物体时，撬棍可以更容易地获得必要的杠杆作用。没有撬棍，强制撬开一些东西会的运动检定受到-2物品减值（类似于使用简陋物品）。</p>"
 		},
 		"Crowbar (Levered)": {
-			"name": "Crowbar (Levered)",
-			"description": "<p>When Forcing Open an object that doesn't have an easy grip, a crowbar makes it easier to gain the necessary leverage. Without a crowbar, prying something open takes a -2 item penalty to the Athletics check to Force Open (similar to using a shoddy item).</p>\n<p>A levered crowbar grants you a +1 item bonus to Athletics checks to Force Open anything that can be pried open.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+1 item bonus to checks to Athletics checks to Force Open</li>\n</ul>"
+			"name": "撬棍(带杠杆) Crowbar (Levered)",
+			"description": "<p>当需要强行打开一个没法轻易抓握的物体时，撬棍可以更容易地获得必要的杠杆作用。没有撬棍，强制撬开一些东西会的运动检定受到-2物品减值（类似于使用简陋物品）。</p>\n<p>一个杠杆撬棍会为强拆Force Open的运动检定提供+1物品加值。</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>强拆Force Open的运动检定+1物品加值</li>\n</ul>"
 		},
 		"Crown of Insight": {
 			"name": "Crown of Insight",
@@ -2638,20 +2638,20 @@
 			"description": "<p>When displayed prominently, this brass badge makes creatures find you more agreeable. You gain a +1 item bonus to Diplomacy checks.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Recall Knowledge</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> Attempt a DC 20 check to Recall Knowledge about people of a human ethnicity, a non-human ancestry, or some other type of creature. (The GM determines what your options are.) If you succeed, the badge's bonus increases to +2 for Diplomacy checks with creatures of that group for the rest of the day.</p>\n<p>@Compendium[pf2e.equipment-effects.pAMyEbJzWBoYoGhs]{Effect: Diplomat's Badge}</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+1 item bonus to Diplomacy checks</li>\n</ul>"
 		},
 		"Disguise Kit": {
-			"name": "Disguise Kit",
-			"description": "<p>This small wooden box contains cosmetics, false facial hair, spirit gum, and a few simple wigs. You usually need a disguise kit to set up a disguise in order to Impersonate someone using the Deception skill. If you've crafted a large number of disguises, you can replenish your cosmetics supply with replacement cosmetics suitable for the type of your disguise kit.</p>"
+			"name": "化装工具包 Disguise Kit",
+			"description": "<p>这个小木盒子包含化妆品，假面部毛发，快干胶水和一些简单的假发。你通常需要一个化装工具来进行化装，以便使用唬骗技能冒充某人。如果你进行了很多次数的化装，您可以使用适合化装工具包类型的替代化妆品来补充</p>"
 		},
 		"Disguise Kit (Elite Cosmetics)": {
 			"name": "Disguise Kit (Elite Cosmetics)",
 			"description": "<p>This small wooden box contains cosmetics, false facial hair, spirit gum, and a few simple wigs. You usually need a disguise kit to set up a disguise in order to Impersonate someone using the Deception skill. An elite disguise kit adds a +1 item bonus to relevant checks. If you've crafted a large number of disguises, you can replenish your cosmetics supply with replacement cosmetics suitable for the type of your disguise kit.</p>"
 		},
 		"Disguise Kit (Elite)": {
-			"name": "Disguise Kit (Elite)",
-			"description": "<p>This small wooden box contains cosmetics, false facial hair, spirit gum, and a few simple wigs. You usually need a disguise kit to set up a disguise in order to Impersonate someone using the Deception skill.</p>\n<p>An elite disguise kit adds a +1 item bonus to relevant checks. If you've crafted a large number of disguises, you can replenish your cosmetics supply with replacement cosmetics suitable for the type of your disguise kit.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+1 item bonus to Impersonate</li>\n</ul>"
+			"name": "化装工具包(专家) Disguise Kit (Elite)",
+			"description": "<p>这个小木盒子包含化妆品，假面部毛发，快干胶水和一些简单的假发。你通常需要一个化装工具来进行化装，以便使用唬骗技能冒充某人。</p>\n<p>An elite disguise kit adds a +1 item bonus to relevant checks. If you've crafted a large number of disguises, you can replenish your cosmetics supply with replacement cosmetics suitable for the type of your disguise kit.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+1 item bonus to Impersonate</li>\n</ul>"
 		},
 		"Disguise Kit (Replacement Cosmetics)": {
-			"name": "Disguise Kit (Replacement Cosmetics)",
-			"description": "<p>This small wooden box contains cosmetics, false facial hair, spirit gum, and a few simple wigs. You usually need a disguise kit to set up a disguise in order to Impersonate someone using the Deception skill. If you've crafted a large number of disguises, you can replenish your cosmetics supply with replacement cosmetics suitable for the type of your disguise kit.</p>"
+			"name": "化装工具包(补充化妆品) Disguise Kit (Replacement Cosmetics)",
+			"description": "<p>这个小木盒子包含化妆品，假面部毛发，快干胶水和一些简单的假发。你通常需要一个化装工具来进行化装，以便使用唬骗技能冒充某人。如果你进行了很多次数的化装，您可以使用适合化装工具包类型的替代化妆品来补充</p>"
 		},
 		"Disintegration Bolt": {
 			"name": "Disintegration Bolt",
@@ -3678,7 +3678,7 @@
 			"description": "<p>This kit include a collapsible fishing pole, fishhooks, line, lures, and a fishing net. Professional fishing tackle grants a +1 item bonus to checks to fish.</p>"
 		},
 		"Fist": {
-			"name": "Fist",
+			"name": "拳头 Fist",
 			"description": ""
 		},
 		"Five-Feather Wreath": {
@@ -5814,8 +5814,8 @@
 			"description": "<p>This 15-foot-long adamantine digging tool is far too big for even a Large creature to wield, though if you're a Small or larger creature, you can wield it while wearing a belt of giant strength, as though it were appropriately sized for you and had 2 Bulk. The GM might also allow you to wield the mattock if you have some other means of wielding oversized weapons, such as if you're a Large barbarian with the giant instinct or are a Huge creature. When it's used as a weapon, the mattock of the titans has the statistics of a +3 greater striking @Compendium[pf2e.equipment-srd.hg3IogR8ue2IWwgS]{Keen} adamantine greatpick.</p>\n<p>While you're wielding the mattock of the titans, you gain a +3 item bonus to Athletics checks. You can use it to loosen or push soft earth at a rate of 1 minute per 5-foot cube or smash through solid stone at the rate of 5 minutes per 5-foot-cube.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> Interact</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You dig furiously with the mattock to non-magically replicate the effects of an <em>@Compendium[pf2e.spells-srd.x7SPrsRxGb2Vy2nu]{Earthquake}</em> spell.</p>\n<hr />\n<p><strong>Craft Requirements</strong> You are a titan, and the initial raw materials must include 8,100 gp of adamantine.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+3 item bonus to Athletics checks</li>\n</ul>"
 		},
 		"Maul": {
-			"name": "Maul",
-			"description": "<p>Mauls are massive warhammers that must be swung with two hands.</p>"
+			"name": "大锤 Maul",
+			"description": "<p>大锤是大号的战锤，必须用双手挥舞。</p>"
 		},
 		"Mechanical Torch": {
 			"name": "Mechanical Torch",
@@ -6034,8 +6034,8 @@
 			"description": ""
 		},
 		"Morningstar": {
-			"name": "Morningstar",
-			"description": "<p>This weapon has a short shaft ending in a metal ball studded with spikes.</p>"
+			"name": "钉头锤 Morningstar",
+			"description": "<p>这种武器有短柄顶端是带着尖刺的金属球。</p>"
 		},
 		"Mortar of Hidden Meaning": {
 			"name": "Mortar of Hidden Meaning",
@@ -6234,8 +6234,8 @@
 			"description": "<p>This +1 resilient breastplate is constructed from the salvaged armor plating of one of Numeria's large robots. It protects the wearer from harsh elements and common laser fire, granting the wearer fire resistance 5.</p>\n<p><strong>Activate</strong><span class=\"pf2-icon\">1</span>command</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You activate the remnants of mysterious technology within the breastplate to encase yourself in an electric field. For 1 minute, adjacent creatures that hit you with a melee Strike, as well as creatures that touch you or hit you with an unarmed attack, take [[/r 1d10]] electricity damage per hit.</p>"
 		},
 		"Nunchaku": {
-			"name": "Nunchaku",
-			"description": "<p>The nunchaku is constructed of two wooden or metal bars connected by a short length of rope or chain.</p>"
+			"name": "双截棍 Nunchaku",
+			"description": "<p>双截棍由两根木质或金属的棍子通过绳子或链条链接而成。</p>"
 		},
 		"Oath of the Devoted": {
 			"name": "Oath of the Devoted",
@@ -6370,12 +6370,12 @@
 			"description": "<p>Each of the legendary <em>orbs of dragonkind</em> contains the essence and personality of a powerful dragon, with each of the 10 most famous orbs preserving a different type of metallic or chromatic dragon's spirit. It is believed that orbs for other types of true dragons exist, though that theory is yet to be confirmed.</p>\n<p>While holding an <em>orb of dragonkind</em>, you are immune to the breath weapon of the dragon variety associated with the orb. An <em>orb of dragonkind</em> also grants a number of additional senses. You can communicate verbally and visually with the bearers of other orbs as if you were in the same room with them. You know if there are any dragons within 10 miles of you at all times; this extends to 100 miles for dragons of the type associated with the orb. If an associated dragon is within 1 mile, you know which direction the dragon is from you and the dragon's age, such as young, adult, or ancient. Each orb grants a 10th-level arcane innate spell that you can cast at will, determined by the specific orb.</p>\n<p>The <em>Orb of Gold Dragonkind</em> can convey the innate spells of any of the other orbs, as well as their activated abilities, but it can grant each individual power only once per day. In addition, the bearer of the gold orb can use its 3-action activation to attempt to cast dominate on the bearer of another orb if they are within 1 mile, as if that bearer were a dragon of the associated type within 500 feet. The last reports of the <em>Orb of Gold Dragonkind</em> on Golarion indicate the orb has been destroyed, however. GMs running campaigns in settings other than the Age of Lost Omens might decide the gold orb is still intact for their campaigns.</p>\n<p>Bearing an <em>orb of dragonkind</em> earns you the enmity of all dragonkind forever because you profited from the enslavement of the dragon within the orb, even if you later lose the orb.</p>\n<p><strong>Spell Granted</strong> (DC 40) black dragon (darkness), blue dragon (hallucinatory terrain), brass dragon (speak with animals), bronze dragon (control water), copper dragon (hideous laughter), green dragon (entangle), red dragon (wall of fire), silver dragon (detect alignment [evil only]), white dragon (wall of ice)</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">T</span> command</p>\n<p><strong>Frequency</strong> once per round</p>\n<p><strong>Effect</strong> You cast a 10th-level <em>dominate</em> spell (DC 40) on a dragon of the type associated with the orb within 500 feet, except the effect lasts for 1 month rather than unlimited. The dragon does not receive its status bonus to saving throws against magic. The dragon is then temporarily immune to further domination via the orb for 24 hours.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> envision, Interact</p>\n<p><strong>Frequency</strong> three times per day</p>\n<p><strong>Effect</strong> You breathe an elemental blast that deals 25d6 damage (@Check[type:reflex|dc:40|basic:true] save) in either a @Template[type:cone|distance:60] or a @Template[type:line|distance:100] (your choice). The breath's damage type matches the Breath Weapon of the dragon type associated with the <em>orb of dragonkind</em> (acid for the black orb, electricity for the blue orb, and so on).</p>\n<p><strong>Destruction</strong> An <em>orb of dragonkind</em> violently shatters and explodes when exposed to the Breath Weapon of a dragon who is a descendant of the dragon trapped within. The explosion deals damage as the 2-action activation above to all creatures within 90 feet.</p>"
 		},
 		"Orc Knuckle Dagger": {
-			"name": "Orc Knuckle Dagger",
-			"description": "<p>This stout, metal blade of orc design has a horizontal basket hilt with blades jutting from each end, or sometimes one blade like that of a katar.</p>"
+			"name": "兽人指匕 Orc Knuckle Dagger",
+			"description": "<p>这种兽人设计的坚固的金属利器有着平行的笼手，每一头都有刃。有时也会像拳刃一样，只有一头有刃。</p>"
 		},
 		"Orc Necksplitter": {
-			"name": "Orc Necksplitter",
-			"description": "<p>This single‑bladed bearded axe has a jagged blade that's perfect for separating bone from tendon and cartilage.</p>"
+			"name": "兽人斩首斧 Orc Necksplitter",
+			"description": "<p>这把单刃的胡须状斧子有着锯齿状的刃，非常适合将骨头与肌腱和软骨分开。</p>"
 		},
 		"Orchestral Brooch": {
 			"name": "Orchestral Brooch",
@@ -6622,8 +6622,8 @@
 			"description": "<p>This tiny box holds a fragment of religious scripture sacred to a particular deity. The box is worn by affixing it to a leather cord and tying it around your head just above your brow. You don't gain any benefit from the phylactery if you don't worship the affiliated deity. The phylactery grants you religious wisdom, which manifests as a +3 item bonus to Religion checks.</p>\n<p>Just before you perform an action that would be anathema to the phylactery's deity, the phylactery warns you of the potential transgression in time for you to change your mind.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> envision</p>\n<p><strong>Frequency</strong> once every 30 minutes</p>\n<p><strong>Effect</strong> You ask for guidance about a particular course of action, gaining the effects of an <em>@Compendium[pf2e.spells-srd.41TZEjhO6D1nWw2X]{Augury}</em> spell.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+3 item bonus to Religion checks</li>\n</ul>"
 		},
 		"Pick": {
-			"name": "Pick",
-			"description": "<p>A pick designed solely for combat has a sturdy wooden shaft and a heavy, pointed head to deliver devastating blows.</p>"
+			"name": "镐 Pick",
+			"description": "<p>一种专门为战斗设计的镐，有着坚固的木柄和沉重而尖锐的头，可以提供毁灭性的打击。</p>"
 		},
 		"Pickpocket's Tailoring": {
 			"name": "Pickpocket's Tailoring",
@@ -7230,12 +7230,12 @@
 			"description": "<p>This massive tower shield is painted a cool cyan green and is decorated with an image of Absalom's mother-sphinx emerging from a cresting wave.</p>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>Hardness</th>\n<th>HP</th>\n<th>BT</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>10</td>\n<td>60</td>\n<td>30</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> Command</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You transform the shield into a 1-foot-thick, 10-foot-by-10-foot stone rampart topped with a battlement and adorned with the flags of Absalom. If any part of the rampart would pass through any creatures or objects, the activation fails. At the center of each 5-foot length of the rampart is an arrow slit. The rampart has AC 10, Hardness 15, and 30 Hit Points. The rampart is immune to critical hits and precision damage. Attacks that would destroy the rampart cause it to instead revert back to its shield form and drop to the ground in an open space below the rampart. When this happens, the shield loses 30 Hit Points. You can Dismiss the activation, causing the wall to revert back to its shield form. The shield then returns secured to your arm if you are adjacent to the rampart, or drops to the ground in an open space if you're not adjacent to the rampart. If neither destroyed nor Dismissed, the rampart reverts back to a shield automatically after 1 hour.</p>"
 		},
 		"Ranseur": {
-			"name": "Ranseur",
-			"description": "<p>This polearm is a long trident with a central prong that's longer than the other two.</p>"
+			"name": "刺叉 Ranseur",
+			"description": "<p>这种长兵是一种更长的三叉戟，中间的叉比两侧的叉更长。</p>"
 		},
 		"Rapier": {
-			"name": "Rapier",
-			"description": "<p>The rapier is a long and thin piercing blade with a basket hilt. It is prized among many as a dueling weapon.</p>"
+			"name": "细剑 Rapier",
+			"description": "<p>细剑有着细长的剑刃和笼手，它被许多人视为决斗武器。</p>"
 		},
 		"Rapier Pistol": {
 			"name": "Rapier Pistol",
@@ -7882,8 +7882,8 @@
 			"description": "<p>The thin, glittering strands of rope that comprise this thick belt appear to be spun gold. Strung along the front of the belt are a collection of four multicolored, perfectly spherical beads: jade, turquoise, quartz, and amethyst. While wearing the lash, you gain a +3 item bonus to Religion.</p>\n<p>When you invest the belt, you either increase your Wisdom score by 2 or to 18, whichever would give you a higher score.</p>\n<p>@Compendium[pf2e.equipment-effects.K21XQMoDVSPqzRla]{Equipment Effect: Sage's Lash (Turquoise)}</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> command, Interact</p>\n<p><strong>Effect</strong> You touch one of the jewels affixed to the sage's lash and speak a command word. Depending on the jewel, a different effect is produced that affects you and all living creatures in a @Template[type:emanation|distance:30]. After the effect occurs, all four jewels disappear from the lash, reappearing at the next dawn.</p>\n<ul>\n<li><strong>Jade</strong> (healing, positive) Speak “purity” to produce a wave of green light that ends any sickened condition and any ongoing poison damage affecting creatures in the emanation.</li>\n<li><strong>Turquoise</strong> Speak “clarity” to grant all affected a +2 status bonus to their next Will save for 1 minute.</li>\n<li><strong>Quartz</strong> (healing, positive) Speak “lenity” to have each creature regain 30 Hit Points.</li>\n<li><strong>Amethyst</strong> (divination, light, revelation) Speak “verity” to emit a magical trail of light from the lash that reveals the location of each creature in the emanation. For 1 round, if they would be @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisible}, they become @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} instead, and if they would be @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Undetected} or @Compendium[pf2e.conditionitems.9evPzg9E6muFcoSk]{Unnoticed} by a creature, they're @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Hidden} instead. A creature can attempt a @Check[type:stealth|dc:43|name:Avoid Sage's Lash Detection|traits:divination,light,revelation] check to avoid the lash's detection.</li>\n</ul>"
 		},
 		"Sai": {
-			"name": "Sai",
-			"description": "<p>This piercing dagger is a metal spike flanked by a pair of prongs that can be used to trap an enemy's weapon.</p>"
+			"name": "十手 Sai",
+			"description": "<p>这种穿刺匕首，中间和两侧都有尖刺，可以用来卡住敌人的武器。</p>"
 		},
 		"Saint's bone with lost scriptures": {
 			"name": "Saint's bone with lost scriptures",
@@ -7922,8 +7922,8 @@
 			"description": "<p>On Tekritanin holidays, children reenacted legendary battles of deities by playing with magical tops. Though the paint on this wooden top has long since faded, its magical runes once gleamed yellow-gold and fiery orange, evoking the color of the sky during a sandstorm. To set the top in motion, wind a string around its bottom and upward along its body, and then throw it while gripping the string.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You throw the sandstorm top 10 feet away from you. For 1 minute, as it spins, the top generates a magical sandstorm in a 5-foot radius. Any creature that starts its turn in the area or moves into the area takes [[/r {4d6}[slashing]]]{4d6 slashing damage} (@Check[type:reflex|dc:30|basic:true] save). Additionally, a creature within the sandstorm must hold its breath or begin suffocating.</p>"
 		},
 		"Sap": {
-			"name": "Sap",
-			"description": "<p>A sap has a soft wrapping around a dense core, typically a leather sheath around a lead rod. Its head is wider than its grip to disperse the force of a blow, as the weapon's purpose is to knock out its victim rather than to draw blood.</p>"
+			"name": "闷棍 Sap",
+			"description": "<p>闷棍用柔软的皮包裹着紧实的核心，通常是用皮革包裹铅块。它的头部比握把更宽，以分散打击的力量，因为武器的目的是击倒受害者，而不是放血。</p>"
 		},
 		"Sapphire": {
 			"name": "Sapphire",
@@ -7950,8 +7950,8 @@
 			"description": "<p>This pyramid-shaped spike is attached to an armor's chest piece. When you activate the spike, it shoots a strand of force to help you gain purchase. If you roll a success on the triggering attempt, you get a critical success instead (if you roll a critical failure, you get a failure instead).</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Command</p>\n<p><strong>Trigger</strong> You attempt to Grab an Edge but haven't rolled</p>\n<p><strong>Requirements</strong> You're an expert in Reflex</p>"
 		},
 		"Sawtooth Saber": {
-			"name": "Sawtooth Saber",
-			"description": "<p>The signature weapon of the Red Mantis assassins, this curved blade is serrated like a saw, hence the name.</p>"
+			"name": "锯齿剑 Sawtooth Saber",
+			"description": "<p>红螳螂刺客的标志性武器，这种刀刃弯曲的利器很像锯齿，因此得名。</p>"
 		},
 		"Scale Mail": {
 			"name": "鳞甲 Scale Mail",
@@ -7970,8 +7970,8 @@
 			"description": "<p>Scholarly journals are uncommon. Each scholarly journal is a folio on a very specific topic, such as vampires or the history of a single town or neighborhood of a city. If you spend 1 minute referencing an academic journal before attempting a skill check to Recall Knowledge about the subject, you gain a +1 item bonus to the check. A compendium of journals costs five times as much as a single journal and requires both hands to use; each compendium contains several journals and grants its bonus on a broader topic, such as all undead or a whole city. The GM determines what scholarly journals are available in any location.</p>"
 		},
 		"Scimitar": {
-			"name": "Scimitar",
-			"description": "<p>This one-handed curved blade is sharp on one side.</p>"
+			"name": "弯刀 Scimitar",
+			"description": "<p>单手曲刃刀。</p>"
 		},
 		"Scope of Limning": {
 			"name": "Scope of Limning",
@@ -8058,8 +8058,8 @@
 			"description": "<p>A band of pliant wood encircles the head of this slender mahogany staff. The Magaambya created the first <em>scrollstaves</em> millennia ago, and even the few <em>scrollstaves</em> found beyond the organization often incorporate Magaambyan iconography as an homage to their source.</p>\n<p>A <em>scrollstaff</em> serves as a weapon just like an ordinary staff and can be improved via runes like any other staff. In addition, if you are capable of creating magical scrolls, you can inscribe a single scroll onto the staff's head for the same cost as normal for Crafting the scroll. If necessary, you can embed a required material focus into the staff as part of the same Craft activity. As long as you are holding the staff, you can cast the spell from the staff's head. Casting the written spell works just like casting from a scroll, but you can perform the necessary material component with the staff, even if you don't have a free hand. Once you cast the inscribed spell, any material focus remains embedded in the staff until removed as an Interact action.</p>\n<p>The staff can hold only a single scroll at a time. If you inscribe a new scroll before casting the previous spell, you replace the existing spell and remove any previous material focus as part of the Craft activity to write the new scroll.</p>"
 		},
 		"Scythe": {
-			"name": "Scythe",
-			"description": "<p>Derived from a farming tool used to mow down long grains and cereals, this weapon has a long wooden shaft with protruding handles, capped with a curved blade set at a right angle.</p>"
+			"name": "巨镰 Scythe",
+			"description": "<p>这种武器源自一种用来收割谷物的农具，它有一根长木柄和突出的手把，顶端是呈直角弯曲的刀刃。</p>"
 		},
 		"Scything Blade Snare": {
 			"name": "Scything Blade Snare",
@@ -8214,20 +8214,20 @@
 			"description": "<p>There are numerous methods to modify shields-snarling rods to catch weapons, bladed edges, padding for nonlethal strikes, and so on-but all share basic functionality. A shield augmentation can be etched with weapon runes, much like a shield boss or shield spikes, but doesn't otherwise alter your shield's statistics. A shield bearing an augmentation can't be combined with an attached weapon, like shield spikes.</p>\n<p>A shield augmentation grants your shield one or more weapon traits, chosen when the augmentation is created. You can either choose to add the backswing or forceful trait, or you can choose two of the following weapon traits: disarm, nonlethal, shove, thrown 10 feet, trip, or versatile S.</p>"
 		},
 		"Shield Bash": {
-			"name": "Shield Bash",
-			"description": "<p>A shield bash is not actually a weapon, but a maneuver in which you thrust or swing your shield to hit your foe with an impromptu attack.</p>"
+			"name": "盾击 Shield Bash",
+			"description": "<p>盾击实际上不是一种武器，而是描述一种挥舞你的盾牌猛击你的敌人的动作。</p>"
 		},
 		"Shield Boss": {
-			"name": "Shield Boss",
-			"description": "<p>Typically a round, convex, or conical piece of thick metal attached to the center of a shield, a shield boss increases the bludgeoning damage of a shield bash.</p>"
+			"name": "盾凸 Shield Boss",
+			"description": "<p>通常是一块圆形、凸形或圆锥形的厚金属片，附着在盾牌的中心，盾凸会增加盾击的钝击伤害。</p>"
 		},
 		"Shield Sconce": {
 			"name": "Shield Sconce",
 			"description": "<p>This carefully balanced metal bracket can be attached to the front or top of a shield or tower shield (but not a buckler), allowing you to carry a torch without giving up your shield or holding it in your other hand. While carrying a torch in this way, you must attempt a DC 11 flat check every time you use the Shield Block reaction; on a failure, the torch is extinguished.</p>"
 		},
 		"Shield Spikes": {
-			"name": "Shield Spikes",
-			"description": "<p>These metal spikes are strategically placed on the defensive side of the shield to deal piercing damage with a shield bash.</p>"
+			"name": "盾刺 Shield Spikes",
+			"description": "<p>这些金属刺战略性地安置在盾牌的防御侧，让盾击造成穿刺伤害。</p>"
 		},
 		"Shield of the Unified Legion": {
 			"name": "Shield of the Unified Legion",
@@ -8286,16 +8286,16 @@
 			"description": "<p>This leather bandolier holds up to three repeating hand crossbow @Compendium[pf2e.equipment-srd.9w8MrBhFtvM7RrYN]{Magazine with 5 Bolts} in leather pockets that pop open with the quick flick of a thumb. You reduce the reload time for a repeating hand crossbow magazine from the bandolier by 1, to a total of 2 actions. You can wear only one shootist bandolier at a time.</p>"
 		},
 		"Shortbow": {
-			"name": "Shortbow",
-			"description": "<p>This smaller bow is made of a single piece of wood and favored by skirmishers and cavalry.</p>"
+			"name": "短弓 Shortbow",
+			"description": "<p>这种小型弓由单独一块木头做成，受到散兵和骑兵的青睐。</p>"
 		},
 		"Shortbread Spy": {
 			"name": "Shortbread Spy",
 			"description": "<p><strong>Activate</strong> 1 minute (Interact)</p>\n<hr />\n<p>Though this item looks like a simple cookie in the shape of a humanoid, it springs to life once decorated with icing or other edible substances. The cookie then scrambles away at a Speed of 15 feet, returning to the same spot about 1 hour later, which gives it enough time to travel roughly a half-mile away and then return along the same path. The cookie spy is oblivious to your instructions and can't be given directions, instead following a path of its own choosing. Upon its return, it falls to the ground, never to move again.</p>\n<p>As long as you decorated the shortbread spy with eyes, it gains normal vision, which it uses to see and magically record the sights along its path. Any creature that eats the cookie once it returns can then see what the spy saw. The images are relatively clear, but the passage of time is a bit muddied, so it might be difficult to tell when the cookie witnessed a given sight.</p>"
 		},
 		"Shortsword": {
-			"name": "Shortsword",
-			"description": "<p>These blades come in a variety of shapes and styles, but they are typically 2 feet long.</p>"
+			"name": "短剑 Shortsword",
+			"description": "<p>这种利器有多种形状和风格，但通常2英尺长。</p>"
 		},
 		"Shot of the First Vault": {
 			"name": "Shot of the First Vault",
@@ -8318,8 +8318,8 @@
 			"description": "<p>This fungus-flavored potion conveys the effects of the shrink spell to make you and all your gear smaller. This potion has no onset, lasts for 1 hour, and grants the effects of a 4th-level <em>@Compendium[pf2e.spells-srd.PjhUmyKnq6K5uDby]{Shrink}</em> spell. In addition, you gain a +2 item bonus to Stealth checks while shrunken.</p>\n<p>@Compendium[pf2e.consumable-effects.zd85Ny1RS46OL0TD]{Effect: Shrinking Potion (Greater)}</p>"
 		},
 		"Shuriken": {
-			"name": "Shuriken",
-			"description": "<p>This \"throwing star\" is a small piece of flat metal with sharp edges, designed to be flung with a flick of the wrist.</p>"
+			"name": "手里剑 Shuriken",
+			"description": "<p>这种 \"投掷的星星\" 是一块刀刃锋利的扁平金属，设计通过抖腕或弹指投掷出去。</p>"
 		},
 		"Siccatite Buckler (High Grade)": {
 			"name": "Siccatite Buckler (High Grade)",
@@ -8346,8 +8346,8 @@
 			"description": "<p>Siccatite shields radiate extreme temperatures that protect them from energy damage. A protective coating on the wielder's side of the shield protects them from siccatite's radiant heat or cold but makes the shields bulkier than average.</p>\n<p>Standard‑grade siccatite shields have resistance 10 to the corresponding energy type: fire damage for a hot siccatite shield or cold damage for a cold siccatite shield, as it takes even more extreme temperatures to affect them. They also provide some resistance to opposing temperatures because of their own extreme temperature, which extends to you when you @Compendium[pf2e.actionspf2e.xjGwis0uaC2305pm]{Raise the Shield}. The shield has resistance 5 to the opposing damage type (cold damage for a hot siccatite shield or fire damage for a cold siccatite shield), and while you have a siccatite shield Raised, you gain that resistance to the opposing damage type as well.</p>\n<p><strong>Craft Requirements</strong> siccatite worth at least 55 gp</p>"
 		},
 		"Sickle": {
-			"name": "Sickle",
-			"description": "<p>Originally a farming tool used for reaping grain, this one‑handed weapon has a short wooden handle ending in a curved blade, sometimes sharpened on both sides.</p>"
+			"name": "镰刀 Sickle",
+			"description": "<p>最初是用来收割谷物的农具，这种单手武器有一个短木柄，顶端是弯曲的刀刃，有时两面都开封。</p>"
 		},
 		"Sickle-saber": {
 			"name": "Sickle-saber",
@@ -8654,12 +8654,12 @@
 			"description": "<p>This thick, greasy +1 striking shifting whip is made from a slimy pseudopod. You don't take the usual -2 circumstance penalty to your attack rolls when using the slime whip to make a lethal attack. The whip's form can be changed just like any weapon with the shifting rune, but it reverts to its original form as soon as it isn't wielded. When in its whip form, you can use the following action.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> command, Interact</p>\n<p><strong>Frequency</strong> once per hour</p>\n<p><strong>Effect</strong> For 1 round, the slime whip deals acid damage rather than slashing damage. If the attack deals persistent damage, the persistent damage is also acid damage instead of its usual type.</p>"
 		},
 		"Sling": {
-			"name": "Sling",
-			"description": "<p>Little more than a leather cup attached to a pair of straps, a sling can be used to fling smooth stones or sling bullets at a range.</p>"
+			"name": "投石索 Sling",
+			"description": "<p>仅仅是一块皮革附着在一根带子上，投石索可以在远程用来投掷光滑的石头或者投石索弹丸。</p>"
 		},
 		"Sling Bullets": {
-			"name": "Sling Bullets",
-			"description": "<p>These are small metal balls, typically either iron or lead, designed to be used as ammunition in slings.</p>"
+			"name": "投石索弹丸 Sling Bullets",
+			"description": "<p>这些小金属球，通常是铁球或铅球，设计作为投石索的弹药。</p>"
 		},
 		"Slippers of Spider Climbing": {
 			"name": "Slippers of Spider Climbing",
@@ -8814,8 +8814,8 @@
 			"description": "<p>Faint, delicate etchings of lightning trace across the blade of this +1 cold iron shortsword. Cold iron is made from particularly pure sources of iron and shaped with little to no heat, resulting in weapons deadly to demons and fey alike.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>Once per day, you can spend 1 action to point the sparkblade at a foe within 30 feet of you and shoot an arc of lightning from the blade. This lightning can leap from your chosen foe to another creature you choose within 30 feet, dealing [[/r 2d4+4]] electricity damage to each creature (DC 19 basic Reflex save).</p>"
 		},
 		"Spear": {
-			"name": "Spear",
-			"description": "<p>A long metal shaft ending with a metal spike, a spear can be used one‑handed as a melee weapon and can be thrown.</p>"
+			"name": "矛 Spear",
+			"description": "<p>长长的金属柄顶端有金属刺，矛可以作为近战武器单手使用或者用来投掷。</p>"
 		},
 		"Spear Frog Poison": {
 			"name": "Spear Frog Poison",
@@ -8998,12 +8998,12 @@
 			"description": "<p>This basic snare consists of hidden spikes that rely on a creature's momentum to lacerate or potentially impale it as it enters the snare's square, dealing 2d8 piercing damage. The creature must attempt a @Check[type:reflex|dc:17|basic:true] saving throw.</p>"
 		},
 		"Spiked Chain": {
-			"name": "Spiked Chain",
-			"description": "<p>This 4‑foot‑long length of chain is covered with barbs and has spikes on one or both ends. Some feature metal hoops used as handgrips.</p>"
+			"name": "刺链 Spiked Chain",
+			"description": "<p>这种4英尺的链条附着倒钩，一端或两段都有尖刺。有些会配置金属环作为握把。</p>"
 		},
 		"Spiked Gauntlet": {
-			"name": "Spiked Gauntlet",
-			"description": "<p>Providing the same defensive function as a standard gauntlet, this version has a group of spikes protruding from the knuckles to deliver piercing damage with a punch.</p>"
+			"name": "带刺铁手套 Spiked Gauntlet",
+			"description": "<p>提供和标准铁手套一样的防御功能，但这种铁手套关节上还突出了一组尖刺让拳击造成穿刺伤害。</p>"
 		},
 		"Spined Shield": {
 			"name": "Spined Shield",
@@ -9094,8 +9094,8 @@
 			"description": "<p>St. Alkitarem's Eye is a simple silver chain bearing a brass housing with tiny brass wings. At the center of the housing is a <em>@Compendium[pf2e.equipment-srd.M2CPAgSAoEL4oawq]{Clear Spindle Aeon Stone}</em>, positioned so it resembles an open eye. This is necklace is known as <em>St. Alkitarem's Eye</em>. The housing can bear a single aeon stone in the same manner as a wayfinder, allowing the necklace's wearer to benefit from the aeon stone just as though it were orbiting their head. The necklace can bear only a <em>clear spindle aeon stone</em>, not other types of aeon stones. It allows the bearer to use the aeon stone's resonant power and doesn't restrict the wearer from investing other aeon stones (even those slotted in a wayfinder). <em>St. Alkitarem's Eye</em> otherwise has the same statistics (including Price) as a wayfinder.</p>"
 		},
 		"Staff": {
-			"name": "Staff",
-			"description": "<p>This long piece of wood can aid in walking and deliver a mighty blow.</p>"
+			"name": "木杖 Staff",
+			"description": "<p>这根长木头能够帮助人行走，也能给予人沉重的打击。</p>"
 		},
 		"Staff of Abjuration": {
 			"name": "Staff of Abjuration",
@@ -9414,8 +9414,8 @@
 			"description": ""
 		},
 		"Starknife": {
-			"name": "Starknife",
-			"description": "<p>From a central metal ring, four tapering metal blades extend like points on a compass rose. When gripping a starknife from the center, the wielder can use it as a melee weapon. It can also be thrown short distances.</p>"
+			"name": "星刃 Starknife",
+			"description": "<p>中间是金属环，四片逐渐变细的刀刃像指南针上的指针一样延伸。当从中间抓住星刃时，使用者可以将它作为近战武器使用。它也可以在短距离内作为投掷武器使用。</p>"
 		},
 		"Starless Scope": {
 			"name": "Starless Scope",
@@ -9790,8 +9790,8 @@
 			"description": "<p>Four curved blades attached to a sturdy handlebar give the wielder of this close-combat weapon the illusion of having claws that extend from their fist. Adherents of @Compendium[pf2e.deities.zRmAXj7FSlrMfDeA]{Bastet } favor the tekko-kagi for catching their foes off guard.</p>"
 		},
 		"Temple Sword": {
-			"name": "Temple Sword",
-			"description": "<p>This heavy blade is favored by guardians of religious sites. It has a distinctive, crescent‑shaped blade that seems to be a mix of a sickle and sword. It often has holes drilled into the blade or the pommel so that bells or other holy trinkets can be affixed to the weapon as an aid for prayer or mediation.</p>"
+			"name": "仪剑 Temple Sword",
+			"description": "<p>这把沉重的剑受到宗教场所护卫的偏爱。它有着独特的新月形刀刃，似乎是镰刀和剑的混合体。通常会在剑刃或剑柄上钻孔，以便将铃铛或其他神圣的物品附着在武器上，以帮助祈祷或仲裁。</p>"
 		},
 		"Ten-Foot Pole": {
 			"name": "Ten-Foot Pole",
@@ -10114,8 +10114,8 @@
 			"description": "<p>This ingenious kobold pick conceals several hidden traps, which the wielder can activate to trick and befuddle foes with a variety of damaging blades and bludgeoning surfaces.</p>"
 		},
 		"Trident": {
-			"name": "Trident",
-			"description": "<p>This three‑pronged, spear‑like weapon typically has a 4‑foot shaft. Like a spear, it can be wielded with one hand or thrown.</p>"
+			"name": "三叉戟 Trident",
+			"description": "<p>这种三股矛状的武器，通常有4英尺长的柄。像矛一样，它可以单手持用也可以用来投掷。</p>"
 		},
 		"Trinity Geode": {
 			"name": "Trinity Geode",
@@ -10698,8 +10698,8 @@
 			"description": "<p>The handle of this wand is a 5-inch-long piece of rosewood, but most of its length is a pair of twisted spider legs covered in gossamer webbing.</p>\n<p><strong>Activate</strong> Cast a spell</p>\n<p><strong>Frequency</strong> Once per day, plus overcharge</p>\n<p><strong>Effect</strong> You cast <em>@Compendium[pf2e.spells-srd.9s5tqqXNzcoKamWx]{Web}</em> at 4th level, but the strands of webbing are envenomed. Any creature that fails their Athletics check or Reflex save to navigate the web takes [[/r 2d6]] poison damage and [[/r {1d6}[persistent,poison]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Poison Damage}.</p>\n<p><strong>Craft Requirements</strong> Supply a casting of web at 4th-level.</p>"
 		},
 		"War Flail": {
-			"name": "War Flail",
-			"description": "<p>This large flail has a long shaft connected to a shorter piece of stout wood or metal that's sometimes inlaid with spikes.</p>"
+			"name": "战用连枷 War Flail",
+			"description": "<p>这种大型连枷有长柄链接一块短粗的木质或金属块，有时镶嵌有尖刺。</p>"
 		},
 		"War Razor": {
 			"name": "War Razor",
@@ -10762,8 +10762,8 @@
 			"description": "<p>This large stone eye is the size of a fist and decorated with elaborate carvings of robes and other garments. You gain a +2 item bonus to a specific Lore skill associated with your outfit, such as Carpentry Lore when wearing a carpenter's outfit or Cooking Lore when wearing a chef's outfit.</p>\n<hr />\n<p><strong>Activate</strong> (1 minute) envision, Interact</p>\n<p><strong>Effect</strong> You enter a brief trance in which you envision yourself entering a large dressing room. You maneuver through the endless dressing-room mindscape and search for whatever articles of clothing, accessories, and other garments you desire. After the activation, you gain the effects of <em>@Compendium[pf2e.spells-srd.i35dpZFI7jZcRoBo]{Illusory Disguise}</em>, except that it only causes you to appear to be wearing the exact outfit you selected within the mindscape. The illusion also disguises the wardrobe stone to match your outfit and not appear out of place, such as by appearing to be a glove or bracelet, though it continues to occupy your hand while you're under the effects of <em>illusory disguise</em>. You can actively Dismiss the Spell, but the effects are also dismissed immediately when you're no longer holding the wardrobe stone.</p>\n<hr />\n<p><strong>Activate</strong> (1 minute) envision, Interact</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You cast <em>@Compendium[pf2e.spells-srd.Ek5XI0aEdZhBgm21]{Prying Eye}</em>.</p>"
 		},
 		"Warhammer": {
-			"name": "Warhammer",
-			"description": "<p>This weapon has a wooden shaft ending in a large, heavy metal head. Thehead of the hammer might be single‑sided or double‑sided, but it's always capable of delivering powerful bludgeoning blows.</p>"
+			"name": "战锤 Warhammer",
+			"description": "<p>这种武器有木柄，顶端是巨大沉重的金属头，锤头有单面的也有双面的，但总能造成强而有力的钝击伤害。</p>"
 		},
 		"Warning Snare": {
 			"name": "Warning Snare",
@@ -10834,8 +10834,8 @@
 			"description": "<p>This small, hand-propelled vehicle has a single wheel and is designed to carry large loads over a distance. A wheelbarrow can typically hold up to 5 Bulk of objects without issue. The GM might rule that it can hold more Bulk of particular items, such as sand, or less Bulk of other items, like awkwardly shaped rocks.</p>\n<p>You can raise or place a wheelbarrow using an Interact action and can Stride your normal Speed while you have the wheelbarrow raised, though you're encumbered while pushing a wheelbarrow. You can Release a wheelbarrow as normal, but a loaded wheelbarrow has a chance of tipping over if you don't place it down with care.</p>\n<p>When you Release a wheelbarrow, attempt a @Check[type:flat|dc:7] check. On a failure, the wheelbarrow tips over, spilling its contents into a randomly determined adjacent space.</p>"
 		},
 		"Whip": {
-			"name": "Whip",
-			"description": "<p>This long strand of thick leather, often braided, delivers a painful but nonlethal slash at a distance, usually accompanied by a distinctive cracking sound.</p>"
+			"name": "鞭子 Whip",
+			"description": "<p>这种长而粗的皮绳通常是编织而成，在一定距离上造成痛苦但非致命的挥砍伤害，通常伴随独特的噼里啪啦的声响。</p>"
 		},
 		"Whip Claw": {
 			"name": "Whip Claw",
