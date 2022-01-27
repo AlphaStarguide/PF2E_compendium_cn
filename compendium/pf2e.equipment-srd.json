@@ -74,20 +74,20 @@
 			"description": "<p>These glowing shields are crafted to ensure that the abysium used is safely contained within a durable outer shell. If the shield breaks, however, the toxic metal becomes exposed. When you use the @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Shield Block} reaction against an adjacent creature's melee Strike, if the shield breaks, the creature is exposed to the abysium and is @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened 1}.</p>\n<p><strong>Craft Requirements</strong> abysium worth at least 55 gp</p>"
 		},
 		"Acid Flask (Greater)": {
-			"name": "Acid Flask (Greater)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Strike</p>\n<p>This flask filled with corrosive acid deals 1 acid damage, 3d6 persistent acid damage, and 3 acid splash damage. You gain a +2 item bonus to attack rolls.</p>"
+			"name": "高等强酸瓶 Acid Flask (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 打击 Strike</p>\n<p>这个装满强酸的烧瓶会造成1点强酸伤害，3d6点强酸持续伤害和3点强酸溅射伤害。你在攻击骰上获得+1的物品加值。</p>"
 		},
 		"Acid Flask (Lesser)": {
-			"name": "Acid Flask (Lesser)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Strike</p>\n<p>This flask filled with corrosive acid deals 1 acid damage, 1d6 persistent acid damage, and 1 acid splash damage.</p>"
+			"name": "次等强酸瓶 Acid Flask (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 打击 Strike</p>\n<p>这个装满强酸的烧瓶会造成1点强酸伤害，1d6点强酸持续伤害，和1点强酸溅射伤害。</p>"
 		},
 		"Acid Flask (Major)": {
-			"name": "Acid Flask (Major)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Strike</p>\n<p>This flask filled with corrosive acid deals 1 acid damage, 4d6 persistent acid damage, and 4 acid splash damage. You gain a +3 item bonus to attack rolls.</p>"
+			"name": "上等强酸瓶 Acid Flask (Major)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 打击 Strike</p>\n<p>这个装满强酸的烧瓶会造成1点强酸伤害，4d6点强酸持续伤害和4点强酸溅射伤害。你在攻击骰上获得+1的物品加值。</p>"
 		},
 		"Acid Flask (Moderate)": {
-			"name": "Acid Flask (Moderate)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Strike</p>\n<p>This flask filled with corrosive acid deals 1 acid damage, 2d6 persistent acid damage, and 2 acid splash damage. You gain a +1 item bonus to attack rolls.</p>"
+			"name": "中等强酸瓶 Acid Flask (Moderate)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 打击 Strike</p>\n<p>这个装满强酸的烧瓶会造成1点强酸伤害，2d6点强酸持续伤害和2点强酸溅射伤害。你在攻击骰上获得+1的物品加值。</p>"
 		},
 		"Acid Spitter": {
 			"name": "Acid Spitter",
@@ -282,20 +282,20 @@
 			"description": "<p>These brass goggles are engraved with flame patterns and have thick, heavy lenses.</p>\n<p>While worn, they give you a +3 item bonus to Crafting checks to Craft alchemical items and a +3 item bonus to attack rolls with alchemical bombs.</p>\n<p>You can also ignore lesser cover when making Strikes with alchemical bombs.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+3 item bonus to Crafting alchemical item</li>\n<li>+3 item bonus to attack rolls with bombs</li>\n</ul>"
 		},
 		"Alchemist's Fire (Greater)": {
-			"name": "Alchemist's Fire (Greater)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Strike</p>\n<p>Alchemist's fire is a combination of volatile liquids that ignite when exposed to air. Alchemist's fire deals 3d8 fire damage, 3 persistent fire damage, and 3 fire splash damage. You gain a +2 item bonus to attack rolls.</p>"
+			"name": "高等炽火胶 Alchemist's Fire (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 打击 Strike</p>\n<p>炽火胶是一种接触空气就会剧烈燃烧的爆炸性液体混合物。你在攻击骰上获得+2的物品加值。这枚炸弹造成3d8点火焰伤害，3点火焰持续伤害和3点火焰溅射伤害。</p>"
 		},
 		"Alchemist's Fire (Lesser)": {
-			"name": "Alchemist's Fire (Lesser)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Strike</p>\n<p>Alchemist's fire is a combination of volatile liquids that ignite when exposed to air. Alchemist's fire deals 1d8 fire damage, 1 persistent fire damage, and 1 fire splash damage.</p>"
+			"name": "次等炽火胶 Alchemist's Fire (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 打击 Strike</p>\n<p>炽火胶是一种接触空气就会剧烈燃烧的爆炸性液体混合物。这枚炸弹造成1d8点火焰伤害，1点火焰持续伤害和1点火焰溅射伤害。</p>"
 		},
 		"Alchemist's Fire (Major)": {
-			"name": "Alchemist's Fire (Major)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Strike</p>\n<p>Alchemist's fire is a combination of volatile liquids that ignite when exposed to air. Alchemist's fire deals 4d8 fire damage, 4 persistent fire damage, and 4 fire splash damage. You gain a +3 item bonus to attack rolls.</p>"
+			"name": "上等炽火胶 Alchemist's Fire (Major)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 打击 Strike</p>\n<p>炽火胶是一种接触空气就会剧烈燃烧的爆炸性液体混合物。你在攻击骰上获得+3的物品加值。这枚炸弹造成4d8点火焰伤害，4点火焰持续伤害和4点火焰溅射伤害。</p>"
 		},
 		"Alchemist's Fire (Moderate)": {
-			"name": "Alchemist's Fire (Moderate)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Strike</p>\n<p>Alchemist's fire is a combination of volatile liquids that ignite when exposed to air. Alchemist's fire deals 2d8 fire damage, 2 persistent fire damage, and 2 fire splash damage. You gain a +1 item bonus to attack rolls.</p>"
+			"name": "中等炽火胶 Alchemist's Fire (Moderate)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 打击 Strike</p>\n<p>炽火胶是一种接触空气就会剧烈燃烧的爆炸性液体混合物。你在攻击骰上获得+1的物品加值。这枚炸弹造成2d8点火焰伤害，2点火焰持续伤害和2点火焰溅射伤害。</p>"
 		},
 		"Alchemist's Lab": {
 			"name": "炼金实验室 Alchemist's Lab",
@@ -426,20 +426,20 @@
 			"description": "<p>This waterskin coruscates with holy energy, causing it to slowly fill itself with special blessed water unique to the item. After using any of the activations, the waterskin is empty, but slowly refills itself. It becomes full enough to use again at the next dawn.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> command, Interact</p>\n<p><strong>Requirements</strong> The anointed waterskin is full</p>\n<p><strong>Effect</strong> You throw the anointed waterskin up to 60 feet. The water explodes out of it, with the effects of <em>@Compendium[pf2e.spells-srd.DZ9bzXYqMjAK9TzC]{Holy Cascade}</em>.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<p><strong>Requirements</strong> The anointed waterskin is full</p>\n<p><strong>Effect</strong> You drink the water within the waterskin, granting you the effects of <em>@Compendium[pf2e.spells-srd.XSujb7EsSwKl19Uu]{Bless}</em>. As normal with the spell, you can increase the radius with a single action with the concentrate trait.</p>\n<hr />\n<p><strong>Activate</strong> 1 minute (command, Interact)</p>\n<p><strong>Requirements</strong> The anointed waterskin is full</p>\n<p><strong>Effect</strong> You decant the water, creating up to 10 vials of <em>@Compendium[pf2e.equipment-srd.efFe4EK7ThUrH446]{Holy Water}</em>. You must provide the @Compendium[pf2e.equipment-srd.wvOYIeJjU3UDVgMG]{Vials}.</p>"
 		},
 		"Antidote (Greater)": {
-			"name": "Antidote (Greater)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>An antidote protects you against toxins. Upon drinking an antidote, you gain a +4 item bonus to Fortitude saving throws against poisons for 6 hours.</p>\n<p>@Compendium[pf2e.consumable-effects.QuZ5frBMJF3gi7RY]{Effect: Antidote (Greater)}</p>"
+			"name": "高等解毒剂 Antidote (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>解毒剂能帮助你对抗毒物。在饮用解毒剂后，你在对抗毒素的强韧豁免检定上获得持续6小时的+4物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.QuZ5frBMJF3gi7RY]{效果: 高等解毒剂}</p>"
 		},
 		"Antidote (Lesser)": {
-			"name": "Antidote (Lesser)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>An antidote protects you against toxins. Upon drinking an antidote, you gain a +2 item bonus to Fortitude saving throws against poisons for 6 hours.</p>\n<p>@Compendium[pf2e.consumable-effects.7z1iY4AaNEAIKuAU]{Effect: Antidote (Lesser)}</p>"
+			"name": "次等解毒剂 Antidote (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>解毒剂能帮助你对抗毒物。在饮用解毒剂后，你在对抗毒素的强韧豁免检定上获得持续6小时的+2物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.7z1iY4AaNEAIKuAU]{效果: 次等解毒剂}</p>"
 		},
 		"Antidote (Major)": {
-			"name": "Antidote (Major)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>An antidote protects you against toxins. Upon drinking an antidote, you gain a +4 item bonus to Fortitude saving throws against poisons for 6 hours, and when you drink the antidote, you can immediately attempt a saving throw against one poison of 14th level or lower affecting you. If you succeed, the poison is neutralized.</p>\n<p>@Compendium[pf2e.consumable-effects.1mKjaWC65KWPuFR4]{Effect: Antidote (Major)}</p>"
+			"name": "上等解毒剂 Antidote (Major)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>解毒剂能帮助你对抗毒物。在饮用解毒剂后，你在对抗毒素的强韧豁免检定上获得持续6小时的+4物品加值。并且当你饮用解毒剂时，你能够立即尝试一次豁免检定对抗一种正在影响你的、等级为14或更低的毒素。如果你取得成功，这个毒素即被中和。</p>\n<p>@Compendium[pf2e.consumable-effects.1mKjaWC65KWPuFR4]{效果: 上等解毒剂}</p>"
 		},
 		"Antidote (Moderate)": {
-			"name": "Antidote (Moderate)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>An antidote protects you against toxins. Upon drinking an antidote, you gain a +3 item bonus to Fortitude saving throws against poisons for 6 hours.</p>\n<p>@Compendium[pf2e.consumable-effects.mi4Md1fB2XThCand]{Effect: Antidote (Moderate)}</p>"
+			"name": "中等解毒剂 Antidote (Moderate)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>解毒剂能帮助你对抗毒物。在饮用解毒剂后，你在对抗毒素的强韧豁免检定上获得持续6小时的+3物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.mi4Md1fB2XThCand]{效果: 中等解毒剂}</p>"
 		},
 		"Antimagic": {
 			"name": "Antimagic",
@@ -450,20 +450,20 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This oil contains energy that repels nearly all types of magic. When you apply this oil to armor, the creature wearing the armor becomes immune to all spells, effects of magic items (the wearer's and those of others), and effects with the magical trait for 1 minute.</p>\n<p>The oil affects neither the magic of the armor nor the fundamental runes of weapons attacking the wearer. Magical effects from a source of 20th level or higher, such as a deity, still function on the armor's wearer.</p>"
 		},
 		"Antiplague (Greater)": {
-			"name": "Antiplague (Greater)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>Antiplague can fortify the body's defenses against diseases. Upon drinking an antiplague, you gain a +4 item bonus to Fortitude saving throws against diseases for 24 hours; this applies to your daily save against a disease's progression.</p>\n<p>@Compendium[pf2e.consumable-effects.R106i7WCXvHLGMTu]{Effect: Antiplague (Greater)}</p>"
+			"name": "高等抗生素 Antiplague (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>A抗生素能够强化身体针对疾病的免疫力。在饮用抗生素后，你在对抗疾病的强韧豁免检定上获得持续24小时的+4物品加值；这个加值可以适用于你对抗疾病发展（disease’s progression）的每日豁免。</p>\n<p>@Compendium[pf2e.consumable-effects.R106i7WCXvHLGMTu]{效果: 高等抗生素}</p>"
 		},
 		"Antiplague (Lesser)": {
-			"name": "Antiplague (Lesser)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>Antiplague can fortify the body's defenses against diseases. Upon drinking an antiplague, you gain a +2 item bonus to Fortitude saving throws against diseases for 24 hours; this applies to your daily save against a disease's progression.</p>\n<p>@Compendium[pf2e.consumable-effects.kkDbalYEavzRpYlp]{Effect: Antiplague (Lesser)}</p>"
+			"name": "次等抗生素 Antiplague (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>抗生素能够强化身体针对疾病的免疫力。在饮用抗生素后，你在对抗疾病的强韧豁免检定上获得持续24小时的+2物品加值；这个加值可以适用于你对抗疾病发展（disease’s progression）的每日豁免。</p>\n<p>@Compendium[pf2e.consumable-effects.kkDbalYEavzRpYlp]{效果: 次等抗生素}</p>"
 		},
 		"Antiplague (Major)": {
-			"name": "Antiplague (Major)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>Antiplague can fortify the body's defenses against diseases. Upon drinking an antiplague, you gain a +4 item bonus to Fortitude saving throws against diseases for 24 hours; this applies to your daily save against a disease's progression.</p>\n<p>When you drink the antiplague, you can immediately attempt a saving throw against one disease of 14th level or lower affecting you. If you succeed, you are cured of the disease.</p>\n<p>@Compendium[pf2e.consumable-effects.qVKrrKpTghgMIuGH]{Effect: Antiplague (Major)}</p>"
+			"name": "上等抗生素 Antiplague (Major)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>抗生素能够强化身体针对疾病的免疫力。在饮用抗生素后，你在对抗疾病的强韧豁免检定上获得持续24小时的+4物品加值；这个加值可以适用于你对抗疾病发展（disease’s progression）的每日豁免。</p>\n<p>当你饮用抗生素时，你能够立即尝试一次豁免检定对抗一种正在影响你的、等级为14或更低的疾病。如果你取得成功，你即从疾病中康复。</p>\n<p>@Compendium[pf2e.consumable-effects.qVKrrKpTghgMIuGH]{效果: 上等抗生素}</p>"
 		},
 		"Antiplague (Moderate)": {
-			"name": "Antiplague (Moderate)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>Antiplague can fortify the body's defenses against diseases. Upon drinking an antiplague, you gain a +3 item bonus to Fortitude saving throws against diseases for 24 hours; this applies to your daily save against a disease's progression.</p>\n<p>@Compendium[pf2e.consumable-effects.HeRHBo2NaKy5IxhU]{Effect: Antiplague (Moderate)}</p>"
+			"name": "中等抗生素 Antiplague (Moderate)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>抗生素能够强化身体针对疾病的免疫力。在饮用抗生素后，你在对抗疾病的强韧豁免检定上获得持续24小时的+4物品加值；这个加值可以适用于你对抗疾病发展（disease’s progression）的每日豁免。</p>\n<p>@Compendium[pf2e.consumable-effects.HeRHBo2NaKy5IxhU]{效果: 中等抗生素}</p>"
 		},
 		"Antivenom Potion": {
 			"name": "Antivenom Potion",
@@ -1250,20 +1250,20 @@
 			"description": "<p>Appearing to be an ordinary corked glass bottle, this item contains a limitless supply of fresh air. You must uncork the bottle with an Interact action before you can activate it.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p><strong>Effect</strong> You draw a breath of air from the bottle. This allows you to breathe even in an airless or toxic environment. Air doesn't escape the mouth of the bottle, so leaving the open bottle in an airless environment doesn't change the environment.</p>"
 		},
 		"Bottled Lightning (Greater)": {
-			"name": "Bottled Lightning (Greater)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Strike</p>\n<p>Bottled lightning is packed with volatile reagents that create a blast of electricity when they are exposed to air. Bottled lightning deals 3d6 electricity damage and 3 electricity splash damage. On a hit, the target becomes flat-footed until the start of your next turn. You gain a +2 item bonus to attack rolls.</p>"
+			"name": "高等瓶装闪电 Bottled Lightning (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 打击 Strike</p>\n<p>瓶装闪电里面装满了一接触空气就会创造出强烈电流的不稳定液体试剂。一旦命中，目标还会在你的下一回合开始前陷入措手不及（flat-footed）。你在攻击骰上获得+2的物品加值。这枚炸弹造成3d6点闪电伤害和3点闪电溅射伤害。</p>"
 		},
 		"Bottled Lightning (Lesser)": {
-			"name": "Bottled Lightning (Lesser)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Strike</p>\n<p>Bottled lightning is packed with volatile reagents that create a blast of electricity when they are exposed to air. Bottled lightning deals 1d6 electricity damage and 1 electricity splash damage. On a hit, the target becomes flat-footed until the start of your next turn.</p>"
+			"name": "次等瓶装闪电 Bottled Lightning (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 打击 Strike</p>\n<p>瓶装闪电里面装满了一接触空气就会创造出强烈电流的不稳定液体试剂。一旦命中，目标还会在你的下一回合开始前陷入措手不及（flat-footed）。 这枚炸弹造成1d6点闪电伤害和1点闪电溅射伤害。</p>"
 		},
 		"Bottled Lightning (Major)": {
-			"name": "Bottled Lightning (Major)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Strike</p>\n<p>Bottled lightning is packed with volatile reagents that create a blast of electricity when they are exposed to air. Bottled lightning deals 4d6 electricity damage and 4 electricity splash damage. On a hit, the target becomes flat-footed until the start of your next turn. You gain a +3 item bonus to attack rolls.</p>"
+			"name": "上等瓶装闪电 Bottled Lightning (Major)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 打击 Strike</p>\n<p>瓶装闪电里面装满了一接触空气就会创造出强烈电流的不稳定液体试剂。一旦命中，目标还会在你的下一回合开始前陷入措手不及（flat-footed）。你在攻击骰上获得+3的物品加值。这枚炸弹造成4d6点闪电伤害和4点闪电溅射伤害。</p>"
 		},
 		"Bottled Lightning (Moderate)": {
-			"name": "Bottled Lightning (Moderate)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Strike</p>\n<p>Bottled lightning is packed with volatile reagents that create a blast of electricity when they are exposed to air. Bottled lightning deals 2d6 electricity damage and 2 electricity splash damage. On a hit, the target becomes flat-footed until the start of your next turn. You gain a +1 item bonus to attack rolls.</p>"
+			"name": "中等瓶装闪电 Bottled Lightning (Moderate)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 打击 Strike</p>\n<p>瓶装闪电里面装满了一接触空气就会创造出强烈电流的不稳定液体试剂。一旦命中，目标还会在你的下一回合开始前陷入措手不及（flat-footed）。你在攻击骰上获得+1的物品加值。这枚炸弹造成2d6点闪电伤害和2点闪电溅射伤害。</p>"
 		},
 		"Bottomless Stein": {
 			"name": "Bottomless Stein",
@@ -1754,56 +1754,56 @@
 			"description": "<p>When you pull up the hood of this nondescript gray cloak (an Interact action), you become drab and uninteresting, gaining a +2 item bonus to Stealth checks and to Deception checks to Impersonate a forgettable background character, such as a servant, but also taking a -1 item penalty to Diplomacy and Intimidation checks.</p>\n<p>@Compendium[pf2e.equipment-effects.uXEp1rPU5fY4OiBf]{Effect: Clandestine Cloak (Greater)}</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> envision, Interact</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You pull the cloak's hood up and gain the benefits of a 5th-level <em>@Compendium[pf2e.spells-srd.EoKBlgf6Smt8opaU]{Nondetection}</em> for 8 hours or until you pull the hood back down, whichever comes first.</p>"
 		},
 		"Class Kit (Alchemist)": {
-			"name": "Class Kit (Alchemist)",
-			"description": "<div><strong>Armor</strong> studded leather armor</div>\n<div><strong>Weapons</strong> dagger, sling with 20 sling bullets</div>\n<div><strong>Gear</strong> adventurer's pack, alchemist's tools, basic</div>\n<div>crafter's book, 2 sets of caltrops</div>\n<div><strong>Options</strong> @Compendium[pf2e.equipment-srd.vLGDUFrg4yGzpTQX]{Repair Kit} (2 gp)</div>"
+			"name": "炼金术士装备包 Class Kit (Alchemist)",
+			"description": "<div><strong>护甲</strong> 镶嵌皮甲 studded leather armor</div>\n<div><strong>武器</strong>匕首 dagger,投石索 sling和20枚投石索弹丸 sling bullets</div>\n<div><strong>装备</strong>冒险装备包 adventurer's pack, 炼金工具 alchemist's tools, </div>\n<div>基础匠人书籍 basic crafter's book, 2组铁蒺藜 caltrops</div>\n<div><strong>可选</strong> @Compendium[pf2e.equipment-srd.vLGDUFrg4yGzpTQX]{修理工具包 Repair Kit} (2 gp)</div>"
 		},
 		"Class Kit (Barbarian)": {
-			"name": "Class Kit (Barbarian)",
-			"description": "<div><strong>Armor</strong> hide armor\n<p><strong>Weapons</strong> 4 javelins</p>\n<p><strong>Gear</strong> adventurer's pack, grappling hook</p>\n<p><strong>Options</strong> @Compendium[pf2e.equipment-srd.8COlYvHe6hKCXY8x]{greataxe} (2 gp), @Compendium[pf2e.equipment-srd.kdGqnqbrwPzQfTsm]{greatclub} (1 gp), @Compendium[pf2e.equipment-srd.UX71GkWBL9g41VwM]{greatsword} (2 gp), or @Compendium[pf2e.equipment-srd.War0uyLBx1jA0Ge7]{battle axe} and @Compendium[pf2e.equipment-srd.Yr9yCuJiAlFh3QEB]{steel shield} (3 gp)</p></div>"
+			"name": "野蛮人装备包 Class Kit (Barbarian)",
+			"description": "<div><strong>护甲</strong>革甲 hide armor\n<p><strong>武器</strong> 4支标枪 javelins</p>\n<p><strong>装备</strong>冒险装备包 adventurer's pack,爪钩 grappling hook</p>\n<p><strong>可选</strong> @Compendium[pf2e.equipment-srd.8COlYvHe6hKCXY8x]{巨斧 greataxe} (2 gp), @Compendium[pf2e.equipment-srd.kdGqnqbrwPzQfTsm]{巨木棒 greatclub} (1 gp), @Compendium[pf2e.equipment-srd.UX71GkWBL9g41VwM]{巨剑 greatsword} (2 gp), or @Compendium[pf2e.equipment-srd.War0uyLBx1jA0Ge7]{战斧 battle axe} 和 @Compendium[pf2e.equipment-srd.Yr9yCuJiAlFh3QEB]{钢盾 steel shield} (3 gp)</p></div>"
 		},
 		"Class Kit (Bard)": {
-			"name": "Class Kit (Bard)",
-			"description": "<div><strong>Armor</strong> studded leather armor</div>\n<div><strong>Weapons</strong> dagger, rapier, sling with 20 sling bullets</div>\n<div><strong>Gear</strong> adventurer's pack, handheld instrument</div>"
+			"name": "吟游诗人装备包 Class Kit (Bard)",
+			"description": "<div><strong>护甲</strong>镶嵌皮甲 studded leather armor</div>\n<div><strong>武器</strong>匕首 dagger,细剑 rapier,投石索 sling和20枚投石索弹丸 sling bullets</div>\n<div><strong>装备</strong>冒险装备包 adventurer's pack,手持乐器 handheld instrument</div>"
 		},
 		"Class Kit (Champion)": {
-			"name": "Class Kit (Champion)",
-			"description": "<div><strong>Armor</strong> hide armor</div>\n<div><strong>Weapons</strong> dagger, 4 javelins</div>\n<div><strong>Gear</strong> adventurer's pack, crowbar, grappling hook</div>\n<div><strong>Options</strong> @Compendium[pf2e.equipment-srd.Yr9yCuJiAlFh3QEB]{Steel Shield} (2 gp), your deity's favored weapon (use the listed Price)</div>"
+			"name": "神卫装备包 Class Kit (Champion)",
+			"description": "<div><strong>护甲</strong>革甲 hide armor</div>\n<div><strong>武器</strong> 匕首 dagger, 4支标枪 javelins</div>\n<div><strong>装备</strong> 冒险装备包 adventurer's pack,撬棍 crowbar,爪钩 grappling hook</div>\n<div><strong>可选</strong> @Compendium[pf2e.equipment-srd.Yr9yCuJiAlFh3QEB]{钢盾 Steel Shield} (2 gp), 你信仰的神祗的偏好武器 (使用列表价格)</div>"
 		},
 		"Class Kit (Cleric)": {
-			"name": "Class Kit (Cleric)",
-			"description": "<div><strong>Gear</strong> adventurer's pack, 2 sets of caltrops, religious symbol (wooden)</div>\n<div><strong>Options</strong> your deity's favored weapon (use the listed Price), @Compendium[pf2e.equipment-srd.AnwzlOs0njF9Jqnr]{hide armor} (2 gp)</div>"
+			"name": "牧师装备包 Class Kit (Cleric)",
+			"description": "<div><strong>装备</strong>冒险装备包 adventurer's pack,2组铁蒺藜 caltrops,木质圣徽 religious symbol (wooden)</div>\n<div><strong>可选</strong> 你信仰的神祗的偏好武器(使用列表价格), @Compendium[pf2e.equipment-srd.AnwzlOs0njF9Jqnr]{革甲 hide armor} (2 gp)</div>"
 		},
 		"Class Kit (Druid)": {
-			"name": "Class Kit (Druid)",
-			"description": "<div><strong>Armor</strong> leather armor</div>\n<div><strong>Weapons</strong> 4 javelins, longspear</div>\n<div><strong>Gear</strong> adventurer's pack, holly and mistletoe</div>\n<div><strong>Options</strong> @Compendium[pf2e.equipment-srd.s1vB3HdXjMigYAnY]{healer's tools} (5 gp)</div>"
+			"name": "德鲁伊装备包 Class Kit (Druid)",
+			"description": "<div><strong>护甲</strong> 皮甲 leather armor</div>\n<div><strong>Weapons</strong> 4支标枪 javelins,长矛 longspear</div>\n<div><strong>装备</strong> 冒险装备包 adventurer's pack,冬青和槲寄生 holly and mistletoe</div>\n<div><strong>可选</strong> @Compendium[pf2e.equipment-srd.s1vB3HdXjMigYAnY]{治疗工具 healer's tools} (5 gp)</div>"
 		},
 		"Class Kit (Fighter)": {
-			"name": "Class Kit (Fighter)",
-			"description": "<div><strong>Armor</strong> hide armor</div>\n<div><strong>Weapons</strong> dagger</div>\n<div><strong>Gear</strong> adventurer's pack, grappling hook</div>\n<div><strong>Options</strong> @Compendium[pf2e.equipment-srd.UX71GkWBL9g41VwM]{Greatsword} (2 gp), @Compendium[pf2e.equipment-srd.MVAWttmT0QDa7LsV]{Longbow} with 20 @Compendium[pf2e.equipment-srd.w2ENw2VMPcsbif8g]{Arrows} (6 gp, 2 sp), or @Compendium[pf2e.equipment-srd.LJdbVTOZog39EEbi]{Longsword} and @Compendium[pf2e.equipment-srd.Yr9yCuJiAlFh3QEB]{Steel Shield} (3 gp)</div>"
+			"name": "战士装备包 Class Kit (Fighter)",
+			"description": "<div><strong>护甲</strong> 革甲 hide armor</div>\n<div><strong>武器</strong> 匕首 dagger</div>\n<div><strong>装备</strong> 冒险装备包 adventurer's pack,爪钩 grappling hook</div>\n<div><strong>可选</strong> @Compendium[pf2e.equipment-srd.UX71GkWBL9g41VwM]{巨剑 Greatsword} (2 gp), @Compendium[pf2e.equipment-srd.MVAWttmT0QDa7LsV]{长弓 Longbow} 和20支 @Compendium[pf2e.equipment-srd.w2ENw2VMPcsbif8g]{箭 Arrows} (6 gp, 2 sp)，或 @Compendium[pf2e.equipment-srd.LJdbVTOZog39EEbi]{长剑 Longsword} 和 @Compendium[pf2e.equipment-srd.Yr9yCuJiAlFh3QEB]{钢盾 Steel Shield} (3 gp)</div>"
 		},
 		"Class Kit (Investigator)": {
 			"name": "Class Kit (Investigator)",
 			"description": "<div><strong>Armor</strong> studded leather armor</div>\n<div><strong>Weapons</strong> sap, shortsword, crossbow with 20 bolts</div>\n<div><strong>Gear</strong> adventurer's pack, crowbar</div>\n<div><strong>Options</strong> @Compendium[pf2e.equipment-srd.4ftXXUCBHcf4b0MH]{Alchemist's Tools} (3 gp), @Compendium[pf2e.equipment-srd.ckGYDocGEaelHfXF]{Manacles (Simple)} (3 gp), @Compendium[pf2e.equipment-srd.QJb8S927Yj81EgHH]{Writing Set} (1 gp)</div>"
 		},
 		"Class Kit (Monk)": {
-			"name": "Class Kit (Monk)",
-			"description": "<div><strong>Weapons</strong> 10 darts</div>\n<div><strong>Gear</strong> adventurer's pack, climbing kit, grappling hook, lesser smokestick</div>\n<p><strong>Options</strong> @Compendium[pf2e.equipment-srd.FVjTuBCIefAgloUU]{Staff} (0 gp), @Compendium[pf2e.equipment-srd.aXuJh4i8HqSu6NYV]{Longspear} (5 sp)</p>"
+			"name": "武僧装备包 Class Kit (Monk)",
+			"description": "<div><strong>武器</strong> 10只飞镖 darts</div>\n<div><strong>装备</strong> 冒险装备包 adventurer's pack,攀爬工具包 climbing kit,爪钩 grappling hook,次级发烟棒 lesser smokestick</div>\n<p><strong>可选</strong> @Compendium[pf2e.equipment-srd.FVjTuBCIefAgloUU]{木杖 Staff} (0 gp), @Compendium[pf2e.equipment-srd.aXuJh4i8HqSu6NYV]{长矛 Longspear} (5 sp)</p>"
 		},
 		"Class Kit (Oracle)": {
 			"name": "Class Kit (Oracle)",
 			"description": "<div><strong>Armor</strong> studded leather armor</div>\n<div><strong>Weapons</strong> mace, sling with 20 sling bullets</div>\n<div><strong>Gear</strong> adventurer's pack</div>\n<div><strong>Options</strong> @Compendium[pf2e.equipment-srd.Yr9yCuJiAlFh3QEB]{Steel Shield} (2 gp), @Compendium[pf2e.equipment-srd.s1vB3HdXjMigYAnY]{Healer's Tools} (5 gp)</div>"
 		},
 		"Class Kit (Ranger)": {
-			"name": "Class Kit (Ranger)",
-			"description": "<div><strong>Armor</strong> leather armor</div>\n<div><strong>Weapons</strong> dagger</div>\n<div><strong>Gear</strong> adventurer's pack</div>\n<div><strong>Options</strong> @Compendium[pf2e.equipment-srd.MVAWttmT0QDa7LsV]{longbow} with 20 @Compendium[pf2e.equipment-srd.w2ENw2VMPcsbif8g]{arrows} (6 gp, 2 sp), @Compendium[pf2e.equipment-srd.LJdbVTOZog39EEbi]{longsword} and @Compendium[pf2e.equipment-srd.Yr9yCuJiAlFh3QEB]{steel shield} (3 gp), 2 @Compendium[pf2e.equipment-srd.7tKkkF8eZ4iCLJtp]{shortswords} (1 gp, 8 sp), @Compendium[pf2e.equipment-srd.h7gsRKv6rORYgsv0]{snare kit} (5 gp)</div>"
+			"name": "游侠装备包 Class Kit (Ranger)",
+			"description": "<div><strong>护甲</strong> 皮甲 leather armor</div>\n<div><strong>武器</strong> 匕首 dagger</div>\n<div><strong>装备</strong> 冒险装备包 adventurer's pack</div>\n<div><strong>可选</strong> @Compendium[pf2e.equipment-srd.MVAWttmT0QDa7LsV]{长弓 longbow} 和20支 @Compendium[pf2e.equipment-srd.w2ENw2VMPcsbif8g]{箭 arrows} (6 gp, 2 sp), @Compendium[pf2e.equipment-srd.LJdbVTOZog39EEbi]{长剑 longsword} 和 @Compendium[pf2e.equipment-srd.Yr9yCuJiAlFh3QEB]{钢盾 steel shield} (3 gp), 2把 @Compendium[pf2e.equipment-srd.7tKkkF8eZ4iCLJtp]{短剑 shortswords} (1 gp, 8 sp), @Compendium[pf2e.equipment-srd.h7gsRKv6rORYgsv0]{陷阱工具包 snare kit} (5 gp)</div>"
 		},
 		"Class Kit (Rogue)": {
-			"name": "Class Kit (Rogue)",
-			"description": "<div><strong>Armor</strong> leather armor</div>\n<div><strong>Weapons</strong> dagger, rapier</div>\n<div><strong>Gear</strong> adventurer's pack, climbing kit</div>\n<div><strong>Options</strong> @Compendium[pf2e.equipment-srd.zvLyCVD8g2PdHJAc]{thieves' tools} (3 gp)</div>"
+			"name": "游荡者装备包 Class Kit (Rogue)",
+			"description": "<div><strong>护甲</strong> 皮甲 leather armor</div>\n<div><strong>武器</strong> 匕首 dagger, 细剑 rapier</div>\n<div><strong>装备</strong> 冒险装备包 adventurer's pack, 攀爬工具包 climbing kit</div>\n<div><strong>可选</strong> @Compendium[pf2e.equipment-srd.zvLyCVD8g2PdHJAc]{盗贼工具 thieves' tools} (3 gp)</div>"
 		},
 		"Class Kit (Sorcerer)": {
-			"name": "Class Kit (Sorcerer)",
-			"description": "<div><strong>Weapons</strong> dagger, sling with 20 sling bullets</div>\n<div><strong>Gear</strong> adventurer's pack, 2 sets of caltrops</div>"
+			"name": "术士装备包 Class Kit (Sorcerer)",
+			"description": "<div><strong>武器</strong> 匕首 dagger, 投石索 sling 和20枚投石索弹丸 sling bullets</div>\n<div><strong>装备</strong> 冒险装备包 adventurer's pack, 2组铁蒺藜 caltrops</div>"
 		},
 		"Class Kit (Swashbuckler)": {
 			"name": "Class Kit (Swashbuckler)",
@@ -1814,8 +1814,8 @@
 			"description": "<div><strong>Weapons</strong> sickle, sling with 20 bullets, staff</div>\n<div><strong>Gear</strong> adventurer's pack, explorer's clothing, material component pouch</div>\n<div><strong>Options</strong> @Compendium[pf2e.equipment-srd.Yf7maiRDmmHAyF82]{Cookware} (1 gp), @Compendium[pf2e.equipment-srd.s1vB3HdXjMigYAnY]{Healer's Tools} (5 gp)</div>"
 		},
 		"Class Kit (Wizard)": {
-			"name": "Class Kit (Wizard)",
-			"description": "<div><strong>Weapons</strong> staff</div>\n<div><strong>Gear</strong> adventurer's pack, material component pouch, writing set</div>\n<div><strong>Options</strong> @Compendium[pf2e.equipment-srd.62nnVQvGhoVLLl2K]{crossbow} with 20 @Compendium[pf2e.equipment-srd.AITVZmakiu3RgfKo]{bolts} (3 gp, 2 sp)</div>"
+			"name": "法师装备包 Class Kit (Wizard)",
+			"description": "<div><strong>武器</strong> 木杖 staff</div>\n<div><strong>装备</strong> 冒险装备包 adventurer's pack, 施法材料包 material component pouch, 书写套件 writing set</div>\n<div><strong>可选</strong> @Compendium[pf2e.equipment-srd.62nnVQvGhoVLLl2K]{弩 crossbow} 和20支 @Compendium[pf2e.equipment-srd.AITVZmakiu3RgfKo]{弩矢 bolts} (3 gp, 2 sp)</div>"
 		},
 		"Claw Blade": {
 			"name": "Claw Blade",
@@ -2642,12 +2642,12 @@
 			"description": "<p>这个小木盒子包含化妆品，假面部毛发，快干胶水和一些简单的假发。你通常需要一个化装工具来进行化装，以便使用唬骗技能冒充某人。如果你进行了很多次数的化装，您可以使用适合化装工具包类型的替代化妆品来补充</p>"
 		},
 		"Disguise Kit (Elite Cosmetics)": {
-			"name": "Disguise Kit (Elite Cosmetics)",
-			"description": "<p>This small wooden box contains cosmetics, false facial hair, spirit gum, and a few simple wigs. You usually need a disguise kit to set up a disguise in order to Impersonate someone using the Deception skill. An elite disguise kit adds a +1 item bonus to relevant checks. If you've crafted a large number of disguises, you can replenish your cosmetics supply with replacement cosmetics suitable for the type of your disguise kit.</p>"
+			"name": "化装工具包(专家补充化妆品)Disguise Kit (Elite Cosmetics)",
+			"description": "<p>这个小木盒子包含化妆品，假面部毛发，快干胶水和一些简单的假发。你通常需要一个化装工具来进行化装，以便使用唬骗技能冒充某人。专家级化装工具包为相关检定提供+1物品加值。如果你进行了很多次数的化装，您可以使用适合化装工具包类型的替代化妆品来补充</p>"
 		},
 		"Disguise Kit (Elite)": {
 			"name": "化装工具包(专家) Disguise Kit (Elite)",
-			"description": "<p>这个小木盒子包含化妆品，假面部毛发，快干胶水和一些简单的假发。你通常需要一个化装工具来进行化装，以便使用唬骗技能冒充某人。</p>\n<p>An elite disguise kit adds a +1 item bonus to relevant checks. If you've crafted a large number of disguises, you can replenish your cosmetics supply with replacement cosmetics suitable for the type of your disguise kit.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+1 item bonus to Impersonate</li>\n</ul>"
+			"description": "<p>这个小木盒子包含化妆品，假面部毛发，快干胶水和一些简单的假发。你通常需要一个化装工具来进行化装，以便使用唬骗技能冒充某人。</p>\n<p>专家级化装工具包为相关检定提供+1物品加值。如果你进行了很多次数的化装，您可以使用适合化装工具包类型的替代化妆品来补充</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>为相关唬骗检定提供+1物品加值</li>\n</ul>"
 		},
 		"Disguise Kit (Replacement Cosmetics)": {
 			"name": "化装工具包(补充化妆品) Disguise Kit (Replacement Cosmetics)",
@@ -3106,28 +3106,28 @@
 			"description": "<p>Pathfinder Society researchers recently created elemental wayfinders with the assistance of the Society's elemental allies. In addition to the effects of a @Compendium[pf2e.equipment-srd.gbwr57aT9ou8yKWT]{Wayfinder}, these wayfinders each grant the ability to cast a particular elemental spell once per day, and can assist Pathfinders in exploring areas associated with their element. Each has the trait associated with its element.</p>\n<hr />\n<p><strong>Activate</strong> <strong></strong> <span class=\"pf2-icon\">2</span> command</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> The wayfinder can cast 4th-level <em>@Compendium[pf2e.spells-srd.Y3G6Y6EDgCY0s3fq]{Hydraulic Torrent}</em>.</p>\n<hr />\n<p>Additionally, you gain the constent effect of <em>@Compendium[pf2e.spells-srd.MZGkMsPBztFN0pUO]{Water Breathing}</em>.</p>"
 		},
 		"Elixir of Life (Greater)": {
-			"name": "Elixir of Life (Greater)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>Elixirs of life accelerate a living creature''s natural healing processes and immune system. Upon drinking this elixir, you regain [[/r {7d6+18}[healing]]]{7d6+18 Hit Points} and gain +2 item bonus to saving throws against diseases and poisons for 10 minutes.</p>\n<p>@Compendium[pf2e.consumable-effects.Z9oPh462q82IYIZ6]{Effect: Elixir of Life (Greater)}</p>"
+			"name": "高等生命灵药 Elixir of Life (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>生命灵药能够加速身体的自然治愈进程并增强免疫系统。在饮用生命灵药后，你恢复 [[/r {7d6+18}[healing]]]{7d6+18 生命值} 并于10分钟内在对抗疾病和毒素的豁免检定上获得+2物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.Z9oPh462q82IYIZ6]{效果: 高等生命灵药}</p>"
 		},
 		"Elixir of Life (Lesser)": {
-			"name": "Elixir of Life (Lesser)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>Elixirs of life accelerate a living creatures natural healing processes and immune system. Upon drinking this elixir, you regain [[/r {3d6+6}[healing]]]{3d6+6 Hit Points} and gain +1 item bonus to saving throws against diseases and poisons for 10 minutes.</p>\n<p>@Compendium[pf2e.consumable-effects.EpB7yJPEuG6ez4z3]{Effect: Elixir of Life (Lesser)}</p>"
+			"name": "次等生命灵药 Elixir of Life (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>生命灵药能够加速身体的自然治愈进程并增强免疫系统。在饮用生命灵药后，你恢复 [[/r {3d6+6}[healing]]]{3d6+6 生命值} 并于10分钟内在对抗疾病和毒素的豁免检定上获得+1物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.EpB7yJPEuG6ez4z3]{效果: 次等生命灵药}</p>"
 		},
 		"Elixir of Life (Major)": {
-			"name": "Elixir of Life (Major)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>Elixirs of life accelerate a living creature's natural healing processes and immune system. Upon drinking this elixir, you regain [[/r {8d6+21}[healing]]]{8d6+21 Hit Points} and gain +3 item bonus to saving throws against diseases and poisons for 10 minutes.</p>\n<p>@Compendium[pf2e.consumable-effects.PpLxndUSgzgs6dd0]{Effect: Elixir of Life (Major)}</p>"
+			"name": "上等生命灵药 Elixir of Life (Major)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>生命灵药能够加速身体的自然治愈进程并增强免疫系统。在饮用生命灵药后，你恢复 [[/r {8d6+21}[healing]]]{8d6+21 生命值} 并于10分钟内在对抗疾病和毒素的豁免检定上获得+3物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.PpLxndUSgzgs6dd0]{效果: 上等生命灵药}</p>"
 		},
 		"Elixir of Life (Minor)": {
-			"name": "Elixir of Life (Minor)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>Elixirs of life accelerate a living creature's natural healing processes and immune system. Upon drinking this elixir, you regain [[/r {1d6}[healing]]]{1d6 Hit Points} and gain +1 item bonus to saving throws against diseases and poisons for 10 minutes.</p>\n<p>@Compendium[pf2e.consumable-effects.lPRuIRbu0rHBkoKY]{Effect: Elixir of Life (Minor)}</p>"
+			"name": "下等生命灵药 Elixir of Life (Minor)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>生命灵药能够加速身体的自然治愈进程并增强免疫系统。在饮用生命灵药后，你恢复 [[/r {1d6}[healing]]]{1d6 生命值} 并于10分钟内在对抗疾病和毒素的豁免检定上获得+1物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.lPRuIRbu0rHBkoKY]{效果: 下等生命灵药}</p>"
 		},
 		"Elixir of Life (Moderate)": {
-			"name": "Elixir of Life (Moderate)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>Elixirs of life accelerate a living creature's natural healing processes and immune system. Upon drinking this elixir, you regain [[/r {5d6+12}[healing]]]{5d6+12 Hit Points} and gain +2 item bonus to saving throws against diseases and poisons for 10 minutes.</p>\n<p>@Compendium[pf2e.consumable-effects.Yxssrnh9UZJAM0V7]{Effect: Elixir of Life (Moderate)}</p>"
+			"name": "中等生命灵药 Elixir of Life (Moderate)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>生命灵药能够加速身体的自然治愈进程并增强免疫系统。在饮用生命灵药后，你恢复 [[/r {5d6+12}[healing]]]{5d6+12 生命值} 并于10分钟内在对抗疾病和毒素的豁免检定上获得+2物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.Yxssrnh9UZJAM0V7]{效果: 中等生命灵药}</p>"
 		},
 		"Elixir of Life (True)": {
-			"name": "Elixir of Life (True)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span></p>\n<p>Elixirs of life accelerate a living creature's natural healing processes and immune system. Upon drinking this elixir, you regain [[/r {10d6+27}[healing]]]{10d6+27 Hit Points} and gain +4 item bonus to saving throws against diseases and poisons for 10 minutes.</p>\n<p>@Compendium[pf2e.consumable-effects.9MeHc072G4L8AJkp]{Effect: Elixir of Life (True)}</p>"
+			"name": "真实生命灵药 Elixir of Life (True)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span>互动 Interact</p>\n<p>生命灵药能够加速身体的自然治愈进程并增强免疫系统。在饮用生命灵药后，你恢复 [[/r {10d6+27}[healing]]]{10d6+27 生命值} 并于10分钟内在对抗疾病和毒素的豁免检定上获得+4物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.9MeHc072G4L8AJkp]{效果: 真实生命灵药}</p>"
 		},
 		"Elixir of Rejuvenation": {
 			"name": "Elixir of Rejuvenation",
@@ -3670,12 +3670,12 @@
 			"description": "<p><strong>Activate</strong> Cast a Spell (add 1 action)</p>\n<hr />\n<p>These compacted pellets of bat guano, sulfur, and magical accelerants have long been a staple for spellcasters on the battlefield. Adding a firestarter pellet to a fireball spell produces clinging flames that deal [[/r {3d6}[persistent,fire]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Fire Damage} to all who fail the saving throw against the effect ([[/r {6d6}[persistent,fire]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Fire Damage} on a critical failure).</p>"
 		},
 		"Fishing Tackle": {
-			"name": "Fishing Tackle",
-			"description": "<p>This kit include a collapsible fishing pole, fishhooks, line, lures, and a fishing net.</p>"
+			"name": "渔具 Fishing Tackle",
+			"description": "<p>该套工具包括可折叠的钓鱼竿、鱼钩、钓线、鱼饵和渔网。</p>"
 		},
 		"Fishing Tackle (Professional)": {
-			"name": "Fishing Tackle (Professional)",
-			"description": "<p>This kit include a collapsible fishing pole, fishhooks, line, lures, and a fishing net. Professional fishing tackle grants a +1 item bonus to checks to fish.</p>"
+			"name": "渔具(专家) Fishing Tackle (Professional)",
+			"description": "<p>该套工具包括可折叠的钓鱼竿、鱼钩、钓线、鱼饵和渔网。专家级渔具为钓鱼检定提供+1物品加值。</p>"
 		},
 		"Fist": {
 			"name": "拳头 Fist",
@@ -3782,8 +3782,8 @@
 			"description": "<p>A flingflenser is a goblin-designed weapon ending in an ovoid tube with a hatch and handle on the narrow end. A cluster of circular blades held together and attached to a black powder packet with a thin leather strap serves as ammunition and is loaded through the hatch before being fired with a flintlock or other external ignition mechanism. The flingflenser's sturdy design also places it among the more reliable goblin weapons.</p>"
 		},
 		"Flint and Steel": {
-			"name": "Flint and Steel",
-			"description": "<p>Flint and steel are useful in creating a fire if you have the time to catch a spark, though using them is typically too time‑consuming to be practical during an encounter. Even in ideal conditions, using flint and steel to light a flame requires using at least 3 actions, and often significantly longer.</p>"
+			"name": "燧石和铁片 Flint and Steel",
+			"description": "<p>如果你有时间捕捉火花，燧石和铁片可以用来生火，尽管在遭遇过程中使用它们通常太费时间。即使在理想的条件下，使用燧石和铁片来生火也需要至少3次动作，并且通常要更长。</p>"
 		},
 		"Flintlock Musket": {
 			"name": "Flintlock Musket",
@@ -3878,8 +3878,8 @@
 			"description": "<p>Developed by Alkenstar scouts who often don't have time to break down a tripod when beset by the chaotic mutant monsters of the Mana Wastes, this two-pronged stabbing weapon can be used as a bipod to stabilize a gun with potent kickback. A forked bipod can be deployed or retrieved for use as a melee weapon as an Interact action.</p>"
 		},
 		"Formula Book (Blank)": {
-			"name": "Formula Book (Blank)",
-			"description": "<p>A formula book holds the formulas necessary to make items other than the common equipment from this chapter; alchemists typically get one for free. Each formula book can hold the formulas for up to 100 different items. Formulas can also appear on parchment sheets, tablets, and almost any other medium; there's no need for you to copy them into a specific book as long as you can keep them on hand to reference them.</p>"
+			"name": "公式手册 Formula Book (Blank)",
+			"description": "<p>公式手册中包含制作本章中除常用装备以外的物品所必需的公式，炼金术士通常能够免费得到一本。每个公式手册可以容纳最多100个不同物品的公式。公式也可以出现在羊皮纸、黑板和几乎任何其他介质上，只要你可以参阅它们就不需要将它们抄写到特定的书中。</p>"
 		},
 		"Formulated Sunlight": {
 			"name": "Formulated Sunlight",
@@ -3930,20 +3930,20 @@
 			"description": "<p>The blade of this +2 greater striking @Compendium[pf2e.equipment-srd.Sexud7FdxIrg50vU]{Frost (Greater)} greatsword appears to be nothing but icy shards. The frost brand automatically extinguishes non-magical fires in a @Template[type:emanation|distance:20]. While wielding it, you gain fire resistance 5.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> command, Interact</p>\n<p><strong>Effect</strong> You swing the <em>frost brand</em> into the area of an ongoing magical fire, and the blade attempts to counteract the fire with a counteract modifier of +27. If it fails, it can't attempt to counteract the same fire again.</p>"
 		},
 		"Frost Vial (Greater)": {
-			"name": "Frost Vial (Greater)",
-			"description": "<p>The liquid reagents in this vial rapidly absorb heat when exposed to air. A frost vial deals the listed cold damage and cold splash damage. On a hit, the target takes a status penalty to its Speeds until the end of its next turn. Many types of frost vial also grant an item bonus to attack rolls.</p>\n<p>You gain a +2 item bonus to attack rolls, the bomb deals 3d6 cold damage and 3 cold splash damage, and the target takes a -10-foot penalty.</p>\n<hr />\n<p>@Compendium[pf2e.equipment-effects.nJRoiSyd67eQ1dYj]{Effect: Frost Vial (Greater)}</p>"
+			"name": "高等霜冻瓶 Frost Vial (Greater)",
+			"description": "<p>这瓶试剂中的液体在接触空气时会迅速吸收周围的热量。一旦命中，目标直到它的下一回合结束为止，都会在它的速度（Speed）上承受状态减值（status penalty）。</p>\n<p>你在攻击骰上获得+2的物品加值。这枚炸弹造成3d6点寒冷伤害和3点寒冷溅射伤害，目标承受-10尺的减值。</p>\n<hr />\n<p>@Compendium[pf2e.equipment-effects.nJRoiSyd67eQ1dYj]{效果:高等霜冻瓶 Frost Vial}</p>"
 		},
 		"Frost Vial (Lesser)": {
-			"name": "Frost Vial (Lesser)",
-			"description": "<p>The liquid reagents in this vial rapidly absorb heat when exposed to air. A frost vial deals the listed cold damage and cold splash damage. On a hit, the target takes a status penalty to its Speeds until the end of its next turn. Many types of frost vial also grant an item bonus to attack rolls.</p>\n<p>The bomb deals 1d6 cold damage and 1 cold splash damage, and the target takes a -5-foot penalty.</p>\n<hr />\n<p>@Compendium[pf2e.equipment-effects.RLsdvhmTh64Mmty9]{Effect: Frost Vial (Lesser)}</p>"
+			"name": "次等霜冻瓶 Frost Vial (Lesser)",
+			"description": "<p>这瓶试剂中的液体在接触空气时会迅速吸收周围的热量。一旦命中，目标直到它的下一回合结束为止，都会在它的速度（Speed）上承受状态减值（status penalty）。</p>\n<p>这枚炸弹造成1d6点寒冷伤害和1点寒冷溅射伤害，目标承受-5尺的减值。</p>\n<hr />\n<p>@Compendium[pf2e.equipment-effects.RLsdvhmTh64Mmty9]{效果:次等霜冻瓶 Frost Vial}</p>"
 		},
 		"Frost Vial (Major)": {
-			"name": "Frost Vial (Major)",
-			"description": "<p>The liquid reagents in this vial rapidly absorb heat when exposed to air. A frost vial deals the listed cold damage and cold splash damage. On a hit, the target takes a status penalty to its Speeds until the end of its next turn. Many types of frost vial also grant an item bonus to attack rolls.</p>\n<p>You gain a +3 item bonus to attack rolls, the bomb deals 4d6 cold damage and 4 cold splash damage, and the target takes a -15-foot penalty.</p>\n<hr />\n<p>@Compendium[pf2e.equipment-effects.4G9qnI0oRyL6eKFQ]{Effect: Frost Vial (Major)}</p>"
+			"name": "上等霜冻瓶 Frost Vial (Major)",
+			"description": "<p>这瓶试剂中的液体在接触空气时会迅速吸收周围的热量。一旦命中，目标直到它的下一回合结束为止，都会在它的速度（Speed）上承受状态减值（status penalty）。</p>\n<p>你在攻击骰上获得+3的物品加值。这枚炸弹造成4d6点寒冷伤害和4点寒冷溅射伤害，目标承受-15尺的减值。</p>\n<hr />\n<p>@Compendium[pf2e.equipment-effects.4G9qnI0oRyL6eKFQ]{效果:上等霜冻瓶 Frost Vial}</p>"
 		},
 		"Frost Vial (Moderate)": {
-			"name": "Frost Vial (Moderate)",
-			"description": "<p>The liquid reagents in this vial rapidly absorb heat when exposed to air. A frost vial deals the listed cold damage and cold splash damage. On a hit, the target takes a status penalty to its Speeds until the end of its next turn. Many types of frost vial also grant an item bonus to attack rolls.</p>\n<p>You gain a +1 item bonus to attack rolls, the bomb deals 2d6 cold damage and 2 cold splash damage, and the target takes a -10-foot penalty.</p>\n<hr />\n<p>@Compendium[pf2e.equipment-effects.dv0IKm5syOdP759w]{Effect: Frost Vial (Moderate)}</p>"
+			"name": "中等霜冻瓶 Frost Vial (Moderate)",
+			"description": "<p>这瓶试剂中的液体在接触空气时会迅速吸收周围的热量。一旦命中，目标直到它的下一回合结束为止，都会在它的速度（Speed）上承受状态减值（status penalty）。</p>\n<p>你在攻击骰上获得+1的物品加值。这枚炸弹造成2d6点寒冷伤害和2点寒冷溅射伤害，目标承受-10尺的减值。</p>\n<hr />\n<p>@Compendium[pf2e.equipment-effects.dv0IKm5syOdP759w]{效果:中等霜冻瓶 Frost Vial}</p>"
 		},
 		"Frost Worm Snare": {
 			"name": "Frost Worm Snare",
@@ -4350,8 +4350,8 @@
 			"description": "<p>This wooden, pistol-like device features a large reel coiled with 100 feet of thin metal cord and can fire a grappling hook up to 100 feet. To reload the grappling gun, you must manually recoil the cord by turning the reel's crank, and then lock in the grappling hook. Reloading a grappling gun takes 1 minute.</p>\n<p>Clockwork controls the reel on this grappling gun, reeling the grappling hook back in when you pull a lever. Reloading a clockwork grappling gun takes three Interact actions.</p>"
 		},
 		"Grappling Hook": {
-			"name": "Grappling Hook",
-			"description": "<p>You can throw a grappling hook with a rope tied to it to make a climb easier. To anchor a grappling hook, make an attack roll with the secret trait against a DC depending on the target, typically at least DC 20. On a success, your hook has a firm hold, but on a critical failure, the hook seems like it will hold but actually falls when you're partway up.</p>"
+			"name": "爪钩 Grappling Hook",
+			"description": "<p>你可以用绳子系上一个抓钩，以便更容易攀爬。要锚定一个抓钩，需要对目标进行一次秘密掷骰的攻击检定，通常至少为DC20。一旦成功，爪钩就会牢牢抓住目标，但是如果发生大失败时，爪钩表面上抓的很牢，一旦使用者爬到一半就会突然脱开。</p>"
 		},
 		"Grasping Snare": {
 			"name": "Grasping Snare",
@@ -4638,32 +4638,32 @@
 			"description": "<p>These clean, white gloves never show signs of blood, even when used to stitch up wounds or treat other ailments. They give you a +2 item bonus to Medicine checks.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You can soothe the wounds of a willing, living, adjacent creature, restoring [[/r {4d6+15}[healing] #Healer's Gloves (Greater)]]{4d6+15 Hit Points} to that creature. This is a positive healing effect. You can't harm undead with this healing.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+2 item bonus to Medicine checks</li>\n</ul>"
 		},
 		"Healer's Tools": {
-			"name": "Healer's Tools",
-			"description": "<p>This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to Administer First Aid, Treat Disease, Treat Poison, or Treat Wounds.</p>"
+			"name": "医疗工具 Healer's Tools",
+			"description": "<p>这套绷带、草药和缝合工具是进行急救、治疗疾病、治疗毒药或治疗伤害的医疗检定所必需的。</p>"
 		},
 		"Healer's Tools (Expanded)": {
-			"name": "Healer's Tools (Expanded)",
-			"description": "<p>This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to Administer First Aid, Treat Disease, Treat Poison, or Treat Wounds. Expanded healer's tools provide a +1 item bonus to such checks. When you carry the tools from place to place, you keep many of the components handy on your person, in pockets or bandoliers.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+1 item bonus to Administer First Aid, Treat Disease, Treat Poison, or Treat Wounds</li>\n</ul>"
+			"name": "医疗工具(专家) Healer's Tools (Expanded)",
+			"description": "<p>这套绷带、草药和缝合工具是进行急救、治疗疾病、治疗毒药或治疗伤害的医疗检定所必需的。专家级医疗工具为此类检定提供+1物品加值。当你将这套工具转移地点时，你可以用口袋或药水带来随身携带这些组件。</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>进行急救、治疗疾病、治疗毒药或治疗伤害的医疗检定+1物品加值</li>\n</ul>"
 		},
 		"Healing Potion (Greater)": {
-			"name": "Healing Potion (Greater)",
-			"description": "<p>A healing potion is a vial of a ruby-red liquid that imparts a tingling sensation as the drinker's wounds heal rapidly. When you drink a healing potion, you regain [[/r {6d8+20}[healing]]]{6d8+20 Hit Points}.</p>"
+			"name": "高等治疗药水 Healing Potion (Greater)",
+			"description": "<p>治疗药水Healing Potion是一瓶宝石红色的液体，饮用者的伤口会迅速康复，并带来一阵刺痛。当你喝下治疗药水Healing Potion后，你恢复 [[/r {6d8+20}[healing]]]{6d8+20 生命值}.</p>"
 		},
 		"Healing Potion (Lesser)": {
-			"name": "Healing Potion (Lesser)",
-			"description": "<p>A healing potion is a vial of a ruby-red liquid that imparts a tingling sensation as the drinker's wounds heal rapidly. When you drink a healing potion, you regain [[/r {2d8+5}[healing]]]{2d8+5 Hit Points}.</p>"
+			"name": "次等治疗药水 Healing Potion (Lesser)",
+			"description": "<p>治疗药水Healing Potion是一瓶宝石红色的液体，饮用者的伤口会迅速康复，并带来一阵刺痛。当你喝下治疗药水Healing Potion后，你恢复 [[/r {2d8+5}[healing]]]{2d8+5 生命值}.</p>"
 		},
 		"Healing Potion (Major)": {
-			"name": "Healing Potion (Major)",
-			"description": "<p>A healing potion is a vial of a ruby-red liquid that imparts a tingling sensation as the drinker's wounds heal rapidly. When you drink a healing potion, you regain [[/r {8d8+30}[healing]]]{8d8+30 Hit Points}.</p>"
+			"name": "上等治疗药水 Healing Potion (Major)",
+			"description": "<p>治疗药水Healing Potion是一瓶宝石红色的液体，饮用者的伤口会迅速康复，并带来一阵刺痛。当你喝下治疗药水Healing Potion后，你恢复 [[/r {8d8+30}[healing]]]{8d8+30 生命值}.</p>"
 		},
 		"Healing Potion (Minor)": {
-			"name": "Healing Potion (Minor)",
-			"description": "<p>A healing potion is a vial of a ruby-red liquid that imparts a tingling sensation as the drinker's wounds heal rapidly. When you drink a healing potion, you regain [[/r {1d8}[healing]]]{1d8 Hit Points}.</p>"
+			"name": "下等治疗药水 Healing Potion (Minor)",
+			"description": "<p>治疗药水Healing Potion是一瓶宝石红色的液体，饮用者的伤口会迅速康复，并带来一阵刺痛。当你喝下治疗药水Healing Potion后，你恢复 [[/r {1d8}[healing]]]{1d8 生命值}.</p>"
 		},
 		"Healing Potion (Moderate)": {
-			"name": "Healing Potion (Moderate)",
-			"description": "<p>A healing potion is a vial of a ruby-red liquid that imparts a tingling sensation as the drinker's wounds heal rapidly. When you drink a healing potion, you regain [[/r {3d8+10}[healing]]]{3d8+10 Hit Points}.</p>"
+			"name": "中等治疗药水 Healing Potion (Moderate)",
+			"description": "<p>治疗药水Healing Potion是一瓶宝石红色的液体，饮用者的伤口会迅速康复，并带来一阵刺痛。当你喝下治疗药水Healing Potion后，你恢复 [[/r {3d8+10}[healing]]]{3d8+10 生命值}.</p>"
 		},
 		"Heartstone": {
 			"name": "Heartstone",
@@ -4710,8 +4710,8 @@
 			"description": "<p>You rig vines, ropes, or wires to cinch tight around a creature that triggers this snare. The first creature to enter the square must attempt a @Check[type:reflex|dc:20] save.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes a -5-foot status penalty to its Speed for 1 minute or until it Escapes (DC 18).</p>\n<p><strong>Failure</strong> As success, but the penalty is -10 feet.</p>\n<p><strong>Critical Failure</strong> As success, but the penalty is -20 feet.</p>"
 		},
 		"Holly and Mistletoe": {
-			"name": "Holly and Mistletoe",
-			"description": "<p>Plants of supernatural significance provide a primal focus for primal spellcasters, such as druids, when using certain abilities and casting some spells. A bundle of holly and mistletoe must be held in one hand to use it. Other primal foci exist for druids focused on other aspects of nature.</p>"
+			"name": "冬青和槲寄生 Holly and Mistletoe",
+			"description": "<p>具有超自然意义的植物为某些原能施法者（如德鲁伊）提供神力的焦点，以使用某些技能并施放一些法术。必须用一只手拿着一捆冬青和槲寄生才能使用它。对于专注于自然其他方面的德鲁伊来说，存在其他类型的原始神力焦点。</p>"
 		},
 		"Holy": {
 			"name": "Holy",
@@ -4738,8 +4738,8 @@
 			"description": "<p>Refill for a Holy Steam Ball</p>"
 		},
 		"Holy Water": {
-			"name": "Holy Water",
-			"description": "<p>This vial contains water blessed by a good deity. You activate a vial of <em>holy water</em> by throwing it as a Strike. It's a simple thrown weapon with a range increment of 20 feet. Unlike an alchemical bomb, it doesn't add the manipulate trait to the attack made with it.</p>\n<p><em>Holy water</em> deals 1d6 good damage and 1 good splash damage. It damages only fiends, undead, and creatures that have a weakness to good damage.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Strike</p>"
+			"name": "圣水 Holy Water",
+			"description": "<p>这瓶水被一名善良神祗所祝福。你用打击Strike将<em>圣水</em>扔出。它视为一个射程20尺的简易投掷武器。不像炼金炸弹，它不会将操作特性添加到动作中。</p>\n<p><em>圣水</em> 造成 1d6 善良伤害 和 1点 善良溅射伤害。它只会对恶魔，亡灵和其他弱点为正能量的生物造成伤害。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 打击 Strike</p>"
 		},
 		"Homeward Wayfinder": {
 			"name": "Homeward Wayfinder",
@@ -5306,12 +5306,12 @@
 			"description": "<p>这种长矛状的武器用于骑乘生物时造成巨大的伤害。</p>"
 		},
 		"Lantern (Bull's Eye)": {
-			"name": "Lantern (Bull's Eye)",
-			"description": "<p>A lantern sheds bright light and requires 1 pint of oil to function for 6 hours. A bull's‑eye lantern emits its light in a 60‑foot cone (and dim light in the next 60 feet). A hooded lantern sheds light in a 30‑foot radius (and dim light in the next 30 feet) and is equipped with shutters, which you can close to block the light. Closing or opening the shutters takes an Interact action.</p>"
+			"name": "提灯(牛眼) Lantern (Bull's Eye)",
+			"description": "<p>一盏提灯提供明亮光线并且需要1品脱油才能燃烧6小时。一个牛眼提灯在一个60英尺的锥形内发出光芒。一个附盖提灯在30英尺半径范围内散发光线并配有百叶窗，你可以关闭它以阻挡光线。关闭或打开百叶窗需要一个【互动动作】。</p>"
 		},
 		"Lantern (Hooded)": {
-			"name": "Lantern (Hooded)",
-			"description": "<p>A lantern sheds bright light and requires 1 pint of oil to function for 6 hours. A bull's‑eye lantern emits its light in a 60‑foot cone (and dim light in the next 60 feet). A hooded lantern sheds light in a 30‑foot radius (and dim light in the next 30 feet) and is equipped with shutters, which you can close to block the light. Closing or opening the shutters takes an Interact action.</p>"
+			"name": "提灯(附盖) Lantern (Hooded)",
+			"description": "<p>一盏提灯提供明亮光线并且需要1品脱油才能燃烧6小时。一个牛眼提灯在一个60英尺的锥形内发出光芒。一个附盖提灯在30英尺半径范围内散发光线并配有百叶窗，你可以关闭它以阻挡光线。关闭或打开百叶窗需要一个【互动动作】。</p>"
 		},
 		"Lantern of Empty Light": {
 			"name": "Lantern of Empty Light",
@@ -5450,24 +5450,24 @@
 			"description": ""
 		},
 		"Lock (Average)": {
-			"name": "Lock (Average)",
-			"description": "<p>Picking an average lock requires four successful Thievery checks at DC 25.</p>"
+			"name": "锁(普通) Lock (Average)",
+			"description": "<p>打开普通锁需要四次成功的DC25贼活检定</p>"
 		},
 		"Lock (Good)": {
-			"name": "Lock (Good)",
-			"description": "<p>Picking a good lock requires five successful Thievery checks at DC 30.</p>"
+			"name": "锁(优质) Lock (Good)",
+			"description": "<p>打开优质锁需要通过五次DC30贼活检定</p>"
 		},
 		"Lock (Poor)": {
-			"name": "Lock (Poor)",
-			"description": "<p>Picking a poor lock requires two successful DC 15 Thievery checks.</p>"
+			"name": "锁(简陋) Lock (Poor)",
+			"description": "<p>打开简陋锁需要2次成功的DC15贼活检定</p>"
 		},
 		"Lock (Simple)": {
-			"name": "Lock (Simple)",
-			"description": "<p>Picking a simple lock requires three successful Thievery checks at DC 20.</p>"
+			"name": "锁(简单) Lock (Simple)",
+			"description": "<p>打开简单锁需要三次成功的DC20贼活检定。</p>"
 		},
 		"Lock (Superior)": {
-			"name": "Lock (Superior)",
-			"description": "<p>Picking a superior lock requires six successful Thievery checks at DC 40.</p>"
+			"name": "锁(究极) Lock (Superior)",
+			"description": "<p>打开究极锁需要通过六次DC40贼活检定。</p>"
 		},
 		"Locket of Sealed Nightmares": {
 			"name": "Locket of Sealed Nightmares",
@@ -5634,8 +5634,8 @@
 			"description": "<p>More of a field projector than a scope, this small cylinder of magnetite has been enchanted to spread and accelerate the shrapnel of a scatter weapon further than the weapon's natural capabilities. Furthermore, some of the floating magnetite inside the scope's structure can help you when attempting to determine the your allies' locations. The magnetite scope grants you a +3 item bonus to Survival checks to Sense Direction when using the scope to assist you in navigating. This scope can only be attached to firearms with the scatter trait.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<p><strong>Effect</strong> The next Strike you make this round with the gun to which the scope is attached has its scatter radius increased by 10 feet.</p>"
 		},
 		"Magnifying Glass": {
-			"name": "Magnifying Glass",
-			"description": "<p>This quality handheld lens gives you a +1 item bonus to Perception checks to notice minute details of documents, fabric, and the like.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+1 item bonus to Perception checks to notice minute details</li>\n</ul>"
+			"name": "放大镜 Magnifying Glass",
+			"description": "<p>这款手持式镜头为你寻找文档、织物及类似物体细节的察觉检定提供+1物品加值。</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>寻找文档、织物及类似物体细节的察觉检定+1物品加值</li>\n</ul>"
 		},
 		"Magnifying Glass of Elucidation": {
 			"name": "Magnifying Glass of Elucidation",
@@ -5686,24 +5686,24 @@
 			"description": "<p>Also known as a hunga munga or danisco, this hybrid knife-axe consists of a hilt and a blade that curves backward toward the wielder. The curve of the blade is such that after a victim has been struck by a mambele, more damage is dealt as the weapon is extracted from the victim's body.</p>"
 		},
 		"Manacles (Average)": {
-			"name": "Manacles (Average)",
-			"description": "<p>You can manacle someone who is willing or otherwise at your mercy as an exploration activity taking 10-30 seconds depending on the creature's size and how many manacles you apply. A two‑legged creature with its legs bound takes a -15‑foot circumstance penalty to its Speeds, and a two‑handed creature with its wrists bound has to succeed at a DC 5 flat check any time it uses a manipulate action or else that action fails. This DC may be higher depending on how tightly the manacles constrain the hands. A creature bound to a stationary object is immobilized. For creatures with more or fewer limbs, the GM determines what effect manacles have, if any.Freeing a creature from average manacles requires four successful DC 27 Thievery checks.</p>"
+			"name": "手铐(普通) Manacles (Average)",
+			"description": "<p>根据生物的大小和你应用的手铐数量，你可以将一个愿意或以其他方式怜悯你的人铐起来，花费约10-30秒时间。一个双腿被铐住的的两足生物在速度上受到-15尺环境减值，并且双手被铐住的两手生物必须在任何进行操作动作的时候进行DC 5的纯粹检定，否则该动作将失败。根据手铐约束手的紧密程度，该DC可能更高。被铐到到静止物体上的生物不能移动。对于具有更多或更少肢体的生物，由GM确定手铐有什么效果。将一个生物从普通手铐中解放出来需要四次成功的DC27贼活检定</p>"
 		},
 		"Manacles (Good)": {
-			"name": "Manacles (Good)",
-			"description": "<p>You can manacle someone who is willing or otherwise at your mercy as an exploration activity taking 10-30 seconds depending on the creature's size and how many manacles you apply. A two‑legged creature with its legs bound takes a -15‑foot circumstance penalty to its Speeds, and a two‑handed creature with its wrists bound has to succeed at a DC 5 flat check any time it uses a manipulate action or else that action fails. This DC may be higher depending on how tightly the manacles constrain the hands. A creature bound to a stationary object is immobilized. For creatures with more or fewer limbs, the GM determines what effect manacles have, if any.Freeing a creature from good manacles requires five successful DC 32 Thievery checks.</p>"
+			"name": "手铐(优质) Manacles (Good)",
+			"description": "<p>根据生物的大小和你应用的手铐数量，你可以将一个愿意或以其他方式怜悯你的人铐起来，花费约10-30秒时间。一个双腿被铐住的的两足生物在速度上受到-15尺环境减值，并且双手被铐住的两手生物必须在任何进行操作动作的时候进行DC 5的纯粹检定，否则该动作将失败。根据手铐约束手的紧密程度，该DC可能更高。被铐到到静止物体上的生物不能移动。对于具有更多或更少肢体的生物，由GM确定手铐有什么效果。将一个生物从优质手铐中解放出来需要五次成功的DC32贼活检定</p>"
 		},
 		"Manacles (Poor)": {
-			"name": "Manacles (Poor)",
-			"description": "<p>You can manacle someone who is willing or otherwise at your mercy as an exploration activity taking 10-30 seconds depending on the creature's size and how many manacles you apply. A two‑legged creature with its legs bound takes a -15‑foot circumstance penalty to its Speeds, and a two‑handed creature with its wrists bound has to succeed at a DC 5 flat check any time it uses a manipulate action or else that action fails. This DC may be higher depending on how tightly the manacles constrain the hands. A creature bound to a stationary object is immobilized. For creatures with more or fewer limbs, the GM determines what effect manacles have, if any. Freeing a creature from poor manacles requires two successful DC 17 Thievery checks.</p>"
+			"name": "手铐(简陋) Manacles (Poor)",
+			"description": "<p>根据生物的大小和你应用的手铐数量，你可以将一个愿意或以其他方式怜悯你的人铐起来，花费约10-30秒时间。一个双腿被铐住的的两足生物在速度上受到-15尺环境减值，并且双手被铐住的两手生物必须在任何进行操作动作的时候进行DC 5的纯粹检定，否则该动作将失败。根据手铐约束手的紧密程度，该DC可能更高。被铐到到静止物体上的生物不能移动。对于具有更多或更少肢体的生物，由GM确定手铐有什么效果。将一个生物从简陋手铐中解放出来需要两次成功的DC17贼活检定。</p>"
 		},
 		"Manacles (Simple)": {
-			"name": "Manacles (Simple)",
-			"description": "<p>You can manacle someone who is willing or otherwise at your mercy as an exploration activity taking 10-30 seconds depending on the creature's size and how many manacles you apply. A two‑legged creature with its legs bound takes a -15‑foot circumstance penalty to its Speeds, and a two‑handed creature with its wrists bound has to succeed at a DC 5 flat check any time it uses a manipulate action or else that action fails. This DC may be higher depending on how tightly the manacles constrain the hands. A creature bound to a stationary object is immobilized. For creatures with more or fewer limbs, the GM determines what effect manacles have, if any. Freeing a creature from simple manacles requires three successful DC 22 Thievery checks.</p>"
+			"name": "手铐(简单) Manacles (Simple)",
+			"description": "<p>根据生物的大小和你应用的手铐数量，你可以将一个愿意或以其他方式怜悯你的人铐起来，花费约10-30秒时间。一个双腿被铐住的的两足生物在速度上受到-15尺环境减值，并且双手被铐住的两手生物必须在任何进行操作动作的时候进行DC 5的纯粹检定，否则该动作将失败。根据手铐约束手的紧密程度，该DC可能更高。被铐到到静止物体上的生物不能移动。对于具有更多或更少肢体的生物，由GM确定手铐有什么效果。将一个生物从简单手铐中解放出来需要三次成功的DC22贼活检定。</p>"
 		},
 		"Manacles (Superior)": {
-			"name": "Manacles (Superior)",
-			"description": "<p>You can manacle someone who is willing or otherwise at your mercy as an exploration activity taking 10-30 seconds depending on the creature's size and how many manacles you apply. A two‑legged creature with its legs bound takes a -15‑foot circumstance penalty to its Speeds, and a two‑handed creature with its wrists bound has to succeed at a DC 5 flat check any time it uses a manipulate action or else that action fails. This DC may be higher depending on how tightly the manacles constrain the hands. A creature bound to a stationary object is immobilized. For creatures with more or fewer limbs, the GM determines what effect manacles have, if any. Freeing a creature from superior manacles requires six successful DC 42 Thievery checks.</p>"
+			"name": "手铐(究极) Manacles (Superior)",
+			"description": "<p>根据生物的大小和你应用的手铐数量，你可以将一个愿意或以其他方式怜悯你的人铐起来，花费约10-30秒时间。一个双腿被铐住的的两足生物在速度上受到-15尺环境减值，并且双手被铐住的两手生物必须在任何进行操作动作的时候进行DC 5的纯粹检定，否则该动作将失败。根据手铐约束手的紧密程度，该DC可能更高。被铐到到静止物体上的生物不能移动。对于具有更多或更少肢体的生物，由GM确定手铐有什么效果。将一个生物从究极手铐中解放出来需要六次成功的DC40贼活检定。</p>"
 		},
 		"Manacles of Persuasion": {
 			"name": "Manacles of Persuasion",
@@ -5790,8 +5790,8 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">f</span> envision</p>\n<p><strong>Trigger</strong> You attempt a Diplomacy check to Make an Impression.</p>\n<hr />\n<p>This red fulu contains blessings for one's relationship from Shelyn, goddess of beauty and love. You get a +2 status bonus to the Diplomacy check, and if you roll a critical failure on the check, you get a failure instead.</p>"
 		},
 		"Material Component Pouch": {
-			"name": "Material Component Pouch",
-			"description": "<p>This pouch contains material components for those spells that require them. Though the components are used up over time, you can refill spent components during your daily preparations.</p>"
+			"name": "施法材料包 Material Component Pouch",
+			"description": "<p>这个小袋包含那些需要材料的法术的材料成分。虽然组分会随着时间的推移而耗尽，但你可以在休整期内重新补充用过的组分。</p>"
 		},
 		"Material Essence Disruptor (Greater)": {
 			"name": "Material Essence Disruptor (Greater)",
@@ -6066,20 +6066,20 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Command</p>\n<p><strong>Trigger</strong> You damage a flat-footed creature with a Strike using the Affixed weapon</p>\n<p><strong>Requirements</strong> You are an expert with the affixed weapon</p>\n<p>This black strand of leather is tied to look like a peace knot when the weapon is stowed, but it doesn't hamper drawing the weapon. When you activate the knot, the creature you damaged takes [[/r {1d6}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Bleed Damage}.</p>\n<p>If you have the @Compendium[pf2e.feats-srd.5Jc2ySGLVi053qpz]{Twist the Knife} feat, the talisman instead deals persistent bleed damage equal to your sneak attack damage.</p>"
 		},
 		"Musical Instrument (Handheld)": {
-			"name": "Musical Instrument (Handheld)",
-			"description": "<p>Handheld instruments include bagpipes, a small set of chimes, small drums, fiddles and viols, flutes and recorders, small harps, lutes, trumpets, and similarly sized instruments. The GM might rule that an especially large handheld instrument (like a tuba) has greater Bulk. Heavy instruments such as large drums, a full set of chimes, and keyboard instruments are less portable and generally need to be stationary while played.</p>"
+			"name": "乐器(手持) Musical Instrument (Handheld)",
+			"description": "<p>手持乐器包括风笛、小套编钟、小鼓、小提琴和弦乐器、长笛和龠、小竖琴、琵琶、小号和类似大小的乐器。GM可能会裁定一个特别大的手持仪器（如大号）具有更大的负载。诸如大鼓、全套编钟和键盘乐器之类的大型乐器不太方便携带，并且通常在演奏时需要静止。</p>"
 		},
 		"Musical Instrument (Heavy)": {
-			"name": "Musical Instrument (Heavy)",
-			"description": "<p>Handheld instruments include bagpipes, a small set of chimes, small drums, fiddles and viols, flutes and recorders, small harps, lutes, trumpets, and similarly sized instruments. The GM might rule that an especially large handheld instrument (like a tuba) has greater Bulk. Heavy instruments such as large drums, a full set of chimes, and keyboard instruments are less portable and generally need to be stationary while played.</p>"
+			"name": "乐器(大型) Musical Instrument (Heavy)",
+			"description": "<p>手持乐器包括风笛、小套编钟、小鼓、小提琴和弦乐器、长笛和龠、小竖琴、琵琶、小号和类似大小的乐器。GM可能会裁定一个特别大的手持仪器（如大号）具有更大的负载。诸如大鼓、全套编钟和键盘乐器之类的大型乐器不太方便携带，并且通常在演奏时需要静止。</p>"
 		},
 		"Musical Instrument (Virtuoso handheld)": {
-			"name": "Musical Instrument (Virtuoso handheld)",
-			"description": "<p>Handheld instruments include bagpipes, a small set of chimes, small drums, fiddles and viols, flutes and recorders, small harps, lutes, trumpets, and similarly sized instruments. The GM might rule that an especially large handheld instrument (like a tuba) has greater Bulk. Heavy instruments such as large drums, a full set of chimes, and keyboard instruments are less portable and generally need to be stationary while played. A virtuoso instrument gives a +1 item bonus to Performance checks using that instrument.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+1 item bonus to Performance checks using that instrument.</li>\n</ul>"
+			"name": "专家级乐器(手持) Musical Instrument (Virtuoso handheld)",
+			"description": "<p>手持乐器包括风笛、小套编钟、小鼓、小提琴和弦乐器、长笛和龠、小竖琴、琵琶、小号和类似大小的乐器。GM可能会裁定一个特别大的手持仪器（如大号）具有更大的负载。诸如大鼓、全套编钟和键盘乐器之类的大型乐器不太方便携带，并且通常在演奏时需要静止。使用专家级乐器为表演检定提供+1物品加值。</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>使用乐器进行表演检定时+1物品加值</li>\n</ul>"
 		},
 		"Musical Instrument (Virtuoso heavy)": {
-			"name": "Musical Instrument (Virtuoso heavy)",
-			"description": "<p>Handheld instruments include bagpipes, a small set of chimes, small drums, fiddles and viols, flutes and recorders, small harps, lutes, trumpets, and similarly sized instruments. The GM might rule that an especially large handheld instrument (like a tuba) has greater Bulk. Heavy instruments such as large drums, a full set of chimes, and keyboard instruments are less portable and generally need to be stationary while played. A virtuoso instrument gives a +1 item bonus to Performance checks using that instrument.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+1 item bonus to Performance checks using that instrument.</li>\n</ul>"
+			"name": "专家级乐器(大型) Musical Instrument (Virtuoso heavy)",
+			"description": "<p>手持乐器包括风笛、小套编钟、小鼓、小提琴和弦乐器、长笛和龠、小竖琴、琵琶、小号和类似大小的乐器。GM可能会裁定一个特别大的手持仪器（如大号）具有更大的负载。诸如大鼓、全套编钟和键盘乐器之类的大型乐器不太方便携带，并且通常在演奏时需要静止。使用专家级乐器为表演检定提供+1物品加值。</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>使用乐器进行表演检定时+1物品加值</li>\n</ul>"
 		},
 		"Naginata": {
 			"name": "Naginata",
@@ -6270,8 +6270,8 @@
 			"description": "<p>Ogres are known for using immense, curved picks called ogre hooks.</p>"
 		},
 		"Oil (1 pint)": {
-			"name": "Oil (1 pint)",
-			"description": "<p>You can use oil to fuel lanterns, but you can also set a pint of oil aflame and throw it. You must first spend an Interact action preparing the oil, then throw it with another action as a ranged attack. If you hit, it splatters on the creature or in a single 5‑foot square you target. You must succeed at a DC 10 flat check for the oil to ignite successfully when it hits. If the oil ignites, the target takes 1d6 fire damage.</p>"
+			"name": "油(1品脱) Oil (1 pint)",
+			"description": "<p>你可以用油来为提灯加油，但你也可以点燃一品脱油然后把它扔出去。你必须首先花费一个【互动动作】来准备油，然后用另一个动作进行远程接触攻击扔出它。如果你命中目标，它会溅在这个生物上或者你所瞄准的一个5尺方格。你必须成功进行DC 10的纯粹检定才能使油在命中时成功点燃。如果油点燃，目标会受到1d6火焰伤害。</p>"
 		},
 		"Oil of Animation": {
 			"name": "Oil of Animation",
@@ -6662,8 +6662,8 @@
 			"description": "<p>This +2 greater striking flintlock pistol bears strange, jagged markings of erratic design and has an oddly squishy grip. It can be activated to produce a variety of unusual effects.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">2</span> command, Interact</p>\n<p><strong>Effect</strong> Choose a creature within 60 feet and roll a percentile die on the table below to determine the pistol's effect. If an entry lists a spell, the pistol Casts that Spell at the indicated level (or at its lowest level, if no level is listed). You make any decisions for a spell cast by the pistol unless otherwise indicated, except that it must only target the creature you chose, or the creature you chose must be the center of the spell's area, if it has an area but no targets. The only exception to the limitation on targeting is if the effect specifically states it targets you. If the spell's range is less than 60 feet, increase the range to 60 feet.</p>\n<p>Any spell DC required is DC 29, and any spell attack roll required is +21. If the pistol casts a spell on you, you don't get a saving throw or any other defense against it. Once activated, the pistol can't be activated again for [[/r 1d4 #hours]]{1d4 hours}.</p>\n<table class=\"pf2-table\" style=\"width: 98.5149%; height: 1856px;\">\n<thead>\n<tr style=\"height: 29px;\">\n<th style=\"width: 13.3794%; height: 29px;\">d%</th>\n<th style=\"width: 86.3693%; height: 29px;\">Wondrous Effect</th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"height: 77px;\">\n<td style=\"width: 13.3794%; height: 77px;\">1-2</td>\n<td style=\"width: 86.3693%; height: 77px;\">The pistol casts @Compendium[pf2e.spells-srd.WPKJOhEihhcIm2uQ]{Phantom Steed} (4th level) to produce a pale horse adjacent to you; only you can ride it.</td>\n</tr>\n<tr style=\"height: 61px;\">\n<td style=\"width: 13.3794%; height: 61px;\">3</td>\n<td style=\"width: 86.3693%; height: 61px;\">The target becomes a shiny metal color (bronze, copper, or iron) and any sound or speech becomes tinny and robotic in nature; this effect lasts 1 month.</td>\n</tr>\n<tr style=\"height: 45px;\">\n<td style=\"width: 13.3794%; height: 45px;\">4-5</td>\n<td style=\"width: 86.3693%; height: 45px;\">The pistol casts @Compendium[pf2e.spells-srd.ksLCg62cLOojw3gN]{Dimensional Anchor}.</td>\n</tr>\n<tr style=\"height: 61px;\">\n<td style=\"width: 13.3794%; height: 61px;\">6</td>\n<td style=\"width: 86.3693%; height: 61px;\">@Compendium[pf2e.spells-srd.FhOaQDTSnsY7tiam]{Modify Memory} (6th level) causes the target to forget you ever existed; you can't Sustain the Spell.</td>\n</tr>\n<tr style=\"height: 77px;\">\n<td style=\"width: 13.3794%; height: 77px;\">7-13</td>\n<td style=\"width: 86.3693%; height: 77px;\">A short rod protrudes from the pistol and unfurls a small flag that reads \"Bang!\". The pistol can't be fired until the flag is removed, which requires a single Interact action.</td>\n</tr>\n<tr style=\"height: 77px;\">\n<td style=\"width: 13.3794%; height: 77px;\">14-16</td>\n<td style=\"width: 86.3693%; height: 77px;\">You are pushed 30 feet directly away from the target; if you hit an object or creature, you stop, but take falling damage equal to the distance you moved (if you hit a creature, it takes the same amount of falling damage).</td>\n</tr>\n<tr style=\"height: 93px;\">\n<td style=\"width: 13.3794%; height: 93px;\">17-19</td>\n<td style=\"width: 86.3693%; height: 93px;\">The target is pushed 30 feet directly away from you; if it hits an object or creature, it stops, but takes falling damage equal to the distance it moved (if it hits another creature, the othercreature takes the same amount of falling damage).</td>\n</tr>\n<tr style=\"height: 29px;\">\n<td style=\"width: 13.3794%; height: 29px;\">20</td>\n<td style=\"width: 86.3693%; height: 29px;\">You don't need to eat or drink for 1 week.</td>\n</tr>\n<tr style=\"height: 45px;\">\n<td style=\"width: 13.3794%; height: 45px;\">21-25</td>\n<td style=\"width: 86.3693%; height: 45px;\">The pistol casts @Compendium[pf2e.spells-srd.MlpbeZ61Euhl0d60]{Cloudkill}.</td>\n</tr>\n<tr style=\"height: 45px;\">\n<td style=\"width: 13.3794%; height: 45px;\">26-30</td>\n<td style=\"width: 86.3693%; height: 45px;\">The pistol casts @Compendium[pf2e.spells-srd.KqvqNAfGIE5a9wSv]{Heroism} on you.</td>\n</tr>\n<tr style=\"height: 93px;\">\n<td style=\"width: 13.3794%; height: 93px;\">31</td>\n<td style=\"width: 86.3693%; height: 93px;\">The pistol casts @Compendium[pf2e.spells-srd.dileJ0Yxqg76LMvu]{Tree Shape} on you, except you appear as a Medium wooden grave marker bearing your name and the current date; you can't Dismiss the spell for 1 round.</td>\n</tr>\n<tr style=\"height: 77px;\">\n<td style=\"width: 13.3794%; height: 77px;\">32</td>\n<td style=\"width: 86.3693%; height: 77px;\">The pistol casts @Compendium[pf2e.spells-srd.O6VQC1Bs4aSYDa6R]{Mask of Terror}, except the target appears as a more fearsome and violent version of itself to all observers.</td>\n</tr>\n<tr style=\"height: 93px;\">\n<td style=\"width: 13.3794%; height: 93px;\">33-35</td>\n<td style=\"width: 86.3693%; height: 93px;\">The target knows you have a bullet with its name on it; the first time you Strike the target with the pistol before the end of your next turn, roll the attack roll twice and take the highest result (this is a fortune effect).</td>\n</tr>\n<tr style=\"height: 61px;\">\n<td style=\"width: 13.3794%; height: 61px;\">36-37</td>\n<td style=\"width: 86.3693%; height: 61px;\">The pistol casts @Compendium[pf2e.spells-srd.TCk2MDwf5L5OYjFC]{Cloak of Colors} on you with a duration of 1d10 rounds.</td>\n</tr>\n<tr style=\"height: 61px;\">\n<td style=\"width: 13.3794%; height: 61px;\">38-47</td>\n<td style=\"width: 86.3693%; height: 61px;\">The pistol casts @Compendium[pf2e.spells-srd.jfVCuOpzC6mUrf6f]{Hydraulic Push} (4th level) as water streams from the pistol.</td>\n</tr>\n<tr style=\"height: 77px;\">\n<td style=\"width: 13.3794%; height: 77px;\">48-50</td>\n<td style=\"width: 86.3693%; height: 77px;\">The pistol casts @Compendium[pf2e.spells-srd.VlNcjmYyu95vOUe8]{Dimension Door} on you, teleporting you to the space adjacent to the target opposite your current position; if that space isn't clear, you instead teleport to the nearest open space.</td>\n</tr>\n<tr style=\"height: 29px;\">\n<td style=\"width: 13.3794%; height: 29px;\">51</td>\n<td style=\"width: 86.3693%; height: 29px;\">The pistol casts @Compendium[pf2e.spells-srd.r7ihOgKv19eJQnik]{Disintegrate}.</td>\n</tr>\n<tr style=\"height: 77px;\">\n<td style=\"width: 13.3794%; height: 77px;\">52</td>\n<td style=\"width: 86.3693%; height: 77px;\">Dozens of tattered, nonmagical playing cards burst from the pistol's barrel. Shadows crowd around the target, making all creatures concealed to the target while not in bright light; this effect lasts for 1 hour.</td>\n</tr>\n<tr style=\"height: 45px;\">\n<td style=\"width: 13.3794%; height: 45px;\">55-57</td>\n<td style=\"width: 86.3693%; height: 45px;\">Normal vegetation within 30 feet of the target immediately dies and turns to ash.</td>\n</tr>\n<tr style=\"height: 77px;\">\n<td style=\"width: 13.3794%; height: 77px;\">58</td>\n<td style=\"width: 86.3693%; height: 77px;\">The pistol casts @Compendium[pf2e.spells-srd.KhM8MhoUgoUjBMIz]{Dinosaur Form} on you to transform you into a triceratops; the pistol protrudes from the base of your front horn, and you can fire (but not reload) the pistol while in this form.</td>\n</tr>\n<tr style=\"height: 45px;\">\n<td style=\"width: 13.3794%; height: 45px;\">59</td>\n<td style=\"width: 86.3693%; height: 45px;\">All non-artifact ammunition in your possession crumbles to dust.</td>\n</tr>\n<tr style=\"height: 45px;\">\n<td style=\"width: 13.3794%; height: 45px;\">60-69</td>\n<td style=\"width: 86.3693%; height: 45px;\">You are @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Quickened} for 1 minute. You can use the extra action only to reload or fire the pistol.</td>\n</tr>\n<tr style=\"height: 45px;\">\n<td style=\"width: 13.3794%; height: 45px;\">70-71</td>\n<td style=\"width: 86.3693%; height: 45px;\">The target is @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Quickened} for 1 minute. It can use the extra action only to Step or Stride.</td>\n</tr>\n<tr style=\"height: 45px;\">\n<td style=\"width: 13.3794%; height: 45px;\">72-79</td>\n<td style=\"width: 86.3693%; height: 45px;\">The pistol casts @Compendium[pf2e.spells-srd.tlcrVRqW1MSKJ5IC]{Phantasmal Killer}.</td>\n</tr>\n<tr style=\"height: 45px;\">\n<td style=\"width: 13.3794%; height: 45px;\">80-81</td>\n<td style=\"width: 86.3693%; height: 45px;\">Dozens of bullet holes appear in the target's nonmagical clothing. The effect is purely cosmetic.</td>\n</tr>\n<tr style=\"height: 45px;\">\n<td style=\"width: 13.3794%; height: 45px;\">82-85</td>\n<td style=\"width: 86.3693%; height: 45px;\">The pistol casts @Compendium[pf2e.spells-srd.KSAEhNfZyXMO7Z7V]{Outcast's Curse}.</td>\n</tr>\n<tr style=\"height: 45px;\">\n<td style=\"width: 13.3794%; height: 45px;\">86</td>\n<td style=\"width: 86.3693%; height: 45px;\">The pistol vanishes, reappearing among your possessions once it can be activated again.</td>\n</tr>\n<tr style=\"height: 45px;\">\n<td style=\"width: 13.3794%; height: 45px;\">87-91</td>\n<td style=\"width: 86.3693%; height: 45px;\">The pistol casts @Compendium[pf2e.spells-srd.piMJO6aYeDJbrhEo]{Solid Fog}, but with swirling dust and sand instead of fog.</td>\n</tr>\n<tr style=\"height: 77px;\">\n<td style=\"width: 13.3794%; height: 77px;\">92-96</td>\n<td style=\"width: 86.3693%; height: 77px;\">The pistol casts @Compendium[pf2e.spells-srd.2BV2yYPfVJ5zirZt]{Stoneskin} on you, making your skin rough and leathery; the target ignores the resistance you gain from this spell, and the target's attacks don't reduce the spell's duration.</td>\n</tr>\n<tr style=\"height: 45px;\">\n<td style=\"width: 13.3794%; height: 45px;\">97-99</td>\n<td style=\"width: 86.3693%; height: 45px;\">The pistol casts @Compendium[pf2e.spells-srd.Jvyy6oVIQsD34MHB]{Uncontrollable Dance} with a duration of 3 rounds, even on a failure or critical failure.</td>\n</tr>\n<tr style=\"height: 45px;\">\n<td style=\"width: 13.3794%; height: 45px;\">100</td>\n<td style=\"width: 86.3693%; height: 45px;\">Reroll two results and apply both in the order rolled; further results of 100 on these rerolls have no effect.</td>\n</tr>\n</tbody>\n</table>"
 		},
 		"Piton": {
-			"name": "Piton",
-			"description": "<p>These small spikes can be used as anchors to make climbing easier. To affix a piton, you must hold it in one hand and use a hammer to drive it in with your other hand. You can attach a rope to the hammered piton so that you don't fall all the way to the ground on a critical failure while Climbing.</p>"
+			"name": "岩钉 Piton",
+			"description": "<p>这些小钉子可当做锚使用，使攀爬更容易。要固定一个岩钉，你必须用一只手握住它并用另一只手用一把锤子将它砸入。你可以在岩钉上缠绕一根绳子，这样你就不会在攀爬时发生重大事故时直直的摔在地上。</p>"
 		},
 		"Plain brass censer": {
 			"name": "Plain brass censer",
@@ -7370,28 +7370,28 @@
 			"description": "<p>This surcoat is made of thick fabric and light chain, designed to protect vital areas. When you are critically hit by an attack, you gain physical resistance equal to 2 + the value of the armor's potency rune against the attack's damage. If the armor is in the chain armor group and you have its armor specialization effect, you instead increase the physical resistance from the chain armor specialization by 2. This can't reduce the damage to less than the damage rolled for the hit before doubling for a critical hit. However, the reinforced surcoat increases the Speed penalty of your armor by 5 feet.</p>"
 		},
 		"Religious Symbol (Silver)": {
-			"name": "Religious Symbol (Silver)",
-			"description": "<p>This piece of wood or silver is emblazoned with an image representing a deity. Some divine spellcasters, such as clerics, can use a religious symbol of their deity as a divine focus to use certain abilities and cast some spells. A religious symbol must be held in one hand to use it.</p>"
+			"name": "圣徽(银制) Religious Symbol (Silver)",
+			"description": "<p>这个银质的小片上印有代表神灵的图画。一些神术施法者，如牧师，可以使用圣徽作为神力的焦点来使用某些能力并施放一些法术。必须用一只手握住圣徽才能使用它。</p>"
 		},
 		"Religious Symbol (Wooden)": {
-			"name": "Religious Symbol (Wooden)",
-			"description": "<p>This piece of wood or silver is emblazoned with an image representing a deity. Some divine spellcasters, such as clerics, can use a religious symbol of their deity as a divine focus to use certain abilities and cast some spells. A religious symbol must be held in one hand to use it.</p>"
+			"name": "圣徽(木制) Religious Symbol (Wooden)",
+			"description": "<p>这个木质的小片上印有代表神灵的图画。一些神术施法者，如牧师，可以使用圣徽作为神力的焦点来使用某些能力并施放一些法术。必须用一只手握住圣徽才能使用它。</p>"
 		},
 		"Religious Text": {
-			"name": "Religious Text",
-			"description": "<p>This manuscript contains scripture of a particular religion. Some divine spellcasters, such as clerics, can use a religious text as a divine focus to use certain abilities and cast some spells. A religious text must be held in one hand to use it.</p>"
+			"name": "教典 Religious Text",
+			"description": "<p>这份小册子包含特定宗教的经文。一些神术施法者，如牧师，可以使用教典作为神力的焦点来使用某些能力并施放一些法术。必须用一只手握住教典才能使用它。</p>"
 		},
 		"Rending Snare": {
 			"name": "Rending Snare",
 			"description": "<p>Sharp metal jaws wind tightly into the pressure plate mechanism of this snare. When triggered, the jaws clamp shut and spin, damaging limbs in the process. The snare deals [[/r {10d8}[piercing]]]{10d8 piercing damage} to the first creature to enter the square; that creature must attempt a @Check[type:reflex|dc:33|showDC:all] save.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes half damage and is @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} until the end of its next turn.</p>\n<p><strong>Failure</strong> The creature takes full damage plus [[/r {2d6}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Bleed Damage}, and it becomes @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 2} for 1 round.</p>\n<p><strong>Critical Failure</strong> The creature takes double damage plus [[/r {4d6}[persistent,bleed]]] persistent bleed damage, and it becomes clumsy 2 for 1 minute.</p>"
 		},
 		"Repair Kit": {
-			"name": "Repair Kit",
-			"description": "<p>A repair kit allows you to perform simple repairs while traveling. It contains a portable anvil, tongs, woodworking tools, a whetstone, and oils for conditioning leather and wood. You can use a repair kit to Repair items using the Crafting skill.</p>"
+			"name": "修理工具包 Repair Kit",
+			"description": "<p>维修工具包可让你在旅行时进行简单的维修。它包含便携式铁砧、钳子、木工工具、磨刀石和用于调理皮革和木材的油。你可以用修理工具包使用手艺技能修复物品。</p>"
 		},
 		"Repair Kit (Superb)": {
-			"name": "Repair Kit (Superb)",
-			"description": "<p>A repair kit allows you to perform simple repairs while traveling. It contains a portable anvil, tongs, woodworking tools, a whetstone, and oils for conditioning leather and wood. You can use a repair kit to Repair items using the Crafting skill. A superb repair kit gives you a +1 item bonus to the check.</p>"
+			"name": "修理工具包(专家) Repair Kit (Superb)",
+			"description": "<p>维修工具包可让你在旅行时进行简单的维修。它包含便携式铁砧、钳子、木工工具、磨刀石和用于调理皮革和木材的油。你可以用修理工具包使用手艺技能修复物品。专家级修理工具包为你提供+1物品加值。</p>"
 		},
 		"Repeating Crossbow": {
 			"name": "Repeating Crossbow",
@@ -7870,12 +7870,12 @@
 			"description": "<p>This snare emits puffs of oxidizing chemicals that rapidly degrade metal items; skymetals and most precious metals are immune. The chemicals affect a non-magical metal item of up to 1 Bulk that the triggering creature is holding or openly wearing (determined randomly if the creature is holding or wearing more than one). The triggering creature must attempt a @Check[type:reflex|dc:25] saving throw. The snare deals [[/r 2d6]]{2d6 damage} to the item; this damage ignores the item's Hardness and might deal persistent damage on a failed Reflex save. The creature, or an adjacent creature, can attempt to scrape off the chemicals as an Interact action to prevent the persistent damage; doing so reduces the DC of the flat check to end persistent damage to 10 and grants an immediate flat check. Thin iron or steel items, such as weapons, typically have 20 HP and a Broken Threshold of 10, and thicker iron or steel items, such as most suits of armor, typically have 36 HP and a Broken Threshold of 18. Other materials' statistics can be found on pages 577-579 of the Core Rulebook.</p>\n<hr />\n<p><strong>Critical Success</strong> The object is unaffected.</p>\n<p><strong>Success</strong> The object takes full damage.</p>\n<p><strong>Failure</strong> The object takes full damage as well as [[/r {1d6}[persistent]]]{1d6 persistent damage}.</p>\n<p><strong>Critical Failure</strong> The object takes double damage as well as [[/r {2d6}[persistent]]]{2d6 persistent damage}.</p>"
 		},
 		"Sack": {
-			"name": "Sack",
-			"description": "<p>A sack can hold up to 8 Bulk worth of items. A sack containing 2 Bulk or less can be worn on the body, usually tucked into a belt. You can carry a sack with one hand, but must use two hands to transfer items in and out.</p>"
+			"name": "袋子 Sack",
+			"description": "<p>一个袋子最多可容纳8B物品。一个容纳2B或更少物品的袋子可以带在身上，通常挂在腰带上。你可以单手携带袋子，但必须用两只手将物品放入和取出。</p>"
 		},
 		"Saddlebags": {
-			"name": "Saddlebags",
-			"description": "<p>Saddlebags come in a pair. Each can hold up to 3 Bulk of items, and the first 1 Bulk of items in each doesn't count against your mount's Bulk limit. The Bulk value given is for saddlebags worn by a mount. If you are carrying or stowing saddlebags, they count as 1 Bulk instead of light Bulk.</p>"
+			"name": "鞍囊 Saddlebags",
+			"description": "<p>鞍囊成对出现。每个最多可以容纳3B物品。给出的负载值适用于被坐骑所携带的鞍囊。如果你抓着鞍囊，它们将被视1B而不是L。</p>"
 		},
 		"Sage's Lash": {
 			"name": "Sage's Lash",
@@ -7962,12 +7962,12 @@
 			"description": "<p>The cuirass of this <em>+1 deathless resilient leather armor</em>, stitched to resemble an Osiriani scarab beetle, feels strangely chitinous. You gain resistance 5 to negative damage.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> command, Interact</p>\n<p><strong>Effect</strong> You cast a 1st-level <em>@Compendium[pf2e.spells-srd.gfPjmG6Fe6D3MFjl]{Pest Form}</em>. You can only become a scarab beetle.</p>\n<hr />\n<p><strong>Craft Requirements</strong> Supply one casting of <em>pest form</em>.</p>"
 		},
 		"Scholarly Journal": {
-			"name": "Scholarly Journal",
-			"description": "<p>Scholarly journals are uncommon. Each scholarly journal is a folio on a very specific topic, such as vampires or the history of a single town or neighborhood of a city. If you spend 1 minute referencing an academic journal before attempting a skill check to Recall Knowledge about the subject, you gain a +1 item bonus to the check. A compendium of journals costs five times as much as a single journal and requires both hands to use; each compendium contains several journals and grants its bonus on a broader topic, such as all undead or a whole city. The GM determines what scholarly journals are available in any location.</p>"
+			"name": "学术期刊 Scholarly Journal",
+			"description": "<p>学术期刊不常见。每本学术期刊都是一个非常具体的主题的对开本，例如吸血鬼或一个城镇或城市社区的历史。如果您在尝试技能检定之前花费1分钟参考学术期刊来回忆关于该主题的知识，那么您将获得+1物品加值。期刊集花费的时间是单本期刊的五倍，并且需要双手使用; 每种期刊集都包含数本期刊，并在更广泛的范围上提供加值，例如所有不死生物或整个城市。GM有权力决定在任何地点能够提供哪些学术期刊。</p>"
 		},
 		"Scholarly Journal Compendium": {
-			"name": "Scholarly Journal Compendium",
-			"description": "<p>Scholarly journals are uncommon. Each scholarly journal is a folio on a very specific topic, such as vampires or the history of a single town or neighborhood of a city. If you spend 1 minute referencing an academic journal before attempting a skill check to Recall Knowledge about the subject, you gain a +1 item bonus to the check. A compendium of journals costs five times as much as a single journal and requires both hands to use; each compendium contains several journals and grants its bonus on a broader topic, such as all undead or a whole city. The GM determines what scholarly journals are available in any location.</p>"
+			"name": "学术期刊(期刊集) Scholarly Journal Compendium",
+			"description": "<p>学术期刊不常见。每本学术期刊都是一个非常具体的主题的对开本，例如吸血鬼或一个城镇或城市社区的历史。如果您在尝试技能检定之前花费1分钟参考学术期刊来回忆关于该主题的知识，那么您将获得+1物品加值。期刊集花费的时间是单本期刊的五倍，并且需要双手使用; 每种期刊集都包含数本期刊，并在更广泛的范围上提供加值，例如所有不死生物或整个城市。GM有权力决定在任何地点能够提供哪些学术期刊。</p>"
 		},
 		"Scimitar": {
 			"name": "弯刀 Scimitar",
@@ -8358,8 +8358,8 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<p>This blackish grit seems to absorb light and resembles particularly dark flakes of black pepper. Infused with the blindness spell, sight-theft grit causes the victim's sight to dim and then depart altogether. The @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Blinded} condition from this poison lasts for an additional 24 hours once the poison has run its course.</p>\n<hr />\n<p><strong>Saving Throw</strong> @Check[type:fortitude|dc:28]</p>\n<p><strong>Onset</strong> 10 minutes</p>\n<p><strong>Maximum Duration</strong> 14 hours</p>\n<p><strong>Stage 1</strong> @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Dazzled} and a -2 status penalty to visual Perception checks (1 hour)</p>\n<p><strong>Stage 2</strong> dazzled and a -4 status penalty to visual Perception checks (1 hour)</p>\n<p><strong>Stage 3</strong> blinded ([[/r 2d6 #hours]]{2d6 hours})</p>\n<hr />\n<p>Craft Requirements Supply one casting of <em>@Compendium[pf2e.spells-srd.VosLNn2M8S7JH67D]{Blindness}</em>.</p>"
 		},
 		"Signal Whistle": {
-			"name": "Signal Whistle",
-			"description": "<p>When sounded, a signal whistle can be heard clearly up to half a mile away across open terrain.</p>"
+			"name": "信号哨 Signal Whistle",
+			"description": "<p>当被吹响时，在开阔的乡田野可以清楚地听到半英里外的信号哨声。</p>"
 		},
 		"Signaling Snare": {
 			"name": "Signaling Snare",
@@ -8694,12 +8694,12 @@
 			"description": "<p>These goggles use lenses made out of smoked glass to protect against creatures with gaze attacks. While wearing smoked goggles, you're always considered to be @Compendium[pf2e.actionspf2e.UWdRX1VelipCzrCg]{Averting Your Gaze}, but all creatures have @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealment} from you.</p>\n<p>The fact that the goggles conceal creatures is part of what grants the wearer the item's benefits. If you have a way to negate the concealment from the smoked goggles, you no longer gain the benefit, either.</p>"
 		},
 		"Smokestick (Greater)": {
-			"name": "Smokestick (Greater)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>With a sharp twist of this item, you instantly create a screen of thick, opaque smoke in a burst centered on one corner of your space. All creatures within that area are concealed, and all other creatures are concealed to them. The smoke lasts for 1 minute or until dispersed by a strong wind.</p>\n<p>The radius of the burst is 20 feet.</p>"
+			"name": "高等发烟棒 Smokestick (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>快速地扭动这个物品，你能立即创造出一片不透明的厚重烟幕，它以你所在空间的一角为源点爆发。所有身处这块区域内的生物都视作隐蔽（concealed），并且所有其他生物对他们来说也视作隐蔽。这团烟幕持续1分钟或直到一阵强风将其吹散。</p>\n<p>烟幕的爆发半径为20尺。</p>"
 		},
 		"Smokestick (Lesser)": {
-			"name": "Smokestick (Lesser)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>With a sharp twist of this item, you instantly create a screen of thick, opaque smoke in a burst centered on one corner of your space. All creatures within that area are concealed, and all other creatures are concealed to them. The smoke lasts for 1 minute or until dispersed by a strong wind.</p>\n<p>The radius of the burst is 5 feet.</p>"
+			"name": "次等发烟棒 Smokestick (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>快速地扭动这个物品，你能立即创造出一片不透明的厚重烟幕，它以你所在空间的一角为源点爆发。所有身处这块区域内的生物都视作隐蔽（concealed），并且所有其他生物对他们来说也视作隐蔽。这团烟幕持续1分钟或直到一阵强风将其吹散。</p>\n<p>烟幕的爆发半径为5尺。</p>"
 		},
 		"Smoking Sword": {
 			"name": "Smoking Sword",
@@ -8722,12 +8722,12 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">R</span> Interact</p>\n<p><strong>Trigger</strong> You begin to fall</p>\n<p>This small, crystalline carving takes the shape of a tree leaf and attaches to armor or clothing with a simple strap.</p>\n<p>When you activate the <em>snapleaf</em>, you gain the benefits of <em>@Compendium[pf2e.spells-srd.TTwOKGqmZeKSyNMH]{Feather Fall}</em> and a 2nd-level <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{Invisibility}</em> spell for 1 minute or until you stop falling, whichever comes first.</p>"
 		},
 		"Snare Kit": {
-			"name": "Snare Kit",
-			"description": "<p>This kit contains tools and materials for creating snares. A snare kit allows you to Craft snares using the Crafting skill.</p>"
+			"name": "陷阱工具包 Snare Kit",
+			"description": "<p>该工具包包含用于创建陷阱的工具和材料。陷阱工具包允许你使用手艺技能制作陷阱。</p>"
 		},
 		"Snare Kit (Specialist)": {
-			"name": "Snare Kit (Specialist)",
-			"description": "<p>This kit contains tools and materials for creating snares. A snare kit allows you to Craft snares using the Crafting skill. A specialist snare kit gives you a +1 item bonus to the check.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+1 item bonus to Crafting checks to Craft snares</li>\n</ul>"
+			"name": "陷阱工具包(专家) Snare Kit (Specialist)",
+			"description": "<p>该工具包包含用于创建陷阱的工具和材料。陷阱工具包允许你使用手艺技能制作陷阱。专家级陷阱工具包为你提供+1物品加值。</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>制作陷阱时的手艺检定+1物品加值</li>\n</ul>"
 		},
 		"Sneaky Key": {
 			"name": "Sneaky Key",
@@ -8890,8 +8890,8 @@
 			"description": "<p>A <em>spell-storing</em> rune creates a reservoir of eldritch energy within the etched weapon. A spellcaster can spend 1 minute to cast a spell of 3rd level or lower into the weapon. The spell must have a casting of 2 actions or fewer and must be able to target a creature other than the caster. The spell has no immediate effect-it is instead stored for later. When you wield a <em>spell-storing</em> weapon, you immediately know the name and level of the stored spell. A <em>spell-storing</em> weapon found as treasure has a 50% chance of having a spell of the GM's choice stored in it.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> command</p>\n<p><strong>Requirements</strong> On your previous action this turn, you hit and damaged a creature with this weapon</p>\n<p><strong>Effect</strong> You unleash the stored spell, which uses the target of the triggering attack as the target of the spell. This empties the spell from the weapon and allows a spell to be cast into it again. If the spell requires a spell attack roll, the result of your attack roll with the weapon determines the degree of success of the spell, and if the spell requires a saving throw, the DC is 30.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> command</p>\n<p><strong>Effect</strong> Harmlessly expend the stored spell. This frees the weapon to have a new spell cast into it.</p>"
 		},
 		"Spellbook (Blank)": {
-			"name": "Spellbook (Blank)",
-			"description": "<p>A spellbook holds the written knowledge necessary to learn and prepare various spells, a necessity for wizards (who typically get one for free) and a useful luxury for other spellcasters looking to learn additional spells. Each spellbook can hold up to 100 spells. The Price listed is for a blank spellbook.</p>"
+			"name": "法术书 Spellbook (Blank)",
+			"description": "<p>法术书包含学习和准备各种法术所必需的书面知识，这是法师的必需品（通常会免费获得一本）和寻求学习额外法术的其他施法者的有用奢侈品。每本法术书最多可以容纳100个法术。此处列出的是一本空白的法术书的价格。</p>"
 		},
 		"Spellbook of Redundant Enchantment": {
 			"name": "Spellbook of Redundant Enchantment",
@@ -9082,12 +9082,12 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<hr />\n<p>This small bronze cylinder is about the size of a potion bottle. When you activate the launcher, it fires an unattached net requiring only a single hand, and at a greater distance. As normal, you make a ranged attack roll against a Medium or smaller creature, but you can target a creature up to 60 feet away, instead of only 20 feet away. The net trap otherwise functions as an unattached @Compendium[pf2e.equipment-srd.T8EopYZLT137CsdW]{Net}.</p>"
 		},
 		"Spyglass": {
-			"name": "Spyglass",
-			"description": "<p>A typical spyglass lets you see eight times farther than normal.</p>"
+			"name": "望远镜 Spyglass",
+			"description": "<p>典型的望远镜让你可以看到比正常远八倍的物体。</p>"
 		},
 		"Spyglass (Fine)": {
-			"name": "Spyglass (Fine)",
-			"description": "<p>A typical spyglass lets you see eight times farther than normal. A fine spyglass adds a +1 item bonus to Perception checks to notice details at a distance.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+1 item bonus to Perception checks to notice details at a distance</li>\n</ul>"
+			"name": "望远镜(优质) Spyglass (Fine)",
+			"description": "<p>典型的望远镜让你可以看到比正常远八倍的物体。优质望远镜为看清远处细节的察觉检定提供+1物品加值。</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>看清远处细节的察觉检定+1物品加值</li>\n</ul>"
 		},
 		"St. Alkitarem's Eye": {
 			"name": "St. Alkitarem's Eye",
@@ -9642,20 +9642,20 @@
 			"description": "<p><strong>Perception</strong> +12; precise vision 30 feet, imprecise hearing 30 feet</p>\n<p><strong>Communication</strong> speech (Common) Skills Intimidation +19, Navigation Lore +14, Sailing Lore +14</p>\n<p><strong>Int</strong> +0, <strong>Wis</strong> +2, <strong>Cha</strong> +4</p>\n<p><strong>Will</strong> +16</p>\n<p>A <em>sunken pistol</em> is imbued with the unfulfilled desires and insatiable greed of its previous wielder, a notorious pirate drowned at sea. Once a beautiful and artistically wrought weapon, a <em>sunken pistol</em> is coated in a fine layer of dried salt and encrusted with barnacles. Each shot fired from this <em>+1 striking dragon mouth pistol</em> is now coated in a layer of salty ectoplasm and has the effects of a ghost touch rune. You can shoot the <em>sunken pistol</em> underwater, even when using black powder ammunition.</p>\n<p>A <em>sunken pistol</em> urges you to amass a horde of treasure even a dragon would be proud of. The methods used to acquire these riches matter not to the greedy pirate pistol, so long as you amass and hoard excessive wealth. Above all else, a <em>sunken pistol</em> desires the return of its own treasure, which might rest in the wreck of its sunken ship's hold or be @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Hidden} on a dangerous island.</p>\n<p>In pursuit of treasure, a <em>sunken pistol</em> offers nautical and navigation advice to you, though it refuses such aid during less lucrative ventures. If you prove a profitable partner, the <em>sunken pistol</em> aids you in combat by Demoralizing your opponents (see the first Activation below). If you prove charitable or unwilling to retrieve its treasure, the <em>sunken pistol</em> turns its ire on you, Demoralizing you during combat until you relent. If you repeatedly refuse the <em>sunken pistol</em>, it would be wise to not accept water breathing from it, as it might attempt to drown you to allow a more suitable wielder to acquire it from your corpse. The <em>sunken pistol</em> can use the following activations.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> command</p>\n<p><strong>Frequency</strong> once per minute</p>\n<p><strong>Effect</strong> The <em>sunken pistol</em> curses and insults a creature it can see, attempting an Intimidation check to @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Demoralize} that creature.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">3</span> command</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> The <em>sunken pistol</em> casts water breathing on you as a 3rd-level arcane spell. The <em>sunken pistol</em> can Dismiss this spell, so be sure to keep the gun happy if you're relying on its good graces to breathe!</p>"
 		},
 		"Sunrod": {
-			"name": "Sunrod",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This 1-foot-long, gold-tipped rod glows after it's struck on a hard surface. For the next 6 hours, it sheds bright light in a 20-foot radius (and dim light to the next 40 feet).</p>"
+			"name": "日光杖 Sunrod",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>这个1尺长，顶端镶金的短杖会在撞击坚硬表面后发光。在接下来的6个小时里，它会在半径20尺的范围内散发出明亮光线（bright light）（并在范围之外的40尺散发出昏暗光线（dim light））。</p>"
 		},
 		"Support": {
 			"name": "Support",
 			"description": "<p>Supports, also commonly known as braces, can be applied to any of the following major joints: wrist, elbow, knee, and ankle. They typically strap around the desired area and provide not only support but warmth that soothes aches and pains. You can still use your limb or joint even if you're not wearing your support, but you might feel aches and pains that are worse than usual and may manifest into physical symptoms.</p>"
 		},
 		"Survey Map": {
-			"name": "Survey Map",
-			"description": "<p>Maps are uncommon. Most maps you can find are simple and functional. A survey map details a single location in excellent detail.</p>\n<p>One of these maps gives you a +1 item bonus to Survival checks and any skill checks to Recall Knowledge, provided the checks are related to the location detailed on the map.</p>\n<p>The GM determines what maps are available in any location.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+1 item bonus to Survival checks in mapped area</li>\n<li>+1 item bonus to any skill checks to Recall Knowledge about mapped area</li>\n</ul>"
+			"name": "导航地图 Survey Map",
+			"description": "<p>导航地图并不常见。您可以使用的大多数地图都很简单且功能齐全。而导航地图则详细列出了具体的位置。</p>\n<p>如果检定与得到地图上详细说明的位置相关，一张这样的地图会为您在生存（Survival）检定以及回忆知识（Recall Knowledge）的任何技能检定上提供+1物品加值。</p>\n<p>GM有权力决定在任何地点能够提供哪些地图。</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>地图区域生存检定+1物品加值</li>\n<li>地图区域的回忆知识检定+1物品加值</li>\n</ul>"
 		},
 		"Survey Map (Atlas)": {
-			"name": "Survey Map (Atlas)",
-			"description": "<p>Maps are uncommon. Most maps you can find are simple and functional. A survey map details a single location in excellent detail.</p>\n<p>One of these maps gives you a +1 item bonus to Survival checks and any skill checks to Recall Knowledge, provided the checks are related to the location detailed on the map.</p>\n<p>Maps sometimes come in atlases, containing a number of maps of the same quality, often on similar topics. An atlas costs five times as much as a single map and requires both hands to use.</p>\n<p>The GM determines what maps are available in any location.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+1 item bonus to Survival checks in mapped area</li>\n<li>+1 item bonus to any skill checks to Recall Knowledge about mapped area</li>\n</ul>"
+			"name": "导航地图(地图集) Survey Map (Atlas)",
+			"description": "<p>导航地图并不常见。您可以使用的大多数地图都很简单且功能齐全。而导航地图则详细列出了具体的位置。</p>\n<p>如果检定与得到地图上详细说明的位置相关，一张这样的地图会为您在生存（Survival）检定以及回忆知识（Recall Knowledge）的任何技能检定上提供+1物品加值。</p>\n<p>地图有时会出现在地图集中，其中包含许多相同质量的地图，并且通常是类似的主题。阅读地图集的时间是单张地图的五倍，并且需要双手使用。</p>\n<p>GM有权力决定在任何地点能够提供哪些地图。</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>地图区域生存检定+1物品加值</li>\n<li>地图区域的回忆知识检定+1物品加值</li>\n</ul>"
 		},
 		"Swamp Lily Quilt": {
 			"name": "Swamp Lily Quilt",
@@ -9694,8 +9694,8 @@
 			"description": "<p>A satyr's wineskin magically enchants any alcohol inside.</p>\n<p>With an Interact action, a living creature can imbibe the alcohol and gain a +1 item bonus to Will saves and a +3 item bonus to Will saves against fear effects for the following hour. When the wineskin is removed from a satyr's person, the magic remains only until the wine spoils. The wineskin holds up to eight drafts of wine.</p>\n<p>@Compendium[pf2e.equipment-effects.ImgHXPEbN1mPyNTu]{Effect: Sylvan Wine}</p>"
 		},
 		"Tack": {
-			"name": "Tack",
-			"description": "<p>Tack includes all the gear required to outfit a riding animal, including a saddle, bit and bridle, and stirrups if necessary. Especially large or oddly shaped animals might require specialty saddles. These can be more expensive or hard to find, as determined by the GM. The Bulk value given is for tack worn by a creature. If carried, the Bulk increases to 2.</p>"
+			"name": "鞍子 Tack",
+			"description": "<p>鞍子包括配备骑乘动物所需的所有装备，包括座鞍、嚼头和缰绳，以及必要时的脚镫。特别指出的是大型或奇形怪状的动物可能需要特殊的鞍子。根据GM的裁定，这些可能更昂贵或难以找到。给出的负载值是佩戴时的负载。如果你要携带它，负载增加到2B。</p>"
 		},
 		"Talisman Cord": {
 			"name": "Talisman Cord",
@@ -9746,20 +9746,20 @@
 			"description": "<p>These circular weapons are among the many strange weapons used by urdefhans. The sharp metal circle contains numerous protruding blades, while an angled central handle provides a decent grip that spins the weapon as it's thrown.</p>"
 		},
 		"Tanglefoot Bag (Greater)": {
-			"name": "Tanglefoot Bag (Greater)",
-			"description": "<p>A tanglefoot bag is filled with sticky substances. When you hit a creature with a tanglefoot bag, that creature takes a -15-foot status penalty to its Speeds for 1 minute. You gain a +2 item bonus to attack rolls, and the Escape DC is 28.</p>\n<p>On a critical hit, a creature in contact with a solid surface becomes stuck to the surface and @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilized} for 1 round, and a creature flying via wings has its wings tangled, causing it to fall safely to the ground and become unable to Fly again for 1 round. Tanglefoot bags are not effective when used on a creature that is in water.</p>\n<p>The target can end any effects by Escaping or spending a total of 3 actions to carefully remove the sticky substances. These Interact actions don't have to be consecutive, and other creatures can provide the actions as well.</p>"
+			"name": "高等绊足包 Tanglefoot Bag (Greater)",
+			"description": "<p>绊足包里装满了黏性物质。你在攻击骰上获得+2的物品加值。当你用绊足包命中一名生物时，目标承受-15尺的减值，逃脱的DC为28。</p>\n<p>一旦攻击造成重击，与固体表面接触的目标生物将会被定在表面上并陷入持续1分钟的 @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{禁足 Immobilized} 状态，如果是通过翅膀飞行的生物则会被缠住翅膀，导致它安全地落在地上并且1轮内不能再度起飞。绊足包对那些身处水中的生物没有效果。</p>\n<p>目标能够通过逃脱（Escaping）或花费3个互动（Interact）动作来小心地移除黏性物质，从而结束绊足包的效果。这些互动动作不必是连续的，其他生物也能提供这些互动动作。</p>"
 		},
 		"Tanglefoot Bag (Lesser)": {
-			"name": "Tanglefoot Bag (Lesser)",
-			"description": "<p>A tanglefoot bag is filled with sticky substances. When you hit a creature with a tanglefoot bag, that creature takes a -10-foot status penalty to its Speeds for 1 minute. The Escape DC is 17.</p>\n<p>On a critical hit, a creature in contact with a solid surface becomes stuck to the surface and @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilized} for 1 round, and a creature flying via wings has its wings tangled, causing it to fall safely to the ground and become unable to Fly again for 1 round. Tanglefoot bags are not effective when used on a creature that is in water.</p>\n<p>The target can end any effects by Escaping or spending a total of 3 actions to carefully remove the sticky substances. These Interact actions don't have to be consecutive, and other creatures can provide the actions as well.</p>"
+			"name": "次等绊足包 Tanglefoot Bag (Lesser)",
+			"description": "<p>绊足包里装满了黏性物质。当你用绊足包命中一名生物时，目标承受-10尺的减值，逃脱（Escape）的DC为17。</p>\n<p>一旦攻击造成重击，与固体表面接触的目标生物将会被定在表面上并陷入持续1分钟的 @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{禁足 Immobilized} 状态，如果是通过翅膀飞行的生物则会被缠住翅膀，导致它安全地落在地上并且1轮内不能再度起飞。绊足包对那些身处水中的生物没有效果。</p>\n<p>目标能够通过逃脱（Escaping）或花费3个互动（Interact）动作来小心地移除黏性物质，从而结束绊足包的效果。这些互动动作不必是连续的，其他生物也能提供这些互动动作。</p>"
 		},
 		"Tanglefoot Bag (Major)": {
-			"name": "Tanglefoot Bag (Major)",
-			"description": "<p>A tanglefoot bag is filled with sticky substances. When you hit a creature with a tanglefoot bag, that creature takes a -20-foot status penalty to its Speeds for 1 minute. You gain a +2 item bonus to attack rolls, and the Escape DC is 37.</p>\n<p>On a critical hit, a creature in contact with a solid surface becomes stuck to the surface and @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilized} for 1 round, and a creature flying via wings has its wings tangled, causing it to fall safely to the ground and become unable to Fly again for 1 round. Tanglefoot bags are not effective when used on a creature that is in water.</p>\n<p>The target can end any effects by Escaping or spending a total of 3 actions to carefully remove the sticky substances. These Interact actions don't have to be consecutive, and other creatures can provide the actions as well.</p>"
+			"name": "上等绊足包 Tanglefoot Bag (Major)",
+			"description": "<p>绊足包里装满了黏性物质。你在攻击骰上获得+3的物品加值。当你用绊足包命中一名生物时，目标承受-20尺的减值，逃脱的DC为37。</p>\n<p>一旦攻击造成重击，与固体表面接触的目标生物将会被定在表面上并陷入持续1分钟的 @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{禁足 Immobilized} 状态，如果是通过翅膀飞行的生物则会被缠住翅膀，导致它安全地落在地上并且1轮内不能再度起飞。绊足包对那些身处水中的生物没有效果。</p>\n<p>目标能够通过逃脱（Escaping）或花费3个互动（Interact）动作来小心地移除黏性物质，从而结束绊足包的效果。这些互动动作不必是连续的，其他生物也能提供这些互动动作。</p>"
 		},
 		"Tanglefoot Bag (Moderate)": {
-			"name": "Tanglefoot Bag (Moderate)",
-			"description": "<p>A tanglefoot bag is filled with sticky substances. When you hit a creature with a tanglefoot bag, that creature takes a -15-foot status penalty to its Speeds for 1 minute. You gain a +1 item bonus to attack rolls, and the Escape DC is 19.</p>\n<p>On a critical hit, a creature in contact with a solid surface becomes stuck to the surface and @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilized} for 1 round, and a creature flying via wings has its wings tangled, causing it to fall safely to the ground and become unable to Fly again for 1 round. Tanglefoot bags are not effective when used on a creature that is in water.</p>\n<p>The target can end any effects by Escaping or spending a total of 3 actions to carefully remove the sticky substances. These Interact actions don't have to be consecutive, and other creatures can provide the actions as well.</p>"
+			"name": "中等绊足包 Tanglefoot Bag (Moderate)",
+			"description": "<p>绊足包里装满了黏性物质。你在攻击骰上获得+1的物品加值。当你用绊足包命中一名生物时，目标承受-15尺的减值，逃脱的DC为19。</p>\n<p>一旦攻击造成重击，与固体表面接触的目标生物将会被定在表面上并陷入持续1分钟的 @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{禁足 Immobilized} 状态，如果是通过翅膀飞行的生物则会被缠住翅膀，导致它安全地落在地上并且1轮内不能再度起飞。绊足包对那些身处水中的生物没有效果。</p>\n<p>目标能够通过逃脱（Escaping）或花费3个互动（Interact）动作来小心地移除黏性物质，从而结束绊足包的效果。这些互动动作不必是连续的，其他生物也能提供这些互动动作。</p>"
 		},
 		"Tankard owned by Cayden Cailean": {
 			"name": "Tankard owned by Cayden Cailean",
@@ -9794,8 +9794,8 @@
 			"description": "<p>这把沉重的剑受到宗教场所护卫的偏爱。它有着独特的新月形刀刃，似乎是镰刀和剑的混合体。通常会在剑刃或剑柄上钻孔，以便将铃铛或其他神圣的物品附着在武器上，以帮助祈祷或仲裁。</p>"
 		},
 		"Ten-Foot Pole": {
-			"name": "Ten-Foot Pole",
-			"description": "<p>When wielding this long pole, you can use Seek to search a square up to 10 feet away. The pole is not sturdy enough to use as a weapon.</p>"
+			"name": "十尺长杆 Ten-Foot Pole",
+			"description": "<p>挥动这个长杆时，你可以使用【搜寻（Seek）】来搜索10尺内的一个方格。长杆不够坚固，无法被用作武器。</p>"
 		},
 		"Tengu Feather Fan": {
 			"name": "Tengu Feather Fan",
@@ -9838,28 +9838,28 @@
 			"description": "<p>This hefty tome was compiled centuries ago by an anonymous author who sought to collect all parables, myths, stories, and encounters with the Outer Goddess Nhimbaloth. According to the introduction, the author's original intent was to create a work that foes of the Empty Death could use to fight against her influence, but as one reads through the book, it becomes apparent that the opposite effect has been achieved—by compiling these stories, the author inadvertently generated a work that made it easier for Nhimbaloth to influence the world. Those who venerate the Empty Death seek copies of this book to use as a guide and religious text, while those who don't know better and peruse the book as though it were merely an anthology of stories find themselves unwittingly falling prey to Nhimbaloth's cult or agents of the entity herself. Those who study from The Whispering Reeds for too long are often cursed to rise as ghosts after death— though their existence never lasts for long, as they are inevitably consumed by Nhimbaloth.</p>\n<p>If a character understands the dangers of this book, however, moderated use can stall or even prevent such a fate from befalling them. If a character takes special care, they can even potentially use The Whispering Reeds for its original purpose—as a weapon against the cult of Nhimbaloth. Using the text too often or leveraging some of its more powerful effects, however, causes the user to feel an ominous chill. In these cases, the user is exposed to the tome's curse, Empty Death.</p>\n<p>The anonymous compiler wanted to produce an enormous print run of The Whispering Reeds, but after the initial run they realized the danger and scuttled those plans, instead attempting to destroy those copies already created. This crusade caught the attention of Nhimbaloth's cult, who swiftly assassinated the compiler. Fewer than two dozen copies of this rare tome are believed to still exist. The book's sinister nature causes all attempts to transcribe it to fail, resulting in bodies of gibberish, nonsense text.</p>\n<p>The Whispering Reeds provides several abilities, but you can't activate any of them while you are @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied} unless you are a follower of Nhimbaloth.</p>\n<hr />\n<p><strong>Activate</strong> 10 minutes (Investigate)</p>\n<p><strong>Effect</strong> You gain a +2 item bonus to skill checks to Recall Knowledge about Nhimbaloth, her faith, or creatures associated with her (such as incorporeal undead, vampiric mists, wisps, and other incorporeal creatures associated with death). Each time you use this ability after the first in a 24-hour period, you are exposed to the Empty Death.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> command, Interact</p>\n<p><strong>Frequency</strong> once per hour</p>\n<p><strong>Effect</strong> You read aloud a phrase from the book and target a single incorporeal undead creature within 30 feet. That undead creature takes 5d6 positive damage (@Check[type:will|dc:27|basic:true] save) as portions of their incorporeal being are consumed in patches of seven equally spaced holes. Each time you use this ability after the first in a 24-hour period, you are exposed to the Empty Death.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> command, Interact</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You invoke a tale from The Whispering Reeds that parallels the situation, environment, or creatures nearby. Eerie mists and indistinct whispers rise in a @Template[type:emanation|distance:20] around you, and clusters of seven perfectly spaced divots manifest in the ground, vegetation, and flesh of creatures in the emanation other than yourself and up to three creatures you designate at the time of activation. Creatures afflicted with these divots suffer from agonizing mental anguish in the form of crippling despair and take 4d6 mental damage (@Check[type:will|dc:27|basic:true] save). The mists, whispers, and strange divots fade away at the end of the round, but any creature that takes mental damage from the effect also takes a -1 penalty to saving throws against effects with the emotion trait for 1 minute. You are exposed to the Empty Death each time you use this ability.</p>\n<hr />\n<p><strong>Activate</strong> Cast a Spell</p>\n<p><strong>Frequency</strong> three times per day</p>\n<p><strong>Effect</strong> You cast one of the following spells at the lowest level possible (unless otherwise specified): <em>@Compendium[pf2e.spells-srd.GaRQlC9Yw1BGKHfN]{Crushing Despair}</em> (one target within 30 feet only), <em>@Compendium[pf2e.spells-srd.4koZzrnMXhhosn0D]{Fear}</em> (3rd), <em>@Compendium[pf2e.spells-srd.Mkbq9xlAUxHUHyR2]{Paranoia}</em>, or <em>@Compendium[pf2e.spells-srd.tlcrVRqW1MSKJ5IC]{Phantasmal Killer}</em>. You are exposed to the Empty Death each time you use this ability.</p>\n<hr />\n<p><strong>Empty Death (curse, necromancy, occult)</strong></p>\n<p><strong>Saving Throw</strong> @Check[type:will|dc:27|traits:curse,necromancy]</p>\n<p><strong>Effect</strong> If you activate The Whispering Reeds and are not a worshipper of Nhimbaloth, you become stupefied 2 for 24 hours as your thoughts fill with paranoia that something is watching you from the other side of death. If you die while affected by the Empty Death, you immediately become a chaotic evil ghost. Every 7 days that pass after you become a ghost, you must succeed at a DC 2 flat check— failure indicates that you are consumed by Nhimbaloth. A creature whose ghost is consumed in this way does not travel to the River of Souls and is utterly annihilated; this creature can only be restored to life via a 10th-level spell effect or ritual like <em>@Compendium[pf2e.spells-srd.6dDtGIUerazSHIOu]{Wish}</em>.</p>\n<hr />\n<p><strong>Destruction</strong> Copies of The Whispering Reeds have no special protections and can be destroyed like any regular book, but doing so exposes the one who destroyed the book to the Empty Death.</p>"
 		},
 		"Thieves' Tools": {
-			"name": "Thieves' Tools",
-			"description": "<p>You need thieves' tools to Pick Locks or Disable Devices (of some types) using the Thievery skill.</p>\n<p>If your thieves' tools are broken, you can repair them by replacing the lock picks with @Compendium[pf2e.equipment-srd.Sw7MBLASN3xK4Y44]{Replacement Picks} appropriate to your tools; this doesn't require using the Repair action.</p>"
+			"name": "盗贼工具包 Thieves' Tools",
+			"description": "<p>你需要盗贼工具包来使用贼活技能开锁锁或解除某些类型的装置。</p>\n<p>如果你的盗贼工具损坏了，你可以用换上新的适合你工具的 @Compendium[pf2e.equipment-srd.Sw7MBLASN3xK4Y44]{开锁器 Replacement Picks}的方式来修理它们。这不需要使用修复操作。</p>"
 		},
 		"Thieves' Tools (Concealable Picks)": {
-			"name": "Thieves' Tools (Concealable Picks)",
-			"description": "<p>These are replacement picks for @Compendium[pf2e.equipment-srd.Ejmv9IHGp9Ad9dgu]{Thieves' Tools (Concealable)}.</p>"
+			"name": "盗贼工具包(隐蔽替换品) Thieves' Tools (Concealable Picks)",
+			"description": "<p>这是一些 @Compendium[pf2e.equipment-srd.Ejmv9IHGp9Ad9dgu]{盗贼工具包(隐蔽) Thieves' Tools (Concealable)}的替换品。</p>"
 		},
 		"Thieves' Tools (Concealable)": {
-			"name": "Thieves' Tools (Concealable)",
-			"description": "<p>You need thieves' tools to Pick Locks or Disable Devices (of some types) using the Thievery skill. Infiltrator thieves' tools add a +1 item bonus to checks to Pick Locks and Disable Devices.</p>\n<p>Smaller and made of stronger materials than most sets of thieves' tools, the items in this kit are much easier to conceal. You gain a +1 item bonus to Stealth checks to Conceal these tools.</p>\n<p>If your thieves' tools are broken, you can repair them by replacing the lock picks with @Compendium[pf2e.equipment-srd.TxMFNfkoccirCitP]{Replacement Picks} appropriate to your tools; this doesn't require using the Repair action.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li> +1 item bonus to checks to Pick Locks and Disable Devices</li>\n<li>+1 item bonus to Stealth checks to Conceal these tools</li>\n</ul>"
+			"name": "盗贼工具包(隐蔽) Thieves' Tools (Concealable)",
+			"description": "<p>你需要盗贼工具包来使用贼活技能开锁锁或解除某些类型的装置。 专家级盗贼工具包提供你在开锁(Pick Locks)和解除装置(Disable Devices)的检定+1物品加值。</p>\n<p>小巧的结构和结实的材料使得这套盗贼工具包更容易贴身携带而不被发现。你使用隐藏物件(Conceal an Object)隐藏这套盗贼工具包时获得+1物品加值</p>\n<p>如果你的盗贼工具损坏了，你可以用换上新的适合你工具的 @Compendium[pf2e.equipment-srd.TxMFNfkoccirCitP]{开锁器 Replacement Picks}的方式来修理它们。这不需要使用修复操作。</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li> 开锁(Pick Locks)和解除装置(Disable Devices)的检定+1物品加值</li>\n<li>隐藏物件(Conceal an Object)隐藏这套盗贼工具包时获得+1物品加值</li>\n</ul>"
 		},
 		"Thieves' Tools (Infiltrator Picks)": {
-			"name": "Thieves' Tools (Infiltrator Picks)",
-			"description": "<p>These are replacement picks for @Compendium[pf2e.equipment-srd.6nrCxNQFycUVFOV2]{Thieves' Tools (Infiltrator)}.</p>"
+			"name": "盗贼工具包(专家替换品)Thieves' Tools (Infiltrator Picks)",
+			"description": "<p>这是一些 @Compendium[pf2e.equipment-srd.6nrCxNQFycUVFOV2]{盗贼工具包(专家) Thieves' Tools (Infiltrator)}的替换品。</p>"
 		},
 		"Thieves' Tools (Infiltrator)": {
-			"name": "Thieves' Tools (Infiltrator)",
-			"description": "<p>You need thieves' tools to Pick Locks or Disable Devices (of some types) using the Thievery skill. Infiltrator thieves' tools add a +1 item bonus to checks to Pick Locks and Disable Devices.</p>\n<p>If your thieves' tools are broken, you can repair them by replacing the lock picks with @Compendium[pf2e.equipment-srd.BznmPaRjI4Orb0IH]{Replacement Picks} appropriate to your tools; this doesn't require using the Repair action.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li> +1 item bonus to checks to Pick Locks and Disable Devices</li>\n</ul>"
+			"name": "盗贼工具包(专家) Thieves' Tools (Infiltrator)",
+			"description": "<p>你需要盗贼工具包来使用贼活技能开锁锁或解除某些类型的装置。 专家级盗贼工具包提供你在开锁(Pick Locks)和解除装置(Disable Devices)的检定+1物品加值。</p>\n<p>如果你的盗贼工具损坏了，你可以用换上新的适合你工具的 @Compendium[pf2e.equipment-srd.BznmPaRjI4Orb0IH]{开锁器 Replacement Picks}的方式来修理它们。这不需要使用修复操作。</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li> 开锁(Pick Locks)和解除装置(Disable Devices)的检定+1物品加值</li>\n</ul>"
 		},
 		"Thieves' Tools (Replacement Picks)": {
-			"name": "Thieves' Tools (Replacement Picks)",
-			"description": "<p>These are replacement picks for @Compendium[pf2e.equipment-srd.zvLyCVD8g2PdHJAc]{Thieves' Tools}.</p>"
+			"name": "盗贼工具包(替换品) Thieves' Tools (Replacement Picks)",
+			"description": "<p>这是一些 @Compendium[pf2e.equipment-srd.zvLyCVD8g2PdHJAc]{盗贼工具包 Thieves' Tools}的替换备件。</p>"
 		},
 		"Third Eye": {
 			"name": "Third Eye",
@@ -9930,20 +9930,20 @@
 			"description": "<p>This deceptively dangerous weapon is essentially a mace with a longer haft and larger, often flanged head.</p>"
 		},
 		"Thunderstone (Greater)": {
-			"name": "Thunderstone (Greater)",
-			"description": "<p>When this stone hits a creature or a hard surface, it explodes with a deafening bang. A thunderstone deals the listed sonic damage and sonic splash damage, and each creature within 10 feet of the space in which the stone exploded must succeed at a @Check[type:fortitude|dc:28|name:Greater Thunderstone|showDC:all] saving throw with the listed DC or be @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Deafened} until the end of its next turn. Many types of thunderstone grant an item bonus to attack rolls.</p>\n<p>You gain a +2 item bonus to attack rolls. The bomb deals 3d4 sonic damage and 3 sonic splash damage, and the DC is 28.</p>"
+			"name": "高等暴雷石 Thunderstone (Greater)",
+			"description": "<p>当这枚石头命中一个生物或一个坚硬表面时，它会爆发出震耳欲聋的巨响。你在攻击骰上获得+2的物品加值。暴雷石造成3d4点音波伤害和3点音波溅射伤害，在暴雷石爆发的空间周围10尺内的所有生物必须进行一次 @Check[type:fortitude|dc:28|name:Greater Thunderstone|showDC:all] 豁免检定，否则直到它的下一轮结束位置都陷入 @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{耳聋 Deafened}。</p>"
 		},
 		"Thunderstone (Lesser)": {
-			"name": "Thunderstone (Lesser)",
-			"description": "<p>When this stone hits a creature or a hard surface, it explodes with a deafening bang. A thunderstone deals the listed sonic damage and sonic splash damage, and each creature within 10 feet of the space in which the stone exploded must succeed at a @Check[type:fortitude|dc:17|name:Lesser Thunderstone|showDC:all] saving throw with the listed DC or be @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Deafened} until the end of its next turn. Many types of thunderstone grant an item bonus to attack rolls.</p>\n<p>The bomb deals 1d4 sonic damage and 1 sonic splash damage, and the DC is 17.</p>"
+			"name": "次等暴雷石 Thunderstone (Lesser)",
+			"description": "<p>当这枚石头命中一个生物或一个坚硬表面时，它会爆发出震耳欲聋的巨响。 暴雷石造成1d4点音波伤害和1点音波溅射伤害，在暴雷石爆发的空间周围10尺内的所有生物必须在一次 @Check[type:fortitude|dc:17|name:Lesser Thunderstone|showDC:all] 豁免检定，否则直到它的下一轮结束位置都陷入 @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{耳聋 Deafened} 。</p>"
 		},
 		"Thunderstone (Major)": {
-			"name": "Thunderstone (Major)",
-			"description": "<p>When this stone hits a creature or a hard surface, it explodes with a deafening bang. A thunderstone deals the listed sonic damage and sonic splash damage, and each creature within 10 feet of the space in which the stone exploded must succeed at a @Check[type:fortitude|dc:36|name:Major Thunderstone|showDC:all] saving throw with the listed DC or be @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Deafened} until the end of its next turn. Many types of thunderstone grant an item bonus to attack rolls.</p>\n<p>You gain a +3 item bonus to attack rolls. The bomb deals 4d4 sonic damage and 4 sonic splash damage, and the DC is 36.</p>"
+			"name": "上等暴雷石 Thunderstone (Major)",
+			"description": "<p>当这枚石头命中一个生物或一个坚硬表面时，它会爆发出震耳欲聋的巨响。 你在攻击骰上获得+3的物品加值。暴雷石造成4d4点音波伤害和4点音波溅射伤害，在暴雷石爆发的空间周围10尺内的所有生物必须在一次 @Check[type:fortitude|dc:36|name:Major Thunderstone|showDC:all] 豁免检定，否则直到它的下一轮结束位置都陷入 @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{耳聋 Deafened} 。</p>"
 		},
 		"Thunderstone (Moderate)": {
-			"name": "Thunderstone (Moderate)",
-			"description": "<p>When this stone hits a creature or a hard surface, it explodes with a deafening bang. A thunderstone deals the listed sonic damage and sonic splash damage, and each creature within 10 feet of the space in which the stone exploded must succeed at a @Check[type:fortitude|dc:20|name:Moderate Thunderstone|showDC:all] saving throw with the listed DC or be @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Deafened} until the end of its next turn. Many types of thunderstone grant an item bonus to attack rolls.</p>\n<p>You gain a +1 item bonus to attack rolls. The bomb deals 2d4 sonic damage and 2 sonic splash damage, and the DC is 20.</p>"
+			"name": "中等暴雷石 Thunderstone (Moderate)",
+			"description": "<p>当这枚石头命中一个生物或一个坚硬表面时，它会爆发出震耳欲聋的巨响。 你在攻击骰上获得+1的物品加值。暴雷石造成2d4点音波伤害和2点音波溅射伤害，在暴雷石爆发的空间周围10尺内的所有生物必须在一次 @Check[type:fortitude|dc:20|name:Moderate Thunderstone|showDC:all] 豁免检定，否则直到它的下一轮结束位置都陷入 @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{耳聋 Deafened} 。</p>"
 		},
 		"Thurible of Revelation (Greater)": {
 			"name": "Thurible of Revelation (Greater)",
@@ -9994,8 +9994,8 @@
 			"description": "<p>This clockwork cobra activates when a creature enters its square, at which point it lashes out and spits venom, dealing [[/r {3d6}[poison]]]{3d6 poison damage}. The target must attempt a @Check[type:fortitude|dc:21|traits:poison] save.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes half damage.</p>\n<p><strong>Failure</strong> The creature takes full damage and is @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened} 1.</p>\n<p><strong>Critical Failure</strong> The creature takes double damage is @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened} 2.</p>"
 		},
 		"Tindertwig": {
-			"name": "Tindertwig",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>An alchemical substance applied to one end of this tiny wooden stick ignites when struck against a rough surface. Creating a flame with a tindertwig is much faster than creating a flame with flint and steel. You can ignite the tindertwig and touch it to a flammable object as part of the same Interact action.</p>"
+			"name": "火柴 Tindertwig",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>一种撞击粗糙表面时便会燃烧的炼金物质包裹在这根细小木棍一端。用火柴生火远比使用燧石和铁片要快得多。你能够点燃火柴，并作为同一个互动动作的一部分用燃烧的火柴接触一堆易燃物。</p>"
 		},
 		"Titan's Grasp": {
 			"name": "Titan's Grasp",
@@ -10030,12 +10030,12 @@
 			"description": "<p>These L-shaped fighting batons are good for striking and blocking. The wielder holds the handle and either spins the stick or strikes with the stick covering the forearm.</p>"
 		},
 		"Tool (Long)": {
-			"name": "Tool (Long)",
-			"description": "<p>This entry is a catchall for basic hand tools that don't have a specific adventuring purpose. A hoe, shovel, or sledgehammer is a long tool, and a hand drill, ice hook, or trowel is a short tool. A tool can usually be used as an improvised weapon, dealing 1d6 damage. The GM determines the damage type that's appropriate or adjusts the damage if needed.</p>"
+			"name": "工具(长) Tool (Long)",
+			"description": "<p>不是为冒险而设计的一般工具。锄头、铲子或大锤属于长工具，手钻、冰钩或抹子属于短工具。工具通常可被用作临时武器，短工具造成1d4伤害，长工具造成1d6伤害。由GM来决定合适的伤害类型并在需要的时候调整伤害。</p>"
 		},
 		"Tool (Short)": {
-			"name": "Tool (Short)",
-			"description": "<p>This entry is a catchall for basic hand tools that don't have a specific adventuring purpose. A hoe, shovel, or sledgehammer is a long tool, and a hand drill, ice hook, or trowel is a short tool. A tool can usually be used as an improvised weapon, dealing 1d4 damage. The GM determines the damage type that's appropriate or adjusts the damage if needed.</p>"
+			"name": "工具(短) Tool (Short)",
+			"description": "<p>不是为冒险而设计的一般工具。锄头、铲子或大锤属于长工具，手钻、冰钩或抹子属于短工具。工具通常可被用作临时武器，短工具造成1d4伤害，长工具造成1d6伤害。由GM来决定合适的伤害类型并在需要的时候调整伤害。</p>"
 		},
 		"Topaz": {
 			"name": "Topaz",
@@ -10050,8 +10050,8 @@
 			"description": "<p>This portable silver anvil has a narrow hoop on one end, through which a long, sturdy chain has been strung. Torag's Silver Anvil can be wielded as a +3 @Compendium[pf2e.equipment-srd.DH0kB9Wbr5pDeunX]{Holy} @Compendium[pf2e.equipment-srd.RSZwUlCzUX7Nb4UA]{Greater Flaming} greater striking silver meteor hammer.</p>\n<p>Outside of combat, the anvil can be used with a hammer as an incredibly effective portable forge, heating up the metal to be forged without a furnace and granting a +3 item bonus to Crafting checks involving metalworking.</p>\n<p>When you use the anvil to successfully Repair a metal item, the item recovers an additional 10 Hit Points (or an additional 20 on a critical success).</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li> +3 item bonus to Crafting checks involving metalworking</li>\n</ul>"
 		},
 		"Torch": {
-			"name": "Torch",
-			"description": "<p>A torch sheds bright light in a 20‑foot radius (and dim light to the next 20 feet). It can be used as an improvised weapon that deals 1d4 bludgeoning damage plus 1 fire damage.</p>"
+			"name": "火把 Torch",
+			"description": "<p>火把在20尺半径范围内散发出明亮的光芒（昏暗的光线照射到接下来的20尺）。它可以被用作临时武器，造成1d4钝击伤害加1点火焰伤害。</p>"
 		},
 		"Torrent Snare": {
 			"name": "Torrent Snare",
@@ -10218,8 +10218,8 @@
 			"description": "<p>An <em>unholy</em> rune instills fiendish power into the etched weapon. A weapon with this rune deals an additional 1d6 evil damage when it hits a good target. If you are good, you are enfeebled 2 while carrying or wielding this weapon.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">R</span> command</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> You critically succeed at an attack roll against a good creature with the weapon</p>\n<p><strong>Effect</strong> The target takes @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Bleed Damage} equal to 1d8 per weapon damage die of the etched weapon.</p>"
 		},
 		"Unholy Water": {
-			"name": "Unholy Water",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Strike</p>\n<p>An evil deity's malice lies within this vial of water. You activate a vial of <em>unholy water</em> by throwing it as a Strike. It's a simple thrown weapon with a range increment of 20 feet. Unlike an alchemical bomb, it doesn't add the manipulate trait to the attack made with it.</p>\n<p><em>Unholy water</em> deals 1d6 evil damage and 1 evil splash damage. It damages only celestials and creatures that have a weakness to evil damage.</p>"
+			"name": "邪水 Unholy Water",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 打击 Strike</p>\n<p>一名邪恶神祗的恶意流淌在这瓶水中。你用打击Strike将这瓶<em>邪水</em>扔出去。它视为一个射程增量20尺的简易投掷武器。不像炼金炸弹，它不会将操作特征添加到动作中。</p>\n<p><em>邪水</em> 造成 1d6 邪恶伤害和 1点 邪恶溅射伤害。它只会对天使和其他弱点为负能量的生物造成伤害。</p>"
 		},
 		"Universal Solvent (Greater)": {
 			"name": "Universal Solvent (Greater)",
@@ -10790,8 +10790,8 @@
 			"description": "<p><strong>Activate</strong> Cast a Spell</p>\n<hr />\n<p>Many books and spellbooks are treated in this wax formula to protect them from the elements, but waterproofing wax's liquid-repellent properties can be further applied to split up a <em>@Compendium[pf2e.spells-srd.Wu0xFpewMKRK3HG8]{Grease}</em> spell into useful smaller sections. When the spell is cast in an area while using this catalyst, the conjured grease fills three 5-foot squares within 30 feet instead of its normal area; these squares don't need to be contiguous.</p>"
 		},
 		"Waterskin": {
-			"name": "Waterskin",
-			"description": "<p>When it's full, a waterskin contains roughly 1 day's worth of water for a Small or Medium creature.</p>"
+			"name": "水袋 Waterskin",
+			"description": "<p>水袋装满时占用1B，能够提供小体型或中体型生物大约1天所需的水。</p>"
 		},
 		"Waverider Barding": {
 			"name": "Waverider Barding",
@@ -11022,12 +11022,12 @@
 			"description": "<p>A typical Pathfinder writ of authenticity confirms the holder's status as a member of the Pathfinder Society and their intended business.</p>\n<p>Most writs are pieces of fine parchment folded, bound with gold cord, and sealed with three wax seals. The top seal is always the Glyph of the Open Road and the middle one is the Envoy's Alliance open door emblem. The bottom seal uses the preparer's personal sigil.</p>\n<p>Inside, the text describes a specific instance of a legitimate business activity, with blanks for the Pathfinder to fill in and personalize the writ to the persons and activity desired.</p>\n<p>Presenting a writ of authenticity grants a +2 item bonus to Make a Request for the associated business, assuming the writ is legitimate and the viewer expects to work with the Pathfinder Society for that activity.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+2 item bonus to Make a Request for the associated business</li>\n</ul>"
 		},
 		"Writing Set": {
-			"name": "Writing Set",
-			"description": "<p>Using a writing set, you can draft correspondence and scribe scrolls. A set includes stationery, including a variety of paper and parchment, as well as ink, a quill or inkpen, sealing wax, and a simple seal. If you've written a large amount, you can refill your kit with extra ink and paper.</p>"
+			"name": "书写套件 Writing Set",
+			"description": "<p>用书写套件，你可以起草信件和抄写卷轴。一份套件包括文具、各种纸张和羊皮纸、墨水、羽毛笔或墨水笔、密封蜡以及简单的印章。如果你已经书写了很大的量，你可以用额外的墨水和纸张填充你的工具包。</p>"
 		},
 		"Writing Set (Extra Ink and Paper)": {
-			"name": "Writing Set (Extra Ink and Paper)",
-			"description": "<p>Extra ink and paper to refill your writing set.</p>"
+			"name": "书写套装(额外的墨水和纸张) Writing Set (Extra Ink and Paper)",
+			"description": "<p>用来填充你的书写套装的额外墨水和纸张</p>"
 		},
 		"Wyrm Drinker": {
 			"name": "Wyrm Drinker",
