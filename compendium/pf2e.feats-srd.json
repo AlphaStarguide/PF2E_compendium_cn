@@ -11114,52 +11114,52 @@
 			"description": "<p>You've trained your mount to perform in unusual or even extreme circumstances, granting it abilities far beyond others of its kind. Your mount gains one specialization of your choice.</p>\n<p><strong>Special</strong> You can select this feat up to three times. Each time, add a different specialization to your mount. You mount can't have more than three specializations.</p>"
 		},
 		"Specialty Crafting (Alchemy)": {
-			"name": "Specialty Crafting (Alchemy)",
-			"description": "<p>Your training focused on Crafting one particular kind of item. You gain a +1 circumstance bonus to Crafting checks to Craft alchemical items. If you are a master in Crafting, this bonus increases to +2.</p>\n<hr />\n<p><strong>Sample Items</strong> Alchemical Items such as Elixirs</p>\n<p>If it's unclear whether the specialty applies, the GM decides. Some specialties might apply only partially. For example, if you were making a morningstar and had specialty in woodworking, the GM might give you half your bonus because the item requires both blacksmithing and woodworking.</p>"
+			"name": "专门制作(炼金术) Specialty Crafting (Alchemy)",
+			"description": "<p>你专攻于制作特定的一类物品。你在用来制作炼金物品的手艺技能检定上获得+1环境加值。当你在手艺技能上达大师级熟练度时，这个加值提升到+2。</p>\n<hr />\n<p><strong>范例工艺造物</strong> 炼金物品，如炼金药</p>\n<p>如果不能确定某一件物品的制作是否属于本专长影响的范围，则GM具有最终裁判权。在某些情况下，本专长只会部分地对某些物品的制作提供帮助。举例来说，如果你的专攻方向是“木工”，那么如果你要制作一把钉头锤的话，GM只会允许你获得本专长提供的加值的一半，因为制作这样的一件物品会同时需要锻造和木工加工方式。</p>"
 		},
 		"Specialty Crafting (Artistry)": {
-			"name": "Specialty Crafting (Artistry)",
-			"description": "<p>Your training focused on Crafting one particular kind of item. You gain a +1 circumstance bonus to Crafting checks to Craft art items. If you are a master in Crafting, this bonus increases to +2.</p>\n<hr />\n<p><strong>Sample Items</strong> Fine art, including jewelry</p>\n<p>If it's unclear whether the specialty applies, the GM decides. Some specialties might apply only partially. For example, if you were making a morningstar and had specialty in woodworking, the GM might give you half your bonus because the item requires both blacksmithing and woodworking.</p>"
+			"name": "专门制作(艺术) Specialty Crafting (Artistry)",
+			"description": "<p>你专攻于制作特定的一类物品。从下表中选择一个专攻方向，你在用来制作艺术品的手艺技能检定上获得+1环境加值。当你在手艺技能上达大师级熟练度时，这个加值提升到+2。</p>\n<hr />\n<p><strong>范例工艺造物</strong> 美观的艺术品，如珠宝设计</p>\n<p>如果不能确定某一件物品的制作是否属于本专长影响的范围，则GM具有最终裁判权。在某些情况下，本专长只会部分地对某些物品的制作提供帮助。举例来说，如果你的专攻方向是“木工”，那么如果你要制作一把钉头锤的话，GM只会允许你获得本专长提供的加值的一半，因为制作这样的一件物品会同时需要锻造和木工加工方式。</p>"
 		},
 		"Specialty Crafting (Blacksmithing)": {
-			"name": "Specialty Crafting (Blacksmithing)",
-			"description": "<p>Your training focused on Crafting one particular kind of item. You gain a +1 circumstance bonus to Crafting checks to Craft metal goods. If you are a master in Crafting, this bonus increases to +2.</p>\n<hr />\n<p><strong>Sample Items</strong> Durable metal goods, including metal armor</p>\n<p>If it's unclear whether the specialty applies, the GM decides. Some specialties might apply only partially. For example, if you were making a morningstar and had specialty in woodworking, the GM might give you half your bonus because the item requires both blacksmithing and woodworking.</p>"
+			"name": "专门制作(打铁) Specialty Crafting (Blacksmithing)",
+			"description": "<p>你专攻于制作特定的一类物品。从下表中选择一个专攻方向，你在用来制作金属物件的手艺技能检定上获得+1环境加值。当你在手艺技能上达大师级熟练度时，这个加值提升到+2。</p>\n<hr />\n<p><strong>范例工艺造物</strong> 金属制品，如金属盔甲</p>\n<p>如果不能确定某一件物品的制作是否属于本专长影响的范围，则GM具有最终裁判权。在某些情况下，本专长只会部分地对某些物品的制作提供帮助。举例来说，如果你的专攻方向是“木工”，那么如果你要制作一把钉头锤的话，GM只会允许你获得本专长提供的加值的一半，因为制作这样的一件物品会同时需要锻造和木工加工方式。</p>"
 		},
 		"Specialty Crafting (Bookmaking)": {
-			"name": "Specialty Crafting (Bookmaking)",
-			"description": "<p>Your training focused on Crafting one particular kind of item. You gain a +1 circumstance bonus to Crafting checks to Craft books. If you are a master in Crafting, this bonus increases to +2.</p>\n<hr />\n<p><strong>Sample Items</strong> Books and paper</p>\n<p>If it's unclear whether the specialty applies, the GM decides. Some specialties might apply only partially. For example, if you were making a morningstar and had specialty in woodworking, the GM might give you half your bonus because the item requires both blacksmithing and woodworking.</p>"
+			"name": "专门制作(装订) Specialty Crafting (Bookmaking)",
+			"description": "<p>你专攻于制作特定的一类物品。从下表中选择一个专攻方向，你在用来制作书籍的手艺技能检定上获得+1环境加值。当你在手艺技能上达大师级熟练度时，这个加值提升到+2。</p>\n<hr />\n<p><strong>范例工艺造物</strong> 订书和造纸</p>\n<p>如果不能确定某一件物品的制作是否属于本专长影响的范围，则GM具有最终裁判权。在某些情况下，本专长只会部分地对某些物品的制作提供帮助。举例来说，如果你的专攻方向是“木工”，那么如果你要制作一把钉头锤的话，GM只会允许你获得本专长提供的加值的一半，因为制作这样的一件物品会同时需要锻造和木工加工方式。</p>"
 		},
 		"Specialty Crafting (Glassmaking)": {
-			"name": "Specialty Crafting (Glassmaking)",
-			"description": "<p>Your training focused on Crafting one particular kind of item. You gain a +1 circumstance bonus to Crafting checks to Craft glass items. If you are a master in Crafting, this bonus increases to +2.</p>\n<hr />\n<p><strong>Sample Items</strong> Glass, including glassware and windows</p>\n<p>If it's unclear whether the specialty applies, the GM decides. Some specialties might apply only partially. For example, if you were making a morningstar and had specialty in woodworking, the GM might give you half your bonus because the item requires both blacksmithing and woodworking.</p>"
+			"name": "专门制作(吹玻璃) Specialty Crafting (Glassmaking)",
+			"description": "<p>你专攻于制作特定的一类物品。从下表中选择一个专攻方向，你在用来制作玻璃器具的手艺技能检定上获得+1环境加值。当你在手艺技能上达大师级熟练度时，这个加值提升到+2。</p>\n<hr />\n<p><strong>范例工艺造物</strong> 玻璃制品，包括彩窗</p>\n<p>如果不能确定某一件物品的制作是否属于本专长影响的范围，则GM具有最终裁判权。在某些情况下，本专长只会部分地对某些物品的制作提供帮助。举例来说，如果你的专攻方向是“木工”，那么如果你要制作一把钉头锤的话，GM只会允许你获得本专长提供的加值的一半，因为制作这样的一件物品会同时需要锻造和木工加工方式。</p>"
 		},
 		"Specialty Crafting (Leatherworking)": {
-			"name": "Specialty Crafting (Leatherworking)",
-			"description": "<p>Your training focused on Crafting one particular kind of item. You gain a +1 circumstance bonus to Crafting checks to Craft leather items. If you are a master in Crafting, this bonus increases to +2.</p>\n<hr />\n<p><strong>Sample Items</strong> Leather goods, including leather armor</p>\n<p>If it's unclear whether the specialty applies, the GM decides. Some specialties might apply only partially. For example, if you were making a morningstar and had specialty in woodworking, the GM might give you half your bonus because the item requires both blacksmithing and woodworking.</p>"
+			"name": "专门制作(制皮) Specialty Crafting (Leatherworking)",
+			"description": "<p>你专攻于制作特定的一类物品。从下表中选择一个专攻方向，你在用来制作皮革的手艺技能检定上获得+1环境加值。当你在手艺技能上达大师级熟练度时，这个加值提升到+2。</p>\n<hr />\n<p><strong>范例工艺造物</strong> 皮革制品，如皮革盔甲</p>\n<p>如果不能确定某一件物品的制作是否属于本专长影响的范围，则GM具有最终裁判权。在某些情况下，本专长只会部分地对某些物品的制作提供帮助。举例来说，如果你的专攻方向是“木工”，那么如果你要制作一把钉头锤的话，GM只会允许你获得本专长提供的加值的一半，因为制作这样的一件物品会同时需要锻造和木工加工方式。</p>"
 		},
 		"Specialty Crafting (Pottery)": {
-			"name": "Specialty Crafting (Pottery)",
-			"description": "<p>Your training focused on Crafting one particular kind of item. You gain a +1 circumstance bonus to Crafting checks to Craft ceramic items. If you are a master in Crafting, this bonus increases to +2.</p>\n<hr />\n<p><strong>Sample Items</strong> Ceramic goods</p>\n<p>If it's unclear whether the specialty applies, the GM decides. Some specialties might apply only partially. For example, if you were making a morningstar and had specialty in woodworking, the GM might give you half your bonus because the item requires both blacksmithing and woodworking.</p>"
+			"name": "专门制作(陶艺) Specialty Crafting (Pottery)",
+			"description": "<p>你专攻于制作特定的一类物品。从下表中选择一个专攻方向，你在用来制作陶器的手艺技能检定上获得+1环境加值。当你在手艺技能上达大师级熟练度时，这个加值提升到+2。</p>\n<hr />\n<p><strong>范例工艺造物</strong> 陶瓷制品</p>\n<p>如果不能确定某一件物品的制作是否属于本专长影响的范围，则GM具有最终裁判权。在某些情况下，本专长只会部分地对某些物品的制作提供帮助。举例来说，如果你的专攻方向是“木工”，那么如果你要制作一把钉头锤的话，GM只会允许你获得本专长提供的加值的一半，因为制作这样的一件物品会同时需要锻造和木工加工方式。</p>"
 		},
 		"Specialty Crafting (Shipbuilding)": {
-			"name": "Specialty Crafting (Shipbuilding)",
-			"description": "<p>Your training focused on Crafting one particular kind of item. You gain a +1 circumstance bonus to Crafting checks to Craft ships. If you are a master in Crafting, this bonus increases to +2.</p>\n<hr />\n<p><strong>Sample Items</strong> Ships and Boats</p>\n<p>If it's unclear whether the specialty applies, the GM decides. Some specialties might apply only partially. For example, if you were making a morningstar and had specialty in woodworking, the GM might give you half your bonus because the item requires both blacksmithing and woodworking.</p>"
+			"name": "专门制作(造船) Specialty Crafting (Shipbuilding)",
+			"description": "<p>你专攻于制作特定的一类物品。从下表中选择一个专攻方向，你在用来造船的手艺技能检定上获得+1环境加值。当你在手艺技能上达大师级熟练度时，这个加值提升到+2。</p>\n<hr />\n<p><strong>范例工艺造物</strong> 建造大小船只</p>\n<p>如果不能确定某一件物品的制作是否属于本专长影响的范围，则GM具有最终裁判权。在某些情况下，本专长只会部分地对某些物品的制作提供帮助。举例来说，如果你的专攻方向是“木工”，那么如果你要制作一把钉头锤的话，GM只会允许你获得本专长提供的加值的一半，因为制作这样的一件物品会同时需要锻造和木工加工方式。</p>"
 		},
 		"Specialty Crafting (Stonemasonry)": {
-			"name": "Specialty Crafting (Stonemasonry)",
-			"description": "<p>Your training focused on Crafting one particular kind of item. You gain a +1 circumstance bonus to Crafting checks to Craft stone items. If you are a master in Crafting, this bonus increases to +2.</p>\n<hr />\n<p><strong>Sample Items</strong> Stone goods and structures</p>\n<p>If it's unclear whether the specialty applies, the GM decides. Some specialties might apply only partially. For example, if you were making a morningstar and had specialty in woodworking, the GM might give you half your bonus because the item requires both blacksmithing and woodworking.</p>"
+			"name": "专门制作(石工) Specialty Crafting (Stonemasonry)",
+			"description": "<p>你专攻于制作特定的一类物品。从下表中选择一个专攻方向，你在用来制作石头制品的手艺技能检定上获得+1环境加值。当你在手艺技能上达大师级熟练度时，这个加值提升到+2。</p>\n<hr />\n<p><strong>范例工艺造物</strong> 制作石质物品和建造建筑物</p>\n<p>如果不能确定某一件物品的制作是否属于本专长影响的范围，则GM具有最终裁判权。在某些情况下，本专长只会部分地对某些物品的制作提供帮助。举例来说，如果你的专攻方向是“木工”，那么如果你要制作一把钉头锤的话，GM只会允许你获得本专长提供的加值的一半，因为制作这样的一件物品会同时需要锻造和木工加工方式。</p>"
 		},
 		"Specialty Crafting (Tailoring)": {
-			"name": "Specialty Crafting (Tailoring)",
-			"description": "<p>Your training focused on Crafting one particular kind of item. You gain a +1 circumstance bonus to Crafting checks to Craft clothing. If you are a master in Crafting, this bonus increases to +2.</p>\n<hr />\n<p><strong>Sample Items</strong> Clothing</p>\n<p>If it's unclear whether the specialty applies, the GM decides. Some specialties might apply only partially. For example, if you were making a morningstar and had specialty in woodworking, the GM might give you half your bonus because the item requires both blacksmithing and woodworking.</p>"
+			"name": "专门制作(裁缝) Specialty Crafting (Tailoring)",
+			"description": "<p>你专攻于制作特定的一类物品。从下表中选择一个专攻方向，你在用来制作衣类的手艺技能检定上获得+1环境加值。当你在手艺技能上达大师级熟练度时，这个加值提升到+2。</p>\n<hr />\n<p><strong>范例工艺造物</strong> 剪裁衣服</p>\n<p>如果不能确定某一件物品的制作是否属于本专长影响的范围，则GM具有最终裁判权。在某些情况下，本专长只会部分地对某些物品的制作提供帮助。举例来说，如果你的专攻方向是“木工”，那么如果你要制作一把钉头锤的话，GM只会允许你获得本专长提供的加值的一半，因为制作这样的一件物品会同时需要锻造和木工加工方式。</p>"
 		},
 		"Specialty Crafting (Weaving)": {
-			"name": "Specialty Crafting (Weaving)",
-			"description": "<p>Your training focused on Crafting one particular kind of item. You gain a +1 circumstance bonus to Crafting checks to Craft woven items. If you are a master in Crafting, this bonus increases to +2.</p>\n<hr />\n<p><strong>Sample Items</strong> Textiles, baskets, and rugs</p>\n<p>If it's unclear whether the specialty applies, the GM decides. Some specialties might apply only partially. For example, if you were making a morningstar and had specialty in woodworking, the GM might give you half your bonus because the item requires both blacksmithing and woodworking.</p>"
+			"name": "专门制作(编织) Specialty Crafting (Weaving)",
+			"description": "<p>你专攻于制作特定的一类物品。从下表中选择一个专攻方向，你在用来编织的手艺技能检定上获得+1环境加值。当你在手艺技能上达大师级熟练度时，这个加值提升到+2。</p>\n<hr />\n<p><strong>范例工艺造物</strong> 织布、编篮子或是刺绣</p>\n<p>如果不能确定某一件物品的制作是否属于本专长影响的范围，则GM具有最终裁判权。在某些情况下，本专长只会部分地对某些物品的制作提供帮助。举例来说，如果你的专攻方向是“木工”，那么如果你要制作一把钉头锤的话，GM只会允许你获得本专长提供的加值的一半，因为制作这样的一件物品会同时需要锻造和木工加工方式。</p>"
 		},
 		"Specialty Crafting (Woodworking)": {
-			"name": "Specialty Crafting (Woodworking)",
-			"description": "<p>Your training focused on Crafting one particular kind of item. You gain a +1 circumstance bonus to Crafting checks to Craft wooden items. If you are a master in Crafting, this bonus increases to +2.</p>\n<hr />\n<p><strong>Sample Items</strong> Wooden goods and structures</p>\n<p>If it's unclear whether the specialty applies, the GM decides. Some specialties might apply only partially. For example, if you were making a morningstar and had specialty in woodworking, the GM might give you half your bonus because the item requires both blacksmithing and woodworking.</p>"
+			"name": "专门制作(木工) Specialty Crafting (Woodworking)",
+			"description": "<p>你专攻于制作特定的一类物品。从下表中选择一个专攻方向，你在用来制作木制品的手艺技能检定上获得+1环境加值。当你在手艺技能上达大师级熟练度时，这个加值提升到+2。</p>\n<hr />\n<p><strong>范例工艺造物</strong> 制作木质物品和建造建筑物</p>\n<p>如果不能确定某一件物品的制作是否属于本专长影响的范围，则GM具有最终裁判权。在某些情况下，本专长只会部分地对某些物品的制作提供帮助。举例来说，如果你的专攻方向是“木工”，那么如果你要制作一把钉头锤的话，GM只会允许你获得本专长提供的加值的一半，因为制作这样的一件物品会同时需要锻造和木工加工方式。</p>"
 		},
 		"Speedy Rituals": {
 			"name": "Speedy Rituals",
