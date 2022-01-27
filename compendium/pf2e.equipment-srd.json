@@ -802,8 +802,8 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> envision</p>\n<p><strong>Trigger</strong> You use a feat or ability to reroll a failed or critically failed Reflex saving throw (such as Cat's Luck or Halfling Luck).</p>\n<p>This clay figurine resembles a white cat with a paw outstretched. When it's activated, any allies within 10 feet who also just failed or critically failed a Reflex saving throw from the same source (such as a fireball spell) can also reroll their saving throw and use the better result.</p>"
 		},
 		"Bedroll": {
-			"name": "Bedroll",
-			"description": "<p>A rolled up bed.</p>"
+			"name": "铺盖卷 Bedroll",
+			"description": "<p>一床卷起来的被子</p>"
 		},
 		"Belladonna": {
 			"name": "Belladonna",
@@ -1650,7 +1650,7 @@
 			"description": "<p>Simple, elegant, and portable, the chakram is an open-centered metal discus with a sharpened edge, as well as a grip running along the center so the wielder can hold it safely.</p>"
 		},
 		"Chalk": {
-			"name": "Chalk",
+			"name": "粉笔 Chalk",
 			"description": ""
 		},
 		"Chameleon Suit": {
@@ -2174,7 +2174,7 @@
 			"description": "<p>This liquid contains blood from a copper dragon. For 1 hour after you imbibe the concoction, you can unleash a copper dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:line|distance:30] of acid which deals [[/r {4d6}[acid]]]{4d6 acid damage}. All creatures in the area must attempt a @Check[type:reflex|dc:23|basic:true|name:Young Copper Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for[[/r 1d4 #rounds]]{1d4 rounds}.</p>"
 		},
 		"Copper Pieces": {
-			"name": "Copper Pieces",
+			"name": "铜币 Copper Pieces",
 			"description": ""
 		},
 		"Copper and spinel puzzle box": {
@@ -4242,7 +4242,7 @@
 			"description": "<p>This liquid contains blood from a gold dragon. For 1 hour after you imbibe the concoction, you can unleash a gold dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:cone|distance:15] of fire which deals [[/r {4d6}[fire]]]{4d6 fire damage}. All creatures in the area must attempt a @Check[type:reflex|dc:23|basic:true|name:Young Gold Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
 		},
 		"Gold Pieces": {
-			"name": "Gold Pieces",
+			"name": "金币 Gold Pieces",
 			"description": ""
 		},
 		"Gold and aquamarine diadem": {
@@ -6682,7 +6682,7 @@
 			"description": "<p>This suit of +2 greater resilient full plate is decorated with swirling, ornate motifs of waves and fish scales.</p>\n<p>While wearing it, you take no Speed reduction or check penalty from armor when Swimming, gain a +2 item bonus to Athletics checks to Swim, can breathe underwater, and can speak Aquan.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+2 item bonus to Athletics checks to Swim</li>\n</ul>"
 		},
 		"Platinum Pieces": {
-			"name": "Platinum Pieces",
+			"name": "白金币 Platinum Pieces",
 			"description": ""
 		},
 		"Platinum dragon statuette": {
@@ -7254,7 +7254,7 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<p>This slender vial appears to hold clean, clear water with a faintly fruity scent. Drinking a ration tonic magically nourishes you with the equivalent of a week's worth of food and water, distributing the nourishment in a constant and healthy flow across the week. The tonic has a subtle, pleasant taste, its particulars chosen when the potion is crafted.</p>"
 		},
 		"Rations": {
-			"name": "Rations",
+			"name": "口粮 Rations",
 			"description": ""
 		},
 		"Razmiri Wayfinder": {
@@ -7658,8 +7658,8 @@
 			"description": "<p>This peculiar rod is strange and unpredictable. Each time it is activated, it produces one of a variety of effects at random.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> command, Interact</p>\n<p><strong>Effect</strong> Choose a creature within 60 feet and roll d% on the table below to determine the rod's effect. If an entry lists only a spell name, the rod casts that spell at its lowest level. You make any decisions for a spell cast by the rod unless otherwise indicated, except that it must target the creature you chose, or the creature you chose must be the center of the spell's area, if it has an area but no targets. If the spell's range is less than 60 feet, increase the range to 60 feet.</p>\n<p>Any spell DC required is DC 27, and any spell attack roll required is [[/r 1d20+17]]. If the rod casts a spell on you, you don't get a saving throw or other defense against it.</p>\n<p>Once activated, the rod can't be activated again for [[/r 1d4]] hours.</p>\n<p>Roll on the @Compendium[pf2e.rollable-tables.uYDzWM5ji52r4mSD]{Rod of Wonder} table to determine the outcome.</p>"
 		},
 		"Rope": {
-			"name": "Rope",
-			"description": "<p>50 feet of rope.</p>"
+			"name": "麻绳 Rope",
+			"description": "<p>50英尺长的麻绳</p>"
 		},
 		"Rope of Climbing (Greater)": {
 			"name": "Rope of Climbing (Greater)",
@@ -8430,7 +8430,7 @@
 			"description": "<p>Silver weapons are a bane to creatures ranging from devils to werewolves. Silver items are less durable than steel items, and low-grade silver items are usually merely silver-plated.</p><h2>Silver Items</h2>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>Silver Items</th>\n<th>Hardness\n</th>\n<th>HP</th>\n<th>BT</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Thin Items</td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>Low-grade</td>\n<td>3</td>\n<td>12</td>\n<td>6</td>\n</tr>\n<tr>\n<td>Standard-grade</td>\n<td>5</td>\n<td>20</td>\n<td>10</td>\n</tr>\n<tr>\n<td>High-grade</td>\n<td>8</td>\n<td>32</td>\n<td>16</td>\n</tr>\n<tr>\n<td>Items</td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>Low-grade<strong></strong><p><strong></strong></p></td>\n<td>5</td>\n<td>20</td>\n<td>10</td>\n</tr>\n<tr>\n<td>Standard-grade<strong></strong><p><strong></strong></p></td>\n<td>7</td>\n<td>28</td>\n<td>14</td>\n</tr>\n<tr>\n<td>High-grade</td>\n<td>10</td>\n<td>40</td>\n<td>20</td>\n</tr>\n<tr>\n<td>Structure</td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>Low-grade<strong></strong><p><strong></strong></p></td>\n<td>10</td>\n<td>40</td>\n<td>20</td>\n</tr>\n<tr>\n<td>Standard-grade<strong></strong><p><strong></strong></p></td>\n<td>14</td>\n<td>56</td>\n<td>28</td>\n</tr>\n<tr>\n<td>High-grade</td>\n<td>20</td>\n<td>80</td>\n<td>40</td>\n</tr>\n</tbody>\n</table>"
 		},
 		"Silver Pieces": {
-			"name": "Silver Pieces",
+			"name": "银币 Silver Pieces",
 			"description": ""
 		},
 		"Silver Shield (High-Grade)": {
@@ -8758,8 +8758,8 @@
 			"description": "<p>These magically enhanced snowshoes are practically a necessity when traversing the gelid tundra and snow-drenched taiga of the Saga Lands.</p>\n<p>The snowshoes of the long trek allow their wearer to walk across ice and snow with the same surety as dry earth, ignoring the uneven ground and difficult terrain caused by ice and the difficult terrain caused by snow (reducing greater difficult terrain from ice or snow to ordinary difficult terrain).</p>\n<p>In addition, a character wearing snowshoes of the long trek gains a +5-foot status bonus to their Speed while moving across snow or ice and is never at risk of breaking through naturally-occurring loose or soft snow.</p>"
 		},
 		"Soap": {
-			"name": "Soap",
-			"description": "<p>Bar of soap.</p>"
+			"name": "肥皂 Soap",
+			"description": "<p>一根棒状肥皂。</p>"
 		},
 		"Soaring": {
 			"name": "Soaring",
