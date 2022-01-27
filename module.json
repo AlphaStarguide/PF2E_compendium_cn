@@ -17,8 +17,8 @@
       "path": "cn.json"
     }
   ],
-  "version": "0.0.9",
+  "version": "0.1.0",
   "url": "https://github.com/AlphaStarguide/PF2E_compendium_cn",
-  "manifest": "https://github.com/AlphaStarguide/PF2E_compendium_cn/releases/download/0.0.9/module.json",
-  "download": "https://github.com/AlphaStarguide/PF2E_compendium_cn/releases/download/0.0.9/PF2E_compendium_cn-main.zip"
+  "manifest": "https://github.com/AlphaStarguide/PF2E_compendium_cn/releases/download/0.1.0/module.json",
+  "download": "https://github.com/AlphaStarguide/PF2E_compendium_cn/releases/download/0.1.0/PF2E_compendium_cn-main.zip"
 }
