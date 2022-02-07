@@ -1474,8 +1474,8 @@
 			"description": "<p>With the lightest touch, you can siphon the poison from an object and save it for your own later use, making an assassin's blade or politician's wine less deadly while you become all the more so. Attempt a counteract check against one poison you're aware of on or in an object you touch. If you successfully counteract the poison, you negate the object's toxicity and transfer the poison into a weapon you are holding, coating the weapon with a simple but powerful poison. On your next successful attack with that weapon before the end of your next turn, you add 1d6 poison damage per level of the poison you counteracted. On a critically failed attack roll, you lose the extracted poison from your weapon as normal.</p>\n<p>@Compendium[pf2e.spell-effects.fEhCbATDNlt6c1Ug]{Spell Effect: Extract Poison}</p>"
 		},
 		"Fabricated Truth": {
-			"name": "Fabricated Truth",
-			"description": "<p>Choose a single statement you want the targets to believe. The fact could be narrow, such as \"a dragon is circling overhead and wants to kill me\"; wide-reaching, such as \"all humanoids are disguised abominations\"; or conceptual, such as \"if I don't live a kinder life, I'll be punished in the afterlife.\" The targets' experiences color how they react to this \"truth\" and how their behavior changes. If the statement changes what they perceive, they treat the change as a sudden revelation.</p>\n<p>The effect of the spell depends on the targets' Will saves. If a target is already subject to <em>fabricated truth</em>, your spell tries to counteract it. If the counteract check fails, the outcome of the target's saving throw can't be worse than a success.</p>\n<hr />\n<p><strong>Critical Success</strong> The target doesn't believe the statement, and it knows you tried to trick it.</p>\n<p><strong>Success</strong> The target doesn't believe the statement or realize you tried to trick it.</p>\n<p><strong>Failure</strong> The target believes the statement for a duration of 1 week.</p>\n<p><strong>Critical Failure</strong> The target believes the statement with unlimited duration.</p>"
+			"name": "伪造真相 Fabricated Truth",
+			"description": "<p>选定一条你希望目标相信的陈述。这个真相可能是狭隘的，例如 \"有条盘旋的龙想杀死我\"；也可以是宽泛的，例如 \"所有的人类都是怪物伪装的\"；或者概念性的，例如 \"如果我没有做个好人，下辈子就会被惩罚\" 。目标本身的经验会影响它们会如何对这个真相做出反应，以及其行为如何改变。如果该陈述改变了它们的认知，它们将该改变视为顿悟真相。</p>\n<p>法术的效果基于目标的意志豁免。如果目标已经处于<em>伪造真相</em>的影响中，你的法术会尝试反制旧的。如果反制检定失败，目标的豁免骰结果无法比成功更差。</p>\n<hr />\n<p><strong>大成功</strong> 目标不相信这陈述，并且知道你尝试欺骗它。</p>\n<p><strong>成功</strong> 目标不相信陈述，也不知道你尝试欺骗它。</p>\n<p><strong>失败</strong> 目标相信陈述，持续时间为1星期。</p>\n<p><strong>大失败</strong> 目标相信陈述，持续时间为无限。</p>"
 		},
 		"Face in the Crowd": {
 			"name": "Face in the Crowd",
@@ -1486,20 +1486,20 @@
 			"description": "<p>You sprinkle magical dust in the spell's area, making those within easier to trick. Each creature in the area must attempt a Will save. For each additional action you use Casting the Spell, the burst's radius increases by 5 feet.</p>\n<hr />\n<p><strong>Success</strong> The creature is unaffected.</p>\n<p><strong>Failure</strong> The creature can't use reactions and takes a -2 status penalty to Perception checks and Will saves.</p>\n<p><strong>Critical Failure</strong> As failure, and the creature also takes a -1 status penalty to Perception checks and Will saves for 1 minute.</p>\n<hr />\n<p><strong>Heightened (+3)</strong> The initial radius increases by 5 feet.</p>"
 		},
 		"Faerie Fire": {
-			"name": "Faerie Fire",
-			"description": "<p>All creatures in the area when you cast the spell are limned in colorful, heatless fire of a color of your choice for the duration. Visible creatures can't be @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} while affected by faerie fire. If the creatures are @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisible}, they are Concealed while affected by faerie fire, rather than being @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Undetected}.</p>"
+			"name": "妖火术 Faerie Fire",
+			"description": "<p>在你施放该法术时，处于区域中的所有生物在法术持续时间内会被有色的，无热度的火焰所勾勒出轮廓。该颜色由你选择。可见的生物在受妖火术影响时无法获得 @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{隐蔽 Concealed} 。如果该生物 @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{隐形 Invisible}，在被妖火术影响时为隐蔽（concealed），而不是 @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{无踪 Undetected}。</p>"
 		},
 		"Fallow Field": {
 			"name": "Fallow Field",
 			"description": "<p>A sickly yellow light fills the area as entropic forces prevent healing. When a creature within the area would regain Hit Points, such as from a healing effect or an ability like fast healing or regeneration, it must attempt a Will save.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature regains the full number of Hit Points that would be restored by the healing effect, and is temporarily immune for 1 minute.</p>\n<p><strong>Success</strong> The creature regains the full number of Hit Points that would be restored.</p>\n<p><strong>Failure</strong> The creature regains only half the number of Hit Points that would be restored.</p>\n<p><strong>Critical Failure</strong> The creature does not regain Hit Points from the healing effect.</p>"
 		},
 		"False Life": {
-			"name": "False Life",
-			"description": "<p>You create a reservoir of vitality from necromantic energy, gaining a number of temporary Hit Points equal to 6 plus your spellcasting ability modifier.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The temporary Hit Points increase by 3.</p>"
+			"name": "虚假生命 False Life",
+			"description": "<p>你使用死灵系能量创造了一个生命力池，并获得等于6加上你的施法属性调整值的临时生命值。</p>\n<hr />\n<p><strong>升阶 (+1)</strong> 该临时生命值增加3。</p>"
 		},
 		"False Vision": {
-			"name": "False Vision",
-			"description": "<p>You create a false image that fools any attempts to scry on an area. Any scrying spell sees, hears, smells, and otherwise detects whatever you wish within the area, rather than what is actually in the area. You can Sustain the Spell each round to change the illusion as you desire, including playing out a complex scene. If the scrying spell is of a higher level than false vision, the scryer can attempt a Perception check to disbelieve the illusion, though even if they're successful, they can't learn what's truly going on in the area.</p>"
+			"name": "虚假景象 False Vision",
+			"description": "<p>你创造了一个会欺骗任何对某一个区域的探知的假象。任何探知法术只会看见，听到，嗅到，以及其他方式侦测你想要该区域所包含的信息，而不是该区域内的实际信息。你可以每轮维持该法术，来如你意愿地改变幻像，包括展现一个复杂的场景。如果探知法术的环级比虚假景象更高，探知者可以尝试一次察觉检定以不相信幻象，但即使在检定中成功，也无法获知区域中本来的情况。</p>"
 		},
 		"Familiar Form": {
 			"name": "Familiar Form",
@@ -1526,8 +1526,8 @@
 			"description": "<p>You enchant a creature to ensure they have only good things to say about your show. Identify a single creature, location, or performance, such as \"Dame Ellendia,\" \"Savories Meats,\" or \"the Theater of the Mind's latest magic show.\" The target must attempt Will save. You can Dismiss the spell.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected and knows you tried to trick it.</p>\n<p><strong>Success</strong> The target is unaffected but thinks your spell was something harmless instead of favorable review, unless it identifies the spell (usually using @Compendium[pf2e.actionspf2e.eReSHVEPCsdkSL4G]{Identify Magic}).</p>\n<p><strong>Failure</strong> The target cannot speak unfavorably about the subject for 1 week. This doesn't change the target's opinion about the subject, but the target's attempts to speak ill of the subject-whether in speech, writing, or other communication-always twist into compliments and praise instead. The target likely becomes aware of this effect quickly and can avoid speaking about the subject entirely if they choose.</p>\n<p><strong>Critical Failure</strong> As failure, except the duration is permanent and the target genuinely holds a favorable opinion about the subject, with their attitude toward the creature (or creatures associated with the subject, such as the owner of a location or artists in a performance) becoming two degrees better (for example, @Compendium[pf2e.conditionitems.v44P3WUcU1j0115l]{Helpful} instead of @Compendium[pf2e.conditionitems.fuG8dgthlDWfWjIA]{Indifferent}.</p>\n<hr />\n<p><strong>Heightened (8th)</strong> The range increases to 60 feet and you can target up to 10 creatures.</p>"
 		},
 		"Fear": {
-			"name": "Fear",
-			"description": "<p>You plant fear in the target; it must attempt a Will save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 1}.</p>\n<p><strong>Failure</strong> The target is @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 2}.</p>\n<p><strong>Critical Failure</strong> The target is @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 3} and @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{Fleeing} for 1 round.</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> You can target up to five creatures.</p>"
+			"name": "恐惧术 Fear",
+			"description": "<p>你将恐惧植入目标；它必须尝试一次意志豁免。</p>\n<hr />\n<p><strong>大成功</strong> 目标不受影响。</p>\n<p><strong>成功</strong> 目标获得 @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{惊惧 Frightened 1}.</p>\n<p><strong>失败</strong> 目标获得 @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{惊惧 Frightened 2}.</p>\n<p><strong>大失败</strong> 目标获得 @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{惊惧 Frightened 3} 并且 @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{逃跑 Fleeing} 1轮.</p>\n<hr />\n<p><strong>升阶 (3环级)</strong> 你能以至多五个生物为目标。</p>"
 		},
 		"Fear the Sun": {
 			"name": "Fear the Sun",
@@ -1542,16 +1542,16 @@
 			"description": "<p>You curse the target with a hunger no food can sate. You can Dismiss the spell. The target must attempt a Fortitude save.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected and is temporarily immune for 1 hour.</p>\n<p><strong>Success</strong> The creature is @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigued} for 1 round.</p>\n<p><strong>Failure</strong> The creature is immediately afflicted by hunger as if it hadn't eaten food in days. It becomes Fatigued and takes 1d4 damage each day that can't be healed until it sates its hunger. No amount of eating can sate the creature's hunger during the spell's duration. After the spell's duration, the creature takes damage from starvation.</p>\n<p><strong>Critical Failure</strong> As failure but the creature takes 2d4 damage each day, twice as much as usual for hunger.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The hunger becomes more unbearable, increasing the damage each day by 1d4, or by 2d4 on a critical failure.</p>"
 		},
 		"Feather Fall": {
-			"name": "Feather Fall",
-			"description": "<p><strong>Trigger</strong> a creature within range is falling</p>\n<hr />\n<p>You cause the air itself to arrest a fall. The target's fall slows to 60 feet per round, and the portion of the fall during the spell's duration doesn't count when calculating falling damage. If the target reaches the ground while the spell is in effect, it takes no damage from the fall. The spell ends as soon as the target lands.</p>"
+			"name": "羽落术 Feather Fall",
+			"description": "<p><strong>触发</strong> 射程内的一个生物坠落</p>\n<hr />\n<p>你利用空气，阻碍坠落。目标的坠落减慢到60尺每轮，并且在法术持续时间范围内的下坠高度不会用于计算坠落伤害中。如果在法术生效时目标触地，它不会因坠落承受伤害。该法术在目标落地时立即结束。</p>"
 		},
 		"Feeblemind": {
-			"name": "Feeblemind",
-			"description": "<p>You drastically reduce the target's mental faculties. The target must attempt a Will save. The effects of this curse can be removed only through remove curse or another effect that targets curses.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied 2} for 1 round.</p>\n<p><strong>Failure</strong> The target is @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied 4} with an unlimited duration.</p>\n<p><strong>Critical Failure</strong> The target's intellect is permanently reduced below that of an animal, and it treats its Charisma, Intelligence, and Wisdom modifiers as -5. It loses all class abilities that require mental faculties, including all spellcasting. If the target is a PC, they become an NPC under the GM's control.</p>"
+			"name": "弱智术 Feeblemind",
+			"description": "<p>你大幅缩减了目标的精神能力。目标必须尝试一次意志豁免。弱智术的效果只能被移除诅咒 Remove Curse或其他以诅咒为对象的效果移除。 </p>\n<hr />\n<p><strong>大成功</strong> 目标不受影响。</p>\n<p><strong>成功</strong> 目标获得 @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{呆滞 Stupefied 2} 持续一轮。</p>\n<p><strong>失败</strong> 目标获得 @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{呆滞 Stupefied 4} ，持续时间为无限。</p>\n<p><strong>大失败</strong> 目标的智能被永久降低到动物的水平，它的魅力，智力以及感知调整值视为-5。它失去所有需要精神能力的职业能力，包括所有的施法能力。如果该目标为PC，它成为由GM控制的NPC。</p>"
 		},
 		"Feet to Fins": {
-			"name": "Feet to Fins",
-			"description": "<p>The target's feet transform into fins, improving mobility in the water but reducing it on land. The target gains a swim Speed equal to its normal land Speed, but its land Speed becomes 5 feet.</p>\n<hr />\n<p><strong>Heightened (6th)</strong> The spell lasts until the next time you make your daily preparations.</p>"
+			"name": "化足为鳍 Feet to Fins",
+			"description": "<p>你将目标的脚变形为鳍，增加其在水中的机动性，但减少其在地面上的移动能力。目标获得等于其陆地速度的游泳速度，但是其陆地速度变为5尺。</p>\n<hr />\n<p><strong>升阶 (6环级)</strong> 该法术持续时间为持续到下次你进行你的日常准备。</p>"
 		},
 		"Feral Shades": {
 			"name": "Feral Shades",
@@ -1574,12 +1574,12 @@
 			"description": "<p>You call upon fey glamours to cloak an area or the targets in illusion. This has the effect of either <em>@Compendium[pf2e.spells-srd.Ucf8eynbZMfUucjE]{Illusory Scene}</em> on the area or <em>@Compendium[pf2e.spells-srd.hkfH9Z53hPzcOwNB]{Veil}</em> on the creatures, as if heightened to a level 1 level lower than fey glamour, using fey glamour's range and duration.</p>"
 		},
 		"Field of Life": {
-			"name": "Field of Life",
-			"description": "<p>A field of positive energy fills the area, exuding warmth and rejuvenating those within. Each living creature that starts its turn in the area regains 1d8 Hit Points, and any undead creature that starts its turn in the area takes 1d8 positive damage.</p>\n<hr />\n<p><strong>Heightened (8th)</strong> The healing and damage increase to 1d10.</p>\n<p><strong>Heightened (9th)</strong> The healing and damage increase to 1d12.</p>"
+			"name": "生命力场 Field of Life",
+			"description": "<p>正能量形成的场充满该区域，为其中的生物赋予温暖和活力。每个在该区域中开始回合的活物回复1d8生命值，并且任何在该区域中开始回合的不死生物承受1d8正能量伤害。</p>\n<hr />\n<p><strong>升阶 (8环级)</strong> 该治疗与伤害提升到1d10。</p>\n<p><strong>升阶 (9环级)</strong> 该治疗与伤害提升到1d12。</p>"
 		},
 		"Fiery Body": {
-			"name": "Fiery Body",
-			"description": "<p>You become living flame, giving you fire immunity, resistance 10 to precision damage, and weakness 5 to cold and to water. Any creature that touches you or damages you with an unarmed attack or non-reach melee weapon takes 3d6 fire damage. Your unarmed attacks deal 1d4 additional fire damage, and your fire spells deal one additional die of fire damage (of the same damage die the spell uses). You can cast produce flame as an innate spell; the casting is reduced from 2 actions to 1. In fire form, you have a fly Speed of 40 feet and don't need to breathe.</p>\n<p>@Compendium[pf2e.spell-effects.uIMaMzd6pcKmMNPJ]{Spell Effect: Fiery Body}</p>\n<hr />\n<p><strong>Heightened (9th)</strong> Creatures touching you take 4d6 fire damage instead of 3d6, your unarmed attacks deal 2d4 additional fire damage, and you have a fly Speed of 60 feet.<br />@Compendium[pf2e.spell-effects.U2eD42cGwdvQMdN0]{Spell Effect: Fiery Body (9th Level)}</p>"
+			"name": "火焰之躯 Fiery Body",
+			"description": "<p>你成为一团活体火焰，赋予你火焰免疫，对精准伤害的抗力10，对寒冷和水的弱点5。任何接触你的，或者通过无武装攻击、非长触及的近战武器伤害你的生物，承受3d6火焰伤害。你的无武装攻击造成额外1d4火焰伤害，并且你的火焰法术造成额外一个骰子的火焰伤害（如法术本身的伤害骰）。你能以内在法术施放燃火术（produce flame）；施放从2动作减少到1。在火焰形态中，你具有40尺飞行速度，并且无需呼吸。</p>\n<p>@Compendium[pf2e.spell-effects.uIMaMzd6pcKmMNPJ]{法术效果：火焰之躯}</p>\n<hr />\n<p><strong>升阶 (9环级)</strong> 接触你的生物承受4d6火焰伤害，而不是3d6；你的无武装攻击造成2d4额外火焰伤害，你具有飞行速度60尺。<br />@Compendium[pf2e.spell-effects.U2eD42cGwdvQMdN0]{法术效果：火焰之躯 (9环级)}</p>"
 		},
 		"Final Sacrifice": {
 			"name": "Final Sacrifice",
