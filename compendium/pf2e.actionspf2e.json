@@ -466,8 +466,8 @@
 			"description": "<p>你尝试用身体，棍棒或是其他的工具通过蛮力打开门板，窗户，容器或是坚固的大门。如果你真的能骰出很高的检定结果，你甚至能在一堵根本没门的墙上开个门出来。通常，如果你尝试使用 <span data-pf2-action=\"forceOpen\" data-pf2-glyph=\"A\">运动</span>来破拆某个东西，涉及到撬动目标，但又没有撬棒（Crowbar）工具的话，你需要在检定上承受-2物品减值。</p>\n<hr />\n<p><strong>大成功</strong> 你强行弄开了门，窗或是容器，并且没有损坏它们。</p>\n<p><strong>成功</strong> 你强行弄开了门，窗或是容器，但对象狭窄处于 @Compendium[pf2e.conditionitems.6dNUvdb1dhToNDj3]{破损}状态。如果GM认为对象的制作和材质异常的坚固，可能这些物品只会受到一定的伤害，而非直接陷入破损状态。</p>\n<p><strong>大失败</strong> 你把门，窗或锁弄卡住了。在之后的破拆检定上承受-2环境减值。</p>\n<h2>范例破拆情景</h2>\n<ul>\n<li><strong>未受训</strong> 布匹，薄玻璃板</li>\n<li><strong>受训</strong> 冰块，坚固的玻璃</li>\n<li><strong>专家</strong> 较薄的木门，木质翻板门</li>\n<li><strong>大师</strong> 坚固的木门，铁质翻板门，铁条</li>\n<li><strong>传奇</strong> 石门或铁门</li>\n</ul>"
 		},
 		"Foresight": {
-			"name": "Foresight",
-			"description": "<p><strong>Trigger</strong> The target of <em>foresight</em> defends against a hostile creature or other danger.</p>\n<p><strong>Effect</strong> If the hostile creature or danger forces the target to roll dice (a saving throw, for example), the target rolls twice and uses the higher result, and this spell gains the fortune trait. But if the hostile creature or danger is rolling against the target (an attack roll or skill check, for example), that hostile creature or danger rolls twice and uses the lower result, and this spell gains the misfortune trait.</p>"
+			"name": "预警 Foresight",
+			"description": "<p><strong>触发</strong>  <em>预警术</em> 的目标对一个敌对生物或者其他危险展开防御。</p>\n<p><strong>效果</strong> 如果敌对生物或者危险令目标掷骰（例如一次豁免骰），目标可以骰两次并使用更高的结果，并且该法术获得幸运特征。但如果敌对生物或者危险掷骰对抗目标（例如攻击骰或者技能检定），该敌对生物或者危险骰两次并使用较低的结果，并且该法术获得厄运特征。</p>"
 		},
 		"Furious Strike": {
 			"name": "狂怒打击 Furious Strike",
