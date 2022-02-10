@@ -3062,8 +3062,8 @@
 			"description": "<p>A protective aura emanates out from you, safeguarding you and your allies. You gain resistance 3 to all damage. Your allies also gain this resistance while they are within the area.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The resistance increases by 1.</p>"
 		},
 		"Prying Eye": {
-			"name": "Prying Eye",
-			"description": "<p>You create an @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisible}, floating eye, 1 inch in diameter, at a location you can see within 500 feet. It sees in all directions with your normal visual senses and continuously transmits what it sees to you. The first time you Sustain the Spell each round, you can either move the eye up to 30 feet, seeing only things in front of the eye, or move it up to 10 feet, seeing everything in all directions around it. There is no limit to how far from you the eye can move, but the spell ends immediately if you and the eye ever cease to be on the same plane of existence. You can attempt Seek actions through the eye if you want to attempt Perception checks with it. Any damage dealt to the eye destroys it and ends the spell.</p>"
+			"name": "窥视魔眼 Prying Eye",
+			"description": "<p>你在你能看见的500尺范围内，创造一个 @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{隐形 Invisible}、漂浮的、直径1英寸的眼睛。它如你通常的视觉感官，能看见所有的方向，并且会持续将其所见传送给你。每轮你第一次维持该法术时，你可以移动该眼睛30尺，且只看见眼睛前方的事物，或者移动其10尺，但能看到周围所有方向的事物。眼睛移动离开你能到达的距离没有限制，但是当你和眼睛不再处于相同的位面时，法术立即结束。你如果你想通过眼睛尝试察觉检定，你可以通过眼睛尝试搜索（Seek）动作。对眼睛造成的任何伤害会摧毁它并结束该法术。</p>"
 		},
 		"Prying Survey": {
 			"name": "Prying Survey",
@@ -3086,20 +3086,20 @@
 			"description": "<p>A spray of heavy rocks flies through the air in front of you. The rubble deals [[/r {2d4}[bludgeoning]]]{2d4 bludgeoning damage} to each creature in the area. Each creature must attempt a Reflex save.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes half damage.</p>\n<p><strong>Failure</strong> The creature takes full damage and is pushed 5 feet away from you.</p>\n<p><strong>Critical Failure</strong> The creature takes double damage and is pushed 10 feet away from you.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> Increase the damage by 2d4.</p>"
 		},
 		"Punishing Winds": {
-			"name": "Punishing Winds",
-			"description": "<p>Violent winds and a powerful downdraft fill the area, forming a cyclone. All flying creatures in the area descend 40 feet. The entire area is greater difficult terrain for Flying creatures, and difficult terrain for creatures on the ground or Climbing. Any creature that ends its turn Flying within the area descends 20 feet. Any creature pushed into a surface by this spell's winds takes bludgeoning damage as though it had fallen. The squares at the outside vertical edges of the cylinder prevent creatures from leaving. These squares are greater difficult terrain, and a creature attempting to push through must succeed at an Athletics check or Acrobatics check to Maneuver in Flight against your spell DC to get through. A creature that fails ends its current action but can try again.</p>"
+			"name": "惩戒烈风 Punishing Winds",
+			"description": "<p>猛烈的暴风和强力的下旋气流充斥该区域，形成一团飓风。在该区域的所有飞行生物下降40尺。整个区域对飞行生物而言是艰难地形，并且对于地面上和攀爬的生物为困难地形。在该区域中终止回合的飞行生物下降20尺。被该法术的暴风推到表面上的生物承受如同坠落的钝击伤害。在圆柱体垂直边界外的方格会阻止生物离开。这些方格是艰难地形，并且尝试穿过的生物必须通过一次运动（Athletics）或者特技（Acrobatics）检定，对抗你的法术DC，以通过飞行机动来穿过。失败的生物会在停在其当前位置，并且能再次尝试。</p>"
 		},
 		"Purify Food and Drink": {
-			"name": "Purify Food and Drink",
-			"description": "<p>You remove toxins and contaminations from food and drink, making them safe to consume. This spell doesn't prevent future contamination, natural decay, or spoilage. One cubic foot of liquid is roughly 8 gallons.</p>"
+			"name": "净化食粮 Purify Food and Drink",
+			"description": "<p>你从食物和饮水中移除毒物和污染，令它们能被安全食用。该法术不会避免后续的污染，自然腐败，或者变质。一立方尺的液体大约有8加仑。</p>"
 		},
 		"Purify Soul Path": {
 			"name": "Purify Soul Path",
 			"description": "<p>You delve inward, spending extensive time contemplating the purity of your own soul and the actions of your past. If you aren't truly penitent, the outcome is always a critical failure.</p>\n<hr />\n<p><strong>Critical Success</strong> You reconcile your misdeeds with your soul path, removing your <em>soulforged corruption</em>. The corruption flaw from your armament no longer affects you. Before your reconciliation is complete, you must perform a special quest or other task in accord with your soul path. If completed during downtime, this task should take no less than 1 week. For 1 month, you receive divine insight just before performing an act that would be anathema to your soul path.</p>\n<p><strong>Success</strong> As critical success, but you gain no special insight regarding its subsequent actions.</p>\n<p><strong>Failure</strong> You don't reconcile and must continue to meditate and redress your misdeeds. Any future purify soul path rituals for the same misdeeds cost half as much and gain a +4 circumstance bonus to the primary check.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> Increase the maximum target level by 2 and the base cost by 10 gp.</p>"
 		},
 		"Purple Worm Sting": {
-			"name": "Purple Worm Sting",
-			"description": "<p>You replicate the attack of a deadly purple worm. You deal 3d6 piercing damage to the touched creature and afflict it with purple worm venom. The target must attempt a Fortitude save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target takes 3d6 poison damage.</p>\n<p><strong>Failure</strong> The target is afflicted with purple worm venom at stage 1.</p>\n<p><strong>Critical Failure</strong> The target is afflicted with purple worm venom at stage 2.</p>\n<hr />\n<p><strong>Purple Worm Venom</strong> (poison)</p>\n<p><strong>Level</strong> 11</p>\n<p><strong>Maximum Duration</strong> 6 rounds.</p>\n<p><strong>Stage 1</strong> [[/r {3d6}[poison]]]{3d6 poison damage} and @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled 2} (1 round)</p>\n<p><strong>Stage 2</strong> [[/r {4d6}[poison]]]{4d6 poison damage} and @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled 2} (1 round)</p>\n<p><strong>Stage 3</strong> [[/r {6d6}[poison]]]{6d6 poison damage} and @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled 2} (1 round).</p>"
+			"name": "紫虫毒刺 Purple Worm Sting",
+			"description": "<p>你重现了紫虫致命的攻击。你对接触生物造成6d6穿刺伤害，并令其感染紫虫毒。目标必须尝试一次强韧豁免。</p>\n<hr />\n<p><strong>大成功</strong> 目标不受影响。</p>\n<p><strong>成功</strong> 目标承受3d6毒素伤害。</p>\n<p><strong>失败</strong> 目标被感染紫虫毒并到达阶段1。</p>\n<p><strong>大失败</strong> 目标被感染紫虫毒并到达阶段2。</p>\n<hr />\n<p><strong>紫虫毒 Purple Worm Venom</strong> (毒素)</p>\n<p><strong>等级</strong> 11</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> [[/r {3d6}[poison]]]{3d6 毒素伤害} 且 @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{力竭 Enfeebled 2} (1轮)</p>\n<p><strong>阶段 2</strong> [[/r {4d6}[poison]]]{4d6 毒素伤害} 且 @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{力竭 Enfeebled 2} (1轮)</p>\n<p><strong>阶段 3</strong> [[/r {6d6}[poison]]]{6d6 毒素伤害} and @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{力竭 Enfeebled 2} (1轮)</p>"
 		},
 		"Pushing Gust": {
 			"name": "Pushing Gust",
