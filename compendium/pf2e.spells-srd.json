@@ -6,12 +6,12 @@
 			"description": "<p>Harnessing the power of vile entities, you transform yourself into a Large aberration. You must have enough space to expand into or the spell is lost. When you cast this spell, choose chuul, gogiteth, gug, or otyugh. While in this form, you gain the aberration trait. You can Dismiss the spell.</p>\n<p>You gain the following statistics and abilities regardless of which battle form you choose:</p>\n<ul>\n<li>AC = 18 + your level. Ignore your armor's check penalty and Speed reduction.</li>\n<li>13 temporary Hit Points.</li>\n<li>Darkvision.</li>\n<li>One or more unarmed melee attacks specific to the battle form you choose, which are the only attacks you can use. You're trained with them. Your attack modifier is +18, and you use the listed damage. These attacks are Strength based (for the purpose of the enfeebled condition, for example). If your unarmed attack modifier is higher, you can use it instead.</li>\n<li>Athletics modifier of +20, unless your own modifier is higher.</li>\n</ul>\n<p>You also gain specific abilities based on the type of aberration you choose:</p>\n<ul>\n<li><strong>Chuul</strong> @Compendium[pf2e.spell-effects.xsy1yaCj0SVsn502]{Spell Effect: Aberrant Form (Chuul)}</li>\n<ul>\n<li>Speed 30 feet, swim 25 feet;</li>\n<li><strong>Melee</strong> <span class=\"pf2-icon\">1</span> claw (reach 10 feet), <strong>Damage</strong> 2d8+8 bludgeoning, and you can spend an action after a hit to Grab the target.</li>\n</ul>\n<li><strong>Gogiteth</strong> @Compendium[pf2e.spell-effects.gKGErrsS1WoAyWub]{Spell Effect: Aberrant Form (Gogiteth)}</li>\n<ul>\n<li>Speed 40 feet, climb 30 feet;</li>\n<li><strong>Melee</strong> <span class=\"pf2-icon\">1</span> jaws, <strong>Damage</strong> 2d10+8 piercing, and you can spend an action after a hit to Grab the target;</li>\n<li><strong>Melee</strong> <span class=\"pf2-icon\">1</span> leg (agile, reach 10 feet), <strong>Damage</strong> 2d6+8 piercing.</li>\n</ul>\n<li><strong>Gug</strong> @Compendium[pf2e.spell-effects.sfJyQKmoxSRo6FyP]{Spell Effect: Aberrant Form (Gug)}</li>\n<ul>\n<li>Speed 40 feet, climb 20 feet;</li>\n<li><strong>Melee</strong> <span class=\"pf2-icon\">1</span> claw (agile, reach 10 feet), <strong>Damage</strong> 2d8+8 slashing;</li>\n<li>your multiple joints allow you to fit through tight spaces as if you were a Medium creature.</li>\n</ul>\n<li><strong>Otyugh</strong> @Compendium[pf2e.spell-effects.SjfDoeymtnYKoGUD]{Spell Effect: Aberrant Form (Otyugh)}</li>\n<ul>\n<li>+2 circumstance bonus on saves against disease;</li>\n<li>Speed 20 feet;</li>\n<li><strong>Melee</strong> <span class=\"pf2-icon\">1</span> jaws, <strong>Damage</strong> 3d6+8 piercing;</li>\n<li><strong>Melee</strong> <span class=\"pf2-icon\">1</span> tentacle (agile, reach 10 feet), <strong>Damage</strong> 2d6+8 bludgeoning.</li>\n</ul>\n</ul>\n<hr />\n<p><strong>Heightened (6th)</strong> Your battle form is Huge, and the reach of your attacks increases by 5 feet. You must have space to expand, or the spell is lost. You instead gain AC = 21 + your level, 26 temporary HP, attack modifier +22, damage bonus +13, and Athletics +23.</p>"
 		},
 		"Aberrant Whispers": {
-			"name": "Aberrant Whispers",
-			"description": "<p>You utter phrases in an unknown tongue, assaulting the minds of those nearby. Each target must attempt a Will save. Regardless of the result of its save, each target is then temporarily immune for 1 minute.</p>\n<p>You can increase the number of actions it takes to Cast the Spell (to a maximum of 3 actions total). For each additional action, increase the emanation's radius by 5 feet, to a maximum of 10 extra feet for 3 actions.</p>\n<hr />\n<p><strong>Success</strong> The target is unaffected.</p>\n<p><strong>Failure</strong> The target is @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied 2}.</p>\n<p><strong>Critical Failure</strong> The target is @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confused}.</p>\n<hr />\n<p><strong>Heightened (+3)</strong> The initial radius increases by 5 feet.</p>"
+			"name": "怪异耳语 Aberrant Whispers",
+			"description": "<p>你吐出无人知晓的音节侵袭周边人们的心智。每个目标必须尝试一次意志豁免。无论豁免结果如何，每个目标都会暂时免疫1分钟。</p>\n<p>你可以在施放法术的时候增加动作的数量（最多总共3个动作）。每个额外的动作可以使弥漫半径增加5尺，最多以3个动作获得额外10尺半径。</p>\n<hr />\n<p><strong>成功</strong> 目标不受影响。</p>\n<p><strong>失败</strong> 目标 @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{呆滞 Stupefied 2}。</p>\n<p><strong>大失败</strong> 目标 @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{困惑 Confused}。</p>\n<hr />\n<p><strong>升阶 (+3)</strong> 初始弥漫半径增加5尺。</p>"
 		},
 		"Abundant Step": {
-			"name": "Abundant Step",
-			"description": "<p>You move so fast you blur across planar boundaries. You teleport up to a distance equal to your Speed within your line of sight.</p>"
+			"name": "遁术 Abundant Step",
+			"description": "<p>你的速度太快以至于越过了位面边界。你传送到有视觉线的一个地点，最大距离等于你的速度。</p>"
 		},
 		"Abyssal Pact": {
 			"name": "Abyssal Pact",
@@ -22,8 +22,8 @@
 			"description": "<p>你通过触碰令目标感染深渊瘟疫，这种疾病会抽取其灵魂的碎片，并送往深渊（Abyss）。法术效果基于目标的强韧豁免。</p>\n<hr />\n<p><strong>大成功</strong> 目标不受影响。</p>\n<p><strong>成功</strong> 目标承受每法术环级2邪恶伤害、并在对抗深渊瘟疫的豁免上获得-2状态减值，持续1天或直到目标被感染，以先满足为准。</p>\n<p><strong>失败</strong> 目标感染深渊瘟疫并到达阶段1。</p>\n<p><strong>大失败</strong> 目标感染深渊瘟疫并到达阶段2。</p>\n<hr />\n<p><strong>深渊瘟疫 Abyssal Plague</strong> (疾病 disease) <strong>9级</strong></p>\n<p>除非该疾病被治愈，否则深渊瘟疫造成的流失（drained）状态无法被恢复。</p>\n<p><strong>阶段1</strong> @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{流失 1} (1天)</p>\n<p><strong>阶段2</strong> 流失值增加2 (1天)。</p>"
 		},
 		"Abyssal Wrath": {
-			"name": "Abyssal Wrath",
-			"description": "<p>You evoke the energy of an Abyssal realm. The damage types of the spell (one energy and one physical) are based on the result of rolling on the table below.</p>\n<h2>Abyssal Wrath</h2>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>[[/r 1D4]]</th>\n<th>Realm</th>\n<th>Manifestation</th>\n<th>Damage and type</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Skies</td>\n<td>Bolts and lightning and flying debris</td>\n<td>Bludgeoning and electricity</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Depths</td>\n<td>Acid and demonic shells</td>\n<td>Acid and slashing</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Frozen</td>\n<td>Frigid air and ice</td>\n<td>Bludgeoning and cold</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Volcanic</td>\n<td>Jagged volcanic rocks and magma</td>\n<td>Fire and piercing</td>\n</tr>\n</tbody>\n</table>\n<p>You deal 4d6 damage of each of the corresponding damage types to each creature in the cone (8d6 total damage).</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage for each type increases by 1d6.</p>"
+			"name": "深渊之怒 Abyssal Wrath",
+			"description": "<p>你呼唤了来自某个深渊领域的力量。此法术的伤害类型（一种能量伤害以及一种物理伤害）按照下表随机获取。</p>\n<h2>深渊之怒 Abyssal Wrath</h2>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>[[/r 1D4]]</th>\n<th>领域</th>\n<th>表现</th>\n<th>伤害类型</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>天空</td>\n<td>旋转的闪电与飞扬的破片</td>\n<td>闪电和钝击</td>\n</tr>\n<tr>\n<td>2</td>\n<td>深坑</td>\n<td>酸液与恶魔的残骸</td>\n<td>酸和挥砍</td>\n</tr>\n<tr>\n<td>3</td>\n<td>冻土</td>\n<td>寒冷的空气与冰块</td>\n<td>寒冷和钝击</td>\n</tr>\n<tr>\n<td>4</td>\n<td>火山</td>\n<td>锐利的火山岩与岩浆</td>\n<td>火焰和穿刺</td>\n</tr>\n</tbody>\n</table>\n<p>你对每个处于锥形区域内的生物造成每种伤害类型4d6点伤害（总计8d6点伤害）</p>\n<hr />\n<p><strong>升阶 (+1)</strong> 每种类型的伤害增加1d6点。</p>"
 		},
 		"Access Lore": {
 			"name": "Access Lore",
@@ -118,8 +118,8 @@
 			"description": "<p>You take the form of your ancestral spirits, becoming @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisible} and quasi‑corporeal. You gain resistance 10 to all damage (except force and damage from Strikes with the ghost touch property rune), and this resistance is doubled against non‑magical and precision damage.</p>\n<p>You gain a fly Speed equal to your land Speed; when @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Flying}, moving upward isn't difficult terrain for you. You can't move through solid objects, but you can float through tiny gaps.</p>\n<p>You can't Cast Spells (but you can @Compendium[pf2e.actionspf2e.3f5DMFu8fPiqHpRg]{Sustain a Spell}), activate items, or use actions that have the attack or manipulate trait.</p>\n<hr />\n<p><strong>Heightened (+2)</strong> The resistance increases by 5.</p>\n<p>@Compendium[pf2e.spell-effects.l8HkOKfiUqd3BUwT]{Spell Effect: Ancestral Form}</p>"
 		},
 		"Ancestral Memories": {
-			"name": "Ancestral Memories",
-			"description": "<p>The memories of long-dead spellcasters grant you knowledge in a specific skill. Choose any non-Lore skill, or a Lore skill related to the ancient empire from which your bloodline sprang. You temporarily become trained in that skill and might gain other memories associated with an ancestor who was trained in that skill. If you attempt a task or activity that lasts beyond this spell's duration, use the lower proficiency modifier.</p>\n<hr />\n<p><strong>Heightened (6th)</strong> You temporarily become an expert in the skill you choose.</p>"
+			"name": "先祖记忆 Ancestral Memories",
+			"description": "<p>那些逝去已久的施法者的记忆赋予了你关于一项特定技能的知识。选择一项非学识技能，或是一项关联你血脉起源的远古帝国的学识技能。你临时对于该技能受训，并且可能得知某个于此技能上受训的先祖的其他方面的记忆。如果你尝试的任务或活动所花费的时间超过了此法术的持续时间，则需使用较低的熟练度调整值。</p>\n<hr />\n<p><strong>升阶 (6环级)</strong> 你在所选择的的技能上临时为专家。</p>"
 		},
 		"Ancestral Touch": {
 			"name": "Ancestral Touch",
@@ -130,16 +130,16 @@
 			"description": "<p>Invoking the celestial realms, you transform into a Medium angel battle form. When you cast this spell, choose balisse, choral, monadic deva, or movanic deva. The battle form is Small if you choose choral. While in this form, you gain the angel and celestial traits. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell.</p>\n<p>You gain the following statistics and abilities regardless of the form that you choose:</p>\n<ul>\n<li>AC = 22 + your level. Ignore your armor check's penalty and Speed reduction.</li>\n<li>40 temporary Hit Points and weakness 10 to evil damage.</li>\n<li>Darkvision.</li>\n<li>One or more attacks specific to the battle form you choose. You're trained with them. Your attack modifier is +25, and you use the listed damage. Melee attacks are Strength based (for the purpose of the enfeebled condition, for example), and ranged attacks are Dexterity based. If your attack modifier is higher for the given unarmed attack or weapon, you can use it instead.</li>\n<li>Athletics modifier of +25, unless your own modifier is higher.</li>\n</ul>\n<p>You also gain specific abilities based on the type of angel you choose:</p>\n<ul>\n<li><strong>Balisse</strong> Speed 30 feet, fly 40 feet; Perception modifier of +26 to detect lies and illusions unless your own modifier is higher;\n<ul>\n<li><strong>Melee</strong> <span class=\"pf2-icon\">1</span> scimitar (forceful, sweep), <strong>Damage</strong> 2d6+12 slashing plus 1d6 fire and 1d6 good.</li>\n</ul>\n</li>\n</ul>\n<p>@Compendium[pf2e.spell-effects.WEpgIGFwtRb3ef1x]{Spell Effect: Angel Form (Balisse)}</p>\n<ul>\n<li><strong>Choral</strong> Speed 30 feet, fly 40 feet; +1 status bonus to AC and saves against sonic and auditory;\n<ul>\n<li><strong>Melee</strong> <span class=\"pf2-icon\">1</span> fist (agile), <strong>Damage</strong> 2d6+12 bludgeoning plus 1d6 good;</li>\n<li><strong>Ranged</strong> <span class=\"pf2-icon\">1</span> piercing hymn (range 90 feet), <strong>Damage</strong> 1d6+12 sonic plus 1d6 good, and @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Deafened} for 1 round on a critical hit.</li>\n</ul>\n</li>\n</ul>\n<p>@Compendium[pf2e.spell-effects.sccNh8j1PKLHCKh1]{Spell Effect: Angel Form (Choral)}</p>\n<ul>\n<li><strong>Monadic Deva</strong> Speed 30 feet, fly 40 feet; +2 status bonus on saves against death effects and effects that manipulate souls;\n<ul>\n<li><strong>Melee</strong> <span class=\"pf2-icon\">1</span> holy mace (shove), <strong>Damage</strong> 2d6+12 bludgeoning plus 1d6 force and 1d6 good.</li>\n</ul>\n</li>\n</ul>\n<p>@Compendium[pf2e.spell-effects.3vWfew0TIrcGRjLZ]{Spell Effect: Angel Form (Monadic Deva)}</p>\n<ul>\n<li><strong>Movanic Deva</strong> Speed 30 feet, fly 40 feet; resistance 10 to negative;\n<ul>\n<li><strong>Melee</strong> <span class=\"pf2-icon\">1</span> bastard sword (two-hand d12), <strong>Damage</strong> 1d8+12 slashing plus 1d6 fire and 1d6 good.</li>\n</ul>\n</li>\n</ul>\n<p>@Compendium[pf2e.spell-effects.Bd86oAvK3RLN076H]{Spell Effect: Angel Form (Movanic Deva)}</p>\n<hr />\n<p><strong>Heightened (9th)</strong> Your battle form is Large. You must have space to expand, or the spell is lost. You instead gain 60 temporary Hit Points, weakness 15 to evil damage, attack modifier +30, damage bonus +20, and Athletics +33.</p>"
 		},
 		"Angelic Halo": {
-			"name": "Angelic Halo",
-			"description": "<p>You gain an angelic halo with an aura that increases allies' healing from the <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Heal}</em> spell. Allies in your halo's emanation who are healed by a heal spell gain a status bonus to Hit Points regained equal to double the heal spell's level.</p>"
+			"name": "天使之环 Angelic Halo",
+			"description": "<p>你获得一个能够增强盟友 <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{治疗术 Heal}</em> 治疗量的天使光环。治疗术（heal）法术对区域内你盟友的生命值的治疗量上获得+2状态加值。</p>"
 		},
 		"Angelic Messenger": {
 			"name": "Angelic Messenger",
 			"description": "<p>You transport yourself to either a celestial plane or a world on the Material Plane where worshippers of your patron can be found. You must be of no higher level than double <em>angelic messenger's</em> spell level</p>\n<hr />\n<p><strong>Critical Success</strong> As success, but if you've never visited that plane or world before, you appear right in front of the message's intended recipient.</p>\n<p><strong>Success</strong> You arrive on the target plane or world at the last location you visited on that plane or world, or to a random location within 10d10 miles of your message's intended recipient if you've never visited that plane or world before.</p>\n<p><strong>Failure</strong> You don't travel.</p>\n<p><strong>Critical Failure</strong> You accidentally travel to the wrong plane, possibly a dangerous plane.</p>"
 		},
 		"Angelic Wings": {
-			"name": "Angelic Wings",
-			"description": "<p>Wings of pure light spread out from your back, granting you a fly Speed equal to your Speed. Your wings cast bright light in a 30-foot radius. When this spell's duration would end, if you're still flying, you float to the ground, as <em>@Compendium[pf2e.spells-srd.TTwOKGqmZeKSyNMH]{Feather Fall}</em>.</p>\n<hr />\n<p><strong>Heightened (5th)</strong> The duration increases to 1 minute.</p>\n<p>@Compendium[pf2e.spell-effects.iZYjxY0qYvg5yPP3]{Spell Effect: Angelic Wings}</p>"
+			"name": "天使之翼 Angelic Wings",
+			"description": "<p>纯粹的光之翼在你背后展开，赋予你等同于你速度的飞行速度。你的光翼给30尺半径区域内带来强光照明。当法术持续时间结束时，如果你仍在飞行，则会如同 <em>@Compendium[pf2e.spells-srd.TTwOKGqmZeKSyNMH]{羽落术 Feather Fall}</em>那样飘落到地上。</p>\n<hr />\n<p><strong>升阶 (5环级)</strong> 持续时间增加至1分钟。</p>\n<p>@Compendium[pf2e.spell-effects.iZYjxY0qYvg5yPP3]{法术效果：天使之翼}</p>"
 		},
 		"Anima Invocation (Modified)": {
 			"name": "Anima Invocation (Modified)",
@@ -214,8 +214,8 @@
 			"description": "<p>A sphere of water 10 feet in diameter forms in an unoccupied space in range, either on the ground or on the surface of a liquid.</p>\n<p>When you @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Cast the Spell} and each time you @Compendium[pf2e.actionspf2e.3f5DMFu8fPiqHpRg]{Sustain the Spell}, you can roll the orb, moving it up to 10 feet along the ground or the surface of a liquid. Unlike most spells, you can gain this effect multiple times in the same round by Sustaining the Spell multiple times.</p>\n<p>The orb can move through the spaces of any creatures or obstacles that wouldn't stop the flow of water. It extinguishes non-magical fires it moves through of its size or smaller, and it attempts to counteract any magical fires it moves through. If it fails to counteract a given fire, it can't counteract that fire for the duration of the spell.</p>\n<p>The orb can also collect creatures it moves through. Any Large or smaller creature whose space the orb tries to move through can attempt a Reflex save against your spell DC to avoid being engulfed. If a creature succeeds at this save, it can either let the orb pass (remaining in its space or moving out of the orb's path into a space of the creature's choice) or allow itself to be pushed in front of the orb to the end of the orb's movement. The orb can try to Engulf the same creature only once per turn, even if you roll it onto a creature's space more than once.</p>\n<p>A creature that fails its save is pulled into the orb. It becomes @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Grabbed}, moves along with the orb, and must hold its breath or begin suffocating (unless it can breathe in water). An engulfed Medium or smaller creature and anyone trying to affect that creature follow the normal rules for aquatic battles. An engulfed Large creature is usually big enough that parts of it stick out from the water, and it can reach out of the water. An engulfed creature can get free either by @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Swimming} with a successful DC 10 Athletics check or by @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Escaping} against your spell DC. A creature that critically failed its Reflex save is further stuck and must attempt to Escape instead of Swim. A freed creature exits the orb's space and can immediately breathe. The orb can contain as many creatures as can fit in its space. When the spell ends, all creatures the orb has engulfed are automatically released.</p>"
 		},
 		"Arcane Countermeasure": {
-			"name": "Arcane Countermeasure",
-			"description": "<p><strong>Trigger</strong> A creature within range that you can see Casts a Spell.</p>\n<hr />\n<p>You undermine the target spell, making it easier to defend against. You reduce the spell's level by 1, and targets of the spell gain a +2 status bonus to any saving throws, skill checks, AC, or DC against it. You can't reduce the spell's level below its minimum.</p>\n<p>For example, a 5th-level cone of cold would remain 5th-level, but a 5th-level fireball would become 4th-level. Targets still gain all the other benefits, even if you don't reduce the spell's level.</p>\n<p>@Compendium[pf2e.spell-effects.14m4s0FeRSqRlHwL]{Spell Effect: Arcane Countermeasure}</p>"
+			"name": "奥术对策 Arcane Countermeasure",
+			"description": "<p><strong>触发</strong> 触发动作的生物所施放的法术</p>\n<hr />\n<p>你削弱了目标法术，使其更容易被抵御。你将该法术环级降低1级，并且该法术的目标在对抗该法术的豁免骰、技能检定、AC或DC上获得+2状态加值。</p>\n<p>你无法将该法术的环级降低到其最低环级之下。举例而言，一个5环的寒冰锥（cone of cold）依旧为5环，然而一个5环的火球术（fireball）将变为4环。即使你无法降低该法术的环级，其目标依旧能够获取其他增益。</p>\n<p>@Compendium[pf2e.spell-effects.14m4s0FeRSqRlHwL]{法术效果：奥术对策}</p>"
 		},
 		"Arcane Weaving": {
 			"name": "Arcane Weaving",
@@ -262,8 +262,8 @@
 			"description": "<p>You attempt to help a truly penitent creature atone for its misdeeds, typically actions contrary to your deity's alignment or anathema to your deity. If the creature isn't truly penitent, the outcome is always a critical failure. This ritual uses Nature if the target is a druid, and Religion in all other cases.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature receives absolution for its misdeeds, allowing it to regain standing with your deity. It returns to its previous alignment (if its alignment shifted) and regains any abilities it lost. Before the atonement is complete, the creature must perform a special quest or other task chosen by your deity, as befits its misdeeds. If completed during downtime, this task should take no less than 1 month. For 1 month, the target receives divine insight just before performing an act that would be anathema to your deity or contrary to your deity's alignment.</p>\n<p><strong>Success</strong> As critical success, but the creature gains no special insight regarding its subsequent actions.</p>\n<p><strong>Failure</strong> The creature does not receive absolution and must continue to meditate and redress its misdeeds. Any future atone rituals for the same misdeeds cost half as much and gain a +4 circumstance bonus to primary and secondary checks.</p>\n<p><strong>Critical Failure</strong> The creature offends your deity and is permanently cast out from the faith. The creature can't rejoin your religion without a more direct intervention.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> Increase the maximum target level by 2 and the base cost by 20 gp.</p>"
 		},
 		"Augment Summoning": {
-			"name": "Augment Summoning",
-			"description": "<p>You augment the abilities of a summoned creature. The target gains a +1 status bonus to all checks (this also applies to the creature's DCs, including its AC) for the duration of its summoning, up to 1 minute.</p>\n<p>@Compendium[pf2e.spell-effects.UtIOWubq7akdHMOh]{Spell Effect: Augment Summoning}</p>"
+			"name": "增强召唤 Augment Summoning",
+			"description": "<p>你增强了一个被召唤生物的能力。目标在所有检定中获得+1状态加值（这也会应用至该生物的所有DC，包括其AC上），这会在目标被召唤的时间内持续，但至多为1分钟。</p>\n<p>@Compendium[pf2e.spell-effects.UtIOWubq7akdHMOh]{法术效果：增强召唤}</p>"
 		},
 		"Augury": {
 			"name": "卜筮术 Augury",
@@ -510,8 +510,8 @@
 			"description": "<p>With a word and gesture, you cause streams of blood to erupt from the target's mouth, nostrils, ears, or other facial openings and come rushing into your mouth. You deal [[/r {8d4}[negative]]]{8d4 negative damage} to the target.</p>\n<p>If the target takes damage, its blood flows into your mouth. If you're a living creature and don't have negative healing, you're @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened 2}. If you're undead (or living but have negative healing), you can choose to either gain temporary Hit Points equal to half of the negative damage the target takes (after applying resistance and the like) and become @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Quickened} for 1 round, or forgo the temporary Hit Points and become quickened for 1 minute. You can use this extra action only to Step, Stride, or Strike. You lose any remaining temporary Hit Points after 1 minute.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by [[/r {2d4}[negative]]].</p>"
 		},
 		"Call of the Grave": {
-			"name": "Call of the Grave",
-			"description": "<p>You fire a ray of sickening energy. Make a spell attack roll.</p>\n<hr />\n<p><strong>Critical Success</strong> The target becomes @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened 2} and @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Slowed 1} as long as it's Sickened.</p>\n<p><strong>Success</strong> The target becomes @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened 1}.</p>\n<p><strong>Failure</strong> The target is unaffected.</p>"
+			"name": "墓地之音 Call of the Grave",
+			"description": "<p>你发射出使用让人不适的能量所汇聚的射线。进行1次法术攻击检定。</p>\n<hr />\n<p><strong>大成功</strong> 目标获得 @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{恶心 Sickened 2} 且且只要处于恶心状态便会获得 @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{缓慢 Slowed 1}。</p>\n<p><strong>成功</strong> 目标获得 @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{恶心 Sickened 1}。</p>\n<p><strong>失败</strong> 目标不受影响。</p>"
 		},
 		"Call to Arms": {
 			"name": "Call to Arms",
@@ -546,8 +546,8 @@
 			"description": "<p><strong>Trigger</strong> A creature on your plane speaks your private or true name</p>\n<p><strong>Requirements</strong> You know your own true name.</p>\n<hr />\n<p>You learn a private name (but not the true name) of the creature who spoke your name, as well as their precise location, unless they succeed at a Will save to negate the effect. You are aware any time the trigger conditions are met as long as you have the spell prepared or in your repertoire. There is no way to distinguish one trigger of this spell from another without actually casting the spell. This can become a nuisance if you are so famous that your name is regularly on others' lips.</p>"
 		},
 		"Celestial Brand": {
-			"name": "Celestial Brand",
-			"description": "<p>A blazing symbol appears on the target, cursing it to face divine justice. You and your allies receive a +1 status bonus to your attack rolls and skill checks against it.</p>\n<p>Anytime a good creature damages it, the good creature deals an additional [[/r {1d4}[good]]]{1d4 good damage}. The target is then temporarily immune for 1 minute.</p>\n<hr />\n<p><strong>Heightened (+2)</strong> The good damage increases by 1.</p>\n<p>@Compendium[pf2e.spell-effects.A61eVVVyUuaUl3tz]{Spell Effect: Celestial Brand}</p>"
+			"name": "天堂印记 Celestial Brand",
+			"description": "<p>以神圣的正义之名，一个炽热的徽记浮现在目标上。你和你的盟友在对抗它的攻击骰和技能检定上获得+1状态加值。</p>\n<p>当有一名善良生物对其造成了伤害时，善良生物还能造成额外1d4点善良伤害。然后目标暂时免疫1分钟。</p>\n<hr />\n<p><strong>升阶 (+2)</strong> 善良伤害增加1点。</p>\n<p>@Compendium[pf2e.spell-effects.A61eVVVyUuaUl3tz]{法术效果：天堂印记}</p>"
 		},
 		"Chain Lightning": {
 			"name": "闪电链 Chain Lightning",
@@ -578,8 +578,8 @@
 			"description": "<p>你将爱慕注入目标中，令其对你表现得更友善。目标尝试一次意志豁免。如果你或者你的盟友之前威胁它或者对它进行了敌对行为，它会获得+4环境加值。你可以解消该法术。如果你对目标使用任何敌对动作，法术终止。在该法术结束后，目标不一定会意识到自己被魅惑了，除非它和你的友好关系，或者你说服它去做的事情与其期望发生冲突。这也可能令你可以通过通常的方法说服目标继续作为你的朋友。</p>\n<hr />\n<p><strong>大成功</strong> 目标不受影响，并且意识到你尝试魅惑它。</p>\n<p><strong>成功</strong> 该目标不受影响，但是认为你的法术是某种无害的东西，而不是魅惑之触，除非它能识别该法术（通常通过辨识法术（Identifying Spells））。</p>\n<p><strong>失败</strong> 目标对你的态度变为 @Compendium[pf2e.conditionitems.v66R7FdOf11l94im]{友好 Friendly}。如果已经是友好，则变为 @Compendium[pf2e.conditionitems.v44P3WUcU1j0115l]{乐于帮助 Helpful}。它不能对你做出敌对行为。</p>\n<p><strong>大失败</strong> 目标变为乐于帮助（helpful）并且不能对你做出敌对行为。</p>"
 		},
 		"Charming Words": {
-			"name": "Charming Words",
-			"description": "<p>You whisper enchanting words to deflect your foe's ire. The target must attempt a Will save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target takes a -1 circumstance penalty to attack rolls and damage rolls against you.</p>\n<p><strong>Failure</strong> The target can't use hostile actions against you.</p>\n<p><strong>Critical Failure</strong> The target is @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Stunned 1} and can't use hostile actions against you.</p>"
+			"name": "魅惑真言 Charming Words",
+			"description": "<p>你用魅惑的低语将敌人的怒火导向别处。目标必须尝试1次意志豁免。</p>\n<hr />\n<p><strong>大成功</strong> 目标不受影响。</p>\n<p><strong>成功</strong> 目标对你作出的攻击检定和伤害检定承受-1环境减值。</p>\n<p><strong>失败</strong> 目标无法对你使用敌对行动（hostile actions）。</p>\n<p><strong>大失败</strong> 目标变为 @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{震慑 Stunned 1}，而且无法对你使用敌对行动（hostile actions）。</p>"
 		},
 		"Chill Touch": {
 			"name": "恐吓之触 Chill Touch",
@@ -1002,8 +1002,8 @@
 			"description": "<p>你创造一个发出微光的屏障，它会尝试反制进入和离开该区域的传送效果以及位面旅行效果，包括能使用异位面空间的物品（例如次元袋，bag of holding）。次元锁也会阻碍任何在该区域中召唤生物的尝试，但是不会阻止在召唤效果结束后该生物离开。</p>"
 		},
 		"Dimensional Steps": {
-			"name": "Dimensional Steps",
-			"description": "<p>You teleport to a location up to 20 feet away within your line of sight.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The distance you can teleport increases by 5 feet.</p>"
+			"name": "次元步 Dimensional Steps",
+			"description": "<p>你能传送到在你视线（line of sight）范围内至多20尺远的位置。</p>\n<hr />\n<p><strong>升阶 (+1)</strong> 你能传送的范围增加5尺。</p>"
 		},
 		"Dinosaur Form": {
 			"name": "恐龙形态 Dinosaur Form",
@@ -1098,8 +1098,8 @@
 			"description": "<p>你引导你的神祇的怒火，攻击对立阵营的敌人。选择一个你的神祇具有的阵营。（混乱，邪恶，善良，或者秩序）。如果你没有神祇，或者你的神祇是绝对中立，你无法施放该法术。该法术具有你选择的阵营的特征。你造成你所选阵营类型的4d10伤害；每个区域中的生物必须尝试一次强韧豁免。对应你所选阵营的生物不受影响。既不对应也不对立的生物将其豁免骰结果视为更好一级。</p>\n<hr />\n<p><strong>大成功</strong> 该生物不受影响。</p>\n<p><strong>成功</strong> 该生物承受一半伤害。</p>\n<p><strong>失败</strong> 该生物承受完整伤害，并且 @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{恶心 Sickened 1}。</p>\n<p><strong>大失败</strong> 该生物承受全部伤害，并且 @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{恶心 Sickened 2}; 当其恶心时，也会 @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{缓慢 Slowed 1}。</p>\n<hr />\n<p><strong>升阶 (+1)</strong> 该伤害增加1d10。</p>"
 		},
 		"Diviner's Sight": {
-			"name": "Diviner's Sight",
-			"description": "<p>You glimpse into the target's future. Roll a d20; when the target attempts a non-secret saving throw or skill check, it can use the number you rolled instead of rolling, and the spell ends. Alternatively, you can instead reveal the result of the die roll for one of the target's secret checks during the duration, and the spell ends. Casting it again ends any active diviner's sight you have cast, as well as any active diviner's sight on the target.</p>"
+			"name": "预言师洞见 Diviner's Sight",
+			"description": "<p>你能窥视到目标的未来。投掷1次d20；当目标尝试1次非秘密（non-secret）豁免检定或技能检定时，它能够使用你投掷出的数字来取代自己掷骰子，之后法术结束。或者你也可以选择揭示出法术持续时间内目标作出的1个秘密检定（secret checks）的掷骰结果作为替代，之后法术结束。再次施放该法术会结束之前任何由你所施放的预言师洞见法术，这么做也会终止在目标身上已经生效的预言师洞见法术。</p>"
 		},
 		"Divinity Leech": {
 			"name": "Divinity Leech",
@@ -1206,8 +1206,8 @@
 			"description": "<p>In some places, it always feels like something is observing you, as if the very land doesn't want you there. Hostile creatures skitter about in the underbrush. Tendrils of mist try to lead you stray. Even the scent of the place is unwelcoming. Sometimes, this eerie atmosphere is a natural occurrence. Other times, it's the result of the dread ambience ritual.</p>\n<p>To create this unwelcoming, intimidating aura, you must prepare the area with salts and herbs, traveling the entire edge of the area throughout the casting.</p>\n<p>After you complete your ritual, anyone who enters the area receives a status penalty to saving throws against fear effects within the dread ambience.</p>\n<hr />\n<p><strong>Critical Success</strong> The sense of dread is particularly powerful. Every creature in an area takes a -2 status penalty to saving throws against fear effects. @Compendium[pf2e.spell-effects.FT5Tt2DKBRutDqbV]{Spell Effect: Dread Ambience (Critical Success)}</p>\n<p><strong>Success</strong> The dread ambience succeeds. Every creature in the area takes a -1 status penalty to saving throws against fear effects. @Compendium[pf2e.spell-effects.1gTnFmfLUQnCo3TK]{Spell Effect: Dread Ambience (Success)}</p>\n<p><strong>Failure</strong> The dread ambience fails.</p>\n<p><strong>Critical Failure</strong> The dread ambience fails, and the casters take a -1 status penalty to all Will saves for the next week. @Compendium[pf2e.spell-effects.4Lt69zSeYElEfDrZ]{Spell Effect: Dread Ambience (Critical Failure)}</p>\n<hr />\n<p><strong>Heightened (7th)</strong> The dread ambience costs 750 gp and remains in place for 10 years.</p>\n<p><strong>Heightened (9th)</strong> The dread ambience costs 5,000 gp and remains in place for an unlimited duration.</p>"
 		},
 		"Dread Aura": {
-			"name": "Dread Aura",
-			"description": "<p>You emit an aura of terror. Foes in the area are @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 1} and unable to reduce the condition.</p>"
+			"name": "恐惧灵光 Dread Aura",
+			"description": "<p>你散发出恐怖的气场。区域内的敌人获得 @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{惊惧 Frightened 1} 且无法降低该状态（unable to reduce the condition）。</p>"
 		},
 		"Dread Secret": {
 			"name": "Dread Secret",
@@ -1338,8 +1338,8 @@
 			"description": "<p>You place a tiny elemental wisp within a single object, usually a mirror, statue, or other mundane-looking item, to serve as an alarm. Shattering or otherwise destroying the object frees the wisp and ends the ritual's effect even if the object is magically restored.</p>\n<hr />\n<p><strong>Critical Success</strong> The elemental wisps inhabits the object and willingly serves you to the best of its ability. The wisp becomes aware of the target object's surroundings and can telepathically contact you with a range of 500 feet. It reports to you about intruders or other changes to the room in which it's located. You must tell the wisp what the criteria for the reports will be-for instance, when anyone not openly wearing a certain symbol enters the room or when an item is removed. The wisp has a +5 Perception modifier and observes the room using normal vision, normal hearing, and touch.</p>\n<p><strong>Success</strong> As critical success, but the range of the telepathy is 100 feet and the wisp's Perception modifier is +3.</p>\n<p><strong>Failure</strong> You're unable to harness the spirit. The ritual fails.</p>\n<p><strong>Critical Failure</strong> The elemental wisp is trapped in the object as with a success, but it refuses or is somehow unable to help you. The elemental might have extremely low Intelligence or simply be spiteful. Regardless, the object's reports are always misleading.</p>\n<hr />\n<p><strong>Heightened (4th)</strong> The range of the telepathic link increases, allowing the wisp to contact you anywhere on the same planet. Its Perception modifier increases to +10, or +12 on a critical success.</p>\n<p><strong>Heightened (6th)</strong> As 4th level, except the wisp can see invisibility, and its Perception modifier increases to +15, or +17 on a critical success.</p>"
 		},
 		"Elemental Tempest": {
-			"name": "Elemental Tempest",
-			"description": "<p>Your spellcasting surrounds you in a storm of elemental energy.</p>\n<p>If the next action you take is to Cast a Spell from your wizard spell slots that's an evocation spell dealing acid, cold, electricity, or fire damage, a 10-foot emanation of energy surrounds you as you cast the spell.</p>\n<p>Foes in the area take 1d6 damage per spell level of the spell you just cast of the same damage type the spell deals (choose one if it deals multiple types). Combine the damage from both elemental tempest and the other spell against foes who take damage from both before applying bonuses, penalties, resistance, weakness, and the like.</p>"
+			"name": "元素扰动 Elemental Tempest",
+			"description": "<p>你施法所产生的元素能量会汇聚为风暴环绕着你。</p>\n<p>如果你的下一个动作是使用你的法师法术位来施放一个塑能法术，且该法术会造成强酸（acid）、寒冷（cold）、电击（electricity）或火焰（fire）伤害的话，随着你施放塑能法术，你周围10尺弥散区域会被能量所环绕。区域内的敌人会承受每个塑能法术环级1d6点伤害，伤害类型与塑能法术相同（若塑能法术有多种伤害，则从中选择其一）。当敌人同时受到元素扰动和塑能法术的伤害时，首先将元素扰动和塑能法术的伤害合并，再应用加值（bonuses）、减值（penalties）、抗力（resistance）、弱点（weakness）以及类似的调整。</p>"
 		},
 		"Elemental Toss": {
 			"name": "Elemental Toss",
@@ -1358,8 +1358,8 @@
 			"description": "<p>You draw upon surrounding magical energy to empower a ley line, enhancing both its positive and negative effects.</p>\n<p>The duration of an empowered ley line's benefits increases: when you successfully @Compendium[pf2e.actionspf2e.gxtq81VAhpmNvEgA]{Tap Ley Line} that's empowered, you gain its benefits until the end of your next turn on a success (1 minute on a critical success).</p>\n<p>You take double the damage if you fail to Tap a Ley Line that's empowered and double the damage from the ley line's backlash effects (if any). If a backlash effect has a duration, that duration increases: a backlash effect that would ordinarily last until the end of your next turn now lasts for 1 minute, effects that last for 1 minute now last for 10 minutes, effects that last for 10 minutes now last for 1 hour, and effects that last for 1 hour now last for 1 day.</p>\n<hr />\n<p><strong>Critical Success</strong> You empower the ley line until the next turning of the season.</p>\n<p><strong>Success</strong> You empower the ley line for 1 week.</p>\n<p><strong>Failure</strong> You fail to empower the ley line.</p>\n<p><strong>Critical Failure</strong> All casters take damage and suffer the ley line's backlash as if they had critically failed to Tap the Ley Line. This damage and backlash is enhanced as if the ley line were successfully empowered, leading to increased damage and longer backlash effects.</p>"
 		},
 		"Empty Body": {
-			"name": "Empty Body",
-			"description": "<p>You turn ethereal, with the effects of <em>@Compendium[pf2e.spells-srd.D2nPKbIS67m9199U]{Ethereal Jaunt}</em>, but you don't need to concentrate.</p>"
+			"name": "空灵体 Empty Body",
+			"description": "<p>你化身为以太，获得 <em>@Compendium[pf2e.spells-srd.D2nPKbIS67m9199U]{幻化灵体 Ethereal Jaunt}</em>法术的效果，但你不需要专注。</p>"
 		},
 		"Empty Inside": {
 			"name": "Empty Inside",
@@ -1378,8 +1378,8 @@
 			"description": "<p><strong>触发</strong> 一次攻击或者效果将要对你造成伤害。</p>\n<hr />\n<p>你融合自身的能力和神术力量，以保护自己。对于该触发攻击或者效果，你获得等于8加上你的力量调整值的对所有伤害的抗力。</p>\n<p>@Compendium[pf2e.spell-effects.ZHVtJKnur9PAF5TO]{法术效果：忍耐之力}</p>\n<hr />\n<p><strong>升阶 (+1)</strong> 该抗力增加2。</p>"
 		},
 		"Energy Absorption": {
-			"name": "Energy Absorption",
-			"description": "<p><strong>Trigger</strong> An effect would deal acid, cold, electricity, or fire damage to you</p>\n<hr />\n<p>You gain resistance 15 to acid, cold, electricity, or fire damage from the triggering effect (one type of your choice). The resistance applies only to the triggering effect's initial damage.</p>\n<p>@Compendium[pf2e.spell-effects.cNZRAPd2kVrM3Iuo]{Spell Effect: Energy Absorption (Acid)}<br />@Compendium[pf2e.spell-effects.WquoEAIT621zDLpY]{Spell Effect: Energy Absorption (Cold)}<br />@Compendium[pf2e.spell-effects.0IxfOSTMen1GKQUW]{Spell Effect: Energy Absorption (Electricity)}<br />@Compendium[pf2e.spell-effects.db9lXpF4OsPz9cXL]{Spell Effect: Energy Absorption (Fire)}</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The resistance increases by 5.</p>"
+			"name": "能量吸收 Energy Absorption",
+			"description": "<p><strong>触发</strong> 一个将会对你造成强酸（acid）、寒冷（cold）、电击（electricity）或火焰（fire）伤害的效果</p>\n<hr />\n<p>你对触发效果造成的强酸（acid）、寒冷（cold）、电击（electricity）或火焰（fire）伤害（你要从中选择1种类型）获得15点抗力（resistance）。此抗力仅对触发效果（triggering effect）的初始伤害（initial damage）生效。</p>\n<p>@Compendium[pf2e.spell-effects.cNZRAPd2kVrM3Iuo]{法术效果：能量吸收 (强酸)}<br />@Compendium[pf2e.spell-effects.WquoEAIT621zDLpY]{法术效果：能量吸收 (寒冷)}<br />@Compendium[pf2e.spell-effects.0IxfOSTMen1GKQUW]{法术效果：能量吸收 (电击)}<br />@Compendium[pf2e.spell-effects.db9lXpF4OsPz9cXL]{法术效果：能量吸收 (火焰)}</p>\n<hr />\n<p><strong>升阶 (+1)</strong> 抗力增加5点。</p>"
 		},
 		"Energy Aegis": {
 			"name": "辟能圣盾 Energy Aegis",
@@ -1662,8 +1662,8 @@
 			"description": "<p>你保护一个盟友，以抵御目标敌人的攻击和敌对法术。目标盟友在对抗目标敌人的攻击，法术和其他效果上对护甲等级获得+1状态加值。</p>\n<p>@Compendium[pf2e.spell-effects.ctMxYPGEpstvhW9C]{法术效果：严厉护卫}</p>\n<hr />\n<p><strong>升阶 (6环级)</strong> 该状态加值增加到+2。</p>"
 		},
 		"Force Bolt": {
-			"name": "Force Bolt",
-			"description": "<p>You fire an unerring dart of force from your fingertips. It automatically hits and deals 1d4+1 force damage to the target.</p>\n<hr />\n<p><strong>Heightened (+2)</strong> The damage increases by 1d4+1.</p>"
+			"name": "力场矢 Force Bolt",
+			"description": "<p>你从指尖射出绝对命中的力场飞镖。它会自动命中并对目标造成1d4 + 1点力场伤害（force damage）。</p>\n<hr />\n<p><strong>升阶 (+2)</strong> 伤害增加1d4 + 1点</p>"
 		},
 		"Force Cage": {
 			"name": "Force Cage",
@@ -1894,8 +1894,8 @@
 			"description": "<p>你创造一个幻觉，令自然地形看起来，听起来，感觉起来，闻起来都是另一种地形。这无法掩盖任何区域中的建筑或者生物。任何接触幻觉或者使用搜索（Seek）动作来检查它的生物可以尝试不相信你的幻觉。</p>\n<hr />\n<p><strong>升阶 (5环级)</strong> 你的幻想也会掩盖建筑或者创造幻象建筑（但仍然无法掩盖生物）。</p>"
 		},
 		"Hand of the Apprentice": {
-			"name": "Hand of the Apprentice",
-			"description": "<p>You hurl a held melee weapon with which you are trained at the target, making a spell attack roll. On a success, you deal the weapon's damage as if you had hit with a melee Strike, but adding your spellcasting ability modifier to damage, rather than your Strength modifier. On a critical success, you deal double damage, and you add the weapon's critical specialization effect. Regardless of the outcome, the weapon flies back to you and returns to your hand.</p>"
+			"name": "学徒之手 Hand of the Apprentice",
+			"description": "<p>你将一把自己持握且已受训的近战武器对目标投掷出去，进行1次法术攻击检定。成功时，你造成武器的伤害，就如同你用近战攻击命中敌人一般，不过伤害附加的是你的施法属性调整值，而非你的力量调整值。大成功时，你造成双倍伤害，并附加武器的重击专精效果（critical specialization effect）。无论结果如何，武器都会飞回身边，返回到你的手上。</p>"
 		},
 		"Harm": {
 			"name": "伤害术 Harm",
@@ -2178,8 +2178,8 @@
 			"description": "<p>目标被幻术包复，变得 @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{隐形 Invisible}. 这令该生物对所有生物 @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{无踪Undetected} ，但生物可以尝试寻找目标，令其改为 @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{藏匿 Hidden}。如果目标使用敌对动作，法术在敌对动作完成后结束。</p>\n<hr />\n<p><strong>升阶 (4环级)</strong> 该法术持续1分钟，但目标使用敌对动作时该法术不会结束。</p>"
 		},
 		"Invisibility Cloak": {
-			"name": "Invisibility Cloak",
-			"description": "<p>You become @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisible}, with the same restrictions as the 2nd-level <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{Invisibility}</em> spell.</p>\n<hr />\n<p><strong>Heightened (6th)</strong> The duration increases to 10 minutes.</p>\n<p><strong>Heightened (8th)</strong> The duration increases to 1 hour.</p>"
+			"name": "隐形斗篷 Invisibility Cloak",
+			"description": "<p>你变得 @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{隐形 Invisible}，与2环的 <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{隐形术 Invisibility}</em> 法术具有相同的限制。</p>\n<hr />\n<p><strong>升阶 (6环级)</strong> 持续时间增加至10分钟。</p>\n<p><strong>升阶 (8环级)</strong> 持续时间增加至1小时。</p>"
 		},
 		"Invisibility Curtain": {
 			"name": "Invisibility Curtain",
@@ -2230,20 +2230,20 @@
 			"description": "<p>You transform your companion into its juvenile form, such as a cub, foal, kitten, puppy, or piglet, making the target appear harmless. It becomes Tiny (if it was larger), and its reach is reduced to 0 feet. All of its Speeds are halved (to a minimum Speed of 5 feet), and it gains weakness 5 to physical damage. In all other ways, its abilities and statistics are unchanged.</p>\n<p>If your companion uses a hostile action, <em>juvenile companion</em> ends. This spell has no effect on a companion that doesn't have a juvenile form.</p>\n<p>@Compendium[pf2e.spell-effects.0bfqYkNaWsdTmtrc]{Spell Effect: Juvenile Companion}</p>\n<hr />\n<p><strong>Heightened (2nd)</strong> The duration increases to 1 hour.</p>"
 		},
 		"Ki Blast": {
-			"name": "Ki Blast",
-			"description": "<p>You unleash your ki as a powerful blast of force that deals 2d6 force damage.</p>\n<p>If you use 2 actions to cast ki blast, increase the size of the cone to 30 feet and the damage to [[/r {3d6}[force]]].</p>\n<p>If you use 3 actions to cast ki blast, increase the size of the cone to 60 feet and the damage to [[/r {4d6}[force]]].</p>\n<p>Each creature in the area must attempt a Fortitude saving throw.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes half damage.</p>\n<p><strong>Failure</strong> The creature takes full damage and is pushed 5 feet.</p>\n<p><strong>Critical Failure</strong> The creature takes double damage and is pushed 10 feet.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 1d6, or by [[/r 2d6]] if you use 2 or 3 actions.</p>"
+			"name": "真气波 Ki Blast",
+			"description": "<p>你释放出的气形成强大的力场冲击，造成2d6点力场伤害。</p>\n<p>若你用2个动作使用真气波，范围增加为30尺锥形，伤害增加为 [[/r {3d6}[force]]].</p>\n<p>若你用3个动作使用真气波，范围增加为60尺锥形伤害增加为 [[/r {4d6}[force]]].</p>\n<p>每个范围内的生物必须进行一次强韧豁免：</p>\n<hr />\n<p><strong>大成功</strong> 生物不受影响。</p>\n<p><strong>成功</strong> 生物受到的伤害减半。</p>\n<p><strong>失败</strong> 生物受全额伤害且被推离5尺。</p>\n<p><strong>大失败</strong> 生物受到双倍伤害且被推离10尺。</p>\n<hr />\n<p><strong>升阶 (+1)</strong> 伤害增加1d6，若为2或3动作版本则增加 [[/r 2d6]] </p>"
 		},
 		"Ki Form": {
 			"name": "Ki Form",
 			"description": "<p>Drawing from deep wells of spiritual power, you take on a special ki form. In your ki form, your hair, feathers, skin, or scales change color and begin to glow.</p>\n<p>In this form you gain a Fly Speed equal to your land Speed.</p>\n<p>Choose force, lawful (only if you are lawful), negative, or positive damage. All your Strikes deal [[/r 1d6]] additional damage of the chosen type.</p>\n<p>Your entire body is also surrounded by a glowing corona of the same color as your inner ki; this is a light effect. Your corona is a 5-foot emanation that deals [[/r 2d6]] damage of the chosen type to creatures who start their turn within the emanation. If the emanation overlaps with a darkness effect, the corona's glow attempts to counteract the darkness effect. Regardless of the outcome, the corona can't attempt to counteract that effect again for 1 day. As a single action, which has the concentrate trait, you can flare your corona out to become a 30-foot emanation.</p>\n<p>In your ki form, your emotions surge to the forefront and it's difficult to moderate your attacks. Your weapons and unarmed attacks lose the nonlethal trait. You take a -2 status penalty to saves against emotion effects but gain a +2 status bonus to saves against all other mental effects.</p>\n<p>@Compendium[pf2e.spell-effects.F0XnusshRzgMdFT1]{Spell Effect: Ki Form (Force)}</p>\n<p>@Compendium[pf2e.spell-effects.1p5LEpMSRFG1099t]{Spell Effect: Ki Form (Lawful)}</p>\n<p>@Compendium[pf2e.spell-effects.h28nZ8JB5JBwr87U]{Spell Effect: Ki Form (Negative)}</p>\n<p>@Compendium[pf2e.spell-effects.bbOdbGiRXGEQ2aY0]{Spell Effect: Ki Form (Positive)}</p>"
 		},
 		"Ki Rush": {
-			"name": "Ki Rush",
-			"description": "<p>Accelerated by your ki, you move with such speed you become a blur. Move two times: two Strides, two Steps, or one Stride and one Step (in either order).</p>\n<p>You gain the @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} condition during this movement and until the start of your next turn.</p>"
+			"name": "爆气冲刺 Ki Rush",
+			"description": "<p>运气加速，健步如飞的你身影甚是模糊。进行2次移动：2次行走，2次快步，或1次行走1次快步（顺序自定）。</p>\n<p>你在该移动中和直到你下一回合开始，都会获得 @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{隐蔽 Concealed} 状态。</p>"
 		},
 		"Ki Strike": {
-			"name": "Ki Strike",
-			"description": "<p>You focus your ki into magical attacks. Make an unarmed Strike or Flurry of Blows (this doesn't change the limit on using only one flourish per turn).</p>\n<p>You gain a +1 status bonus to your attack rolls with the Strikes, and the Strikes deal 1d6 extra damage. This damage can be any of the following types of your choice, chosen each time you Strike: force, lawful (only if you're lawful), negative, or positive.</p>\n<hr />\n<p><strong>Heightened (+4)</strong> The extra damage increases by 1d6.</p>\n<p>@Compendium[pf2e.spell-effects.vLdt7vdUPv3Jdkgq]{Spell Effect: Ki Strike (Force)}</p>\n<p>@Compendium[pf2e.spell-effects.X2BGmuKdGVj4YYyp]{Spell Effect: Ki Strike (Lawful)}</p>\n<p>@Compendium[pf2e.spell-effects.ubT5UGReu1PoeCL0]{Spell Effect: Ki Strike (Negative)}</p>\n<p>@Compendium[pf2e.spell-effects.BQAb290GJQHiXtSW]{Spell Effect: Ki Strike (Positive)}</p>"
+			"name": "斗气击 Ki Strike",
+			"description": "<p>运气集中化为魔力攻击。进行一次无武装打击或疾风连击（这不会改变绝招每回合只能使用1次的限制）。</p>\n<p>打击的攻击骰获得+1状态加值，且打击造成1d6点额外伤害。该伤害可从下列类型中选择其一作为伤害类型，在每次进行打击时选择：力场、秩序（只有当你守序时）、负能量或正能量。</p>\n<hr />\n<p><strong>升阶 (+4)</strong> T额外伤害增加1d6。</p>\n<p>@Compendium[pf2e.spell-effects.vLdt7vdUPv3Jdkgq]{法术效果：斗气击 (力场)}</p>\n<p>@Compendium[pf2e.spell-effects.X2BGmuKdGVj4YYyp]{法术效果：斗气击 (秩序)}</p>\n<p>@Compendium[pf2e.spell-effects.ubT5UGReu1PoeCL0]{法术效果：斗气击 (负能量)}</p>\n<p>@Compendium[pf2e.spell-effects.BQAb290GJQHiXtSW]{法术效果：斗气击 (正能量)}</p>"
 		},
 		"Knock": {
 			"name": "敲击术 Knock",
@@ -2298,8 +2298,8 @@
 			"description": "<p>You forge a connection of life energy between you and your target, distributing harm between both of you. When you first Cast the Spell, the target recovers [[/r {1d4}[healing]]]{1d4 Hit Points}.</p>\n<p>The first time each round that the target takes damage, reduce the damage it takes by 3 (to a minimum of 0 damage). You lose 3 Hit Points each time, or the total damage dealt, if less than 3; this damage ignores any immunities or resistances you have and can't otherwise be mitigated in any way.</p>\n<p>The spell ends immediately if you fall @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Unconscious}. You can @Compendium[pf2e.actionspf2e.AjLSHZSWQ90exdLo]{Dismiss} the spell.</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> You can target 2 creatures other than you. Increase the initial healing to [[/r {3d4}[healing]]]{3d4 Hit Points} and the maximum damage reduced and Hit Points lost to 5.</p>\n<p><strong>Heightened (6th)</strong> You can target 3 creatures other than you. Increase the initial healing to [[/r {6d4}[healing]]]{6d4 Hit Points} and the maximum damage reduced and Hit Points lost to 10.</p>\n<p><strong>Heightened (9th)</strong> You can target 4 creatures other than you. Increase the initial healing to [[/r {9d4}[healing]]]{9d4 Hit Points} and the maximum damage reduced and Hit Points lost to 15.</p>"
 		},
 		"Life Siphon": {
-			"name": "Life Siphon",
-			"description": "<p><strong>Trigger</strong> You expend one of your wizard spell slots to cast a wizard spell of the necromancy school.</p>\n<hr />\n<p>You use some of the spell's magic to heal yourself, regaining 1d8 Hit Points per level of the spell.</p>"
+			"name": "生命虹吸 Life Siphon",
+			"description": "<p><strong>触发</strong> 你消耗1个自己的法师法术位来施放死灵学派的法师法术</p>\n<hr />\n<p>你用法术中的魔力来治愈自身，死灵法术的每个环级会为你恢复1d8点生命值。</p>"
 		},
 		"Life-Giving Form": {
 			"name": "Life-Giving Form",
@@ -2894,8 +2894,8 @@
 			"description": "<p><strong>Trigger</strong> Your familiar would take damage.</p>\n<hr />\n<p><strong>Effect</strong> You draw upon your patron's power to momentarily shift your familiar from its solid, physical form into an ephemeral version of itself shaped of mist. Your familiar gains resistance 5 to all damage and is immune to precision damage. These apply only against the triggering damage.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> Increase the resistance by 2.</p>"
 		},
 		"Physical Boost": {
-			"name": "Physical Boost",
-			"description": "<p>You temporarily improve the target's physique. The target gains a +2 status bonus to the next Acrobatics check, Athletics check, Fortitude save, or Reflex save it attempts.</p>\n<p>@Compendium[pf2e.spell-effects.XT3AyRfx4xeXfAjP]{Spell Effect: Physical Boost}</p>"
+			"name": "身体增幅 Physical Boost",
+			"description": "<p>你暂时强化了目标的体能。目标尝试的下个特技检定、运动检定、强韧豁免或反射豁免获得+2状态加值。</p>\n<p>@Compendium[pf2e.spell-effects.XT3AyRfx4xeXfAjP]{法术效果：身体增幅}</p>"
 		},
 		"Pied Piping": {
 			"name": "Pied Piping",
@@ -3046,8 +3046,8 @@
 			"description": "<p>你保护一个生物免于一个特定阵营的攻击。在你施放该法术时，选择混乱、邪恶、善良或者秩序。目标在对抗所选阵营的生物和效果时，在护甲等级和豁免骰上获得+1状态加值。该加值在对抗会来自此类生物的直接控制目标的效果，以及对抗由选择阵营的召唤生物的攻击时，增加到+3。</p>\n<p>该法术获得你选择阵营的对立阵营特征——如果你选择混乱，该法术获得秩序特征，反之亦然；如果你选择邪恶，该法术获得善良特征，反之亦然。</p>\n<p>@Compendium[pf2e.spell-effects.lpqkZkslFMirsItL]{法术效果：防护术（混乱）}</p>\n<p>@Compendium[pf2e.spell-effects.nEqBnsrvJZzh8Bil]{法术效果：防护术（邪恶）}</p>\n<p>@Compendium[pf2e.spell-effects.qVngSDWvHcnht0fP]{法术效果：防护术（善良）}</p>\n<p>@Compendium[pf2e.spell-effects.B6zSwNFJV3TMafHf]{法术效果：防护术（守序）}</p>"
 		},
 		"Protective Ward": {
-			"name": "Protective Ward",
-			"description": "<p>You emanate a shimmering aura of protective magic. You and any allies in the area gain a +1 status bonus to AC. Each time you @Compendium[pf2e.actionspf2e.3f5DMFu8fPiqHpRg]{Sustain the Spell}, the emanation's radius increases by 5 feet, to a maximum of 30 feet.</p>\n<p>@Compendium[pf2e.spell-effects.dWbg2gACxMkSnZag]{Spell Effect: Protective Ward}</p>"
+			"name": "防护结界 Protective Ward",
+			"description": "<p>你散发出保护魔法的闪耀灵光。你和区域内的任意盟友在AC上获得+1状态加值。每当你 @Compendium[pf2e.actionspf2e.3f5DMFu8fPiqHpRg]{维持该法术 Sustain the Spell}时，弥散区域的半径增加5尺，至多达到半径30尺。</p>\n<p>@Compendium[pf2e.spell-effects.dWbg2gACxMkSnZag]{法术效果：防护结界}</p>"
 		},
 		"Protector Tree": {
 			"name": "Protector Tree",
@@ -3122,8 +3122,8 @@
 			"description": "<p>You magically sort a group of objects into neat stacks or piles. You can sort the objects in two different ways. The first option is to separate them into different piles depending on an easily observed factor, such as color or shape. Alternatively, you can sort the objects into ordered stacks depending on a clearly indicated notation, such as a page number, title, or date. The objects sort themselves throughout the duration, though it takes less time per object to sort a smaller number of objects, down to a single round for 30 or fewer objects.</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> The spell can sort up to 400 objects in a minute, or 60 objects in a round.</p>\n<p><strong>Heightened (5th)</strong> The spell can sort up to 800 objects in a minute, or 120 objects in a round.</p>"
 		},
 		"Quivering Palm": {
-			"name": "Quivering Palm",
-			"description": "<p>Make a melee unarmed Strike. If you hit and the target is alive, anytime during the duration, you can spend a single action, which has the auditory and concentrate traits, to speak a word of death that could instantly slay it. The target must attempt a Fortitude save.</p>\n<p>If you cast quivering palm again, the effects of any quivering palm you had previously cast end.</p>\n<hr />\n<p><strong>Critical Success</strong> The target survives, the spell ends, and the target is then temporarily immune for 24 hours.</p>\n<p><strong>Success</strong> The target is @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Stunned 1} and takes 40 damage, the spell ends, and the target is then temporarily immune for 24 hours.</p>\n<p><strong>Failure</strong> The target is @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Stunned 3} and takes 80 damage. The spell's duration continues, but the target is then temporarily immune for 24 hours against being killed by quivering palm.</p>\n<p><strong>Critical Failure</strong> The target dies.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 10 on a failure, or 5 on a success.</p>"
+			"name": "渗透劲 Quivering Palm",
+			"description": "<p>进行一次近战无武装打击。若命中且目标存活，持续时间内任何时候，你都能用1个具有声音和专注特征的动作，说出死亡之词来尝试杀死它。目标必须进行一次强韧豁免尝试。</p>\n<p>若你再次使用渗透劲，你之前使用的渗透劲效果终止。</p>\n<hr />\n<p><strong>大成功</strong> 目标存活，法术终止，目标获得24小时的临时免疫。</p>\n<p><strong>成功</strong> 目标获得 @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{震慑 Stunned 1}，受到40点伤害，法术终止，目标获得24小时的临时免疫。</p>\n<p><strong>失败</strong> 目标获得 @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{震慑 Stunned 3}，受到80点伤害。法术继续，但目标对被渗透劲杀死获得24小时的临时免疫。</p>\n<p><strong>大失败</strong> 目标死亡。</p>\n<hr />\n<p><strong>升阶 (+1)</strong> 豁免失败时目标受伤增加10点，豁免成功时目标受伤增加5点。</p>"
 		},
 		"Radiant Field": {
 			"name": "Radiant Field",
@@ -3554,8 +3554,8 @@
 			"description": "<p><strong>Trigger</strong> You or another creature attacks a creature or fails at a Deception, Diplomacy, or Intimidation check.</p>\n<p>You alter the target's memories of the triggering event as they form. You choose another creature (which can be you) with the capacity to make the triggering attack or skill check, and you alter the target's memories to recall the creature you chose as responsible for the triggering attack or skill check. The target must attempt a Will save and is then temporarily immune for 24 hours.</p>\n<hr />\n<p><strong>Critical Success</strong> The target knows you attempted to alter its memories.</p>\n<p><strong>Success</strong> The target doesn't realize you attempted to alter its memories, though it knows you cast a spell.</p>\n<p><strong>Failure</strong> You successfully alter the target's memory. It isn't forced to react to the new memories in a particular way, and it's likely to question them if they contradict other information it knows or are implausible for the situation.</p>"
 		},
 		"Shifting Form": {
-			"name": "Shifting Form",
-			"description": "<p>You gain one of the following abilities of your choice. You can Dismiss this spell.</p>\n<ul>\n<li>You gain a @Compendium[pf2e.spell-effects.j6po934p4jcUVC6l]{20-foot status bonus to your Speed}.</li>\n<li>You gain a @Compendium[pf2e.spell-effects.nbW4udOUTrCGL3Gf]{climb} or @Compendium[pf2e.spell-effects.Um25D1qLtZWOSBny]{swim} Speed equal to half your Speed.</li>\n<li>You gain @Compendium[pf2e.spell-effects.A48jNUOAmCljx8Ru]{darkvision}.</li>\n<li>You gain a @Compendium[pf2e.spell-effects.14AFzcwkN019dzcl]{pair of claws}. These are agile finesse unarmed attacks that deal 1d8 slashing damage.</li>\n<li>You gain @Compendium[pf2e.spell-effects.byXkHIKFwuKrZ55M]{scent 60 feet (imprecise)}.</li>\n</ul>"
+			"name": "变形 Shifting Form",
+			"description": "<p>你从后述能力中选择并获得1项能力。你能够解消（Dismiss）该法术。</p>\n<ul>\n<li>你的速度获得 @Compendium[pf2e.spell-effects.j6po934p4jcUVC6l]{20尺状态加值}。</li>\n<li>你获得等同于自身速度的 @Compendium[pf2e.spell-effects.nbW4udOUTrCGL3Gf]{攀爬速度}  @Compendium[pf2e.spell-effects.Um25D1qLtZWOSBny]{游泳速度} 。</li>\n<li>你获得 @Compendium[pf2e.spell-effects.A48jNUOAmCljx8Ru]{黑暗视觉}。</li>\n<li>你获得 @Compendium[pf2e.spell-effects.14AFzcwkN019dzcl]{一对爪子}。这些灵巧（agile）娴熟（finesse）的非武装（unarmed）攻击造成1d8点挥砍伤害。</li>\n<li>你获得 @Compendium[pf2e.spell-effects.byXkHIKFwuKrZ55M]{模糊的60尺灵敏嗅觉}。</li>\n</ul>"
 		},
 		"Shifting Sand": {
 			"name": "Shifting Sand",
@@ -4394,8 +4394,8 @@
 			"description": "<p>你的身体涌出一层茂密的棘刺，它会伤害攻击你的人，并增强生命魔法。通过近战攻击命中你的邻接敌人，以及通过无武装攻击命中你的敌人，每次如此均承受1穿刺伤害。当你施放正能量法术时，你的棘刺造成的伤害增加到1d6，直到你的下个回合开始。</p>\n<hr />\n<p><strong>升阶 (+1)</strong> 该伤害增加1，当你施放正能量法术后为增加1d6。</p>"
 		},
 		"Vigilant Eye": {
-			"name": "Vigilant Eye",
-			"description": "<p>You create an @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisible} eye sensor, as <em>@Compendium[pf2e.spells-srd.zvKWclOZ7A53DObE]{Clairvoyance}</em>. When created, this eye must be in your line of sight. When the spell's duration ends, you can spend 1 Focus Point as a free action to extend the duration for another hour, though as normal, it ends immediately during your next daily preparations.</p>"
+			"name": "警惕之眼 Vigilant Eye",
+			"description": "<p>你创造出1个 @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{隐形 Invisible} 的眼球感受器，就如同 <em>@Compendium[pf2e.spells-srd.zvKWclOZ7A53DObE]{鹰眼术 Clairvoyance}</em>一般。在创造感受器时，这个眼睛必须在你的视线（line of sight）之内。当你的持续时间结束时，你能以自由动作花费1点聚能点来将持续时间延长1小时，就如同正常情况一般，它会在你下一次进行日常准备（daily preparations）时立刻结束。</p>"
 		},
 		"Vision of Weakness": {
 			"name": "Vision of Weakness",
@@ -4486,8 +4486,8 @@
 			"description": "<p>你操控一个生物的精神弱点和感官输入。目标必须尝试一次意志豁免。无论豁免结果如何，该目标之后会暂时免疫10分钟。心灵扭曲的效果是立即的，所以解除魔法（dispel magic）或者其他反制法术的效果无法反制其效果。但是，扭转现实（alter reality），神迹术（miracle），荒古奇观（primal phenomenon），复原术（restoration），或者祈愿术（wish）仍能反制这些效果。</p>\n<hr />\n<p><strong>大成功</strong> 目标不受影响。</p>\n<p><strong>成功</strong> 目标按照 @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{困惑 Confused} 状态使用其下个回合的第一个动作。</p>\n<p><strong>失败</strong> 目标获得困惑（confused）1分钟。</p>\n<p><strong>大失败</strong> 目标永久困惑（confused）。</p>"
 		},
 		"Warped Terrain": {
-			"name": "Warped Terrain",
-			"description": "<p>You create illusory hazards that cover all surfaces in the area (typically the ground). Any creature moving through the illusion treats the squares as difficult terrain. A creature can attempt to disbelieve the effect as normal after using a @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Seek} action or otherwise spending actions interacting with the illusion. If it successfully disbelieves, it ignores the effect for the remaining duration. For each additional action you use casting the spell, the burst's radius increases by 5 feet, to a maximum of 10 extra feet for 3 actions.</p>\n<hr />\n<p><strong>Heightened (4th)</strong> You can make the illusion appear in the air rather than on a surface, causing it to function as difficult terrain for flying creatures.</p>"
+			"name": "扭曲地形 Warped Terrain",
+			"description": "<p>你创造出的幻象危害复盖了区域内的所有表面（通常来说是地面）。任何移动通过幻象的生物都会讲这些表面视为困难地形（difficult terrain）。生物能够可以如常在使用 @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{搜索 Seek} 动作或其他方式耗费行动与幻象互动，并以此来不相信（disbelieve）幻象效果。你在施放法术时使用的每个额外动作，都会让法术的爆发半径增加5尺，至多为3个动作的增加10尺半径。</p>\n<hr />\n<p><strong>升阶 (4环级)</strong> 你能让幻象出现在空中而非表面上，这么做会构成对飞行生物生效的困难地形。</p>"
 		},
 		"Warrior's Regret": {
 			"name": "Warrior's Regret",
@@ -4546,8 +4546,8 @@
 			"description": "<p><strong style=\"box-sizing: border-box; user-select: text; color: #191813; font-family: Roboto, sans-serif; font-size: 13px;\">Area</strong><span style=\"color: #191813; font-family: Roboto, sans-serif; font-size: 13px;\"> 15-foot radius, 80-foot-tall cylinder</span></p>\n<hr />\n<p>Powerful winds coalesce into a devastating tornado. You can Cast this Spell only if you are outside or the ceiling is 80 feet or higher. All squares in the whirlwind are difficult terrain.</p>\n<p>All creatures in the area take 5d10 bludgeoning damage as powerful winds and debris buffet them, with a Reflex save. Each time you Sustain the Spell, you can move the whirlwind up to 30 feet in a straight line. Each creature the whirlwind moves through takes the damage, also with a Reflex save. A creature can be affected by a whirlwind only once per round.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes half damage.</p>\n<p><strong>Failure</strong> The creature takes full damage and rises 10 feet into the air. If it doesn't have a fly Speed, the creature gains one equal to its Speed until it either reaches the ground or ceases to be in the whirlwind's area, potentially falling when the spell ends or when it leaves the area.</p>\n<p><strong>Critical Failure</strong> As failure, except the creature takes double damage and rises 20 feet into the air.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> Increase the bludgeoning damage by 1d10.</p>"
 		},
 		"Wholeness of Body": {
-			"name": "Wholeness of Body",
-			"description": "<p>You heal yourself in one of the following ways, chosen by you when you cast the spell.</p>\n<ul>\n<li>You regain 8 Hit Points.</li>\n<li>You attempt to cure one poison or disease afflicting you; attempt to counteract the affliction.</li>\n</ul>\n<hr />\n<p><strong>Heightened (+1)</strong> If you choose to regain Hit Points, the Hit Points regained increase by 8.</p>"
+			"name": "混元体 Wholeness of Body",
+			"description": "<p>你用下列方法之一来治疗自己，在施放法术时进行选择</p>\n<ul>\n<li>你回复8点HP。</li>\n<li>你尝试治疗一种影响你的毒素或疾病；尝试反制该苦难。</li>\n</ul>\n<hr />\n<p><strong>升阶 (+1)</strong> 若你选择回复HP，HP回复量增加8点。</p>"
 		},
 		"Wild Morph": {
 			"name": "自然变形 Wild Morph",
@@ -4558,8 +4558,8 @@
 			"description": "<p>你把原能精华注入体内，将自己转化为其他形态。</p>\n<p>你能变形成 <em>@Compendium[pf2e.spells-srd.gfPjmG6Fe6D3MFjl]{害兽形态 Pest Form}</em>法术中所列出的任何形态，这会持续10分钟。 所有其他野性变身形态持续1分钟。你可以通过德鲁伊专长来向野性变身的可选列表中添加更多形态；你的专长可能会赋予你某个特定变形法术中的部分或者全部形态。</p>\n<p>当你变身到某个法术赋予的某个形态中时，你会获得该形态所提供的所有效果，且此形态所选取的法术版本为升阶到与你的野性变身法术相同环级的版本。</p>\n<p>相对于使用大多数变形法术来说，野性变身让你能更加轻松地使用自己所受的变形训练（shapeshifting training）。当你身处已变形（polymorphed）的状态并且决定用自身的攻击调整值取代该形态的默认攻击调整值（default attack modifier）时，你会在攻击检定上获得+2状态加值（status bonus）。</p>\n<p>@Compendium[pf2e.spell-effects.a5rWrWwuevTzs9Io]{法术效果：野性变身}</p>\n<hr />\n<p><strong>升阶 (2环级)</strong> 你还能用野性变身变为 <em>@Compendium[pf2e.spells-srd.wp09USMB3GIW1qbp]{动物形态 Animal Form}</em>法术中所列出的形态。</p>"
 		},
 		"Wild Winds Stance": {
-			"name": "Wild Winds Stance",
-			"description": "<p>You take on the stance of the flowing winds, sending out waves of energy at a distance. You can make wind crash unarmed Strikes as ranged Strikes against targets within 30 feet. These deal 1d6 bludgeoning damage, use the brawling group, and have the agile, nonlethal, propulsive, and unarmed traits. Wind crash Strikes ignore concealment and all cover.</p>\n<p>While in <em>wild winds stance</em>, you gain a +2 circumstance bonus to AC against ranged attacks.</p>\n<p>@Compendium[pf2e.feat-effects.eeAlh6edygcZIz9c]{Stance: Wild Winds Stance}</p>"
+			"name": "狂风架式 Wild Winds Stance",
+			"description": "<p>你展开流风的架式，隔空就能传递能量波动。你可以对30尺内的目标进行风袭无武装远程打击。它造成1d6点钝击伤害，属于搏击武器组，拥有灵巧、非致命、助进和非武装特征。风袭打击忽视隐蔽和所有的掩蔽。</p>\n<p>当处于 <em>狂风架势 Wild Winds Stance</em>中时，你对远程攻击的AC获得+2环境加值。</p>\n<p>@Compendium[pf2e.feat-effects.eeAlh6edygcZIz9c]{架势：狂风架势}</p>"
 		},
 		"Wildfire": {
 			"name": "Wildfire",
@@ -4570,8 +4570,8 @@
 			"description": "<p>With a few words, you convince a wild creature you are a kindred spirit, making it reluctant to harm you. The target must attempt a Will save. Regardless of the outcome, the target is then temporarily immune for 1 minute.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> When the target attempts an attack roll or skill check that would harm you, it takes a -2 status penalty to its roll.</p>\n<p><strong>Failure</strong> As success, but the target also becomes @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened 1} each time it damages you.</p>\n<p><strong>Critical Failure</strong> As success, but the target also becomes @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened 2} each time it damages you.</p>"
 		},
 		"Wind Jump": {
-			"name": "Wind Jump",
-			"description": "<p>You gain a fly Speed equal to your Speed. You must end your turn on solid ground, or you fall.</p>\n<hr />\n<p><strong>Heightened (6th)</strong> At the end of your turn, you can attempt a DC 30 Acrobatics check to find purchase in midair. If you succeed, you don't fall.</p>\n<p>@Compendium[pf2e.spell-effects.5MI2c9IgxfSeGZQo]{Spell Effect: Wind Jump}</p>"
+			"name": "风行跃 Wind Jump",
+			"description": "<p>你获得等同于速度的飞行速度。你必须在坚实的地面上结束回合，否则会坠落。</p>\n<hr />\n<p><strong>升阶 (6环级)</strong> 在你的回合结束，你可以尝试一次DC30的特技技能检定在空中找到借力点。若成功，你就不会坠落。</p>\n<p>@Compendium[pf2e.spell-effects.5MI2c9IgxfSeGZQo]{法术效果：风行跃}</p>"
 		},
 		"Wind Walk": {
 			"name": "御风而行 Wind Walk",
