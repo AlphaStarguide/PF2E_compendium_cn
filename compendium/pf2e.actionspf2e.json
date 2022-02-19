@@ -210,8 +210,8 @@
 			"description": "<p>You change into your humanoid or hybrid shape. Each shape has a specific, persistent appearance, and most beastkin remain in their hybrid shapes by default.</p>\n<p>In hybrid shape, you appear as a mix between your ancestry and your inherent animal. While in hybrid shape, you gain a jaws unarmed Strike resembling the features of your inherent animal (fangs for bats, beaks for eagles, mandibles for wasps, and so on). Your jaws deal 1d4 piercing damage, have the agile, finesse, and unarmed traits, and are in the brawling weapon group.</p>\n<p>In your humanoid shape, you retain the appearance of your original ancestry.</p>"
 		},
 		"Change Shape (Kitsune)": {
-			"name": "Change Shape (Kitsune)",
-			"description": "<p>You transform into a specific alternate form determined by your heritage. If your heritage doesn't list a form, your alternate form is a tailless form, which is a common Medium humanoid ancestry prevalent where you grew up (typically human). This form is the same age and body type as your true form and has roughly analogous physical traits, such as hair color. Using Change Shape counts as creating a disguise for the Impersonate use of Deception. You lose any unarmed Strikes you gained from a kitsune heritage or ancestry feat in this form. You can remain in your alternate form indefinitely, and you can shift back to your true kitsune form by using this action again.</p>"
+			"name": "化形（狐妖） Change Shape (Kitsune)",
+			"description": "<p>你变成另一种由传承决定的型态。如果你的传承没有列出型态，则你的变化型态是无尾型态，呈现为你成长背景中常见的中型类人生物族裔（通常是人类）。此型态的年龄和身材都和你的真实型态相同，毛色等体貌特征也大致相似。使用化形算作是用欺骗（Deception）技能的乔装（Impersonate）动作来创造伪装。处在此型态时，你会失去由狐妖传承或族裔专长得到的非武装打击。你维持变化型态的时间不受限制，只要再次使用此能力，就可以变回真正的狐妖型态。</p>"
 		},
 		"Chassis Deflection": {
 			"name": "Chassis Deflection",
@@ -554,12 +554,12 @@
 			"description": "<p>你在以半速移动的同时，从周遭环境中搜集信息。你会对自身在旅途中有过接触或能够看到的各种事物使用回忆知识（Recall Knowledge）并从中发现线索，但这是个秘密检定（Secret Checks）。你能够在调查中使用具有回忆知识动作的任意技能，但你能找到的线索是否与该技能相关是由GM判定的。</p>"
 		},
 		"Invigorating Fear": {
-			"name": "Invigorating Fear",
-			"description": "<p><strong>Frequency</strong> once per hour</p>\n<p><strong>Trigger</strong> A creature within 60 feet gains the @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened} condition.</p>\n<hr />\n<p>You are invigorated by the shock of a prank or the thrum of terror. You gain temporary Hit Points equal to the creature's level or 3, whichever is higher. You lose any temporary Hit Points after 1 minute.</p>"
+			"name": "幸惊乐惧 Invigorating Fear",
+			"description": "<p><strong>频率</strong> 每小时一次</p>\n<p><strong>触发</strong> 一个60呎内的生物遭受 @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{惊惧 Frightened} 状态。</p>\n<hr />\n<p>恶作剧的惊吓或恐惧的寒颤让你精神百倍。你得到数量等于3或角色等级的临时生命，取其高者。</p>"
 		},
 		"Invoke Celestial Privilege": {
-			"name": "Invoke Celestial Privilege",
-			"description": "<p><strong>Trigger</strong> You attempt a saving throw against a divine effect, but you haven't rolled yet.</p>\n<hr />\n<p>You rise above the triggering effect, refusing to be harmed by it. You gain a +1 circumstance bonus to the triggering saving throw and to any other saving throws you attempt against divine effects until the start of your next turn.</p>"
+			"name": "天官赐福 Invoke Celestial Privilege",
+			"description": "<p><strong>触发</strong> 你准备对一个神术效果投掷豁免，但尚未掷骰。</p>\n<hr />\n<p>你超越了触发能力的效果，拒绝受其伤害。直到你的下回合开始，你在面对触发此能力，以及任何你尝试抵抗的神术效果，豁免掷骰都获得+1环境加值。</p>"
 		},
 		"Iron Command": {
 			"name": "Iron Command",

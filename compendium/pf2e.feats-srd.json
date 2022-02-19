@@ -5139,19 +5139,19 @@
 		},
 		"Fox Trick": {
 			"name": "Fox Trick",
-			"description": "<p><strong>Frequency</strong> once per hour</p>\n<hr />\n<p>You always have time for a joke or prank. You Create a Diversion, Conceal an Object, or Hide. All creatures who witnessed your Fox Trick then wise up to it, becoming temporarily immune to your Fox Trick for 24 hours.</p>"
+			"description": "<p><strong>频率</strong> 每小时一次</p>\n<hr />\n<p>你随时不忘讲笑话或是恶作剧。你进行分神（Create a Diversion）、隐藏物件（Conceal an Object）或躲藏（Hide）。所有注意到并看穿你狐妖把戏的生物，在接下来24小时内暂时免疫你的狐妖把戏。</p>"
 		},
 		"Foxfire (Cold)": {
-			"name": "Foxfire (Cold)",
-			"description": "<p>A crack of your tail sparks wisps of blue energy. Choose either electricity or fire when you gain this feat. You gain a foxfire ranged unarmed attack with a maximum range of 20 feet. The attack deals [[/r 1d4]] damage of the chosen type (no ability modifier is added to the damage roll). Your foxfire attack is in the sling weapon group and has the magical trait. Like other unarmed attacks, you can improve this attack with @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Handwraps of Mighty Blows}.</p>\n<hr />\n<p><strong>Special</strong> If you are a frozen wind kitsune, your foxfire deals cold damage instead of electricity or fire.</p>"
+			"name": "狐火（寒冷） Foxfire (Cold)",
+			"description": "<p>你的尾巴间有蓝色的能量在劈啪乱跳。选取本专长时，选择那是电击还是火焰。你获得远程非武装攻击狐火，最大射程20呎。这个攻击造成 [[/r 1d4]] 点你所选择的伤害类型（伤害掷骰不会加上属性调整值）。狐火攻击属于投索（sling）武器组。如同其他非武装攻击，你可以用 @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{重拳缠手带 Handwraps of Mighty Blows}来强化这个攻击。</p>\n<hr />\n<p><strong>特殊</strong> 如果你是雪狐，你的狐火会造成寒冷，而非电击或火焰伤害。</p>"
 		},
 		"Foxfire (Electricity)": {
-			"name": "Foxfire (Electricity)",
-			"description": "<p>A crack of your tail sparks wisps of blue energy. Choose either electricity or fire when you gain this feat. You gain a foxfire ranged unarmed attack with a maximum range of 20 feet. The attack deals [[/r 1d4]] damage of the chosen type (no ability modifier is added to the damage roll). Your foxfire attack is in the sling weapon group <span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">and has the magical trait</span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">. Like other unarmed attacks, you can improve this attack with @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Handwraps of Mighty Blows}.</span></p>\n<hr />\n<p><strong>Special</strong> If you are a frozen wind kitsune, your foxfire deals cold damage instead of electricity or fire.</p>"
+			"name": "狐火（电击） Foxfire (Electricity)",
+			"description": "<p>你的尾巴间有蓝色的能量在劈啪乱跳。选取本专长时，选择那是电击还是火焰。你获得远程非武装攻击狐火，最大射程20呎。这个攻击造成 [[/r 1d4]] 点你所选择的伤害类型（伤害掷骰不会加上属性调整值）。狐火攻击属于投索（sling）武器组。如同其他非武装攻击，你可以用 @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{重拳缠手带 Handwraps of Mighty Blows}来强化这个攻击。</span></p>\n<hr />\n<p><strong>特殊</strong> 如果你是雪狐，你的狐火会造成寒冷，而非电击或火焰伤害。</p>"
 		},
 		"Foxfire (Fire)": {
-			"name": "Foxfire (Fire)",
-			"description": "<p>A crack of your tail sparks wisps of blue energy. Choose either electricity or fire when you gain this feat. You gain a foxfire ranged unarmed attack with a maximum range of 20 feet. The attack deals [[/r 1d4]] damage of the chosen type (no ability modifier is added to the damage roll). Your foxfire attack is in the sling weapon group <span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">and has the magical trait</span><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">. Like other unarmed attacks, you can improve this attack with @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Handwraps of Mighty Blows}.</span></p>\n<hr />\n<p><strong>Special</strong> If you are a frozen wind kitsune, your foxfire deals cold damage instead of electricity or fire.</p>"
+			"name": "狐火（火焰） Foxfire (Fire)",
+			"description": "<p>你的尾巴间有蓝色的能量在劈啪乱跳。选取本专长时，选择那是电击还是火焰。你获得远程非武装攻击狐火，最大射程20呎。这个攻击造成 [[/r 1d4]] 点你所选择的伤害类型（伤害掷骰不会加上属性调整值）。狐火攻击属于投索（sling）武器组。如同其他非武装攻击，你可以用 @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{重拳缠手带 Handwraps of Mighty Blows}来强化这个攻击。</span></p>\n<hr />\n<p><strong>特殊</strong> 如果你是雪狐，你的狐火会造成寒冷，而非电击或火焰伤害。</p>"
 		},
 		"Freeze It!": {
 			"name": "Freeze It!",
@@ -6150,8 +6150,8 @@
 			"description": "<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> You critically hit a foe with a Strike with a slashing weapon.</p>\n<hr />\n<p>Choose either <em>@Compendium[pf2e.spells-srd.9AAkVUCwF6WVNNY2]{Lightning Bolt}</em> or <em>@Compendium[pf2e.spells-srd.g8QqHpv2CWDwmIm1]{Gust of Wind}</em>. You Cast the chosen Spell as a 6th-level primal innate spell in the direction of the target of the triggering action.</p>"
 		},
 		"Hybrid Form": {
-			"name": "Hybrid Form",
-			"description": "<p>When you Change Shape, you retain elements of your kitsune form, allowing you to speak in a fox form, use kitsune unarmed attacks in a tailless form, or gain a tail in your tailless form to use abilities that require one. You can Change Shape to alter the details of your hybrid form without fully changing into your true form or your alternate form. While in hybrid form, your foxlike features make it obvious that you aren't a normal humanoid.</p>"
+			"name": "混合型态 Hybrid Form",
+			"description": "<p>使用化形时，你会保留狐妖型态的特征，让你可以在狐狸型态时说话、在无尾型态使用狐妖非武装攻击，或是在无尾型态得到一条尾巴以使用需要尾巴的能力。你可以用化形能力改变混合型态的细节，无须完全现出真身或变成变化型态。处在混合型态时，你的狐狸特征会清楚透漏你不是普通的类人生物。</p>"
 		},
 		"Hybrid Shape": {
 			"name": "Hybrid Shape",
@@ -6858,28 +6858,28 @@
 			"description": "<p>Your study of the flow of mystical energy allows you to harness it into your physical strikes. You gain the <em>@Compendium[pf2e.spells-srd.ZL8NTvB22NeEWhVG]{Ki Strike}</em> ki spell and a focus pool of 1 Focus Point.</p>"
 		},
 		"Killing Stone": {
-			"name": "Killing Stone",
-			"description": "<p>Your star orb hides a deadly miasma. You can cast 5th-level <em>@Compendium[pf2e.spells-srd.MlpbeZ61Euhl0d60]{Cloudkill}</em> as a divine innate spell once per day. The spell's normal components are replaced with a focus component (your star orb) and a somatic component to aim the orb towards the location for the spell.</p>"
+			"name": "杀生石 Killing Stone",
+			"description": "<p>你的星辰玉隐藏着致命的瘴气。你每天可以用内在神术法术的方式施展一次5环 <em>@Compendium[pf2e.spells-srd.MlpbeZ61Euhl0d60]{死云术 Cloudkill}</em>。将该法术原本的成份改成法器（你的星辰玉）和姿势，你必须将星辰玉指向法术的目标区域。</p>"
 		},
 		"Kip Up": {
 			"name": "鲤鱼打挺 Kip Up",
 			"description": "<p>你可以立刻站起身。这次移动不会触发反应动作。</p>"
 		},
 		"Kitsune Lore": {
-			"name": "Kitsune Lore",
-			"description": "<p>You excel at navigating social situations and keeping secrets. You gain the trained proficiency rank in Diplomacy and Deception. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Kitsune Lore.</p>"
+			"name": "狐妖学识 Kitsune Lore",
+			"description": "<p>你善于在各种社会情境间穿梭的同时保守祕密。你的交涉和欺瞒熟练度变成受训（trained）。如果你会在其中一个技能上自动受训（例如背景或职业的效果），改为让你自选的另一个技能受训。你还会在狐妖学识上受训。</p>"
 		},
 		"Kitsune Spell Expertise": {
-			"name": "Kitsune Spell Expertise",
-			"description": "<p>Your tails show your magical mastery. During your daily preparations, choose <em>@Compendium[pf2e.spells-srd.LiGbewa9pO0yjbsY]{Confusion}</em>, <em>@Compendium[pf2e.spells-srd.YvXKGlHOt7mdW2jZ]{Death Ward}</em>, or <em>@Compendium[pf2e.spells-srd.Ucf8eynbZMfUucjE]{Illusory Scene}</em>. You can Cast this Spell as a 5th-level divine innate spell once that day. You become an expert in divine spell DCs and divine spell attack rolls.</p>"
+			"name": "精通狐妖法术 Kitsune Spell Expertise",
+			"description": "<p>尾巴让你看见更多魔法的奥秘。每天的准备阶段，选择 <em>@Compendium[pf2e.spells-srd.LiGbewa9pO0yjbsY]{困惑术 Confusion}</em>, <em>@Compendium[pf2e.spells-srd.YvXKGlHOt7mdW2jZ]{防死结界 Death Ward}</em>或 <em>@Compendium[pf2e.spells-srd.Ucf8eynbZMfUucjE]{幻象场景 Illusory Scene}</em>。你每天可以用5环神术内在法术施展一次这个法术。你的神术DC和神术法术攻击掷骰成为专家（expert）。</p>"
 		},
 		"Kitsune Spell Familiarity": {
-			"name": "Kitsune Spell Familiarity",
-			"description": "<p>You've picked up a few magical tricks. During your daily preparations, choose <em>@Compendium[pf2e.spells-srd.4gBIw4IDrSfFHik4]{Daze}</em>, <em>@Compendium[pf2e.spells-srd.RA7VKcen3p56rVyZ]{Forbidding Ward}</em>, or <em>@Compendium[pf2e.spells-srd.atlgGNI1E1Ox3O3a]{Ghost Sound}</em>. Until your next daily preparations, you can cast this cantrip as a divine innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.</p>"
+			"name": "狐妖法术天份 Kitsune Spell Familiarity",
+			"description": "<p>你学会了几个魔法把戏。在每天的准备阶段，选择 <em>@Compendium[pf2e.spells-srd.4gBIw4IDrSfFHik4]{眩晕术 Daze}</em>, <em>@Compendium[pf2e.spells-srd.RA7VKcen3p56rVyZ]{严厉护卫 Forbidding Ward}</em>或 <em>@Compendium[pf2e.spells-srd.atlgGNI1E1Ox3O3a]{幻音术 Ghost Sound}</em>。在隔天的准备阶段以前，你可以随意用内在神术法术施展这个戏法。戏法会自动升阶到你等级的一半，向上取整。</p>"
 		},
 		"Kitsune Spell Mysteries": {
-			"name": "Kitsune Spell Mysteries",
-			"description": "<p>You know more kitsune magic. During your daily preparations, choose <em>@Compendium[pf2e.spells-srd.7ZinJNzxq0XF0oMx]{Bane}</em>, <em>@Compendium[pf2e.spells-srd.2oH5IufzdESuYxat]{Illusory Object}</em>, or <em>@Compendium[pf2e.spells-srd.8xRzLhwGL7Dgy3EZ]{Sanctuary}</em>. You can cast this as a 1st-level divine innate spell once that day.</p>"
+			"name": "狐妖法术奥秘 Kitsune Spell Mysteries",
+			"description": "<p>至少有一个来自狐妖传承或族裔专长的内在法术。你懂得更多狐妖魔法。每天的准备阶段，选择 <em>@Compendium[pf2e.spells-srd.7ZinJNzxq0XF0oMx]{绝望术 Bane}</em>, <em>@Compendium[pf2e.spells-srd.2oH5IufzdESuYxat]{幻象造物 Illusory Object}</em>或 <em>@Compendium[pf2e.spells-srd.8xRzLhwGL7Dgy3EZ]{圣域术 Sanctuary}</em>。你每天可以用一环神术内在法术的方式施展一次该法术。</p>"
 		},
 		"Kneecap": {
 			"name": "Kneecap",
@@ -8046,8 +8046,8 @@
 			"description": "<p>Select one unarmed attack you gained with Living Weapon. The damage die for that attack increases by one step until the end of your turn. In addition, choose to either have the attack gain a reach of 10 feet until the end of your turn or for you to gain a +1 status bonus to attack rolls with the chosen unarmed attack until the end of your turn.</p>"
 		},
 		"Myriad Forms": {
-			"name": "Myriad Forms",
-			"description": "<p>With a bit of self-discovery, you find a new form. You gain the alternate form of a kitsune heritage other than your own, adding it to the options for your Change Shape.</p>"
+			"name": "不拘一型 Myriad Forms",
+			"description": "<p>经过一段自我探索，你找出了新的型态。你得到除了自身传承之外另一个传承的变化型态，将之加入化形能力的选项之中。</p>"
 		},
 		"Mysterious Breadth": {
 			"name": "Mysterious Breadth",
@@ -9290,8 +9290,8 @@
 			"description": "<p><strong>Trigger</strong> You use Orc Ferocity.</p>\n<hr />\n<p>You lash out viciously even as you fend off death. Make a single melee Strike. If this Strike brings a foe to 0 Hit Points, this activation of Orc Ferocity doesn't count against its frequency.</p>"
 		},
 		"Rampaging Form": {
-			"name": "Rampaging Form",
-			"description": "<p>Once per day, when you Change Shape into a fox, you can instead gain the effects of both the canine form of 5th-level <em>@Compendium[pf2e.spells-srd.wp09USMB3GIW1qbp]{Animal Form}</em> and 7th-level <em>@Compendium[pf2e.spells-srd.XS7Wyh5YC0NWeWyB]{Fiery Body}</em> for 1 minute or until you shift back, whichever comes first. You can cast <em>@Compendium[pf2e.spells-srd.O9w7r4BKgPogYDDe]{Produce Flame}</em> from the <em>fiery body</em> effect even though you're in a battle form.</p>\n<hr />\n<p><strong>Special</strong> If you are a frozen wind kitsune, your form is ice instead of fire. This changes the immunity and damage from the <em>fiery body</em> effect to cold, changes the weakness to fire, and changes produce flame to <em>@Compendium[pf2e.spells-srd.gYjPm7YwGtEa1oxh]{Ray of Frost}</em>.</p>"
+			"name": "炽怒型态 Rampaging Form",
+			"description": "<p>每天一次，当你用化形变成狐狸时，你可以选择同时产生五环 <em>@Compendium[pf2e.spells-srd.wp09USMB3GIW1qbp]{动物形态 Animal Form}</em> 和7环 <em>@Compendium[pf2e.spells-srd.XS7Wyh5YC0NWeWyB]{火焰之躯 Fiery Body}</em> 的效果，持续时间为一分钟或是等到你变回来，取其先者。即使处在战斗型态，你也可以施展火焰之躯所提供的 <em>@Compendium[pf2e.spells-srd.O9w7r4BKgPogYDDe]{燃火术 Produce Flame}</em>。</p>\n<hr />\n<p><strong>特殊</strong> 如果你是雪狐，你的型态会结冰而非燃烧。这会让火焰之躯效果的免疫和伤害变成寒冷，弱点变成火焰，并将燃火术变成 <em>@Compendium[pf2e.spells-srd.gYjPm7YwGtEa1oxh]{冰冻射线 Ray of Frost}</em>。</p>"
 		},
 		"Ranged Combatant": {
 			"name": "Ranged Combatant",
@@ -9754,8 +9754,8 @@
 			"description": "<p>When you absorb a spell using the Absorb Spell reaction, you utilize secret, techniques that allow you to retain the power and knowledge necessary to cast the spell repeatedly-potentially for a greater period of time. If you're a spontaneous caster, you can cast the triggering spell up to three times instead of once. If you're a prepared spellcaster, you can replace up to three of your prepared spells of the same level with the absorbed spell instead of one. Either way, you can choose to retain the absorbed spell for the next hour instead of the next 10 minutes; if you choose to extend the absorption to an hour, you can't use Absorb Spell again until one hour after the spell is absorbed.</p>"
 		},
 		"Retractable Claws": {
-			"name": "Retractable Claws",
-			"description": "<p>You gain a claw unarmed attack that deals [[/r {1d4}[slashing]]]{1d4 slashing damage}. Your claws are in the brawling group and have the agile, finesse, and unarmed traits.</p>"
+			"name": "亮爪 Retractable Claws",
+			"description": "<p>你得到非武装攻击爪抓，造成 [[/r {1d4}[slashing]]]{1d4 挥砍伤害}。你的爪抓属于搏击武器组，拥有灵巧、娴熟和非武装特征。</p>"
 		},
 		"Return Fire": {
 			"name": "Return Fire",
@@ -10422,8 +10422,8 @@
 			"description": "<p>You've discovered how to transform yourself into a cloud dragon. Once per day, you can cast 7th-level <em>@Compendium[pf2e.spells-srd.5c692cCcTDXjSEzk]{Dragon Form}</em> as an innate arcane spell, transforming into a cloud dragon. The spell automatically heightens to 8th level if you're 16th level and 9th level if you're 18th level.</p>\n<p>On a critical hit with an unarmed Strike gained from dragon form, you recharge the spell's breath weapon immediately.</p>\n<p>While in this form, you gain the following cloud dragon–specific abilities:</p>\n<ul>\n<li><strong>Cloud</strong> cloud walk (you can walk on clouds or fog);\n<ul>\n<li><strong>Melee</strong> <span class=\"pf2-icon\">1</span> jaws, <strong>Damage</strong> 2d10 piercing plus 1d12 electricity;</li>\n<li><strong>Melee</strong> <span class=\"pf2-icon\">1</span> claw (agile), <strong>Damage</strong> 3d10 slashing;</li>\n<li><strong>Melee</strong> <span class=\"pf2-icon\">1</span> tail (reach 10 feet), <strong>Damage</strong> 3d10 bludgeoning;</li>\n<li><strong>Melee</strong> <span class=\"pf2-icon\">1</span> horn (reach 10 feet), <strong>Damage</strong> 3d8 piercing;</li>\n<li>Breath Weapon 30-foot cone, 6d12 electricity.</li>\n</ul>\n</li>\n</ul>\n<hr />\n<p><strong>Special</strong> You can use this feat in place of @Compendium[pf2e.feats-srd.eR0sifECG27CC4do]{Shape Of The Dragon} to fulfill feat requirements.</p>"
 		},
 		"Shapechanger's Intuition": {
-			"name": "Shapechanger's Intuition",
-			"description": "<p>A lifetime of experience helps you see through disguises. When you come within 10 feet of a creature that is transformed into another form or is Impersonating a specific creature, the GM rolls a secret Perception check for you to realize that the creature is transformed, even if you didn't spend an action to Seek against that creature.</p>"
+			"name": "变形者直觉 Shapechanger's Intuition",
+			"description": "<p>这辈子的经验能帮助你看穿伪装。如果一个生物正变形成变化型态，或是正乔装（Impersonate）成特定生物，当你进入他的10呎以内，无论你有没有花一个动作搜索（Seek）该生物，GM都要暗骰一次察觉，判定你是否发现该生物是变形而来。</p>"
 		},
 		"Shaped Contaminant": {
 			"name": "Shaped Contaminant",
@@ -10566,8 +10566,8 @@
 			"description": "<p><strong>Access</strong> member of the Magaambya</p>\n<p><strong>Requirements</strong> You have an active spell that affects an area and you are within the spell's range.</p>\n<hr />\n<p>You move the spell's area to a new location within 120 feet. The spell's remaining duration is reduced by half. The spell no longer affects its previous area.</p>"
 		},
 		"Shifting Faces": {
-			"name": "Shifting Faces",
-			"description": "<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p>You wear many faces, even those that don't belong to you. When you Change Shape into your tailless form, you gain the effects of 3rd-level <em>@Compendium[pf2e.spells-srd.i35dpZFI7jZcRoBo]{Illusory Disguise}</em> for 1 hour or until you shift back, except it's a transmutation effect rather than an illusion.</p>"
+			"name": "千面万相 Shifting Faces",
+			"description": "<p><strong>频率</strong> 每天一次</p>\n<hr />\n<p>你有许多面容可以变换，哪怕不是你的脸。当你化形成无尾型态，你获得三环 <em>@Compendium[pf2e.spells-srd.i35dpZFI7jZcRoBo]{幻象伪装 Illusory Disguise}</em> 的效果，维持一小时或持续到你变回来，不过这是变化效果，而非幻术效果。</p>"
 		},
 		"Shifting Terrain": {
 			"name": "Shifting Terrain",
@@ -11418,8 +11418,8 @@
 			"description": "<p>有一种法术是你最爱用的，并且你经过足够的练习，因此不再需要通过准备就能将其施放。选择在你法术书中一个可以与法术打击一起使用的法术，并且该法术的等级不高于你拥有的最高等级的魔战士法术位。你可以通过消耗足够等级的法术位来施放所选法术而无需提前准备。 当你添加新法术到你的法术书时，或者通过研读法术书1小时，则你可以改变你最爱用的法术。</p>"
 		},
 		"Star Orb": {
-			"name": "Star Orb",
-			"description": "<p>Your magic has crystallized into a spherical stone. You gain a familiar, except it's a star orb: a Tiny stone of light Bulk. The familiar has no Speeds and must select a Speed familiar ability before it can move, animating in a way appropriate to the chosen Speed and using the statistics of a normal familiar for that day; when it‘s an immobile stone, it can't select any familiar or master abilities that require it to move. It always has the innate surge master ability, which counts against your limit for familiar and master abilities.</p>"
+			"name": "星辰玉 Star Orb",
+			"description": "<p>你的魔法凝结成一颗圆石。你获得一个魔宠，只不过它是一颗星辰玉：体型为超小型，负载为为1L。这个魔宠没有速度，必须选择一个有速度（Speed）的魔宠能力才能移动，它在当天会按照选取的速度，以适合的方式移动，除此之外的数据都和一般魔宠相同；如果它是一颗不会动的石头，就不能选择任何需要一动的魔宠或主人能力。此外，它永远具备激发潜能（Innate Surge）这个主人能力。</p>"
 		},
 		"Starlit Eyes": {
 			"name": "洞若观火 Starlit Eyes",

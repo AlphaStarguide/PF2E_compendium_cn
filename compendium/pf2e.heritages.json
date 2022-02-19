@@ -82,8 +82,8 @@
 			"description": "<p>You hatched into a warren among narrow tunnels and countless kin. Your body is flexible.</p>\n<p>When @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Climbing} rock walls, stalactites, and other natural stone features, you move at half your Speed on a success and at full Speed on a critical success (and you move at full Speed on a success if you have @Compendium[pf2e.feats-srd.P04Hw8E6WAWARKHP]{Quick Climb}). This doesn't affect you if you're using a climb Speed.</p>\n<p>If you roll a success on an Acrobatics check to @Compendium[pf2e.actionspf2e.kMcV8e5EZUxa6evt]{Squeeze}, you get a critical success instead.</p>"
 		},
 		"Celestial Envoy Kitsune": {
-			"name": "Celestial Envoy Kitsune",
-			"description": "<p>Whether due to Daikitsu's grace or faithful forebears, you have a strong connection to the divine, affording you certain protections. You gain the @Compendium[pf2e.actionspf2e.Aq2mXT2hLlstFL5C]{Invoke Celestial Privilege} reaction. Your alternate form is a common Medium humanoid ancestry prevalent where you grew up (typically human), called a tailless form.</p>"
+			"name": "天狐 Celestial Envoy Kitsune",
+			"description": "<p>不知是因为大狐女的恩泽还是祖先的虔诚，使得你和神灵关系匪浅，得到祂们庇佑。你获得反射动作 @Compendium[pf2e.actionspf2e.Aq2mXT2hLlstFL5C]{天官赐福 Invoke Celestial Privilege} 。你的变化型态是成长背景中常见的中型类人生物族裔（通常是人类），称作无尾型态。</p>"
 		},
 		"Chameleon Gnome": {
 			"name": "Chameleon Gnome",
@@ -114,8 +114,8 @@
 			"description": "<p>You were created through occult or alchemical processes, such as being grown in a vat or stitched together from the body parts of other creatures by a scientist in Ustalav. Your manufactured body is durable; you don't need to eat and can't starve. You gain a +2 circumstance bonus to saving throws against diseases.</p>"
 		},
 		"Dark Fields Kitsune": {
-			"name": "Dark Fields Kitsune",
-			"description": "<p>You can exert your unsettling presence to subtly Demoralize others. When you do, Demoralize loses the auditory trait and gains the visual trait, and you don't take a penalty when you attempt to Demoralize a creature that doesn't understand your language. You also gain the @Compendium[pf2e.actionspf2e.Ul4I0ER6pj3U5eAk]{Invigorating Fear} reaction. Your alternate form is a fox, which has the statistics of 1st-level <em>@Compendium[pf2e.spells-srd.gfPjmG6Fe6D3MFjl]{Pest Form}</em>.</p>"
+			"name": "地狐 Dark Fields Kitsune",
+			"description": "<p>你的外表令人发毛，巧妙运用就能挫败他人士气。当你这么做的时候，挫败士气失去听觉特征，并获得视觉特征；如果你尝试挫败士气的生物不理解你的语言，你不会遭受减值。你还会得到反射动作 @Compendium[pf2e.actionspf2e.Ul4I0ER6pj3U5eAk]{幸惊乐惧 Invigorating Fear} 。你的变化型态是狐狸，使用1环 <em>@Compendium[pf2e.spells-srd.gfPjmG6Fe6D3MFjl]{害兽型态 Pest Form}</em>的数值。</p>"
 		},
 		"Death Warden Dwarf": {
 			"name": "Death Warden Dwarf",
@@ -202,8 +202,8 @@
 			"description": "<p>Thanks to an ancient bargain, your soul has been reborn as a duskwalker, a planar scion with a connection to psychopomps and the Boneyard. You gain the duskwalker trait in addition to the traits from your ancestry. You also gain @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Low-Light Vision}, or you gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision} if your ancestry already has low-light vision. Neither your body nor your spirit can ever become undead. You can choose from duskwalker feats and feats from your ancestry whenever you gain an ancestry feat.</p>"
 		},
 		"Earthly Wilds Kitsune": {
-			"name": "Earthly Wilds Kitsune",
-			"description": "<p>You are a creature of the material world, with an affinity closer to the wilds than urban society. You gain a jaws unarmed attack that deals [[/r {1d6}[piercing]]]{1d6 piercing damage}. Your jaws are in the brawling group and have the finesse and unarmed traits. Your alternate form is a fox, which has the statistics of 1st‑level <em>@Compendium[pf2e.spells-srd.gfPjmG6Fe6D3MFjl]{Pest Form}</em>.</p>"
+			"name": "野狐 Earthly Wilds Kitsune",
+			"description": "<p>由物质世界生养长大的你比起都市更亲近荒野。你得到非武装攻击噬咬，造成 [[/r {1d6}[piercing]]]{1d6 穿刺伤害}。你的噬咬属于搏击武器组，具有娴熟和非武装特征。你的变化型态是只狐狸，使用1环 <em>@Compendium[pf2e.spells-srd.gfPjmG6Fe6D3MFjl]{害兽型态 Pest Form}</em>的数值。</p>"
 		},
 		"Elemental Heart Dwarf": {
 			"name": "Elemental Heart Dwarf",
@@ -214,8 +214,8 @@
 			"description": "<p>Hobgoblins were engineered long ago from the unreliable and fecund goblins, to be used as an army against the elves. Although the elves ultimately freed the hobgoblins from their bondage, some hobgoblins retain ancestral resistance to magic, which they refer to as \"elf magic.\" You gain the @Compendium[pf2e.actionspf2e.On5CQjX4euWqToly]{Resist Elf Magic} reaction.</p>"
 		},
 		"Empty Sky Kitsune": {
-			"name": "Empty Sky Kitsune",
-			"description": "<p>Your spirit is open to the secrets of beyond, granting you greater access to kitsune magic. You gain the @Compendium[pf2e.feats-srd.Zz7isE8Td2xDWqR8]{Kitsune Spell Familiarity} ancestry feat. Your alternate form is a common Medium humanoid ancestry prevalent where you grew up (typically human), called a tailless form.</p>"
+			"name": "空狐 Empty Sky Kitsune",
+			"description": "<p>你的灵魂能够接受彼岸的祕密，让你获得更强大的狐妖魔法。你获得族裔专长 @Compendium[pf2e.feats-srd.Zz7isE8Td2xDWqR8]{狐妖法术天份 Kitsune Spell Familiarity}。你的变化型态是成长背景中常见的中型类人生物族裔（通常是人类），称作无尾型态。</p>"
 		},
 		"Farsight Goloma": {
 			"name": "Farsight Goloma",
@@ -246,8 +246,8 @@
 			"description": "<p>You can flare your neck frill and flex your dorsal spines, Demoralizing your foes. When you do, Demoralize loses the auditory trait and gains the visual trait, and you don't take a penalty when you attempt to Demoralize a creature that doesn't understand your language. You also gain the @Compendium[pf2e.actionspf2e.W4M8L9WepGLamlHs]{Threatening Approach} action.</p>"
 		},
 		"Frozen Wind Kitsune": {
-			"name": "Frozen Wind Kitsune",
-			"description": "<p>Your ancestors crossed the Crown of the World or resided on snowy peaks. You gain cold resistance equal to half your level (minimum 1). You treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on). Your alternate form is a common Medium humanoid ancestry prevalent where you grew up (typically human), called a tailless form.</p>"
+			"name": "雪狐 Frozen Wind Kitsune",
+			"description": "<p>你的祖先穿越过世界之冠，或是居住于终年冰雪的山峰上。你得到等于等级一半的寒冷抗力（最小为1）。寒冷环境对你的影响视作减低一级（酷寒视作极寒，极寒视作严寒，依此类推）。你的变化型态是无尾型态，外表为成长地区主要的中型类人生物族裔（通常是人类）。</p>"
 		},
 		"Fruit Leshy": {
 			"name": "Fruit Leshy",
