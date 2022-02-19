@@ -1822,8 +1822,8 @@
 			"description": "<p>你将自然的恩惠注入到目标浆果之中，这使得浆果能够提供远超一般食物的治愈力和营养。1个生物能够以交互动作（Interact action）吃下神莓并恢复1d6 + 4点生命值。在法术持续期间未被食用的神莓会在法术结束后枯萎消亡。对于一名普通人类来说，每6颗神莓能够提供相当于一顿标准饭食（square meal）的营养。</p>\n<p>@Compendium[pf2e.spell-effects.ppVKJY6AYggn2Fma]{法术效果：神莓}</p>\n<hr />\n<p><strong>升阶 (+1)</strong> 你能将1颗额外的浆果作为法术目标。1个生物能在单次交互动作（Interact action）中消耗同一次施法所制作出的任意数量的神莓。</p>"
 		},
 		"Gouging Claw": {
-			"name": "Gouging Claw",
-			"description": "<p>You temporarily morph your limb into a clawed appendage. Make a melee spell attack roll against your target's AC. If you hit, you deal your choice of slashing or piercing damage equal to 1d6 plus your spellcasting ability modifier. On a critical success, you deal double damage plus [[/r {1d4}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Bleed Damage}.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 1d6 and the</p>\n<p>persistent bleed damage on a critical increases by 1d4.</p>"
+			"name": "凿爪术 Gouging Claw",
+			"description": "<p>你将你的手臂暂时变为一个长爪的附肢。进行一次近战法术攻击骰，对抗你的目标的AC。如果你命中，你造成挥砍或者穿刺伤害，由你选择，数值等于1d6加上你的施法属性调整值。在大成功时，你造成双倍伤害加上 [[/r {1d4}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续流血伤害}。</p>\n<hr />\n<p><strong>升阶 (+1)</strong> 该伤害增加1d6，并且重击时的持续流血伤害增加1d4。</p>"
 		},
 		"Grasping Grave": {
 			"name": "墓土之握 Grasping Grave",
