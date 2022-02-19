@@ -18,8 +18,8 @@
 			"description": "<p>Your small, blunt snout and labyrinthine sinus system make you resistant to phenomena that assail the nose. When you roll a saving throw against inhaled threats (such as inhaled poisons) and olfactory effects (such as xulgath stench), you get the outcome one degree of success better than the result of your roll.</p>"
 		},
 		"Change Shape": {
-			"name": "Change Shape",
-			"description": "<p>As a kitsune, you gain the @Compendium[pf2e.actionspf2e.wwvPiG2kET2rkSAG]{Change Shape (Kitsune)} ability.</p>"
+			"name": "化形 Change Shape",
+			"description": "<p>身为狐妖，你获得 @Compendium[pf2e.actionspf2e.wwvPiG2kET2rkSAG]{化形（狐妖） Change Shape (Kitsune)} 能力。</p>"
 		},
 		"Change Shape (Anadi)": {
 			"name": "Change Shape (Anadi)",
