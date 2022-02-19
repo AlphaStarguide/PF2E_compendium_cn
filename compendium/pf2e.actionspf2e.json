@@ -362,8 +362,8 @@
 			"description": "<p>Your eidolon makes one Strike with their primary unarmed attack and two Strikes with their secondary unarmed attack (in any order). If any of these attacks critically hits an enemy, your eidolon instantly recovers the use of their Breath Weapon.</p>"
 		},
 		"Drain Bonded Item": {
-			"name": "Drain Bonded Item",
-			"description": "<p><strong>Frequency</strong> once per day</p>\n<hr />\n<p>You expend the power stored in your bonded item. During your turn, you gain the ability to cast one spell you prepared today and already cast, without spending a spell slot. You must still Cast the Spell and meet the spell's other requirements.</p>"
+			"name": "汲取连结物品 Drain Bonded Item",
+			"description": "<p><strong>频率</strong> 每天一次</p>\n<hr />\n<p>你释放连结物品中储存的能量。在你的回合中，你会获得施放一个你今天有准备并且已经放过的法术的能力，并且无须使用法术位。你还是需要采取施放法术行动并满足法术的其他需求。</p>"
 		},
 		"Dream Research": {
 			"name": "Dream Research",

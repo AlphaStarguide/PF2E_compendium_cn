@@ -6,8 +6,8 @@
 			"description": "<p>在5级以及之后每5级，你提升四项不同的属性值。你能够使用这些属性提升将你的属性值提升至18以上。提升一个已经有18或更高的属性值意味着将它的数值增加1，而提升低于18的属性值则将数值增加2。</p>\n<p>你的幻灵也在对应等级获得对应合计4次属性提升。幻灵的属性提升遵从跟你一样的规则</p>"
 		},
 		"Abjuration": {
-			"name": "Abjuration",
-			"description": "<p>As an abjurer, you master the art of protection, strengthening defenses, preventing attacks, and even turning magic against itself. You understand that an ounce of prevention is worth a pound of cure. You add one 1st-level abjuration spell (such as <em>@Compendium[pf2e.spells-srd.TTwOKGqmZeKSyNMH]{Feather Fall}</em>) to your spellbook. You learn the <em>@Compendium[pf2e.spells-srd.lY9fOk1qBDDhBT8s]{Protective Ward}</em> school spell.</p>"
+			"name": "防护学派 Abjuration",
+			"description": "<p>身为防护师，你熟知守护、强化防御、阻碍攻击甚至扭转针对自己魔法的真谛。你知晓预防胜于治疗的道理。你的法术书多一个1环防护系法术(例如 <em>@Compendium[pf2e.spells-srd.TTwOKGqmZeKSyNMH]{羽落术 Feather Fall}</em>)。你学到了 <em>@Compendium[pf2e.spells-srd.lY9fOk1qBDDhBT8s]{防护结界 Protective Ward}</em> 学派法术。</p>"
 		},
 		"Adamantine Strikes": {
 			"name": "Adamantine Strikes",
@@ -90,32 +90,32 @@
 			"description": "<p>The fury of a wild predator fills you when you Rage, granting you ferocious unarmed attacks. Cultures that revere vicious animals (such as apes or bears) give rise to barbarians with this instinct. You might also be at war with an uncontrollable, animalistic side of your personality, or you might be a descendant of a werewolf or another werecreature.</p>\n<ul>\n<li><strong>Ape Instinct</strong></li>\n<ul>\n<li><strong>Fist</strong> (Grapple, Unarmed) 1d10 Bludgeoning</li>\n</ul>\n</ul>\n<h2 class=\"title\">Anathema</h2>\n<p>Flagrantly disrespecting an animal of your chosen kind is anathema to your instinct, as is using weapons while raging.</p>\n<h2 class=\"title\">Bestial Rage (Instinct Ability)</h2>\n<p>When you Rage, you gain your chosen animal's unarmed attack (or attacks). The specific attack gained, the damage it deals, and its traits are listed on Table 3–3: Animal Instincts. These attacks are in the brawling group. Your Rage action gains the morph, primal, and transmutation traits.</p>\n<h2 class=\"title\">Specialization Ability</h2>\n<p>Increase the damage die size for the unarmed attacks granted by your chosen animal by one step, and increase the additional damage from Rage from 2 to 5 for your chosen animal's unarmed attacks. The frog's tongue attack and deer's antler attack gain reach 10 feet. If you have greater weapon specialization, increase the damage from Rage from 5 to 12 for your chosen animal's unarmed attacks.</p>\n<h2 class=\"title\">Raging Resistance</h2>\n<p>You resist piercing and slashing damage.</p>"
 		},
 		"Arcane Bond": {
-			"name": "Arcane Bond",
-			"description": "<p>You place some of your magical power in a bonded item. Each day when you prepare your spells, you can designate a single item you own as your bonded item. This is typically an item associated with spellcasting, such as a wand, ring, or staff, but you are free to designate a weapon or other item. You gain the @Compendium[pf2e.actionspf2e.v82XtjAVN4ffgVVR]{Drain Bonded Item} free action.</p>"
+			"name": "奥术连结 Arcane Bond",
+			"description": "<p>你将魔法之力储存在一件连结物品中。每天在你准备法术的时候，你可以指定一件属于你的物品作为你的连结物品。这件物品通常跟施法有关，像是魔杖、戒指或法杖，但你也可选择武器或其他物品作为连结物品​。你获得 @Compendium[pf2e.actionspf2e.v82XtjAVN4ffgVVR]{汲取连结物品 Drain Bonded Item} 自由动作。</p>"
 		},
 		"Arcane Cascade": {
 			"name": "奥术奔涌 Arcane Cascade",
 			"description": "<p>在你运用法术时，你可以进入一个特殊姿态来让你的攻击更加有效。</p>\n<p>@Compendium[pf2e.actionspf2e.HbejhIywqIufrmVM]{奥术奔涌}</p>"
 		},
 		"Arcane School": {
-			"name": "Arcane School",
-			"description": "<p>Many arcane spellcasters delve deeply into a single school of magic in an attempt to master its secrets. If you want to be a specialist wizard, choose a school in which to specialize. You gain additional spells and spell slots for spells of your school.</p>\n<p>If you don't choose a school, you're a universalist, a wizard who believes the path to true knowledge of magic requires a multidisciplinary understanding of all eight schools working together. Though a universalist lacks the focus of a specialist wizard, they have greater flexibility.</p>"
+			"name": "奥术学派 Arcane School",
+			"description": "<p>许多奥术施法者会深掘某一个魔法学派，好掌握其中奥秘。如果你想成为一个专精法师，请选择一个学派去专精。你会在所选学派上获得额外的法术与法术位。</p>\n<p>如果你不想选择某个学派，那你就是所谓的通才法师，这类法师相信魔法的真谛需要涉猎全部八大学派，并融为一体。虽然通才法师缺乏专精法师的专注，但他们的灵活性更高。</p>\n<p>如果你专精一个奥术学派，而不是对每个学派都加以研究(就是通才法师)，你在你能施放的法术环级中，每环会多一个额外法术位。在这个额外法术位里，只能准备你专精的奥术学派法术。此外，你还可以多准备一个所选专精学派的戏法。你还可以在你的法术书上增添一个所选专精学派的奥术法术。</p>\n<p>你学会一个学派法术，这是一种授予奥术学派学徒的特殊法术。学派法术属于聚能法术(focus spell)，施放一个聚能法术会消耗1点聚能点，你一开始会有一个1点聚能点的聚能池。在每日准备时你的聚能池会回满，如果你在研读法术书或进行奥法研究时花10分钟使用再聚能行动(Refocus activity)，你可以恢复1点聚能点。</p>\n<p>聚能法术会自动升环，升到你的等级取半并向上取整。聚能法术无须法术位，也不用你使用法术位施放。某些专长可以让你获得更多聚能法术，并增加你聚能池的容量，虽然你的聚能池永远不能超过3点聚能点。</p>"
 		},
 		"Arcane Spellcasting (Magus)": {
 			"name": "奥术施法 Arcane Spellcasting (魔战士)",
 			"description": "<p>你研习法术，所以你可以将其和你的攻击结合或者解决臂膀上的力气无法撼动的问题。你可以使用 @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{施放法术} 动作来施放奥术法术，并且当你在施法时，你可以提供材料（material）、姿势（somatic）和语言（verbal）成分。</p>\n<p>因为你是魔战士，你可以使用你的武器刃尖或者你空闲的手来绘制替代的魔法印记来给法术提供所需的材料成分，用姿势成分来替代法术中所需的施法材料袋（material component pouch）。</p>\n<p>1级时，你每天早上(each morning)可以从你的法术书（spellbook）(见下)里准备一个1环法术（1st-level spell）和五个戏法（cantrips）。准备好的法术会维持可用状态，直到你施放或直到你再次准备法术。你可以准备的法术数量称为你的法术位（spell slots）。</p>\n<p>当你的魔战士等级提升，你的法术位数量，以及可从法术位施放的最高环级也会随之提升。因为你分摊自己的注意力在物理训练和魔法学识之间，你拥有最高环级的法术位不能超过（no more than）2个，如果你可以施放2环或者更高环级的法术，你还拥有2个比你最高环级低1级环级的法术位。</p>\n<p>你的有些法术需要你尝试一次法术攻击骰（spell attack roll）来决定效果如何，或是会要敌人掷骰对抗你法术的DC(通常是进行豁免检定)。你的法术攻击骰和法术DC使用你的智力（Intelligence）调整值。</p>"
 		},
 		"Arcane Spellcasting (Wizard)": {
-			"name": "Arcane Spellcasting (Wizard)",
-			"description": "<p>Through dedicated study and practice, you can harness arcane power to cast spells. You can cast arcane spells using the @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Cast a Spell} activity, and you can supply material, somatic, and verbal components when casting spells.</p>\n<p>At 1st level, you can prepare up to two 1st-level spells and five cantrips each morning from the spells in your spellbook, plus one extra cantrip and spell of your chosen school of each level you can cast if you are a specialist wizard. Prepared spells remain available to you until you cast them or until you prepare your spells again. The number of spells you can prepare is called your spell slots.</p>\n<p>As you increase in level as a wizard, your number of spell slots and the highest level of spells you can cast from spell slots increase.</p>"
+			"name": "奥术施法（法师） Arcane Spellcasting (Wizard)",
+			"description": "<p>你献身于奥艺的研究与实践，驾驭奥术之力用以施法。你可以使用 @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{施放法术 Cast a Spell} 行动来施展奥术法术，并且当你在施法时，可以提供材料、姿势和语言成分。</p>\n<p>1级时，你每天早上(each morning)最多可以从你的法术书里准备两个1环法术，以及5个戏法，而如果你是个专精法师，还可以从你选择的学派中，额外挑选1个戏法，以及在你可施放环级中每环一个法术。准备好的法术会维持可用状态，直到你施放或直到你再次准备法术。你可以准备的法术数量称为你的法术位。</p>\n<p>当你的法师等级提升，你的法术位数量，以及可从法术位施放的最高环级也会随之提升。</p>\n<p>有些法术会需要你尝试法术攻击骰(spell attack roll)，来决定效果如何，或是会要敌人掷骰对抗你法术的DC(通常是进行豁免检定)。因为你的关键属性为智力，你的法术攻击骰和法术DC会使用你的智力调整值。</p>"
 		},
 		"Arcane Thesis": {
-			"name": "Arcane Thesis",
-			"description": "<p>During your studies to become a full-fledged wizard, you produced a thesis of unique magical research on one of a variety of topics. You gain a special benefit depending on the topic of your thesis research. The arcane thesis topics presented in this book are below; your specific thesis probably has a much longer and more technical title like \"On the Methods of Spell Interpolation and the Genesis of a New Understanding of the Building Blocks of Magic.\"</p>"
+			"name": "奥术论题 Arcane Thesis",
+			"description": "<p>在你为了成为正式施法者而苦读时，你在众多课题中发表了一篇独特的魔法研究论题。你在该论题的研究获得了好处。本书的奥术论题如下，而你自己的论题名称可能更长或更专业，例如「对法术篡改方法与建构障碍魔法之起源的崭新发现」</p>"
 		},
 		"Archwizard's Spellcraft": {
-			"name": "Archwizard's Spellcraft",
-			"description": "<p>You command the most potent arcane magic and can cast a spell of truly incredible power. You gain a single 10th-level spell slot and can prepare a spell in that slot using arcane spellcasting. You can't use this spell slot for abilities that let you cast spells without expending spell slots or that give you more spell slots. Unlike with other spell slots, you don't gain more 10th-level spells as you level up, though you can take the @Compendium[pf2e.feats-srd.tP26mgaFPpr6df1i]{Archwizard's Might} feat to gain a second slot.</p>"
+			"name": "大法师奥艺 Archwizard's Spellcraft",
+			"description": "<p>你师使著最强大的奥术魔法，并且能施放真正不可思议的法术。你获得一个10环法术位，并且可以使用奥术施法能力准备这个法术位。不同于其他法术位，你不会因为等级提升而获得更多10环法术位，但你可以选择 @Compendium[pf2e.feats-srd.tP26mgaFPpr6df1i]{大法师伟力 Archwizard's Might} 专长取得第二个10环法术位。对于那些让你能不消耗法术位施法或给与你更多法术位的能力来说，你无法使用该法术位。</p>"
 		},
 		"Armor Expertise": {
 			"name": "护甲专家训练 Armor Expertise",
@@ -334,8 +334,8 @@
 			"description": "<p>你会从你的融汇研究（hybrid study）中学习一个汇聚法术，随后你可以通过选择特定专长释放额外的汇聚法术。汇聚法术是为战斗而创造的魔战士特有（magus-specific）法术，并且是聚能（focus）法术的一种。释放聚能法术需要花费1点聚能点（Focus Point），并且你起始拥有一个1点聚能点的聚能池（Focus Pool）。在每日准备时你的聚能池会回满，如果你在研读法术书或进行肉体修行时花10分钟使用再聚能(Refocus)动作，你可以恢复1点聚能点。</p>\n<p>聚能法术会自动升环，升到你的等级取半并向上取整。聚能法术无须法术位，也不用你使用法术位施放。某些专长可以让你获得更多聚能法术，并增加你聚能池的容量，虽然你的聚能池永远不能超过3点聚能点。</p>"
 		},
 		"Conjuration": {
-			"name": "Conjuration",
-			"description": "<p>As a conjurer, you summon creatures and objects from places beyond, and use magic to transport to distant locales. You understand that the true key to victory is strength in numbers. You add one 1st-level conjuration spell (such as <em>@Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]{Summon Animal}</em>) to your spellbook. You learn the <em>@Compendium[pf2e.spells-srd.tWzxuJdbXqvskdIo]{Augment Summoning}</em> school spell.</p>"
+			"name": "咒法学派 Conjuration",
+			"description": "<p>身为咒法师，你能召唤不在此处的生物与物体，使用魔法传送至遥远的场所。你知晓胜利的真谛在于数量。你的法术书多一个1环咒法系法术(例如 <em>@Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]{召唤动物 Summon Animal}</em>)。你学到了 <em>@Compendium[pf2e.spells-srd.tWzxuJdbXqvskdIo]{增强召唤 Augment Summoning}</em> 学派法术。</p>"
 		},
 		"Continuous Flair": {
 			"name": "Continuous Flair",
@@ -370,8 +370,8 @@
 			"description": "<p>The fury of a wild predator fills you when you Rage, granting you ferocious unarmed attacks. Cultures that revere vicious animals (such as apes or bears) give rise to barbarians with this instinct. You might also be at war with an uncontrollable, animalistic side of your personality, or you might be a descendant of a werewolf or another werecreature.</p>\n<ul>\n<li><strong>Deer Instinct</strong></li>\n<ul>\n<li><strong>Antler</strong> (Grapple, Unarmed) 1d10 Piercing</li>\n</ul>\n</ul>\n<h2 class=\"title\">Anathema</h2>\n<p>Flagrantly disrespecting an animal of your chosen kind is anathema to your instinct, as is using weapons while raging.</p>\n<h2 class=\"title\">Bestial Rage (Instinct Ability)</h2>\n<p>When you Rage, you gain your chosen animal's unarmed attack (or attacks). The specific attack gained, the damage it deals, and its traits are listed on Table 3–3: Animal Instincts. These attacks are in the brawling group. Your Rage action gains the morph, primal, and transmutation traits.</p>\n<h2 class=\"title\">Specialization Ability</h2>\n<p>Increase the damage die size for the unarmed attacks granted by your chosen animal by one step, and increase the additional damage from Rage from 2 to 5 for your chosen animal's unarmed attacks. The frog's tongue attack and deer's antler attack gain reach 10 feet. If you have greater weapon specialization, increase the damage from Rage from 5 to 12 for your chosen animal's unarmed attacks.</p>\n<h2 class=\"title\">Raging Resistance</h2>\n<p>You resist piercing and slashing damage.</p>"
 		},
 		"Defensive Robes": {
-			"name": "Defensive Robes",
-			"description": "<p>The flow of magic and your defensive training combine to help you get out of the way before an attack. Your proficiency rank in unarmored defense increases to expert.</p>"
+			"name": "防御斗篷 Defensive Robes",
+			"description": "<p>魔力的流动与你的训练结合，使你能躲避攻击。你在非武装防御上的熟练度提升为专家。</p>"
 		},
 		"Deific Weapon": {
 			"name": "神授武器 Deific Weapon",
@@ -406,8 +406,8 @@
 			"description": "<p>你所侍奉的神祇的伟力授予你被称为虔诚法术的特殊神术，这是聚能法术（Focus spell）中的一种。它花费1点聚能点（Focus Point）来施展一个聚能法术，你起始会拥有一个可以容纳1点聚能点的聚能池。在你的日常准备期间，你会填满你的聚能池，你也可以花费10分钟的时间用再聚能（Refocus）行动向你的神祇祈祷或为他们的事业服务从而恢复1点聚能点。</p>\n<p>聚能法术会自动提高它的环级至你等级的一半并向上取整。某些专长会给予你更多的聚能法术，扩大聚能池的容量，不过你的聚能池容量始终不会超过3点。相关的完整规则位于300页。你根据你的事业获得虔诚法术，你在神术攻击骰和神术DC上受训。你的施法属性是魅力。</p>"
 		},
 		"Divination": {
-			"name": "Divination",
-			"description": "<p>As a diviner, you master remote viewing and prescience, learning information that can transform investigations, research, and battle strategies. You understand that knowledge is power. You add one 1st-level divination spell (such as <em>@Compendium[pf2e.spells-srd.Gb7SeieEvd0pL2Eh]{True Strike}</em>) to your spellbook. You learn the <em>@Compendium[pf2e.spells-srd.oFwmdb6LlRrh9AUT]{Diviner's Sight}</em> school spell.</p>"
+			"name": "预言学派 Divination",
+			"description": "<p>身为预言师，你掌握着远方的意象与先见，得到的资讯可以用来调查、研究和战争的战略。你知道知识就是力量。你的法术书多一个1环预言系法术(例如 <em>@Compendium[pf2e.spells-srd.Gb7SeieEvd0pL2Eh]{克敌机先 True Strike}</em>)。你学到了 <em>@Compendium[pf2e.spells-srd.oFwmdb6LlRrh9AUT]{预言师洞见 Diviner's Sight}</em> 学派法术。</p>"
 		},
 		"Divine Ally": {
 			"name": "神圣盟友 Divine Ally",
@@ -514,8 +514,8 @@
 			"description": "<p>Everything comes down to data. Calculating statistics, running numbers, and using inductive reasoning allows you to determine the most likely outcome of any scenario, and anything out of place draws your keen attention.</p>\n<p>You are trained in one Intelligence-based skill of your choice. You gain the @Compendium[pf2e.feats-srd.pIHjH1x0AVtiX5Tv]{That's Odd} investigator feat, and you gain the @Compendium[pf2e.actionspf2e.jftNJjBNxp2cleoi]{Expeditious Inspection} free action.</p>"
 		},
 		"Enchantment": {
-			"name": "Enchantment",
-			"description": "<p>As an enchanter, you use magic to manipulate others' minds. You might use your abilities to subtly influence others or seize control over them. You understand that the mind surpasses matter. You add one 1st-level enchantment spell (such as <em>@Compendium[pf2e.spells-srd.vLA0q0WOK2YPuJs6]{Charm}</em>) to your spellbook. You learn the <em>@Compendium[pf2e.spells-srd.KMFRKzNCq7hVNH7H]{Charming Words}</em> school spell.</p>"
+			"name": "惑控学派 Enchantment",
+			"description": "<p>身为惑控师，你使用魔法操纵他人的内心。你能够巧妙的影响他人，或是夺取他人对自身的控制权。你知晓意念优于物质。你的法术书多一个1环惑控系法术(例如 <em>@Compendium[pf2e.spells-srd.vLA0q0WOK2YPuJs6]{惑控术 Charm}</em>)。你学到了 <em>@Compendium[pf2e.spells-srd.KMFRKzNCq7hVNH7H]{魅惑真言 Charming Words}</em> 学派法术。</p>"
 		},
 		"Enigma": {
 			"name": "谜团 Enigma",
@@ -530,8 +530,8 @@
 			"description": "<p>You've learned to move quickly to avoid explosions, dragon's breath, and worse. Your proficiency rank for Reflex saves increases to master. When you roll a success on a Reflex save, you get a critical success instead.</p>"
 		},
 		"Evocation": {
-			"name": "Evocation",
-			"description": "<p>As an evoker, you revel in the raw power of magic, using it to create and destroy with ease. You can call forth elements, forces, and energy to devastate your foes or to assist you in other ways. You understand that the most direct approach is the most elegant. You add one 1st-level evocation spell (such as <em>@Compendium[pf2e.spells-srd.r3NeUnsgt9mS03Sn]{Shocking Grasp}</em>) to your spellbook. You learn the <em>@Compendium[pf2e.spells-srd.Hu38hoAUSYeFpkVa]{Force Bolt}</em> school spell.</p>"
+			"name": "塑能学派 Evocation",
+			"description": "<p>身为塑能师，你着迷于魔法的原始之力，用其创造和毁灭。你可以呼召元素、力场还有能量摧毁你的敌人，或以其他方式协助你。你知晓最直接的接触才最优雅。你的法术书多一个1环塑能系法术(例如 <em>@Compendium[pf2e.spells-srd.r3NeUnsgt9mS03Sn]{电爪术 Shocking Grasp}</em>)。你学到了 <em>@Compendium[pf2e.spells-srd.Hu38hoAUSYeFpkVa]{力场矢 Force Bolt}</em> 学派法术。</p>"
 		},
 		"Evolution Feat": {
 			"name": "Evolution Feat",
@@ -814,16 +814,16 @@
 			"description": "<p>你大量的物理训练和细心的法术选择一并塑造了一种独特且致命的战斗风格，其效果远大于两者的简单相加。你选择一个融汇研究（hybrid study）领域，其作为你独到的技能结合方式的象征。你的融汇研究给予你一个特殊能力，其通常与 @Compendium[pf2e.classfeatures.KVj5ofUwu3VJSrVw]{法术打击} 或者 @Compendium[pf2e.classfeatures.09iL38CZZEa0q0Mt]{奥术奔涌}, 相关，并且它决定你的初始汇聚法术（conflux spell）。融汇研究在此书接下来的部分中展示。</p>\n<ul>\n<li>@Compendium[pf2e.classfeatures.ZslXrvYRxHBXc1Ds]{无当重刃 Inexorable Iron}</li>\n<li>@Compendium[pf2e.classfeatures.3gVDqDPSz4fB5T9G]{诡笑锋影 Laughing Shadow}</li>\n<li>@Compendium[pf2e.classfeatures.maGzhKLmgubAdUlN]{闪耀法盾 Sparkling Targe}</li>\n<li>@Compendium[pf2e.classfeatures.Pew7duAozEeAemif]{星火流矢 Starlit Span}</li>\n<li>@Compendium[pf2e.classfeatures.6YJ8KFl7THkVy6Gm]{盘虬杖形 Twisting Tree}</li>\n</ul>"
 		},
 		"Illusion": {
-			"name": "Illusion",
-			"description": "<p>As an illusionist, you use magic to create images, figments, and phantasms to baffle your enemies. You understand that perception is reality. You add one 1st-level illusion spell (such as <em>@Compendium[pf2e.spells-srd.2oH5IufzdESuYxat]{Illusory Object}</em>) to your spellbook. You learn the <em>@Compendium[pf2e.spells-srd.fXdADBwxmBsU9xPk]{Warped Terrain}</em> school spell.</p>"
+			"name": "幻术学派 Illusion",
+			"description": "<p>身为幻术师，你用魔法创造画面、虚像和幻影迷惑你的敌人。你知晓知觉即真实。你的法术书多一个1环幻术系法术(例如 <em>@Compendium[pf2e.spells-srd.2oH5IufzdESuYxat]{虚幻物体 Illusory Object}</em>)。你学到了 <em>@Compendium[pf2e.spells-srd.fXdADBwxmBsU9xPk]{扭曲地形 Warped Terrain}</em> 学派法术。</p>"
 		},
 		"Improved Evasion": {
 			"name": "Improved Evasion",
 			"description": "<p>Your ability to elude danger is matchless. Your proficiency rank for Reflex saves increases to legendary. When you roll a critical failure on a Reflex save, you get a failure instead. When you roll a failure on a Reflex save against a damaging effect, you take half damage.</p>"
 		},
 		"Improved Familiar Attunement": {
-			"name": "Improved Familiar Attunement",
-			"description": "<p>You've long held that fine-tuning the magic that bonds wizard and familiar can improve the mystic connection, compared to the safe yet generic bond most wizards currently use. You've formed such a pact with your familiar, gaining more advantages from it than most wizards. You gain the @Compendium[pf2e.feats-srd.bcxIg7wi8ZAhvhOD]{Familiar} wizard feat. Your familiar gains an extra ability, and it gains an additional extra ability when you reach 6th, 12th, and 18th levels. Your connection with your familiar alters your arcane bond class feature so that you store your magical energy in your familiar, rather than an item you own; you also gain the Drain Familiar free action instead of Drain Bonded Item. Drain Familiar can be used any time an ability would allow you to use Drain Bonded Item and functions identically, except that you draw magic from your familiar instead of an item.</p>"
+			"name": "改良魔宠谐调 Improved Familiar Attunement",
+			"description": "<p>你长久以来针对法师与魔宠之间契约进行魔法上的微调，相较于现在大部分法师通用但安全的契约，你的做法改良了双方间的神秘联系。你与自己的魔宠形塑了这样的联系，从中获得了比其他法师更多的优势。你获得 @Compendium[pf2e.feats-srd.bcxIg7wi8ZAhvhOD]{魔宠 Familiar} 法师专长作为奖励专长。你的魔宠获得一个额外能力，当你6、12、18级时各获得一个额外能力。你与你魔宠的联系改变你的奥术连结职业能力，所以你把你的魔法能量储存在你的魔宠身上，而不是自己的物品上；你还会获得汲取魔宠(Drain Familiar)自由动作而不会获得汲取连结物品自由动作。汲取魔宠可在任何你可以使用汲取连结物品的时候使用，并且效果相同，除了你是从魔宠身上汲取而不是从物品上汲取。</p>"
 		},
 		"Improved Flexibility": {
 			"name": "Improved Flexibility",
@@ -970,8 +970,8 @@
 			"description": "<p>你的缪斯是一位大师，激励你攀登高峰。如果是一个生物，那它可能是爱好表演的如咏唱天使（choral angel）或者翼蛇人爱塔；如果是一个神，可能是@Compendium[pf2e.deities.gxwmzxUWBOhdgFSN]{莎琳 Shelyn}。作为大师缪斯的诗人，你会激励你的盟友，对你的音乐和口才能力充满自信。你获得@Compendium[pf2e.feats-srd.sVjATEo8eqkAosNp]{绕梁组曲 Lingering Composition}专长，将<em>@Compendium[pf2e.spells-srd.szIyEsvihc5e1w8n]{安抚术 Soothe}</em>加入你的法术库。</p>"
 		},
 		"Magical Fortitude": {
-			"name": "Magical Fortitude",
-			"description": "<p><strong>Oracle, Sorcerer, Wizard</strong> Magical power has improved your body's resiliency. Your proficiency rank for Fortitude saves increases to expert.</p>\n<hr />\n<p><strong>Witch</strong> Your patron's power boosts your physical resiliency. Your proficiency rank for Fortitude saves increases to expert.</p>\n<p><strong>Witch</strong> Your patron's power boosts your physical resiliency. Your proficiency rank for Fortitude saves increases to expert.</p>"
+			"name": "魔法强健 Magical Fortitude",
+			"description": "<p><strong>先知，术士，法师</strong> 魔法之力强化了你身体的弹性。你的强韧豁免熟练度提升至专家。</p>\n<hr />\n<p><strong>Witch</strong> 你的庇护主的力量增加了你身体的韧性，你的强韧豁免增加到专家。</p>"
 		},
 		"Magnum Opus": {
 			"name": "代表作 Magnum Opus",
@@ -1038,8 +1038,8 @@
 			"description": "<p>You can adjust your body to make unarmed attacks infused with the mystic energy of rare metals. Your unarmed attacks are treated as cold iron and silver. This allows you to deal more damage to a variety of supernatural creatures, such as demons, devils, and fey.</p>"
 		},
 		"Metamagical Experimentation": {
-			"name": "Metamagical Experimentation",
-			"description": "<p>You've realized that the practice known as metamagic is a holdover from a time long ago, when wizards had to work out their own spells and variations rather than rely on spells recorded by others and passed down over the years. This allows you efficient access to various metamagic effects. You gain one 1st-level metamagic wizard feat of your choice. Starting at 4th level, during your daily preparations, you can gain a metamagic wizard feat of your choice that has a level requirement of no more than half your level, which you can use until your next daily preparations.</p>"
+			"name": "超魔实验 Metamagical Experimentation",
+			"description": "<p>你了解到被称为超魔的实践技艺其实从很久以前就开始了，那时候的法师必须自己设计法术与变化，而不是像现在倚靠他人记载与流传的法术。此论题能让你有效使用各种超魔专长。你获得一个1级超魔法师专长作为奖励专长。4级开始，在你进行每日准备时，你可以选择一个等级需求不超过你等级一半的超魔法师专长，你可以使用此超魔专长直到你进行下一次每日准备。</p>"
 		},
 		"Methodology": {
 			"name": "Methodology",
@@ -1082,8 +1082,8 @@
 			"description": "<p>You always find the weak points in your foes' defenses when they're on unfavorable terrain. Enemies are @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} to you if they're in natural difficult terrain or in difficult terrain resulting from a snare.</p>"
 		},
 		"Necromancy": {
-			"name": "Necromancy",
-			"description": "<p>As a necromancer, you call upon the powers of life and death. While your school is often vilified for its association with raising the undead, you understand that control over life also means control over healing. You add one 1st-level necromancy spell (such as <em>@Compendium[pf2e.spells-srd.k34hDOfIIMAxNL4a]{Grim Tendrils}</em>) to your spellbook. You learn the <em>@Compendium[pf2e.spells-srd.BH3sUerzMb2bWnv1]{Call of the Grave}</em> school spell.</p>"
+			"name": "死灵学派 Necromancy",
+			"description": "<p>身为死灵师，你驱使生与死之力。尽管你的学派常因为与复苏不死生物相关而遭到蔑视，但你知晓如何控制生命，意味着你知道如何治癒。你的法术书多一个1环死灵系法术(例如 <em>@Compendium[pf2e.spells-srd.k34hDOfIIMAxNL4a]{残酷触手 Grim Tendrils}</em>) 。你学到了 <em>@Compendium[pf2e.spells-srd.BH3sUerzMb2bWnv1]{墓地之音 Call of the Grave}</em> 学派法术。</p>"
 		},
 		"Night Patron": {
 			"name": "Night Patron",
@@ -1450,8 +1450,8 @@
 			"description": "<p>你钻研魔法的应用，训练自身不仅是展现那些进攻手段还包括防御的战术。当魔法流淌于你体内时，你的盾牌便可挡下本不可阻挡的东西，甚至是一条龙的吐息或者魔法飞弹（magic missile）。</p>\n<p>你获得 @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{盾牌格挡} 通用专长。</p>\n<p>当你举起你的盾牌并处于奥术奔涌（Arcane Cascade）架式时，你从你的盾牌获得的AC环境加值同样可以运用到你对抗法术和其他魔法效应的豁免中。另外，当一个法术或魔法效应的结果会对你造成伤害且你处于奥数奔涌状态时，其会触发你的盾牌格挡（Shield Block）反应，甚至这种伤害非物理。当通过这种手段阻挡伤害时，提高你盾牌的硬度（Hardness），其数值等同于奥术奔涌额外伤害（通常是1，如果具有武器专精（weapon specialization）则为2，如果具有高等武器专精（greater weapon specialization）则为3）。无论你是使用一面真实盾牌、护盾术（shield）或者其他像盾牌一样运作的东西（例如，如果你具有举起书卷（Raise a Tome）专长时举起一本书），其收益都会生效。</p>\n<p><strong>汇聚法术 Conflux Spell</strong> <em>@Compendium[pf2e.spells-srd.53NqGTJOf4LcjVyD]{盾牌打击}</em></p>"
 		},
 		"Spell Blending": {
-			"name": "Spell Blending",
-			"description": "<p>You theorize that spell slots are a shorthand for an underlying energy that powers all spellcasting, and you've found a way to tinker with the hierarchy of spell slots, combining them to fuel more powerful spells. When you make your daily preparations, you can trade two spell slots of the same level for a bonus spell slot of up to 2 levels higher than the traded spell slots. You can exchange as many spell slots as you have available. Bonus spell slots must be of a level you can normally cast, and each bonus spell slot must be of a different spell level. You can also trade any spell slot for two additional cantrips, though you cannot trade more than one spell slot at a time for additional cantrips in this way.</p>"
+			"name": "法术交融 Spell Blending",
+			"description": "<p>你认为法术位是所有施法本源的速记，并且你找到了一个修补法术位机制的方法，将它们合并以产生更强大的法术。当你进行每日准备时，你可以把两个同环级法术位换成一个奖励法术位，这个奖励法术位的环位最高可以比你所提供的法术位的环级高2环。你想这样交换多少法术位都可以。奖励法术位的环级必须是你能施展的，同时每个奖励法术位的环级不可相同。你也可以将一个任何环级的法术位换成2个戏法，但你这样换成额外戏法的作法，每次只能用一个法术位去作交换。</p>"
 		},
 		"Spell Repertoire (Bard)": {
 			"name": "法术库（吟游诗人） Spell Repertoire (Bard)",
@@ -1470,8 +1470,8 @@
 			"description": "<p>The collection of spells you can cast is called your spell repertoire. At 1st level, you learn two 1st-level spells of your choice and five cantrips of your choice. You choose these from the common spells from the tradition corresponding to your eidolon, or from other spells from that tradition to which you have access. You can cast any spell in your spell repertoire by using a spell slot of an appropriate spell level. Your spell slots and the spells in your spell repertoire are separate. If a feat or other ability adds a spell to your spell repertoire, it doesn't give you another spell slot, and vice versa.</p>\n<p>You add to this spell repertoire as you increase in level. Each time you get a spell slot (see Table 2-4: Summoner Spells per Day), you add a spell of the same level to your spell repertoire. At 2nd level, you select another 1st-level spell. At 3rd level, you add the first 2nd-level spell to your repertoire. At 4th level you gain your second and your spell repertoire reaches its maximum size of five spells.</p>\n<p>At 5th level, in addition to adding two 3rd-level spells to your repertoire, you lose your lowest level of spell slots. Any time you lose a level of spell slots, you lose two spells in your repertoire as well. These can come from spells you already know or out of the number of new spells you're learning. On levels in which you don't change your spell slots, you can swap out multiple spells, as described below.</p>\n<h3>Swapping Spells in Your Repertoire</h3>\n<p>As you gain new spells in your repertoire, you might want to replace some of the spells you previously learned. Each time you gain a level and learn new spells, you can swap out one of your old spells for a different spell of the same level. If it's a level at which you lose a set of lower-level slots, you can replace the two in either order. You can also instead swap a cantrip. You can also swap out spells by retraining during downtime.</p>\n<p>At 6th level and every even level thereafter, you can swap out any number of your spells for different spells of a level you can cast. When you do, you must keep at least one spell you can cast with your lowest level of spell slots so you don't end up with slots you can't use. For instance, at 6th level you would need to keep at least one 2nd-level spell, but all your other spells could be 3rd level.</p>"
 		},
 		"Spell Substitution": {
-			"name": "Spell Substitution",
-			"description": "<p>You don't accept the fact that once spells are prepared, they can't be changed until your next daily preparation, and you have uncovered a shortcut allowing you to substitute new spells for those you originally prepared. You can spend 10 minutes to empty one of your prepared spell slots and prepare a different spell from your spellbook in its place. If you are interrupted during such a swap, the original spell remains prepared and can still be cast. You can try again to swap out the spell later, but you must start the process over again.</p>"
+			"name": "法术替换 Spell Substitution",
+			"description": "<p>你不接受一旦法术准备好，直到你下一次日常准备之前都无法改变它们的事实，而你找到了一条捷径，让你可以用新法术代替那些你已经准备好的法术。你可以花10分钟将一个准备好的法术位弄空，并从你的法术书里拿另一个法术放进去。如果你在替换途中被打断，原本的法术依然保持准备好的状态，还是可以施放。你之后可以继续尝试替换，但你必须重头来过。</p>"
 		},
 		"Spellstrike": {
 			"name": "法术打击 Spellstrike",
@@ -1594,8 +1594,8 @@
 			"description": "<p>When you move through natural terrains, you are difficult to track. You always gain the benefits of the @Compendium[pf2e.actionspf2e.SB7cMECVtE06kByk]{Cover Tracks} action in such terrains, without moving at half your Speed.</p>"
 		},
 		"Transmutation": {
-			"name": "Transmutation",
-			"description": "<p>As a transmuter, you alter the physical properties of things, transforming creatures, objects, the natural world, and even yourself at your whim. You understand that change is inevitable. You add one 1st-level transmutation spell (such as <em>@Compendium[pf2e.spells-srd.TFitdEOpQC4SzKQQ]{Magic Weapon}</em>) to your spellbook. You learn the <em>@Compendium[pf2e.spells-srd.1lmzILdCFENln8Cy]{Physical Boost}</em> school spell.</p>"
+			"name": "变化学派 Transmutation",
+			"description": "<p>身为变化师，你能改变物件的物理特性，只需你一个念头，你就能转化生物、物体、自然世界甚至你自己。你知晓永远不变的就是变。你的法术书多一个1环变化系法术(例如 <em>@Compendium[pf2e.spells-srd.TFitdEOpQC4SzKQQ]{魔化武器 Magic Weapon}</em>) 。你学到了 <em>@Compendium[pf2e.spells-srd.1lmzILdCFENln8Cy]{身体增幅 Physical Boost}</em> 学派法术。</p>"
 		},
 		"Twin Juggernauts": {
 			"name": "Twin Juggernauts",
@@ -1734,8 +1734,8 @@
 			"description": "<p>Using your familiar as a conduit, your patron provides you the power to cast spells. You can cast spells using the @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Cast a Spell} activity, and you can supply material, somatic, and verbal components when casting spells.</p>\n<p>At 1st level, you can prepare up to two 1st-level spells and five cantrips each morning from the spells your familiar knows. Prepared spells remain available to you until you cast them or until you prepare your spells again. The number of spells you can prepare is called your spell slots.</p>\n<p>As you increase in level as a witch, your number of spell slots and the highest level of spells you can cast from spell slots increase.</p>\n<p>Some of your spells require you to attempt a spell attack roll to see how effective they are, or have your enemies roll against your spell DC (typically by attempting a saving throw). Since your key ability is Intelligence, your spell attack rolls and spell DCs use your Intelligence modifier.</p>\n<h3>Heightening Spells</h3>\n<p>When you get spell slots of 2nd level and higher, you can fill those slots with stronger versions of lower-level spells. This increases the spell's level, heightening it to match the spell slot. Many spells have specific improvements when they are heightened to certain levels.</p>\n<h3>Cantrips</h3>\n<p>A cantrip is a special type of spell that doesn't use spell slots. You can cast a cantrip at will, any number of times per day. A cantrip is always automatically heightened to half your level rounded up-this is usually equal to the highest level of spell you can cast as a witch. For example, as a 1st-level witch, your cantrips are 1st-level spells, and as a 5th-level witch, your cantrips are 3rd-level spells.</p>"
 		},
 		"Wizard Weapon Expertise": {
-			"name": "Wizard Weapon Expertise",
-			"description": "<p>Through a combination of magic and training, you've learned how to wield wizard weapons more effectively. You gain expert proficiency in the club, crossbow, dagger, heavy crossbow, staff, and unarmed attacks.</p>"
+			"name": "法师武器专家 Wizard Weapon Expertise",
+			"description": "<p>通过魔法与训练的结合培训后，你学会如何更有效率的使用法师的武器。你在木棒、弩、匕手、重弩还有法杖上的熟练度提升为专家。</p>"
 		},
 		"Wolf Animal Instinct": {
 			"name": "Wolf Animal Instinct",
