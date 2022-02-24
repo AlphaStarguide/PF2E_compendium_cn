@@ -23,6 +23,6 @@
 
 道具，武器，防具：CRB
 
-法术：CRB
+法术：CRB,APG
 
 仪式：CRB，APG，B1
