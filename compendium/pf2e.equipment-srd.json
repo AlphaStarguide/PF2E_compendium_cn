@@ -10934,8 +10934,8 @@
 			"description": "<p>A wizard's tower is a tiny gaming piece carved into the form of a stone tower.</p>\n<hr />\n<p><strong>Activate</strong> (10 minutes) command, envision, Interact</p>\n<p><strong>Effect</strong> The gaming piece transforms into a fully furnished stone tower 80 feet high and 30 feet in diameter. The tower is topped by a peaked wooden roof, with a wooden door on the second floor accessed by wooden stairs on the tower's exterior. A spiral staircase in the center of the tower connects its 6 floors. The bottom floor is empty, ideal for storage, and the second floor is a great hall for audiences and guests. The third and fourth floors are divided into servants quarters and guest rooms, while the top two floors feature luxurious personal chambers and an alchemy lab. You can revert the tower back to its original state by climbing to the top floor and using an action to speak a command word.</p>"
 		},
 		"Wolf Fang": {
-			"name": "Wolf Fang",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Envision</p>\n<p><strong>Trigger</strong> You successfully Trip a foe</p>\n<p><strong>Requirements</strong> You are trained in Athletics</p>\n<p>This wolf canine is bound in a strip of leather and tied to a buckle or strap of a suit of armor.</p>\n<p>When you activate the fang, you deal bludgeoning damage equal to your Strength modifier to the target of your Trip. If your Trip would already deal physical damage that doesn't include an ability modifier, add your Strength modifier to that damage.</p>"
+			"name": "狼之牙 Wolf Fang",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 想象</p>\n<p><strong>触发</strong> 你成功地摔拌Trip了一个敌人</p>\n<p><strong>需求</strong> 你在运动Athletics中受训</p>\n<p>这颗狼的犬齿吊在一条皮带上，并且挂在盔甲的搭扣或束带上。</p>\n<p>当你启动这颗牙，你对你摔拌Trip的目标造成等同于你的力量Strength调整值的钝击伤害。如果你的摔拌Trip已经可以造成不附加属性调整值的物理伤害，则将你的力量Strength调整值附加到伤害上。</p>"
 		},
 		"Wolfsbane": {
 			"name": "Wolfsbane",
