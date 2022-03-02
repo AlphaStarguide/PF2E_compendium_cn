@@ -5958,16 +5958,16 @@
 			"description": "<p>This brown leather satchel is made from a heavily oiled and rustic leather. The satchel is large enough to hold up to 1 Bulk worth of items.</p>\n<hr />\n<p><strong>Activate</strong> 1 minute (envision, Interact)</p>\n<p><strong>Effect</strong> Documents inside the haversack become magically disguised as documents of a similar type but with misleading information. Anyone inspecting a document notices the disguise with a successful @Check[type:perception|dc:20|name:Determine Documents are Misleading|showDC:all] check, but determining the actual text requires a successful @Check[type:society|dc:20|name:Decipher Writing|traits:action:decipher-writing|showDC:all] check to Decipher Writing. This lasts until you use this activation again, which ends the effect for all previously disguised documents; until you use the second activation to end the effect for a single document; or until a document in the haversack remains outside the haversack for at least 1 hour, ending the effect for that document.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> command</p>\n<p><strong>Effect</strong> You revert one of the documents back to its original state.</p>"
 		},
 		"Mistform Elixir (Greater)": {
-			"name": "Mistform Elixir (Greater)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>A faint mist emanates from your skin, making you @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} for 5 minutes.</p>\n<p>As usual being concealed when your position is still obvious, you can't use this concealment to @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Hide} or @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Sneak}.</p>"
+			"name": "雾化灵药（高等） Mistform Elixir (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>一阵模糊的雾气从你的皮肤中散发，使你在5分钟内变得 @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{隐蔽 Concealed}。</p>\n<p>当你的位置仍然显而易见时，就像普通的隐蔽一样，你不能使用这种隐蔽状态来进行 @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{躲藏 Hide} 或 @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{潜行 Sneak}。</p>"
 		},
 		"Mistform Elixir (Lesser)": {
-			"name": "Mistform Elixir (Lesser)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>A faint mist emanates from your skin, making you @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} for 3 rounds.</p>\n<p>As usual being concealed when your position is still obvious, you can't use this concealment to @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Hide} or @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Sneak}.</p>"
+			"name": "雾化灵药（次等） Mistform Elixir (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>一阵模糊的雾气从你的皮肤中散发，使你在3轮内变得 @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{隐蔽 Concealed}。</p>\n<p>当你的位置仍然显而易见时，就像普通的隐蔽一样，你不能使用这种隐蔽状态来进行 @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{躲藏 Hide} 或 @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{潜行 Sneak}。</p>"
 		},
 		"Mistform Elixir (Moderate)": {
-			"name": "Mistform Elixir (Moderate)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>A faint mist emanates from your skin, making you @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} for 1 minute.</p>\n<p>As usual being concealed when your position is still obvious, you can't use this concealment to @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Hide} or @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Sneak}.</p>"
+			"name": "雾化灵药（中等） Mistform Elixir (Moderate)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>一阵模糊的雾气从你的皮肤中散发，使你在1分钟内变得 @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{隐蔽 Concealed}。</p>\n<p>当你的位置仍然显而易见时，就像普通的隐蔽一样，你不能使用这种隐蔽状态来进行 @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{躲藏 Hide} 或 @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{潜行 Sneak}。</p>"
 		},
 		"Miter of Communion": {
 			"name": "Miter of Communion",
@@ -7194,20 +7194,20 @@
 			"description": "<p><strong>Activate</strong> 1 minute (Interact)</p>\n<hr />\n<p>Quickpatch glue is a fast-setting adhesive designed for rapid but temporary repairs.</p>\n<p>When applied to a broken item, the glue adheres the item's pieces back together. This does not restore the item's hit points, but it allows the item to be used for its normal function and removes the broken condition. The glue is fragile and degrades over time. An item repaired by quickpatch glue regains the broken condition after it takes damage or 1 hour passes (whichever comes first). In order to apply a new vial of quickpatch glue to or repair the item, the item's holder must first remove the glue residue, a process that requires 10 minutes of effort and a set of alchemist's tools.</p>"
 		},
 		"Quicksilver Mutagen (Greater)": {
-			"name": "Quicksilver Mutagen (Greater)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span></p><hr />\n<p>Your features become thin and angular. You become swifter and nimbler, but your body also becomes fragile.</p>\n<p><strong>Benefit</strong> You gain a +3 item bonus to Acrobatics checks, Stealth checks, Thievery checks, Reflex saves, and Dexterity-based attack rolls, and you gain a +15 foot status bonus to your Speed.</p>\n<p><strong>Drawback</strong> You take damage equal to twice your level; you can't recover Hit Points lost this way by any means while the mutagen lasts. You take a -2 penalty to Fortitude saves.</p>\n<p><strong>Duration</strong> 1 hour.</p>\n<p>@Compendium[pf2e.consumable-effects.2Bds6d4UGQZqYSZM]{Effect: Quicksilver Mutagen (Greater)}</p>"
+			"name": "水银突变药剂（高等） Quicksilver Mutagen (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p><hr />\n<p>你的外貌变得纤细而瘦削。你变得更为迅捷和灵活，但你的身体也更为脆弱。</p>\n<p><strong>好处</strong> 你在特技（Acrobatics）检定、隐匿（Stealth）检定、贼活（Thievery）检定、反射豁免和远程攻击骰上获得+3物品加值，你还会在速度（Speed）上获得+15尺状态加值。</p>\n<p><strong>缺陷</strong> 你受到等同于你等级两倍的伤害；在突变药剂持续期间，你不能以任何方式恢复因为这个效果而损失的生命值。你在强韧豁免上承受-2的减值。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.2Bds6d4UGQZqYSZM]{效果：水银突变药剂（高等）}</p>"
 		},
 		"Quicksilver Mutagen (Lesser)": {
-			"name": "Quicksilver Mutagen (Lesser)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<hr />\n<p>Your features become thin and angular. You become swifter and nimbler, but your body also becomes fragile.</p>\n<p><strong>Benefit</strong> You gain a +1 item bonus to Acrobatics checks, Stealth checks, Thievery checks, Reflex saves, and Dexterity-based attack rolls, and you gain a +5 foot status bonus to your Speed.</p>\n<p><strong>Drawback</strong> You take damage equal to twice your level; you can't recover Hit Points lost this way by any means while the mutagen lasts. You take a -2 penalty to Fortitude saves.</p>\n<p><strong>Duration</strong> 1 minute.</p>\n<p>@Compendium[pf2e.consumable-effects.6PNLBIdlqqWNCFMy]{Effect: Quicksilver Mutagen (Lesser)}</p>"
+			"name": "水银突变药剂（次等） Quicksilver Mutagen (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的外貌变得纤细而瘦削。你变得更为迅捷和灵活，但你的身体也更为脆弱。</p>\n<p><strong>好处</strong> 你在特技（Acrobatics）检定、隐匿（Stealth）检定、贼活（Thievery）检定、反射豁免和远程攻击骰上获得+1物品加值，你还会在速度（Speed）上获得+5尺状态加值。</p>\n<p><strong>缺陷</strong> 你受到等同于你等级两倍的伤害；在突变药剂持续期间，你不能以任何方式恢复因为这个效果而损失的生命值。你在强韧豁免上承受-2的减值。</p>\n<p><strong>持续时间</strong> 1 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.6PNLBIdlqqWNCFMy]{效果：水银突变药剂（次等）}</p>"
 		},
 		"Quicksilver Mutagen (Major)": {
-			"name": "Quicksilver Mutagen (Major)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<hr />\n<p>Your features become thin and angular. You become swifter and nimbler, but your body also becomes fragile.</p>\n<p><strong>Benefit</strong> You gain a +4 item bonus to Acrobatics checks, Stealth checks, Thievery checks, Reflex saves, and Dexterity-based attack rolls, and you gain a +20 foot status bonus to your Speed.</p>\n<p><strong>Drawback</strong> You take damage equal to twice your level; you can't recover Hit Points lost this way by any means while the mutagen lasts. You take a -2 penalty to Fortitude saves.</p>\n<p><strong>Duration</strong> 1 hour.</p>\n<p>@Compendium[pf2e.consumable-effects.988f6NpOo4YzFzIr]{Effect: Quicksilver Mutagen (Major)}</p>"
+			"name": "水银突变药剂（上等） Quicksilver Mutagen (Major)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的外貌变得纤细而瘦削。你变得更为迅捷和灵活，但你的身体也更为脆弱。</p>\n<p><strong>好处</strong> 你在特技（Acrobatics）检定、隐匿（Stealth）检定、贼活（Thievery）检定、反射豁免和远程攻击骰上获得+4物品加值，你还会在速度（Speed）上获得+20尺状态加值。</p>\n<p><strong>缺陷</strong> 你受到等同于你等级两倍的伤害；在突变药剂持续期间，你不能以任何方式恢复因为这个效果而损失的生命值。你在强韧豁免上承受-2的减值。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.988f6NpOo4YzFzIr]{效果：水银突变药剂（上等）}</p>"
 		},
 		"Quicksilver Mutagen (Moderate)": {
-			"name": "Quicksilver Mutagen (Moderate)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<hr />\n<p>Your features become thin and angular. You become swifter and nimbler, but your body also becomes fragile.</p>\n<p><strong>Benefit</strong> You gain a +2 item bonus to Acrobatics checks, Stealth checks, Thievery checks, Reflex saves, and Dexterity-based attack rolls, and you gain a +10 foot status bonus to your Speed.</p>\n<p><strong>Drawback</strong> You take damage equal to twice your level; you can't recover Hit Points lost this way by any means while the mutagen lasts. You take a -2 penalty to Fortitude saves.</p>\n<p><strong>Duration</strong> 10 minutes.</p>\n<p>@Compendium[pf2e.consumable-effects.VPtsrpbP0AE642al]{Effect: Quicksilver Mutagen (Moderate)}</p>"
+			"name": "水银突变药剂（中等） Quicksilver Mutagen (Moderate)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的外貌变得纤细而瘦削。你变得更为迅捷和灵活，但你的身体也更为脆弱。</p>\n<p><strong>好处</strong> 你在特技（Acrobatics）检定、隐匿（Stealth）检定、贼活（Thievery）检定、反射豁免和远程攻击骰上获得+2物品加值，你还会在速度（Speed）上获得+10尺状态加值。</p>\n<p><strong>缺陷</strong> 你受到等同于你等级两倍的伤害；在突变药剂持续期间，你不能以任何方式恢复因为这个效果而损失的生命值。你在强韧豁免上承受-2的减值。</p>\n<p><strong>持续时间</strong> 10 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.VPtsrpbP0AE642al]{效果：水银突变药剂（中等）}</p>"
 		},
 		"Quill of Passage": {
 			"name": "Quill of Passage",
@@ -7894,16 +7894,16 @@
 			"description": "<p>This luminescent paste is made from the powdered bones of a long-forgotten saint, mixed with herbs and blessed by a priest. It typically comes in a tightly sealed, palm-sized dish etched with holy symbols. Applying <em>saints' balm</em> to yourself or a creature within reach restores 3d8+10 Hit Points to the creature to which it's applied.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>"
 		},
 		"Salamander Elixir (Greater)": {
-			"name": "Salamander Elixir (Greater)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This elixir is made from salamander scales to withstand fire. For 24 hours, you are protected from the effects of severe heat. You're also protected from extreme and incredible heat.</p>"
+			"name": "火蜥蜴灵药（高等） Salamander Elixir (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶灵药由能够抵抗火焰的火蜥蜴鳞屑制成。饮用后24小时内，你免受严重高温（severe heat）的影响。你也会免受极端和超常高温（incredible heat）的影响。</p>"
 		},
 		"Salamander Elixir (Lesser)": {
-			"name": "Salamander Elixir (Lesser)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This elixir is made from salamander scales to withstand fire. For 24 hours, you are protected from the effects of severe heat.</p>"
+			"name": "火蜥蜴灵药（次等） Salamander Elixir (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶灵药由能够抵抗火焰的火蜥蜴鳞屑制成。饮用后24小时内，你免受严重高温（severe heat）的影响。</p>"
 		},
 		"Salamander Elixir (Moderate)": {
-			"name": "Salamander Elixir (Moderate)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This elixir is made from salamander scales to withstand fire. For 24 hours, you are protected from the effects of severe heat. You're also protected from extreme heat.</p>"
+			"name": "火蜥蜴灵药（中等） Salamander Elixir (Moderate)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶灵药由能够抵抗火焰的火蜥蜴鳞屑制成。饮用后24小时内，你免受严重高温（severe heat）的影响。你也会免受极端高温（extreme heat）的影响。</p>"
 		},
 		"Salve of Antiparalysis": {
 			"name": "Salve of Antiparalysis",
@@ -8066,16 +8066,16 @@
 			"description": "<p>This snare sends a powerful series of scything blades to slice through a creature entering the snare's square, dealing 14d8 slashing damage (DC 31 basic Reflex).</p>"
 		},
 		"Sea Touch Elixir (Greater)": {
-			"name": "Sea Touch Elixir (Greater)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This briny concoction alters the skin on your hands and feet. The spaces between your fingers and toes become webbed, granting you a swim Speed of 20 feet for 24 hours, and you can breathe underwater.</p>\n<p>@Compendium[pf2e.consumable-effects.RRusoN3HEGnDO1Dg]{Effect: Sea Touch Elixir (Greater)}</p>"
+			"name": "海洋之触灵药（高等） Sea Touch Elixir (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶带有咸味的混合物能够改变你手脚的皮肤。你手指和脚趾之间的空隙会长出蹼，在24小时内给予你20尺的游泳速度，并且你能够在水中呼吸。</p>\n<p>@Compendium[pf2e.consumable-effects.RRusoN3HEGnDO1Dg]{Effect: Sea Touch Elixir (Greater)}</p>"
 		},
 		"Sea Touch Elixir (Lesser)": {
-			"name": "Sea Touch Elixir (Lesser)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This briny concoction alters the skin on your hands and feet. The spaces between your fingers and toes become webbed, granting you a swim Speed of 20 feet for 10 minutes.</p>\n<p>@Compendium[pf2e.consumable-effects.thOpQunbQr77XWdF]{Effect: Sea Touch Elixir (Lesser)}</p>"
+			"name": "海洋之触灵药（次等） Sea Touch Elixir (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶带有咸味的混合物能够改变你手脚的皮肤。你手指和脚趾之间的空隙会长出蹼，在10分钟内给予你20尺的游泳速度。</p>\n<p>@Compendium[pf2e.consumable-effects.thOpQunbQr77XWdF]{Effect: Sea Touch Elixir (Lesser)}</p>"
 		},
 		"Sea Touch Elixir (Moderate)": {
-			"name": "Sea Touch Elixir (Moderate)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This briny concoction alters the skin on your hands and feet. The spaces between your fingers and toes become webbed, granting you a swim Speed of 20 feet for 1 hour, and you can breathe underwater.</p>\n<p>@Compendium[pf2e.consumable-effects.9keegq0GdS1eSrNr]{Effect: Sea Touch Elixir (Moderate)}</p>"
+			"name": "海洋之触灵药（中等） Sea Touch Elixir (Moderate)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶带有咸味的混合物能够改变你手脚的皮肤。你手指和脚趾之间的空隙会长出蹼，在1小时内给予你20尺的游泳速度，并且你能够在水中呼吸。</p>\n<p>@Compendium[pf2e.consumable-effects.9keegq0GdS1eSrNr]{Effect: Sea Touch Elixir (Moderate)}</p>"
 		},
 		"Sealing Chest (Greater)": {
 			"name": "Sealing Chest (Greater)",
