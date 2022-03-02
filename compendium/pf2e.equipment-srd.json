@@ -842,20 +842,20 @@
 			"description": "<p>This bearskin includes the head and bared teeth of the mighty creature from which it was taken. When worn, the cloak drapes over your head and around your shoulders, imbuing you with a bear's ferocity.</p>\n<p>If you have the Rage action, while raging you grow jaws that deal 1d10 piercing damage and claws that deal 1d6 slashing damage and have the agile trait. This transformation is a morph effect, and both the jaws and claws are unarmed attacks in the brawling weapon group. You gain the benefits of a <em>+2 weapon potency</em> rune and a greater <em>striking</em> rune with these attacks (gaining a +2 item bonus to attack rolls and increasing the weapon damage dice by two).</p>\n<p>If you have an animal instinct and the bestial rage instinct ability, instead of gaining these unarmed attacks, your unarmed attacks from the bestial rage instinct ability gain the benefits of a <em>+3 weapon potency</em> rune and a <em>greater striking</em> rune (granting a +3 item bonus to attack rolls and increasing the weapon damage dice by three).</p>\n<p><strong>Craft Requirements</strong> You are a barbarian with the animal instinct.</p>"
 		},
 		"Bestial Mutagen (Greater)": {
-			"name": "Bestial Mutagen (Greater)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<hr />\n<p>Your features transform into something bestial and you take on muscle mass, but your lumbering form is clumsy.</p>\n<p><strong>Benefit</strong> You gain a +3 item bonus to Athletics checks and unarmed attack rolls. You gain a claw unarmed attack ([[/r {1d8}[slashing]]]{1d8 slashing damage}) with the agile trait and a jaws unarmed attack ([[/r {1d10}[piercing]]]{1d10 piercing damage}).</p>\n<p><strong>Drawback</strong> You take a -1 penalty to AC and a -2 penalty to Reflex saves.</p>\n<p><strong>Duration</strong> 1 hour.</p>\n<p>@Compendium[pf2e.consumable-effects.kwD0wuW5Ndkc9YXB]{Effect: Bestial Mutagen (Greater)}</p>"
+			"name": "野性突变药剂（高等） Bestial Mutagen (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你转化出某种野兽的特征并长出膨大的肌肉，但这个粗壮的形态同样十分笨拙。</p>\n<p><strong>好处</strong> 你在运动（Athletics）检定和无武装攻击骰上获得+3物品加值。你获得啮咬（jaws）无武装攻击 ([[/r {1d8}[slashing]]]{1d8 挥砍伤害}) 以及带有灵巧（agile）特征的爪抓（claw）无武装攻击。 ([[/r {1d10}[piercing]]]{1d10 穿刺伤害})。</p>\n<p><strong>缺陷</strong> 你在AC上承受-1的减值，并在反射豁免上承受-2的减值。</p>\n<p><strong>Duration</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.kwD0wuW5Ndkc9YXB]{效果：野性突变药剂（高等）}</p>"
 		},
 		"Bestial Mutagen (Lesser)": {
-			"name": "Bestial Mutagen (Lesser)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<hr />\n<p>Your features transform into something bestial and you take on muscle mass, but your lumbering form is clumsy.</p>\n<p><strong>Benefit</strong> You gain a +1 item bonus to Athletics checks and unarmed attack rolls. You gain a claw unarmed attack ([[/r {1d4}[slashing]]]{1d4 slashing damage}) with the agile trait and a jaws unarmed attack ([[/r {1d6}[piercing]]]{1d6 piercing damage}).</p>\n<p><strong>Drawback</strong> You take a -1 penalty to AC and a -2 penalty to Reflex saves.</p>\n<p><strong>Duration</strong> 1 minute.</p>\n<p>@Compendium[pf2e.consumable-effects.fIpzDpuwLdIS4tW5]{Effect: Bestial Mutagen (Lesser)}</p>"
+			"name": "野性突变药剂（次等） Bestial Mutagen (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你转化出某种野兽的特征并长出膨大的肌肉，但这个粗壮的形态同样十分笨拙。</p>\n<p><strong>好处</strong> 你在运动（Athletics）检定和无武装攻击骰上获得+1物品加值。你获得啮咬（jaws）无武装攻击 ([[/r {1d4}[slashing]]]{1d4 挥砍伤害}) 以及带有灵巧（agile）特征的爪抓（claw）无武装攻击。 ([[/r {1d6}[piercing]]]{1d6 穿刺伤害})。</p>\n<p><strong>缺陷</strong> 你在AC上承受-1的减值，并在反射豁免上承受-2的减值。</p>\n<p><strong>Duration</strong> 1 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.fIpzDpuwLdIS4tW5]{效果：野性突变药剂（次等）}</p>"
 		},
 		"Bestial Mutagen (Major)": {
-			"name": "Bestial Mutagen (Major)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<hr />\n<p>Your features transform into something bestial and you take on muscle mass, but your lumbering form is clumsy.</p>\n<p><strong>Benefit</strong> You gain a +4 item bonus to Athletics checks and unarmed attack rolls. You gain a claw unarmed attack ([[/r {1d8}[slashing]]]{1d8 slashing damage}) with the agile trait and a jaws unarmed attack ([[/r {1d10}[piercing]]]{1d10 piercing damage}). You gain the weapon specialization with the claws and jaws, or greater weapon specialization, if you already have weapon specialization with these unarmed attacks.</p>\n<p><strong>Drawback</strong> You take a -1 penalty to AC and a -2 penalty to Reflex saves.</p>\n<p><strong>Duration</strong> 1 hour.</p>\n<p>@Compendium[pf2e.consumable-effects.1ouUo8lLK6H79Rqh]{Effect: Bestial Mutagen (Major)}</p>"
+			"name": "野性突变药剂（上等） Bestial Mutagen (Major)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">1</span> 交互</p>\n<hr />\n<p>你转化出某种野兽的特征并长出膨大的肌肉，但这个粗壮的形态同样十分笨拙。</p>\n<p><strong>好处</strong> 你在运动（Athletics）检定和无武装攻击骰上获得+4物品加值。你获得啮咬（jaws）无武装攻击 ([[/r {1d8}[slashing]]]{1d8 挥砍伤害}) 以及带有灵巧（agile）特征的爪抓（claw）无武装攻击。 ([[/r {1d10}[piercing]]]{1d10 穿刺伤害})。 你获得爪抓和啮咬的武器专精，如果你已经拥有无武装攻击的武器专精，那么你会转而获得爪抓和啮咬的高等武器专精。</p>\n<p><strong>缺陷</strong> 你在AC上承受-1的减值，并在反射豁免上承受-2的减值。</p>\n<p><strong>Duration</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.1ouUo8lLK6H79Rqh]{效果：野性突变药剂（上等）}</p>"
 		},
 		"Bestial Mutagen (Moderate)": {
-			"name": "Bestial Mutagen (Moderate)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<hr />\n<p>Your features transform into something bestial and you take on muscle mass, but your lumbering form is clumsy.</p>\n<p><strong>Benefit</strong> You gain a +2 item bonus to Athletics checks and unarmed attack rolls. You gain a claw unarmed attack ([[/r {1d6}[slashing]]]{1d6 slashing damage}) with the agile trait and a jaws unarmed attack ([[/r {1d8}[piercing]]]{1d8 piercing damage}).</p>\n<p><strong>Drawback</strong> You take a -1 penalty to AC and a -2 penalty to Reflex saves.</p>\n<p><strong>Duration</strong> 10 minutes.</p>\n<p>@Compendium[pf2e.consumable-effects.xFQRiVU6h8EA6Lw9]{Effect: Bestial Mutagen (Moderate)}</p>"
+			"name": "野性突变药剂（中等） Bestial Mutagen (Moderate)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你转化出某种野兽的特征并长出膨大的肌肉，但这个粗壮的形态同样十分笨拙。</p>\n<p><strong>好处</strong> 你在运动（Athletics）检定和无武装攻击骰上获得+2物品加值。你获得啮咬（jaws）无武装攻击 ([[/r {1d6}[slashing]]]{1d6 挥砍伤害}) 以及带有灵巧（agile）特征的爪抓（claw）无武装攻击。 ([[/r {1d8}[piercing]]]{1d8 穿刺伤害})。</p>\n<p><strong>缺陷</strong> 你在AC上承受-1的减值，并在反射豁免上承受-2的减值。</p>\n<p><strong>Duration</strong> 10 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.xFQRiVU6h8EA6Lw9]{效果：野性突变药剂（中等）}</p>"
 		},
 		"Bestiary of Metamorphosis": {
 			"name": "Bestiary of Metamorphosis",
@@ -1178,12 +1178,12 @@
 			"description": "<p>You create a snare that catalyzes three 3rd-level moderate alchemical bombs of the same type to explode when a creature enters the snare's square. The target and all creatures in adjacent squares must attempt a @Check[type:reflex|dc:26|basic:true|showDC:all], as the snare deals damage equal to three times the direct hit damage from one of the component bombs (for example, [[/r {6d6}[electricity]]]{6d6 electricity damage} from bottled lightning) with no splash damage or other effects.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes half damage and no other effects.</p>\n<p><strong>Failure</strong> The creature takes full damage. It also takes all other effects of a direct hit from one of the component bombs (such as flat-footed from bottled lightning or persistent damage from an acid flask).</p>\n<p><strong>Critical Failure</strong> The creature takes double damage, plus all other effects of a direct hit (as failure).</p>\n<hr />\n<p><strong>Craft Requirements</strong> Supply three of the same damaging 3rd-level moderate alchemical bomb.</p>"
 		},
 		"Bomber's Eye Elixir (Greater)": {
-			"name": "Bomber's Eye Elixir (Greater)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This tincture lets you pinpoint your foes. For the next 5 minutes, your alchemical bomb Strikes reduce the circumstance bonus to AC your targets gain from cover by 2.</p>"
+			"name": "爆破者之眼灵药（高等） Bomber's Eye Elixir (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶酊剂能让你精确定位敌人。在接下来的五分钟，你的炼金炸弹打击（Strikes）将会减少2点你的目标从掩蔽中获得的AC上的环境加值。</p>"
 		},
 		"Bomber's Eye Elixir (Lesser)": {
-			"name": "Bomber's Eye Elixir (Lesser)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This tincture lets you pinpoint your foes. For the next 5 minutes, your alchemical bomb Strikes reduce the circumstance bonus to AC your targets gain from cover by 1.</p>"
+			"name": "爆破者之眼灵药（次等） Bomber's Eye Elixir (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶酊剂能让你精确定位敌人。在接下来的五分钟，你的炼金炸弹打击（Strikes）将会减少1点你的目标从掩蔽中获得的AC上的环境加值。</p>"
 		},
 		"Bomber's Saddle": {
 			"name": "Bomber's Saddle",
@@ -1334,16 +1334,16 @@
 			"description": ""
 		},
 		"Bravo's Brew (Greater)": {
-			"name": "Bravo's Brew (Greater)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This flask of foaming beer grants courage. For the next hour after drinking this elixir, you gain a +3 item bonus to Will saves, or +4 when attempting Will saves against fear. If you roll a success on a save against fear, you get a critical success instead.</p>\n<p>@Compendium[pf2e.consumable-effects.q1EhQ716bPSgJVnC]{Effect: Bravo's Brew (Greater)}</p>"
+			"name": "狂徒醇酿（高等） Bravo's Brew (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这烧瓶中冒泡的啤酒能带来勇气。在饮用这瓶灵药后的一个小时中，你在意志豁免上获得+3物品加值，在对抗恐惧效果时变为+4物品加值。如果你在对抗恐惧的豁免中成功，你可以将其替换为大成功。</p>\n<p>@Compendium[pf2e.consumable-effects.q1EhQ716bPSgJVnC]{效果：狂徒醇酿（高等）}</p>"
 		},
 		"Bravo's Brew (Lesser)": {
-			"name": "Bravo's Brew (Lesser)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This flask of foaming beer grants courage. For the next hour after drinking this elixir, you gain a +1 item bonus to Will saves, or +2 when attempting Will saves against fear.</p>\n<p>@Compendium[pf2e.consumable-effects.eh7EqmDBDW30ShCu]{Effect: Bravo's Brew (Lesser)}</p>"
+			"name": "狂徒醇酿（次等） Bravo's Brew (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这烧瓶中冒泡的啤酒能带来勇气。在饮用这瓶灵药后的一个小时中，你在意志豁免上获得+1物品加值，在对抗恐惧效果时变为+2物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.eh7EqmDBDW30ShCu]{效果：狂徒醇酿（次等）}</p>"
 		},
 		"Bravo's Brew (Moderate)": {
-			"name": "Bravo's Brew (Moderate)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This flask of foaming beer grants courage. For the next hour after drinking this elixir, you gain a +2 item bonus to Will saves, or +3 when attempting Will saves against fear.</p>\n<p>@Compendium[pf2e.consumable-effects.wTZnKkT0K4Tdy8mD]{Effect: Bravo's Brew (Moderate)}</p>"
+			"name": "狂徒醇酿（中等） Bravo's Brew (Moderate)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这烧瓶中冒泡的啤酒能带来勇气。在饮用这瓶灵药后的一个小时中，你在意志豁免上获得+2物品加值，在对抗恐惧效果时变为+3物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.wTZnKkT0K4Tdy8mD]{效果：狂徒醇酿（中等）}</p>"
 		},
 		"Breastplate": {
 			"name": "胸甲 Breastplate",
@@ -1998,20 +1998,20 @@
 			"description": "<p>A female figure peers through her blindfold from the cover of this stately tome.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">f</span> envision</p>\n<p><strong>Frequency</strong> once per hour</p>\n<p><strong>Requirements</strong> Your last action was to cast a divination spell prepared from this grimoire</p>\n<p><strong>Effect</strong> The grimoire offers you a glimpse into the truth of things. Seek or Recall Knowledge. When you use it, you gain a +1 item bonus on your Perception check to Seek or skill check to Recall Knowledge.</p>\n<p>@Compendium[pf2e.equipment-effects.ApGnHnZEK7nv3IqL]{Equipment Effect: Greater Codex of Unimpeded Sight}</p>"
 		},
 		"Cognitive Mutagen (Greater)": {
-			"name": "Cognitive Mutagen (Greater)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<hr />\n<p>Your mind becomes clear and cognition flows freely, but physical matters seem ephemeral.</p>\n<p><strong>Benefit</strong> You gain a +3 item bonus to Arcana, Crafting, Lore, Occultism, and Society checks and all checks to @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Recall Knowledge}. Your critical failures on @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Recall Knowledge} checks become failures instead. You become trained in one Intelligence-based skill [Arcana, Crafting, Lore, Occultism, Society], chosen at creation.</p>\n<p><strong>Drawback</strong> You take a -2 penalty to weapon and unarmed attack rolls, Athletics checks, and acrobatics checks. You can carry 2 less Bulk than normal before becoming encumbered, and the maximum Bulk you can carry is reduced by 4.</p>\n<p><strong>Duration</strong> 1 hour.</p>\n<p>@Compendium[pf2e.consumable-effects.qit1mLbJUyRTYcPU]{Effect: Cognitive Mutagen (Greater)}</p>"
+			"name": "认知突变药剂（高等） Cognitive Mutagen (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的思维和认知变得异常清晰，运转自如，但肉身的存在似乎也变得转瞬即逝。</p>\n<p><strong>好处</strong> 你在奥法（Arcana），手艺（Crafting），学识（Lore），神秘学（Occultism），社科（Society）检定和所有用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge}检定上获得+3物品加值。你能将 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 检定时的大失败替换为失败。 你在创造药剂时所选的一个基于智力的技能上受训。</p>\n<p><strong>缺陷</strong> 你在武器和无武装攻击骰，运动（Athletics）和特技（Acrobatics）检定上承受-2的减值。你在由正常陷入超载（encumbered）之前能够携带的负载减少2，你能够携带的最大负载减少4。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.qit1mLbJUyRTYcPU]{效果：认知突变药剂（高等）}</p>"
 		},
 		"Cognitive Mutagen (Lesser)": {
-			"name": "Cognitive Mutagen (Lesser)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<hr />\n<p>Your mind becomes clear and cognition flows freely, but physical matters seem ephemeral.</p>\n<p><strong>Benefit</strong> You gain a +1 item bonus to Arcana, Crafting, Lore, Occultism, and Society checks and all checks to @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Recall Knowledge}. Your critical failures on @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Recall Knowledge} checks become failures instead.</p>\n<p><strong>Drawback</strong> You take a -2 penalty to weapon and unarmed attack rolls, Athletics checks, and acrobatics checks. You can carry 2 less Bulk than normal before becoming encumbered, and the maximum Bulk you can carry is reduced by 4.</p>\n<p><strong>Duration</strong> 1 minute.</p>\n<p>@Compendium[pf2e.consumable-effects.jaBMZKdoywOTrQvP]{Effect: Cognitive Mutagen (Lesser)}</p>"
+			"name": "认知突变药剂（次等） Cognitive Mutagen (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的思维和认知变得异常清晰，运转自如，但肉身的存在似乎也变得转瞬即逝。</p>\n<p><strong>好处</strong> 你在奥法（Arcana），手艺（Crafting），学识（Lore），神秘学（Occultism），社科（Society）检定和所有用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge}检定上获得+1物品加值。你能将 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 检定时的大失败替换为失败。</p>\n<p><strong>缺陷</strong> 你在武器和无武装攻击骰，运动（Athletics）和特技（Acrobatics）检定上承受-2的减值。你在由正常陷入超载（encumbered）之前能够携带的负载减少2，你能够携带的最大负载减少4。</p>\n<p><strong>持续时间</strong> 1 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.jaBMZKdoywOTrQvP]{效果：认知突变药剂（次等）}</p>"
 		},
 		"Cognitive Mutagen (Major)": {
-			"name": "Cognitive Mutagen (Major)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<hr />\n<p>Your mind becomes clear and cognition flows freely, but physical matters seem ephemeral.</p>\n<p><strong>Benefit</strong> You gain a +4 item bonus to Arcana, Crafting, Lore, Occultism, and Society checks and all checks to @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Recall Knowledge}. Your critical failures on @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Recall Knowledge} checks become failures instead. You become trained in one skill, chosen at creation.</p>\n<p><strong>Drawback</strong> You take a -2 penalty to weapon and unarmed attack rolls, Athletics checks, and acrobatics checks. You can carry 2 less Bulk than normal before becoming encumbered, and the maximum Bulk you can carry is reduced by 4.</p>\n<p><strong>Duration</strong> 1 hour.</p>\n<p>@Compendium[pf2e.consumable-effects.RT1BxXrbbGgk40Ti]{Effect: Cognitive Mutagen (Major)}</p>"
+			"name": "认知突变药剂（上等） Cognitive Mutagen (Major)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的思维和认知变得异常清晰，运转自如，但肉身的存在似乎也变得转瞬即逝。</p>\n<p><strong>好处</strong> 你在奥法（Arcana），手艺（Crafting），学识（Lore），神秘学（Occultism），社科（Society）检定和所有用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge}检定上获得+4物品加值。你能将 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 检定时的大失败替换为失败。 你在创造药剂时所选的一个技能上受训。</p>\n<p><strong>缺陷</strong> 你在武器和无武装攻击骰，运动（Athletics）和特技（Acrobatics）检定上承受-2的减值。你在由正常陷入超载（encumbered）之前能够携带的负载减少2，你能够携带的最大负载减少4。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.RT1BxXrbbGgk40Ti]{效果：认知突变药剂（上等）}</p>"
 		},
 		"Cognitive Mutagen (Moderate)": {
-			"name": "Cognitive Mutagen (Moderate)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<hr />\n<p>Your mind becomes clear and cognition flows freely, but physical matters seem ephemeral.</p>\n<p><strong>Benefit</strong> You gain a +2 item bonus to Arcana, Crafting, Lore, Occultism, and Society checks and all checks to @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Recall Knowledge}. Your critical failures on @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Recall Knowledge} checks become failures instead.</p>\n<p><strong>Drawback</strong> You take a -2 penalty to weapon and unarmed attack rolls, Athletics checks, and acrobatics checks. You can carry 2 less Bulk than normal before becoming encumbered, and the maximum Bulk you can carry is reduced by 4.</p>\n<p><strong>Duration</strong> 10 minutes.</p>\n<p>@Compendium[pf2e.consumable-effects.ztxW3lBPRcesF7wK]{Effect: Cognitive Mutagen (Moderate)}</p>"
+			"name": "认知突变药剂（中等） Cognitive Mutagen (Moderate)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的思维和认知变得异常清晰，运转自如，但肉身的存在似乎也变得转瞬即逝。</p>\n<p><strong>好处</strong> 你在奥法（Arcana），手艺（Crafting），学识（Lore），神秘学（Occultism），社科（Society）检定和所有用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge}检定上获得+2物品加值。你能将 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 检定时的大失败替换为失败。</p>\n<p><strong>缺陷</strong> 你在武器和无武装攻击骰，运动（Athletics）和特技（Acrobatics）检定上承受-2的减值。你在由正常陷入超载（encumbered）之前能够携带的负载减少2，你能够携带的最大负载减少4。</p>\n<p><strong>持续时间</strong> 10 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.ztxW3lBPRcesF7wK]{效果：认知突变药剂（中等）}</p>"
 		},
 		"Coin of Comfort": {
 			"name": "Coin of Comfort",
@@ -3022,20 +3022,20 @@
 			"description": "<p>This robe is made from dweomerweave, a magical fabric created by spinning minor illusions into the threads of ether spider silk. Dweomerweave is naturally hazy and translucent. It can take on the illusory appearances of other fabrics and garments, and dweomerweave robes are coveted by adventurers who want to travel light without compromising on fashion.</p>\n<hr />\n<p><strong>Activate</strong> 1 minute (Interact)</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You gain the effects of a 1st-level <em>@Compendium[pf2e.spells-srd.i35dpZFI7jZcRoBo]{Illusory Disguise}</em> except that the illusion only alters the appearance of the dweomerweave robe, changing it into another garment with an appearance of your choice. The spell persists until the next activation. You can Dismiss the activation.</p>"
 		},
 		"Eagle Eye Elixir (Greater)": {
-			"name": "Eagle Eye Elixir (Greater)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>After you drink this elixir, you notice subtle visual details. For the next hour, you gain a +3 item bonus to Perception checks, or +4 when attempting to find secret doors and traps.</p>\n<p>@Compendium[pf2e.consumable-effects.kgotU0sFmtAHYySB]{Effect: Eagle Eye Elixir (Greater)}</p>"
+			"name": "鹰眼灵药（高等） Eagle Eye Elixir (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>在你饮用这瓶灵药后，你能够注意到最细微的视觉细节。在接下来一个小时内，你在察觉（Perception）检定上获得+3物品加值，如果这个检定是用于寻找密门和陷阱则为+4物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.kgotU0sFmtAHYySB]{效果：鹰眼灵药（高等）}</p>"
 		},
 		"Eagle Eye Elixir (Lesser)": {
-			"name": "Eagle Eye Elixir (Lesser)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>After you drink this elixir, you notice subtle visual details. For the next hour, you gain a +1 item bonus to Perception checks, or +2 when attempting to find secret doors and traps.</p>\n<p>@Compendium[pf2e.consumable-effects.VCypzSu659eC6jNi]{Effect: Eagle Eye Elixir (Lesser)}</p>"
+			"name": "鹰眼灵药（次等） Eagle Eye Elixir (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>在你饮用这瓶灵药后，你能够注意到最细微的视觉细节。在接下来一个小时内，你在察觉（Perception）检定上获得+1物品加值，如果这个检定是用于寻找密门和陷阱则为+2物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.VCypzSu659eC6jNi]{效果：鹰眼灵药（次等）}</p>"
 		},
 		"Eagle Eye Elixir (Major)": {
-			"name": "Eagle Eye Elixir (Major)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>After you drink this elixir, you notice subtle visual details. For the next hour, you gain a +3 item bonus to Perception checks, or +4 when attempting to find secret doors and traps.</p>\n<p>Each time you pass within 10 feet of a secret door or trap, the GM automatically rolls a secret check for you to find it.</p>\n<p>@Compendium[pf2e.consumable-effects.wyLEew86nhNUXASu]{Effect: Eagle Eye Elixir (Major)}</p>"
+			"name": "鹰眼灵药（上等） Eagle Eye Elixir (Major)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>在你饮用这瓶灵药后，你能够注意到最细微的视觉细节。在接下来一个小时内，你在察觉（Perception）检定上获得+3物品加值，如果这个检定是用于寻找密门和陷阱则为+4物品加值。</p>\n<p>每次你经过密门或陷阱周围10尺时，GM自动为你进行一次寻找它们的秘密检定。</p>\n<p>@Compendium[pf2e.consumable-effects.wyLEew86nhNUXASu]{效果：鹰眼灵药（上等）}</p>"
 		},
 		"Eagle Eye Elixir (Moderate)": {
-			"name": "Eagle Eye Elixir (Moderate)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>After you drink this elixir, you notice subtle visual details. For the next hour, you gain a +2 item bonus to Perception checks, or +3 when attempting to find secret doors and traps.</p>\n<p>@Compendium[pf2e.consumable-effects.Wa4317cqU4lJ8vAQ]{Effect: Eagle Eye Elixir (Moderate)}</p>"
+			"name": "鹰眼灵药（中等） Eagle Eye Elixir (Moderate)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>在你饮用这瓶灵药后，你能够注意到最细微的视觉细节。在接下来一个小时内，你在察觉（Perception）检定上获得+2物品加值，如果这个检定是用于寻找密门和陷阱则为+3物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.Wa4317cqU4lJ8vAQ]{效果：鹰眼灵药（中等）}</p>"
 		},
 		"Earplugs": {
 			"name": "Earplugs",
