@@ -1294,8 +1294,8 @@
 			"description": "<p>These stiff leather armguards grant you a +3 item bonus to AC and saving throws, and a maximum Dexterity modifier of +5. You can affix talismans to <em>bracers of armor</em> as though they were light armor.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li> +3 item bonus to AC and saving throws, and a maximum Dexterity modifier of +5.</li>\n</ul>"
 		},
 		"Bracers of Missile Deflection": {
-			"name": "Bracers of Missile Deflection",
-			"description": "<p>These bracers are made from plates of durable mithral and gleam like the summer sun.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">R</span> Interact</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> A ranged weapon attack hits you but doesn't critically hit</p>\n<p><strong>Requirements</strong> You are aware of the attack and not flat-footed</p>\n<p><strong>Effect</strong> The bracers send the missile off-course. You gain a +2 circumstance bonus to AC against the triggering attack. If this would cause the attack to be a failure, the attack misses you.</p>\n<p>@Compendium[pf2e.equipment-effects.PeiuJ951kkBPTCSM]{Effect: Bracers of Missile Deflection}</p>"
+			"name": "飞弹偏斜护腕 Bracers of Missile Deflection",
+			"description": "<p>这对护腕由耐用的秘银制成，并如夏日的太阳一般闪闪发光。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">R</span> 互动</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>触发</strong> 一次远程武器攻击命中了你，但并没有达成重击</p>\n<p><strong>需求</strong> 你意识到了这次攻击，而且没有措手不及</p>\n<p><strong>效果</strong> 这对护腕偏斜了这次攻击的弹道。你在对抗触发的攻击的AC上获得+2环境加值。如果这会导致攻击失败，那么这次攻击丢失。</p>\n<p>@Compendium[pf2e.equipment-effects.PeiuJ951kkBPTCSM]{效果：飞弹偏斜护腕}</p>"
 		},
 		"Bracers of Missile Deflection (Greater)": {
 			"name": "Bracers of Missile Deflection (Greater)",
@@ -2122,12 +2122,12 @@
 			"description": "<p>这种抛射武器是由角、木头和肌腱复合而成，以增加其拉力和抛射力。它的尺寸和力量使它成为了骑乘射手的最爱。任何被特别限制于短弓上的能力，也同时适用于复合短弓，除非另有说明。</p>"
 		},
 		"Comprehension Elixir (Greater)": {
-			"name": "Comprehension Elixir (Greater)",
-			"description": "<p>This bitter draught opens your mind to the potential of the written word. For the listed duration after drinking this elixir, you can understand any words you read, so long as they are written in a common language. This elixir doesn't automatically allow you to understand codes or extremely esoteric passages-you still need to attempt a skill check to Decipher Writing. The duration is 10 minutes.</p>"
+			"name": "理解力灵药（高等） Comprehension Elixir (Greater)",
+			"description": "<p>这份苦味药剂能激发你脑中理解书写文字的潜能。在饮用这瓶灵药后10分钟内，你能够理解你所阅读的任何文字，就好像这些文字是用通用语书写的一般。这瓶灵药并不会让你自动理解密码或是极其晦涩的文章——你仍然需要尝试技能检定来解读文书（Decipher Writing）。</p>"
 		},
 		"Comprehension Elixir (Lesser)": {
-			"name": "Comprehension Elixir (Lesser)",
-			"description": "<p>This bitter draught opens your mind to the potential of the written word. For the listed duration after drinking this elixir, you can understand any words you read, so long as they are written in a common language. This elixir doesn't automatically allow you to understand codes or extremely esoteric passages-you still need to attempt a skill check to Decipher Writing. The duration is 1 minute.</p>"
+			"name": "理解力灵药（次等） Comprehension Elixir (Lesser)",
+			"description": "<p>这份苦味药剂能激发你脑中理解书写文字的潜能。在饮用这瓶灵药后1分钟内，你能够理解你所阅读的任何文字，就好像这些文字是用通用语书写的一般。这瓶灵药并不会让你自动理解密码或是极其晦涩的文章——你仍然需要尝试技能检定来解读文书（Decipher Writing）。</p>"
 		},
 		"Concealed Holster": {
 			"name": "Concealed Holster",
@@ -2742,8 +2742,8 @@
 			"description": "<p>This flintlock pistol has two side-by-side barrels. Though less accurate than a standard pistol, a double-barreled pistol is a useful and versatile weapon. It's generally banned in areas where duels with pistols are relatively common, in much the same way that arriving at an aristocratic duel with a scattergun would be considered crass, at best.</p>"
 		},
 		"Doubling Rings": {
-			"name": "Doubling Rings",
-			"description": "<p>This item consists of two magically linked rings: an intricate, gleaming golden ring with a square-cut ruby, and a thick, plain iron ring. When you wield a melee weapon in the hand wearing the golden ring, the weapon's fundamental runes are replicated onto any melee weapon you wield in the hand wearing the iron ring. (The fundamental runes are <em>weapon potency</em> and <em>striking</em>, which add an item bonus to attack rolls and extra weapon damage dice, respectively.) Any fundamental runes on the weapon in the hand wearing the iron ring are suppressed.</p>\n<p>The replication functions only if you wear both rings, and it ends as soon as you cease wielding a melee weapon in one of your hands. Consequently, the benefit doesn't apply to thrown attacks or if you're holding a weapon but not wielding it (such as holding in one hand a weapon that requires two hands to wield).</p>"
+			"name": "双持对戒 Doubling Rings",
+			"description": "<p>这件物品包含了两只通过魔法相连的戒指：一只精细锃亮的金戒指，上面镶嵌着一颗切割成方形的红宝石，以及一只厚重朴素的铁戒指。当你用戴着金戒指的手持握着一件近战武器，这件武器的基础符文会被复制到你戴着铁戒指的那只手所持握的任何近战武器上。（基础符文是 <em>武器潜能符文</em> 和 <em>强击符文</em>，分别能够在攻击骰上提供物品加值以及增加额外的武器伤害骰。）带着铁戒指的手所持握的武器上面原本的所有基础符文都会被压制。</p>\n<p>复制的效果只会在你同时戴着两只戒指的时候发生，并在你停止持握一只手上的近战武器时消失。因此，复制的效果无法用于投掷攻击，也无法作用于你抓着但未持握的武器上（例如用单手抓起一件需要双手持握的武器）。</p>"
 		},
 		"Doubling Rings (Greater)": {
 			"name": "Doubling Rings (Greater)",
@@ -3542,8 +3542,8 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<p>Cultivated by mashing and fermenting toxic weeds found in lonely graveyards, fearweed is a greenish paste magically infused with psychic horror. The @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened} condition from fearweed can't be removed while the poison lasts.</p>\n<hr />\n<p><strong>Saving Throw</strong> @Check[type:fortitude|dc:30]</p>\n<p><strong>Onset</strong> 1 minute</p>\n<p><strong>Maximum Duration</strong> 6 minutes</p>\n<p><strong>Stage 1</strong>[[/r {7d6}[poison]]]{7d6 poison damage} and frightened 1 (1 minute)</p>\n<p><strong>Stage 2</strong>[[/r {8d6}[poison]]]{8d6 poison damage} and frightened 2 (1 minute)</p>\n<p><strong>Stage 3</strong> [[/r {9d6}[poison]]]{9d6 poison damage} and frightened 3 (1 minute)</p>\n<hr />\n<p><strong>Craft Requirements</strong> Supply one casting of 4th-level <em>@Compendium[pf2e.spells-srd.4koZzrnMXhhosn0D]{Fear}</em>.</p>"
 		},
 		"Feather Step Stone": {
-			"name": "Feather Step Stone",
-			"description": "<p>This stone, usually shaped as a cabochon, is a small chunk of amber with a bit of feather or a flying insect caught within it. When you activate the stone, you ignore the effects of any difficult terrain and greater difficult terrain you move through until the end of your turn.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Envision</p>\n<p><strong>Trigger</strong> You Stride or Step</p>\n<p><strong>Requirements</strong> You are an expert in Acrobatics</p>"
+			"name": "轻羽步宝石 Feather Step Stone",
+			"description": "<p>这颗通常切割成凸圆形的宝石是一小块里面困着羽毛或飞虫的琥珀。当你启动这颗宝石后，在你的回合结束前可以无视任何困难地形和高等困难地形的效果。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 想象</p>\n<p><strong>触发</strong> 你行进Stride或快步Step</p>\n<p><strong>需求</strong> 你在特技Acrobatics上达到专家</p>"
 		},
 		"Feather Token (Anchor)": {
 			"name": "Feather Token (Anchor)",
@@ -5038,8 +5038,8 @@
 			"description": "<p>ight seems to partially penetrate this armor.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> command</p>\n<p><strong>Frequency</strong> three times per day</p>\n<p><strong>Effect</strong> Whispering the command word, you become invisible for 1 minute, gaining the effects of a 2nd-level <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{Invisibility}</em> spell.</p>\n<p><strong>Craft Requirements</strong> Supply one casting of <em>invisibility</em>.</p>"
 		},
 		"Invisibility Potion": {
-			"name": "Invisibility Potion",
-			"description": "<p>An invisibility potion is colorless and oddly lightweight. Upon drinking it, you gain the effects of a 2nd-level invisibility spell.</p>"
+			"name": "隐形药水 Invisibility Potion",
+			"description": "<p>隐形药水是一种无色而且异常轻盈的药水。喝下它之后，你获得2环隐形术Invisibility的效果。</p>"
 		},
 		"Invisible Chain Shirt": {
 			"name": "Invisible Chain Shirt",
@@ -6006,8 +6006,8 @@
 			"description": "<p><strong>Activate</strong><span class=\"pf2-icon\">1</span>Interact</p>\n<hr />\n<p>This translucent yellow-green liquid has a sharp, tangy odor and an oily sheen. It's mildly acidic and can cause a minor rash after prolonged contact with skin. To unlock its true potential, you must submerge a piece of an intelligent creature's brain matter in the acid and allow the material to completely dissolve. This takes [[/r 2d10 #minutes]]{2d10 minutes}, during which time the mnemonic acid bubbles and steams eagerly.</p>\n<p>Once the brain matter fully dissolves, you can consume the acid as an Interact action to experience a powerful vision and relive one of the memories of the creature whose brain matter was dissolved. You have no control over which memory you experience, although such visions are almost always of memories that were meaningful to the owner of the dissolved brain matter. The memory might be of a single event or a series of related and interconnected events; the memory lasts no longer than 10 minutes, and you're @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Blind} to the world around you for the duration.</p>\n<p>Each dose of mnemonic acid requires roughly 10% of the brain matter of the creature whose visions are to be experienced, meaning that up to 10 different memories from the same creature can be experienced, each with a different dose of mnemonic acid, before the brain matter is exhausted.</p>"
 		},
 		"Monkey Pin": {
-			"name": "Monkey Pin",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Climb</p>\n<p><strong>Requirements</strong> You are trained in Athletics</p>\n<p>This small brass pin is in the shape of a monkey climbing a tree. When you activate this talisman, use a Climb action. If you succeed, you move your full Speed during the Climb. If you roll a critical failure, you get a failure instead.</p>"
+			"name": "猿猴徽章 Monkey Pin",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 攀爬Climb</p>\n<p><strong>需求</strong> 你在运动Athletics中受训</p>\n<p>这枚黄铜小徽章的形状是一只在爬树的猴子。当你启动这枚护符，进行一个攀爬Climb动作。如果你成功了，则在攀爬中以你完整的速度Speed移动。如果你投出了大失败，则改为失败。</p>"
 		},
 		"Monkey's Fist": {
 			"name": "Monkey's Fist",
