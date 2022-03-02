@@ -318,8 +318,8 @@
 			"description": "<p>An Aldori dueling sword is a slim, single-bladed dueling sword with a slight curve and a sharp, reinforced point.</p>"
 		},
 		"Aligned Oil": {
-			"name": "Aligned Oil",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This oil fills a weapon with cosmic power of an alignment. Each aligned oil is crafted to one alignment: chaos, evil, good, or law (such as a good-aligned oil). A weapon anointed with this oil gains the effects of the property rune matching its alignment: @Compendium[pf2e.equipment-srd.65YL6nk1jIzCWutt]{Anarchic} (chaos), @Compendium[pf2e.equipment-srd.6xu6dPIaUZ7edKEB]{Axiomatic} (law), @Compendium[pf2e.equipment-srd.DH0kB9Wbr5pDeunX]{Holy} (good), or @Compendium[pf2e.equipment-srd.gmMrJREf4JSHd2dZ]{Unholy} (evil). This lasts for 1 minute.</p>"
+			"name": "阵营油 Aligned Oil",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这种油能在武器中灌注一个阵营的强大力量。每种阵营油Aligned Oil都与一个阵营关联：混乱、邪恶、善良、守序（例如善良阵营油）。涂抹了这种油的武器获得与阵营匹配的性能符文效果： @Compendium[pf2e.equipment-srd.65YL6nk1jIzCWutt]{混沌 Anarchic} (混乱), @Compendium[pf2e.equipment-srd.6xu6dPIaUZ7edKEB]{公理 Axiomatic} (守序), @Compendium[pf2e.equipment-srd.DH0kB9Wbr5pDeunX]{神圣 Holy} (善良), 或 @Compendium[pf2e.equipment-srd.gmMrJREf4JSHd2dZ]{邪恶 Unholy} (邪恶)。该效果持续1分钟。</p>"
 		},
 		"Alignment Ampoule (Greater)": {
 			"name": "Alignment Ampoule (Greater)",
@@ -446,8 +446,8 @@
 			"description": "<p>This intricate rune displaces spell energy, granting you a +1 status bonus to saving throws against magical effects.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">R</span> command</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> A spell targets you or includes you in its area</p>\n<p><strong>Effect</strong> The armor attempts to counteract the triggering spell with the effect of a 7th-level <em>@Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dispel Magic}</em> spell and a counteract modifier of +26.</p>\n<hr />\n<p><strong>Craft Requirements</strong> Supply one casting of <em>dispel magic</em>.</p>"
 		},
 		"Antimagic Oil": {
-			"name": "Antimagic Oil",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This oil contains energy that repels nearly all types of magic. When you apply this oil to armor, the creature wearing the armor becomes immune to all spells, effects of magic items (the wearer's and those of others), and effects with the magical trait for 1 minute.</p>\n<p>The oil affects neither the magic of the armor nor the fundamental runes of weapons attacking the wearer. Magical effects from a source of 20th level or higher, such as a deity, still function on the armor's wearer.</p>"
+			"name": "反魔油 Antimagic Oil",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这种油包含了能够排斥几乎所有魔法的能量。你将这种油涂在盔甲上后，穿戴该盔甲的生物对所有法术、魔法物品的效果（包括穿戴者的和其他人的）、以及具有魔法Magical特征的效果免疫，持续1分钟。</p>\n<p>这种油不会影响盔甲上的魔法和攻击穿戴者的武器上的基础符文。不低于20级的来源造成的魔法效果，例如来自神祗的效果，仍然能影响盔甲的穿戴者。</p>"
 		},
 		"Antiplague (Greater)": {
 			"name": "高等抗生素 Antiplague (Greater)",
@@ -842,20 +842,20 @@
 			"description": "<p>This bearskin includes the head and bared teeth of the mighty creature from which it was taken. When worn, the cloak drapes over your head and around your shoulders, imbuing you with a bear's ferocity.</p>\n<p>If you have the Rage action, while raging you grow jaws that deal 1d10 piercing damage and claws that deal 1d6 slashing damage and have the agile trait. This transformation is a morph effect, and both the jaws and claws are unarmed attacks in the brawling weapon group. You gain the benefits of a <em>+2 weapon potency</em> rune and a greater <em>striking</em> rune with these attacks (gaining a +2 item bonus to attack rolls and increasing the weapon damage dice by two).</p>\n<p>If you have an animal instinct and the bestial rage instinct ability, instead of gaining these unarmed attacks, your unarmed attacks from the bestial rage instinct ability gain the benefits of a <em>+3 weapon potency</em> rune and a <em>greater striking</em> rune (granting a +3 item bonus to attack rolls and increasing the weapon damage dice by three).</p>\n<p><strong>Craft Requirements</strong> You are a barbarian with the animal instinct.</p>"
 		},
 		"Bestial Mutagen (Greater)": {
-			"name": "野性突变药剂（高等） Bestial Mutagen (Greater)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你转化出某种野兽的特征并长出膨大的肌肉，但这个粗壮的形态同样十分笨拙。</p>\n<p><strong>好处</strong> 你在运动（Athletics）检定和无武装攻击骰上获得+3物品加值。你获得啮咬（jaws）无武装攻击 ([[/r {1d8}[slashing]]]{1d8 挥砍伤害}) 以及带有灵巧（agile）特征的爪抓（claw）无武装攻击。 ([[/r {1d10}[piercing]]]{1d10 穿刺伤害})。</p>\n<p><strong>缺陷</strong> 你在AC上承受-1的减值，并在反射豁免上承受-2的减值。</p>\n<p><strong>Duration</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.kwD0wuW5Ndkc9YXB]{效果：野性突变药剂（高等）}</p>"
+			"name": "高等野性突变药剂 Bestial Mutagen (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你转化出某种野兽的特征并长出膨大的肌肉，但这个粗壮的形态同样十分笨拙。</p>\n<p><strong>好处</strong> 你在运动（Athletics）检定和无武装攻击骰上获得+3物品加值。你获得啮咬（jaws）无武装攻击 ([[/r {1d8}[slashing]]]{1d8 挥砍伤害}) 以及带有灵巧（agile）特征的爪抓（claw）无武装攻击。 ([[/r {1d10}[piercing]]]{1d10 穿刺伤害})。</p>\n<p><strong>缺陷</strong> 你在AC上承受-1的减值，并在反射豁免上承受-2的减值。</p>\n<p><strong>Duration</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.kwD0wuW5Ndkc9YXB]{效果：高等野性突变药剂}</p>"
 		},
 		"Bestial Mutagen (Lesser)": {
-			"name": "野性突变药剂（次等） Bestial Mutagen (Lesser)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你转化出某种野兽的特征并长出膨大的肌肉，但这个粗壮的形态同样十分笨拙。</p>\n<p><strong>好处</strong> 你在运动（Athletics）检定和无武装攻击骰上获得+1物品加值。你获得啮咬（jaws）无武装攻击 ([[/r {1d4}[slashing]]]{1d4 挥砍伤害}) 以及带有灵巧（agile）特征的爪抓（claw）无武装攻击。 ([[/r {1d6}[piercing]]]{1d6 穿刺伤害})。</p>\n<p><strong>缺陷</strong> 你在AC上承受-1的减值，并在反射豁免上承受-2的减值。</p>\n<p><strong>Duration</strong> 1 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.fIpzDpuwLdIS4tW5]{效果：野性突变药剂（次等）}</p>"
+			"name": "次等野性突变药剂 Bestial Mutagen (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你转化出某种野兽的特征并长出膨大的肌肉，但这个粗壮的形态同样十分笨拙。</p>\n<p><strong>好处</strong> 你在运动（Athletics）检定和无武装攻击骰上获得+1物品加值。你获得啮咬（jaws）无武装攻击 ([[/r {1d4}[slashing]]]{1d4 挥砍伤害}) 以及带有灵巧（agile）特征的爪抓（claw）无武装攻击。 ([[/r {1d6}[piercing]]]{1d6 穿刺伤害})。</p>\n<p><strong>缺陷</strong> 你在AC上承受-1的减值，并在反射豁免上承受-2的减值。</p>\n<p><strong>Duration</strong> 1 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.fIpzDpuwLdIS4tW5]{效果：次等野性突变药剂}</p>"
 		},
 		"Bestial Mutagen (Major)": {
-			"name": "野性突变药剂（上等） Bestial Mutagen (Major)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">1</span> 交互</p>\n<hr />\n<p>你转化出某种野兽的特征并长出膨大的肌肉，但这个粗壮的形态同样十分笨拙。</p>\n<p><strong>好处</strong> 你在运动（Athletics）检定和无武装攻击骰上获得+4物品加值。你获得啮咬（jaws）无武装攻击 ([[/r {1d8}[slashing]]]{1d8 挥砍伤害}) 以及带有灵巧（agile）特征的爪抓（claw）无武装攻击。 ([[/r {1d10}[piercing]]]{1d10 穿刺伤害})。 你获得爪抓和啮咬的武器专精，如果你已经拥有无武装攻击的武器专精，那么你会转而获得爪抓和啮咬的高等武器专精。</p>\n<p><strong>缺陷</strong> 你在AC上承受-1的减值，并在反射豁免上承受-2的减值。</p>\n<p><strong>Duration</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.1ouUo8lLK6H79Rqh]{效果：野性突变药剂（上等）}</p>"
+			"name": "上等野性突变药剂 Bestial Mutagen (Major)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">1</span> 交互</p>\n<hr />\n<p>你转化出某种野兽的特征并长出膨大的肌肉，但这个粗壮的形态同样十分笨拙。</p>\n<p><strong>好处</strong> 你在运动（Athletics）检定和无武装攻击骰上获得+4物品加值。你获得啮咬（jaws）无武装攻击 ([[/r {1d8}[slashing]]]{1d8 挥砍伤害}) 以及带有灵巧（agile）特征的爪抓（claw）无武装攻击。 ([[/r {1d10}[piercing]]]{1d10 穿刺伤害})。 你获得爪抓和啮咬的武器专精，如果你已经拥有无武装攻击的武器专精，那么你会转而获得爪抓和啮咬的高等武器专精。</p>\n<p><strong>缺陷</strong> 你在AC上承受-1的减值，并在反射豁免上承受-2的减值。</p>\n<p><strong>Duration</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.1ouUo8lLK6H79Rqh]{效果：上等野性突变药剂}</p>"
 		},
 		"Bestial Mutagen (Moderate)": {
-			"name": "野性突变药剂（中等） Bestial Mutagen (Moderate)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你转化出某种野兽的特征并长出膨大的肌肉，但这个粗壮的形态同样十分笨拙。</p>\n<p><strong>好处</strong> 你在运动（Athletics）检定和无武装攻击骰上获得+2物品加值。你获得啮咬（jaws）无武装攻击 ([[/r {1d6}[slashing]]]{1d6 挥砍伤害}) 以及带有灵巧（agile）特征的爪抓（claw）无武装攻击。 ([[/r {1d8}[piercing]]]{1d8 穿刺伤害})。</p>\n<p><strong>缺陷</strong> 你在AC上承受-1的减值，并在反射豁免上承受-2的减值。</p>\n<p><strong>Duration</strong> 10 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.xFQRiVU6h8EA6Lw9]{效果：野性突变药剂（中等）}</p>"
+			"name": "中等野性突变药剂 Bestial Mutagen (Moderate)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你转化出某种野兽的特征并长出膨大的肌肉，但这个粗壮的形态同样十分笨拙。</p>\n<p><strong>好处</strong> 你在运动（Athletics）检定和无武装攻击骰上获得+2物品加值。你获得啮咬（jaws）无武装攻击 ([[/r {1d6}[slashing]]]{1d6 挥砍伤害}) 以及带有灵巧（agile）特征的爪抓（claw）无武装攻击。 ([[/r {1d8}[piercing]]]{1d8 穿刺伤害})。</p>\n<p><strong>缺陷</strong> 你在AC上承受-1的减值，并在反射豁免上承受-2的减值。</p>\n<p><strong>Duration</strong> 10 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.xFQRiVU6h8EA6Lw9]{效果：中等野性突变药剂}</p>"
 		},
 		"Bestiary of Metamorphosis": {
 			"name": "Bestiary of Metamorphosis",
@@ -1178,11 +1178,11 @@
 			"description": "<p>You create a snare that catalyzes three 3rd-level moderate alchemical bombs of the same type to explode when a creature enters the snare's square. The target and all creatures in adjacent squares must attempt a @Check[type:reflex|dc:26|basic:true|showDC:all], as the snare deals damage equal to three times the direct hit damage from one of the component bombs (for example, [[/r {6d6}[electricity]]]{6d6 electricity damage} from bottled lightning) with no splash damage or other effects.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes half damage and no other effects.</p>\n<p><strong>Failure</strong> The creature takes full damage. It also takes all other effects of a direct hit from one of the component bombs (such as flat-footed from bottled lightning or persistent damage from an acid flask).</p>\n<p><strong>Critical Failure</strong> The creature takes double damage, plus all other effects of a direct hit (as failure).</p>\n<hr />\n<p><strong>Craft Requirements</strong> Supply three of the same damaging 3rd-level moderate alchemical bomb.</p>"
 		},
 		"Bomber's Eye Elixir (Greater)": {
-			"name": "爆破者之眼灵药（高等） Bomber's Eye Elixir (Greater)",
+			"name": "高等爆破者之眼灵药 Bomber's Eye Elixir (Greater)",
 			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶酊剂能让你精确定位敌人。在接下来的五分钟，你的炼金炸弹打击（Strikes）将会减少2点你的目标从掩蔽中获得的AC上的环境加值。</p>"
 		},
 		"Bomber's Eye Elixir (Lesser)": {
-			"name": "爆破者之眼灵药（次等） Bomber's Eye Elixir (Lesser)",
+			"name": "次等爆破者之眼灵药 Bomber's Eye Elixir (Lesser)",
 			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶酊剂能让你精确定位敌人。在接下来的五分钟，你的炼金炸弹打击（Strikes）将会减少1点你的目标从掩蔽中获得的AC上的环境加值。</p>"
 		},
 		"Bomber's Saddle": {
@@ -1334,16 +1334,16 @@
 			"description": ""
 		},
 		"Bravo's Brew (Greater)": {
-			"name": "狂徒醇酿（高等） Bravo's Brew (Greater)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这烧瓶中冒泡的啤酒能带来勇气。在饮用这瓶灵药后的一个小时中，你在意志豁免上获得+3物品加值，在对抗恐惧效果时变为+4物品加值。如果你在对抗恐惧的豁免中成功，你可以将其替换为大成功。</p>\n<p>@Compendium[pf2e.consumable-effects.q1EhQ716bPSgJVnC]{效果：狂徒醇酿（高等）}</p>"
+			"name": "高等狂徒醇酿 Bravo's Brew (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这烧瓶中冒泡的啤酒能带来勇气。在饮用这瓶灵药后的一个小时中，你在意志豁免上获得+3物品加值，在对抗恐惧效果时变为+4物品加值。如果你在对抗恐惧的豁免中成功，你可以将其替换为大成功。</p>\n<p>@Compendium[pf2e.consumable-effects.q1EhQ716bPSgJVnC]{效果：高等狂徒醇酿}</p>"
 		},
 		"Bravo's Brew (Lesser)": {
-			"name": "狂徒醇酿（次等） Bravo's Brew (Lesser)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这烧瓶中冒泡的啤酒能带来勇气。在饮用这瓶灵药后的一个小时中，你在意志豁免上获得+1物品加值，在对抗恐惧效果时变为+2物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.eh7EqmDBDW30ShCu]{效果：狂徒醇酿（次等）}</p>"
+			"name": "次等狂徒醇酿 Bravo's Brew (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这烧瓶中冒泡的啤酒能带来勇气。在饮用这瓶灵药后的一个小时中，你在意志豁免上获得+1物品加值，在对抗恐惧效果时变为+2物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.eh7EqmDBDW30ShCu]{效果：次等狂徒醇酿}</p>"
 		},
 		"Bravo's Brew (Moderate)": {
-			"name": "狂徒醇酿（中等） Bravo's Brew (Moderate)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这烧瓶中冒泡的啤酒能带来勇气。在饮用这瓶灵药后的一个小时中，你在意志豁免上获得+2物品加值，在对抗恐惧效果时变为+3物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.wTZnKkT0K4Tdy8mD]{效果：狂徒醇酿（中等）}</p>"
+			"name": "中等狂徒醇酿 Bravo's Brew (Moderate)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这烧瓶中冒泡的啤酒能带来勇气。在饮用这瓶灵药后的一个小时中，你在意志豁免上获得+2物品加值，在对抗恐惧效果时变为+3物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.wTZnKkT0K4Tdy8mD]{效果：中等狂徒醇酿}</p>"
 		},
 		"Breastplate": {
 			"name": "胸甲 Breastplate",
@@ -1678,16 +1678,16 @@
 			"description": "<p>This heavy +1 striking khakarra is cast from solid steel and plated with pyrite. Metal charms shaped like grinning idols festoon its great arched ring, and during combat, as tiny tendrils of flame fly off the pyrite, these hanging dolls seem to chatter in tune with the clash and din of battle.</p>\n<p>Whenever you complete a move action during your turn, choose a creature adjacent to you at the end of your movement. Until the end of your turn, that creature takes a -1 status penalty to Will saves against your enchantment spells and your illusion spells. Any time you cast your enchantment and illusion spells, you become @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} during your move actions for the rest of the turn.</p>\n<p>@Compendium[pf2e.equipment-effects.mQJk8R0vHzvpTz0e]{Equipment Effect: Chatterer of Follies}</p>"
 		},
 		"Cheetah's Elixir (Greater)": {
-			"name": "猎豹灵药（高等） Cheetah's Elixir (Greater)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶灵药中的混合酶能够刺激并增强你的腿部肌肉。你在1小时内于你的速度（Speed）上获得+10尺状态加值。</p>\n<p>@Compendium[pf2e.consumable-effects.PeuUz7JaabCgl6Yh]{效果：猎豹灵药（高等）}</p>"
+			"name": "高等猎豹灵药 Cheetah's Elixir (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶灵药中的混合酶能够刺激并增强你的腿部肌肉。你在1小时内于你的速度（Speed）上获得+10尺状态加值。</p>\n<p>@Compendium[pf2e.consumable-effects.PeuUz7JaabCgl6Yh]{效果：高等猎豹灵药}</p>"
 		},
 		"Cheetah's Elixir (Lesser)": {
-			"name": "猎豹灵药（次等） Cheetah's Elixir (Lesser)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶灵药中的混合酶能够刺激并增强你的腿部肌肉。你在1分钟内于你的速度（Speed）上获得+5尺状态加值。</p>\n<p>@Compendium[pf2e.consumable-effects.lNWACCNe9RYgaFxb]{效果：猎豹灵药（次等）}</p>"
+			"name": "次等猎豹灵药 Cheetah's Elixir (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶灵药中的混合酶能够刺激并增强你的腿部肌肉。你在1分钟内于你的速度（Speed）上获得+5尺状态加值。</p>\n<p>@Compendium[pf2e.consumable-effects.lNWACCNe9RYgaFxb]{效果：次等猎豹灵药}</p>"
 		},
 		"Cheetah's Elixir (Moderate)": {
-			"name": "猎豹灵药（中等） Cheetah's Elixir (Moderate)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶灵药中的混合酶能够刺激并增强你的腿部肌肉。你在10分钟内于你的速度（Speed）上获得+10尺状态加值。</p>\n<p>@Compendium[pf2e.consumable-effects.j9zVZwRBVAcnpEkE]{效果：猎豹灵药（中等）}</p>"
+			"name": "中等猎豹灵药 Cheetah's Elixir (Moderate)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶灵药中的混合酶能够刺激并增强你的腿部肌肉。你在10分钟内于你的速度（Speed）上获得+10尺状态加值。</p>\n<p>@Compendium[pf2e.consumable-effects.j9zVZwRBVAcnpEkE]{效果：中等猎豹灵药}</p>"
 		},
 		"Chest": {
 			"name": "箱子 Chest",
@@ -1998,20 +1998,20 @@
 			"description": "<p>A female figure peers through her blindfold from the cover of this stately tome.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">f</span> envision</p>\n<p><strong>Frequency</strong> once per hour</p>\n<p><strong>Requirements</strong> Your last action was to cast a divination spell prepared from this grimoire</p>\n<p><strong>Effect</strong> The grimoire offers you a glimpse into the truth of things. Seek or Recall Knowledge. When you use it, you gain a +1 item bonus on your Perception check to Seek or skill check to Recall Knowledge.</p>\n<p>@Compendium[pf2e.equipment-effects.ApGnHnZEK7nv3IqL]{Equipment Effect: Greater Codex of Unimpeded Sight}</p>"
 		},
 		"Cognitive Mutagen (Greater)": {
-			"name": "认知突变药剂（高等） Cognitive Mutagen (Greater)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的思维和认知变得异常清晰，运转自如，但肉身的存在似乎也变得转瞬即逝。</p>\n<p><strong>好处</strong> 你在奥法（Arcana），手艺（Crafting），学识（Lore），神秘学（Occultism），社科（Society）检定和所有用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge}检定上获得+3物品加值。你能将 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 检定时的大失败替换为失败。 你在创造药剂时所选的一个基于智力的技能上受训。</p>\n<p><strong>缺陷</strong> 你在武器和无武装攻击骰，运动（Athletics）和特技（Acrobatics）检定上承受-2的减值。你在由正常陷入超载（encumbered）之前能够携带的负载减少2，你能够携带的最大负载减少4。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.qit1mLbJUyRTYcPU]{效果：认知突变药剂（高等）}</p>"
+			"name": "高等认知突变药剂 Cognitive Mutagen (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的思维和认知变得异常清晰，运转自如，但肉身的存在似乎也变得转瞬即逝。</p>\n<p><strong>好处</strong> 你在奥法（Arcana），手艺（Crafting），学识（Lore），神秘学（Occultism），社科（Society）检定和所有用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge}检定上获得+3物品加值。你能将 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 检定时的大失败替换为失败。 你在创造药剂时所选的一个基于智力的技能上受训。</p>\n<p><strong>缺陷</strong> 你在武器和无武装攻击骰，运动（Athletics）和特技（Acrobatics）检定上承受-2的减值。你在由正常陷入超载（encumbered）之前能够携带的负载减少2，你能够携带的最大负载减少4。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.qit1mLbJUyRTYcPU]{效果：高等认知突变药剂}</p>"
 		},
 		"Cognitive Mutagen (Lesser)": {
-			"name": "认知突变药剂（次等） Cognitive Mutagen (Lesser)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的思维和认知变得异常清晰，运转自如，但肉身的存在似乎也变得转瞬即逝。</p>\n<p><strong>好处</strong> 你在奥法（Arcana），手艺（Crafting），学识（Lore），神秘学（Occultism），社科（Society）检定和所有用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge}检定上获得+1物品加值。你能将 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 检定时的大失败替换为失败。</p>\n<p><strong>缺陷</strong> 你在武器和无武装攻击骰，运动（Athletics）和特技（Acrobatics）检定上承受-2的减值。你在由正常陷入超载（encumbered）之前能够携带的负载减少2，你能够携带的最大负载减少4。</p>\n<p><strong>持续时间</strong> 1 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.jaBMZKdoywOTrQvP]{效果：认知突变药剂（次等）}</p>"
+			"name": "次等认知突变药剂 Cognitive Mutagen (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的思维和认知变得异常清晰，运转自如，但肉身的存在似乎也变得转瞬即逝。</p>\n<p><strong>好处</strong> 你在奥法（Arcana），手艺（Crafting），学识（Lore），神秘学（Occultism），社科（Society）检定和所有用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge}检定上获得+1物品加值。你能将 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 检定时的大失败替换为失败。</p>\n<p><strong>缺陷</strong> 你在武器和无武装攻击骰，运动（Athletics）和特技（Acrobatics）检定上承受-2的减值。你在由正常陷入超载（encumbered）之前能够携带的负载减少2，你能够携带的最大负载减少4。</p>\n<p><strong>持续时间</strong> 1 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.jaBMZKdoywOTrQvP]{效果：次等认知突变药剂}</p>"
 		},
 		"Cognitive Mutagen (Major)": {
-			"name": "认知突变药剂（上等） Cognitive Mutagen (Major)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的思维和认知变得异常清晰，运转自如，但肉身的存在似乎也变得转瞬即逝。</p>\n<p><strong>好处</strong> 你在奥法（Arcana），手艺（Crafting），学识（Lore），神秘学（Occultism），社科（Society）检定和所有用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge}检定上获得+4物品加值。你能将 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 检定时的大失败替换为失败。 你在创造药剂时所选的一个技能上受训。</p>\n<p><strong>缺陷</strong> 你在武器和无武装攻击骰，运动（Athletics）和特技（Acrobatics）检定上承受-2的减值。你在由正常陷入超载（encumbered）之前能够携带的负载减少2，你能够携带的最大负载减少4。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.RT1BxXrbbGgk40Ti]{效果：认知突变药剂（上等）}</p>"
+			"name": "上等认知突变药剂 Cognitive Mutagen (Major)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的思维和认知变得异常清晰，运转自如，但肉身的存在似乎也变得转瞬即逝。</p>\n<p><strong>好处</strong> 你在奥法（Arcana），手艺（Crafting），学识（Lore），神秘学（Occultism），社科（Society）检定和所有用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge}检定上获得+4物品加值。你能将 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 检定时的大失败替换为失败。 你在创造药剂时所选的一个技能上受训。</p>\n<p><strong>缺陷</strong> 你在武器和无武装攻击骰，运动（Athletics）和特技（Acrobatics）检定上承受-2的减值。你在由正常陷入超载（encumbered）之前能够携带的负载减少2，你能够携带的最大负载减少4。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.RT1BxXrbbGgk40Ti]{效果：上等认知突变药剂}</p>"
 		},
 		"Cognitive Mutagen (Moderate)": {
-			"name": "认知突变药剂（中等） Cognitive Mutagen (Moderate)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的思维和认知变得异常清晰，运转自如，但肉身的存在似乎也变得转瞬即逝。</p>\n<p><strong>好处</strong> 你在奥法（Arcana），手艺（Crafting），学识（Lore），神秘学（Occultism），社科（Society）检定和所有用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge}检定上获得+2物品加值。你能将 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 检定时的大失败替换为失败。</p>\n<p><strong>缺陷</strong> 你在武器和无武装攻击骰，运动（Athletics）和特技（Acrobatics）检定上承受-2的减值。你在由正常陷入超载（encumbered）之前能够携带的负载减少2，你能够携带的最大负载减少4。</p>\n<p><strong>持续时间</strong> 10 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.ztxW3lBPRcesF7wK]{效果：认知突变药剂（中等）}</p>"
+			"name": "中等认知突变药剂 Cognitive Mutagen (Moderate)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的思维和认知变得异常清晰，运转自如，但肉身的存在似乎也变得转瞬即逝。</p>\n<p><strong>好处</strong> 你在奥法（Arcana），手艺（Crafting），学识（Lore），神秘学（Occultism），社科（Society）检定和所有用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge}检定上获得+2物品加值。你能将 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 检定时的大失败替换为失败。</p>\n<p><strong>缺陷</strong> 你在武器和无武装攻击骰，运动（Athletics）和特技（Acrobatics）检定上承受-2的减值。你在由正常陷入超载（encumbered）之前能够携带的负载减少2，你能够携带的最大负载减少4。</p>\n<p><strong>持续时间</strong> 10 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.ztxW3lBPRcesF7wK]{效果：中等认知突变药剂}</p>"
 		},
 		"Coin of Comfort": {
 			"name": "Coin of Comfort",
@@ -2122,11 +2122,11 @@
 			"description": "<p>这种抛射武器是由角、木头和肌腱复合而成，以增加其拉力和抛射力。它的尺寸和力量使它成为了骑乘射手的最爱。任何被特别限制于短弓上的能力，也同时适用于复合短弓，除非另有说明。</p>"
 		},
 		"Comprehension Elixir (Greater)": {
-			"name": "理解力灵药（高等） Comprehension Elixir (Greater)",
+			"name": "高等理解力灵药 Comprehension Elixir (Greater)",
 			"description": "<p>这份苦味药剂能激发你脑中理解书写文字的潜能。在饮用这瓶灵药后10分钟内，你能够理解你所阅读的任何文字，就好像这些文字是用通用语书写的一般。这瓶灵药并不会让你自动理解密码或是极其晦涩的文章——你仍然需要尝试技能检定来解读文书（Decipher Writing）。</p>"
 		},
 		"Comprehension Elixir (Lesser)": {
-			"name": "理解力灵药（次等） Comprehension Elixir (Lesser)",
+			"name": "次等理解力灵药 Comprehension Elixir (Lesser)",
 			"description": "<p>这份苦味药剂能激发你脑中理解书写文字的潜能。在饮用这瓶灵药后1分钟内，你能够理解你所阅读的任何文字，就好像这些文字是用通用语书写的一般。这瓶灵药并不会让你自动理解密码或是极其晦涩的文章——你仍然需要尝试技能检定来解读文书（Decipher Writing）。</p>"
 		},
 		"Concealed Holster": {
@@ -2410,16 +2410,16 @@
 			"description": "<p>These brightly colored, soft-soled boots motivate you to perform risky stunts and grant you the agility to succeed. The boots grant you a +3 item bonus to Acrobatics checks and a +2 circumstance bonus to checks to Tumble Through an enemy's space.</p>\n<p>The boots can grip solid surfaces and help you avoid a fall, allowing you to use the Grab an Edge reaction even if your hands aren't free. You treat falls as 10 feet shorter or, if you have the @Compendium[pf2e.feats-srd.LQw0yIMDUJJkq1nD]{Cat Fall} feat, treat your proficiency rank in Acrobatics as one degree better to determine the benefits of that feat. If you have Cat Fall and are already legendary in Acrobatics, you can choose the speed of your fall, from 60 feet per round up to normal falling speed.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> command</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> The boots cast <em>@Compendium[pf2e.spells-srd.aqRYNoSvxsVfqglH]{Freedom of Movement}</em> on you.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+3 item bonus to Acrobatics checks</li>\n<li>+2 circumstance bonus to checks to Tumble Through an enemy's space</li>\n</ul>"
 		},
 		"Darkvision Elixir (Greater)": {
-			"name": "黑暗视觉灵药（高等） Darkvision Elixir (Greater)",
-			"description": "<p><strong>启动</strong><span class=\"pf2-icon\">1</span> 交互</p>\n<p>在你饮用这瓶灵药后，你在黑暗中的视线变得格外锐利。你在24小时内获得黑暗视觉。</p>\n<p>@Compendium[pf2e.consumable-effects.7vCenP9j6FuHRv5C]{效果：黑暗视觉灵药（高等）}</p>"
+			"name": "高等黑暗视觉灵药 Darkvision Elixir (Greater)",
+			"description": "<p><strong>启动</strong><span class=\"pf2-icon\">1</span> 交互</p>\n<p>在你饮用这瓶灵药后，你在黑暗中的视线变得格外锐利。你在24小时内获得黑暗视觉。</p>\n<p>@Compendium[pf2e.consumable-effects.7vCenP9j6FuHRv5C]{效果：高等黑暗视觉灵药}</p>"
 		},
 		"Darkvision Elixir (Lesser)": {
-			"name": "黑暗视觉灵药（次等） Darkvision Elixir (Lesser)",
-			"description": "<p><strong>启动</strong><span class=\"pf2-icon\">1</span> 交互</p>\n<p>在你饮用这瓶灵药后，你在黑暗中的视线变得格外锐利。你在10分钟内获得黑暗视觉。</p>\n<p>@Compendium[pf2e.consumable-effects.7UL8belWmo7U5YGM]{效果：黑暗视觉灵药（次等）}</p>"
+			"name": "次等黑暗视觉灵药 Darkvision Elixir (Lesser)",
+			"description": "<p><strong>启动</strong><span class=\"pf2-icon\">1</span> 交互</p>\n<p>在你饮用这瓶灵药后，你在黑暗中的视线变得格外锐利。你在10分钟内获得黑暗视觉。</p>\n<p>@Compendium[pf2e.consumable-effects.7UL8belWmo7U5YGM]{效果：次等黑暗视觉灵药}</p>"
 		},
 		"Darkvision Elixir (Moderate)": {
-			"name": "黑暗视觉灵药（中等） Darkvision Elixir (Moderate)",
-			"description": "<p><strong>启动</strong><strong></strong><span class=\"pf2-icon\">1</span> 交互</p>\n<p>在你饮用这瓶灵药后，你在黑暗中的视线变得格外锐利。你在1小时内获得黑暗视觉。</p>\n<p>@Compendium[pf2e.consumable-effects.bcxVvIbuZWOvsKcA]{效果：黑暗视觉灵药（中等）}</p>"
+			"name": "中等黑暗视觉灵药 Darkvision Elixir (Moderate)",
+			"description": "<p><strong>启动</strong><strong></strong><span class=\"pf2-icon\">1</span> 交互</p>\n<p>在你饮用这瓶灵药后，你在黑暗中的视线变得格外锐利。你在1小时内获得黑暗视觉。</p>\n<p>@Compendium[pf2e.consumable-effects.bcxVvIbuZWOvsKcA]{效果：中等黑暗视觉灵药}</p>"
 		},
 		"Darkvision Scope": {
 			"name": "Darkvision Scope",
@@ -3022,20 +3022,20 @@
 			"description": "<p>This robe is made from dweomerweave, a magical fabric created by spinning minor illusions into the threads of ether spider silk. Dweomerweave is naturally hazy and translucent. It can take on the illusory appearances of other fabrics and garments, and dweomerweave robes are coveted by adventurers who want to travel light without compromising on fashion.</p>\n<hr />\n<p><strong>Activate</strong> 1 minute (Interact)</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You gain the effects of a 1st-level <em>@Compendium[pf2e.spells-srd.i35dpZFI7jZcRoBo]{Illusory Disguise}</em> except that the illusion only alters the appearance of the dweomerweave robe, changing it into another garment with an appearance of your choice. The spell persists until the next activation. You can Dismiss the activation.</p>"
 		},
 		"Eagle Eye Elixir (Greater)": {
-			"name": "鹰眼灵药（高等） Eagle Eye Elixir (Greater)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>在你饮用这瓶灵药后，你能够注意到最细微的视觉细节。在接下来一个小时内，你在察觉（Perception）检定上获得+3物品加值，如果这个检定是用于寻找密门和陷阱则为+4物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.kgotU0sFmtAHYySB]{效果：鹰眼灵药（高等）}</p>"
+			"name": "高等鹰眼灵药 Eagle Eye Elixir (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>在你饮用这瓶灵药后，你能够注意到最细微的视觉细节。在接下来一个小时内，你在察觉（Perception）检定上获得+3物品加值，如果这个检定是用于寻找密门和陷阱则为+4物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.kgotU0sFmtAHYySB]{效果：高等鹰眼灵药}</p>"
 		},
 		"Eagle Eye Elixir (Lesser)": {
-			"name": "鹰眼灵药（次等） Eagle Eye Elixir (Lesser)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>在你饮用这瓶灵药后，你能够注意到最细微的视觉细节。在接下来一个小时内，你在察觉（Perception）检定上获得+1物品加值，如果这个检定是用于寻找密门和陷阱则为+2物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.VCypzSu659eC6jNi]{效果：鹰眼灵药（次等）}</p>"
+			"name": "次等鹰眼灵药 Eagle Eye Elixir (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>在你饮用这瓶灵药后，你能够注意到最细微的视觉细节。在接下来一个小时内，你在察觉（Perception）检定上获得+1物品加值，如果这个检定是用于寻找密门和陷阱则为+2物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.VCypzSu659eC6jNi]{效果：次等鹰眼灵药}</p>"
 		},
 		"Eagle Eye Elixir (Major)": {
-			"name": "鹰眼灵药（上等） Eagle Eye Elixir (Major)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>在你饮用这瓶灵药后，你能够注意到最细微的视觉细节。在接下来一个小时内，你在察觉（Perception）检定上获得+3物品加值，如果这个检定是用于寻找密门和陷阱则为+4物品加值。</p>\n<p>每次你经过密门或陷阱周围10尺时，GM自动为你进行一次寻找它们的秘密检定。</p>\n<p>@Compendium[pf2e.consumable-effects.wyLEew86nhNUXASu]{效果：鹰眼灵药（上等）}</p>"
+			"name": "上等鹰眼灵药 Eagle Eye Elixir (Major)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>在你饮用这瓶灵药后，你能够注意到最细微的视觉细节。在接下来一个小时内，你在察觉（Perception）检定上获得+3物品加值，如果这个检定是用于寻找密门和陷阱则为+4物品加值。</p>\n<p>每次你经过密门或陷阱周围10尺时，GM自动为你进行一次寻找它们的秘密检定。</p>\n<p>@Compendium[pf2e.consumable-effects.wyLEew86nhNUXASu]{效果：上等鹰眼灵药}</p>"
 		},
 		"Eagle Eye Elixir (Moderate)": {
-			"name": "鹰眼灵药（中等） Eagle Eye Elixir (Moderate)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>在你饮用这瓶灵药后，你能够注意到最细微的视觉细节。在接下来一个小时内，你在察觉（Perception）检定上获得+2物品加值，如果这个检定是用于寻找密门和陷阱则为+3物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.Wa4317cqU4lJ8vAQ]{效果：鹰眼灵药（中等）}</p>"
+			"name": "中等鹰眼灵药 Eagle Eye Elixir (Moderate)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>在你饮用这瓶灵药后，你能够注意到最细微的视觉细节。在接下来一个小时内，你在察觉（Perception）检定上获得+2物品加值，如果这个检定是用于寻找密门和陷阱则为+3物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.Wa4317cqU4lJ8vAQ]{效果：中等鹰眼灵药}</p>"
 		},
 		"Earplugs": {
 			"name": "Earplugs",
@@ -3366,7 +3366,7 @@
 			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这发弹药包裹着灰黑色的煤灰。当启动的爆炸弹药命中了一个目标便会发生爆炸，对 @Template[type:burst|distance:10]范围内的每个生物都造成 [[/r 6d6]] 火焰伤害（包括目标）。每个生物都必须尝试一次 @Check[type:reflex|dc:25|basic:true] 豁免。</p>"
 		},
 		"Explosive Ammunition (Greater)": {
-			"name": "爆炸弹药（高等） Explosive Ammunition (Greater)",
+			"name": "高等爆炸弹药 Explosive Ammunition (Greater)",
 			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这发弹药包裹着灰黑色的煤灰。当启动的爆炸弹药命中了一个目标便会发生爆炸，对 @Template[type:burst|distance:10]范围内的每个生物都造成 [[/r10d6]] 火焰伤害（包括目标）。每个生物都必须尝试一次 @Check[type:reflex|dc:30|basic:true|name:Greater Explosive Ammunition] 豁免。</p>"
 		},
 		"Explosive Dogslicer": {
@@ -5174,20 +5174,20 @@
 			"description": "<p>Jezails are simple, efficient long guns developed in Casmaron that typically feature a custom stock and a flintlock firing mechanism. Though lacking the range and stopping power of an arquebus or the raw force of a harmona gun, the jezail is an elegant, well-balanced weapon suitable for a variety of combat situations. It's even possible to tuck it under one arm to fire a less accurate attack that uses only one hand.</p>"
 		},
 		"Juggernaut Mutagen (Greater)": {
-			"name": "主宰突变药剂（高等） Juggernaut Mutagen (Greater)",
-			"description": "<p><strong>启动</strong><span class=\"pf2-icon\">1</span> 交互</p>\n<hr />\n<p>在你饮用这瓶突变药剂后，你的身体会变得厚实而强壮。你呈现出容光焕发的健康体态，不过也会倾向于变得呆板而缺乏注意力。</p>\n<p><strong>好处</strong> 你在强韧豁免上获得+3物品加值，并获得30点临时生命值。每当你将生命值保持在最大值至少1分钟时，你就会重新获得这一临时生命值。 当你在强韧豁免上取得成功时，你可以将其替换为大成功。</p>\n<p><strong>缺陷</strong> 你在意志豁免、察觉（Perception）检定和先攻骰上承受-2的减值。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.xLilBqqf34ZJYO9i]{效果：主宰突变药剂（高等）}</p>"
+			"name": "高等主宰突变药剂 Juggernaut Mutagen (Greater)",
+			"description": "<p><strong>启动</strong><span class=\"pf2-icon\">1</span> 交互</p>\n<hr />\n<p>在你饮用这瓶突变药剂后，你的身体会变得厚实而强壮。你呈现出容光焕发的健康体态，不过也会倾向于变得呆板而缺乏注意力。</p>\n<p><strong>好处</strong> 你在强韧豁免上获得+3物品加值，并获得30点临时生命值。每当你将生命值保持在最大值至少1分钟时，你就会重新获得这一临时生命值。 当你在强韧豁免上取得成功时，你可以将其替换为大成功。</p>\n<p><strong>缺陷</strong> 你在意志豁免、察觉（Perception）检定和先攻骰上承受-2的减值。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.xLilBqqf34ZJYO9i]{效果：高等主宰突变药剂}</p>"
 		},
 		"Juggernaut Mutagen (Lesser)": {
-			"name": "主宰突变药剂（次等） Juggernaut Mutagen (Lesser)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>在你饮用这瓶突变药剂后，你的身体会变得厚实而强壮。你呈现出容光焕发的健康体态，不过也会倾向于变得呆板而缺乏注意力。</p>\n<p><strong>好处</strong> 你在强韧豁免上获得+1物品加值，并获得5点临时生命值。每当你将生命值保持在最大值至少1分钟时，你就会重新获得这一临时生命值。</p>\n<p><strong>缺陷</strong> 你在意志豁免、察觉（Perception）检定和先攻骰上承受-2的减值。</p>\n<p><strong>持续时间</strong> 1 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.1l139A2Qik4lBHKO]{效果：主宰突变药剂（次等）}</p>"
+			"name": "次等主宰突变药剂 Juggernaut Mutagen (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>在你饮用这瓶突变药剂后，你的身体会变得厚实而强壮。你呈现出容光焕发的健康体态，不过也会倾向于变得呆板而缺乏注意力。</p>\n<p><strong>好处</strong> 你在强韧豁免上获得+1物品加值，并获得5点临时生命值。每当你将生命值保持在最大值至少1分钟时，你就会重新获得这一临时生命值。</p>\n<p><strong>缺陷</strong> 你在意志豁免、察觉（Perception）检定和先攻骰上承受-2的减值。</p>\n<p><strong>持续时间</strong> 1 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.1l139A2Qik4lBHKO]{效果：次等主宰突变药剂}</p>"
 		},
 		"Juggernaut Mutagen (Major)": {
-			"name": "主宰突变药剂（上等） Juggernaut Mutagen (Major)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>在你饮用这瓶突变药剂后，你的身体会变得厚实而强壮。你呈现出容光焕发的健康体态，不过也会倾向于变得呆板而缺乏注意力。</p>\n<p><strong>好处</strong> 你在强韧豁免上获得+4物品加值，并获得45点临时生命值。每当你将生命值保持在最大值至少1分钟时，你就会重新获得这一临时生命值。 当你在强韧豁免上取得成功时，你可以将其替换为大成功，并且你在强韧豁免上取得的大失败全都替换为失败。</p>\n<p><strong>缺陷</strong> 你在意志豁免、察觉（Perception）检定和先攻骰上承受-2的减值。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.2PNo8u4wxSbz5WEs]{效果：主宰突变药剂（上等）}</p>"
+			"name": "上等主宰突变药剂 Juggernaut Mutagen (Major)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>在你饮用这瓶突变药剂后，你的身体会变得厚实而强壮。你呈现出容光焕发的健康体态，不过也会倾向于变得呆板而缺乏注意力。</p>\n<p><strong>好处</strong> 你在强韧豁免上获得+4物品加值，并获得45点临时生命值。每当你将生命值保持在最大值至少1分钟时，你就会重新获得这一临时生命值。 当你在强韧豁免上取得成功时，你可以将其替换为大成功，并且你在强韧豁免上取得的大失败全都替换为失败。</p>\n<p><strong>缺陷</strong> 你在意志豁免、察觉（Perception）检定和先攻骰上承受-2的减值。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.2PNo8u4wxSbz5WEs]{效果：上等主宰突变药剂}</p>"
 		},
 		"Juggernaut Mutagen (Moderate)": {
-			"name": "主宰突变药剂（中等） Juggernaut Mutagen (Moderate)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>在你饮用这瓶突变药剂后，你的身体会变得厚实而强壮。你呈现出容光焕发的健康体态，不过也会倾向于变得呆板而缺乏注意力。</p>\n<p><strong>好处</strong> 你在强韧豁免上获得+2物品加值，并获得10点临时生命值。每当你将生命值保持在最大值至少1分钟时，你就会重新获得这一临时生命值。</p>\n<p><strong>缺陷</strong> 你在意志豁免、察觉（Perception）检定和先攻骰上承受-2的减值。</p>\n<p><strong>持续时间</strong> 10 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.fUrZ4xcMJz0CfTyG]{效果：主宰突变药剂（中等）}</p>"
+			"name": "中等主宰突变药剂 Juggernaut Mutagen (Moderate)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>在你饮用这瓶突变药剂后，你的身体会变得厚实而强壮。你呈现出容光焕发的健康体态，不过也会倾向于变得呆板而缺乏注意力。</p>\n<p><strong>好处</strong> 你在强韧豁免上获得+2物品加值，并获得10点临时生命值。每当你将生命值保持在最大值至少1分钟时，你就会重新获得这一临时生命值。</p>\n<p><strong>缺陷</strong> 你在意志豁免、察觉（Perception）检定和先攻骰上承受-2的减值。</p>\n<p><strong>持续时间</strong> 10 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.fUrZ4xcMJz0CfTyG]{效果：中等主宰突变药剂}</p>"
 		},
 		"Juggling Club": {
 			"name": "Juggling Club",
@@ -5338,11 +5338,11 @@
 			"description": "<p>Once injected, this synthetic toxin sinks into the extremities, numbing them nearly to paralysis.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> Interact (Injury)</p>\n<p><strong>Saving Throw</strong> @Check[type:fortitude|dc:20]</p>\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong> [[/r {1d10}[poison]]]{1d10 poison damage} and -5-foot status penalty to all Speeds (1 round)</p>\n<p><strong>Stage 2</strong> [[/r {2d6}[poison]]]{2d6 poison damage} and -10-foot status penalty to all Speeds (1 round)</p>\n<p><strong>Stage 3</strong> [[/r {2d6}[poison]]]{2d6 poison damage} and -20-foot status penalty to all Speeds (1 round)</p>"
 		},
 		"Leaper's Elixir (Greater)": {
-			"name": "跳跃者灵药（高等） Leaper's Elixir (Greater)",
+			"name": "高等跳跃者灵药 Leaper's Elixir (Greater)",
 			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">1</span> 交互</p>\n<p>这瓶刺激性的溶液能够增强你腿部肌肉的弹性和伸缩性。在饮用灵药后的1分钟，取代原本的2个动作，你能够以单个动作进行 @Compendium[pf2e.actionspf2e.2HJ4yuEFY1Cast4h]{跳高 High Jump} 或 @Compendium[pf2e.actionspf2e.JUvAvruz7yRQXfz2]{跳远 Long Jump} 。如果你这样做，你不会执行最初的迈步（Stride）（即便你没有迈步10尺你也不会失败）。</p>\n<p>你跳高时能够跳起的最大垂直距离如同你跳远时能够跳出的水平距离。</p>"
 		},
 		"Leaper's Elixir (Lesser)": {
-			"name": "跳跃者灵药（次等） Leaper's Elixir (Lesser)",
+			"name": "次等跳跃者灵药 Leaper's Elixir (Lesser)",
 			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">1</span> 交互</p>\n<p>这瓶刺激性的溶液能够增强你腿部肌肉的弹性和伸缩性。在饮用灵药后的1分钟，取代原本的2个动作，你能够以单个动作进行 @Compendium[pf2e.actionspf2e.2HJ4yuEFY1Cast4h]{跳高 High Jump} 或 @Compendium[pf2e.actionspf2e.JUvAvruz7yRQXfz2]{跳远 Long Jump} 。如果你这样做，你不会执行最初的迈步（Stride）（即便你没有迈步10尺你也不会失败）。</p>"
 		},
 		"Leather Armor": {
@@ -5958,15 +5958,15 @@
 			"description": "<p>This brown leather satchel is made from a heavily oiled and rustic leather. The satchel is large enough to hold up to 1 Bulk worth of items.</p>\n<hr />\n<p><strong>Activate</strong> 1 minute (envision, Interact)</p>\n<p><strong>Effect</strong> Documents inside the haversack become magically disguised as documents of a similar type but with misleading information. Anyone inspecting a document notices the disguise with a successful @Check[type:perception|dc:20|name:Determine Documents are Misleading|showDC:all] check, but determining the actual text requires a successful @Check[type:society|dc:20|name:Decipher Writing|traits:action:decipher-writing|showDC:all] check to Decipher Writing. This lasts until you use this activation again, which ends the effect for all previously disguised documents; until you use the second activation to end the effect for a single document; or until a document in the haversack remains outside the haversack for at least 1 hour, ending the effect for that document.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> command</p>\n<p><strong>Effect</strong> You revert one of the documents back to its original state.</p>"
 		},
 		"Mistform Elixir (Greater)": {
-			"name": "雾化灵药（高等） Mistform Elixir (Greater)",
+			"name": "高等雾化灵药 Mistform Elixir (Greater)",
 			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>一阵模糊的雾气从你的皮肤中散发，使你在5分钟内变得 @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{隐蔽 Concealed}。</p>\n<p>当你的位置仍然显而易见时，就像普通的隐蔽一样，你不能使用这种隐蔽状态来进行 @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{躲藏 Hide} 或 @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{潜行 Sneak}。</p>"
 		},
 		"Mistform Elixir (Lesser)": {
-			"name": "雾化灵药（次等） Mistform Elixir (Lesser)",
+			"name": "次等雾化灵药 Mistform Elixir (Lesser)",
 			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>一阵模糊的雾气从你的皮肤中散发，使你在3轮内变得 @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{隐蔽 Concealed}。</p>\n<p>当你的位置仍然显而易见时，就像普通的隐蔽一样，你不能使用这种隐蔽状态来进行 @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{躲藏 Hide} 或 @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{潜行 Sneak}。</p>"
 		},
 		"Mistform Elixir (Moderate)": {
-			"name": "雾化灵药（中等） Mistform Elixir (Moderate)",
+			"name": "中等雾化灵药 Mistform Elixir (Moderate)",
 			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>一阵模糊的雾气从你的皮肤中散发，使你在1分钟内变得 @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{隐蔽 Concealed}。</p>\n<p>当你的位置仍然显而易见时，就像普通的隐蔽一样，你不能使用这种隐蔽状态来进行 @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{躲藏 Hide} 或 @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{潜行 Sneak}。</p>"
 		},
 		"Miter of Communion": {
@@ -6142,8 +6142,8 @@
 			"description": "<p>Necrotic bombs combine reagents most people consider disgusting at best and unholy at worst, creating a life-sucking miasma upon contact with air. A necrotic bomb deals the listed negative damage and splash damage, and it sickens the primary target on a critical hit. This damage harms only living creatures.</p>\n<hr />\n<p>You gain a +1 item bonus to attack rolls.</p>\n<p>The bomb deals [[/r {2d6}[negative]]]{2d6 negative damage} and [[/r {2}[splash,negative]]]{2 negative splash damage}. On a critical hit, the target is @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened 2}.</p>"
 		},
 		"Nectar of Purification": {
-			"name": "Nectar of Purification",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>A shimmering liquid, <em>nectar of purification</em> is often stored in bottles similar to those used for vinegar. This oil casts a 1st-level <em>@Compendium[pf2e.spells-srd.qXTB7Ec9yYh5JPPV]{Purify Food and Drink}</em> spell over any food or drink onto which it's poured. The nectar evaporates as it takes effect, leaving the taste and texture of the food or drink unaltered.</p>"
+			"name": "净化之蜜 Nectar of Purification",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>净化之蜜是一种闪闪发光的液体，通常保存在像是用来装酒醋的瓶子里。这种油会对它撒上的任何食物和饮品施展一次1环的 <em>@Compendium[pf2e.spells-srd.qXTB7Ec9yYh5JPPV]{净化粮食 Purify Food and Drink}</em>。这种花蜜在生效之后就会挥发，食物和饮品的外貌和味道都不会发生改变。</p>"
 		},
 		"Net": {
 			"name": "Net",
@@ -6246,8 +6246,8 @@
 			"description": "<p>Constructed of a flexible, white wood and with ornate, twisting designs carved into its surface, this +2 striking composite longbow appears to have been made by elves. Sometimes when you loose an arrow, its whistling in flight sounds like a voice whispering in Elven, wishing for the swift defeat of your enemies.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> command</p>\n<p><strong>Effect</strong> You swear an oath to destroy one creature you can see. For the next 7 days or until that creature is slain, your attacks with the bow against that creature deal 1d6 additional damage, and you gain a +2 circumstance bonus to Survival checks to Track that creature.</p>\n<p>Your critical hits against the target gain the bow's critical specialization effect; if they would already do so, they instead increase the DC of the Athletics check to Escape when critically hit to DC 20.</p>\n<p>After you activate the bow, you can't activate it again for 7 days. If you kill the creature you've sworn an oath against, the oath ends and you need to wait only 10 minutes before you can activate it again.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>1d6 additional damage with Oathbow against sworn target</li>\n<li>+2 circumstance bonus to Survival checks to Track the Oathbow's sworn target</li>\n</ul>"
 		},
 		"Obfuscation Oil": {
-			"name": "Obfuscation Oil",
-			"description": "<p>You can spread this blue-gray gel on a single item with a Bulk of 3 or less to ward it against magical detection. It becomes immune to divination magic of 8th level or lower (such as locate). This oil is permanent, but it can be removed with acid. Removing the oil in this way usually takes 1 minute for objects with Bulk of 1 or less, or a number of minutes equal to the item's Bulk.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>"
+			"name": "混淆油 Obfuscation Oil",
+			"description": "<p>你可以把这种蓝灰色的软膏抹在一件负载Bulk在3或以下的物品上，保护其不受魔法侦测。该物品免疫8环或以下的预言系法术（例如定位术Locate）。这种油的效果是永久的，但可以用酸来移除它。在负载Bulk为1或以下的物品上移除这种油需要花费1分钟，对于负载Bulk更高的物品，需要花费等同于负载Bulk的分钟数。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>"
 		},
 		"Oblivion Essence": {
 			"name": "Oblivion Essence",
@@ -6274,16 +6274,16 @@
 			"description": "<p>你可以用油来为提灯加油，但你也可以点燃一品脱油然后把它扔出去。你必须首先花费一个【交互动作】来准备油，然后用另一个动作进行远程接触攻击扔出它。如果你命中目标，它会溅在这个生物上或者你所瞄准的一个5尺方格。你必须成功进行DC 10的纯粹检定才能使油在命中时成功点燃。如果油点燃，目标会受到1d6火焰伤害。</p>"
 		},
 		"Oil of Animation": {
-			"name": "Oil of Animation",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>You can rub this bronze-colored oil onto a melee weapon to grant it the benefits of the @Compendium[pf2e.equipment-srd.DCPsilr8wbPXxTUv]{Dancing} rune. Once you fail a flat check for the weapon, causing it to fall, this effect ends.</p>"
+			"name": "活化油 Oil of Animation",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>你可以把这种青铜色的油擦在一件近战武器上，让它获得 @Compendium[pf2e.equipment-srd.DCPsilr8wbPXxTUv]{舞空 Dancing} 符文带来的好处。一旦你在使用该武器的纯骰检定中失败，武器会落地，效果也随之终止。</p>"
 		},
 		"Oil of Keen Edges": {
-			"name": "Oil of Keen Edges",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>When this silvery salve is applied to a melee weapon that deals piercing or slashing damage, the weapon grows sharper and more dangerous for 1 minute, granting it the benefits of the @Compendium[pf2e.equipment-srd.hg3IogR8ue2IWwgS]{Keen} rune.</p>"
+			"name": "锐锋油 Oil of Keen Edges",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>当这种银色软膏涂抹到一件造成穿刺或挥砍伤害的武器上后，该武器变得更加锐利而危险，获得 @Compendium[pf2e.equipment-srd.hg3IogR8ue2IWwgS]{锋锐 Keen} 符文的好处，持续1分钟。</p>"
 		},
 		"Oil of Mending": {
-			"name": "Oil of Mending",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>A vial of oil of mending appears to have countless translucent threads swirling within. Applying this oil to an item casts a 2nd-level <em>@Compendium[pf2e.spells-srd.dINQzhqGmIsqGMUY]{Mending}</em> spell to repair the item.</p>"
+			"name": "修复油 Oil of Mending",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>一瓶修复油的外表看起来有无数半透明的螺纹在其中旋转。将这瓶油涂抹在物品上可以对该物品施展一次2环的 <em>@Compendium[pf2e.spells-srd.dINQzhqGmIsqGMUY]{修复术 Mending}</em> 以修理它。</p>"
 		},
 		"Oil of Object Animation": {
 			"name": "Oil of Object Animation",
@@ -6294,12 +6294,12 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> Interact</p>\n<p>This fine golden oil comes in a small blue canister. Carefully spreading the oil over an object turns it into an <em>animated object</em> of the same type. For example, sprinkling it on a statue makes an <em>animated statue</em>. If the animated object's level would be greater than 11, the oil struggles to animate it and ultimately fails.</p>\n<p>This animated object has the <em>minion </em>trait, meaning it can use 2 actions when you Command it. You can issue a Command for the current turn as part of the activation. The object remains animated for 1 minute before falling inert. As usual, you can have a maximum of four minions under your control.</p>"
 		},
 		"Oil of Potency": {
-			"name": "Oil of Potency",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>When you apply this thick, viscous oil to a non-magical weapon or suit of armor, that item immediately becomes magically potent. If the item is a weapon, it temporarily becomes a <em>+1 striking weapon</em>, or, if it's armor, it temporarily becomes <em>+1 resilient armor</em>. This lasts for 1 minute.</p>"
+			"name": "潜能油 Oil of Potency",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>当你将这种厚重粘稠的油涂抹到非魔法的武器或盔甲上后，这件物品立刻获得了魔法潜能。如果这件物品是武器，那么它暂时变成了+1强击武器Striking Weapon，如果它是盔甲，那么它暂时变成了+1抗力盔甲Resilient Armor。该效果持续1分钟。</p>"
 		},
 		"Oil of Repulsion": {
-			"name": "Oil of Repulsion",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This oil contains magnetically charged iron filings repelled into opposite ends of the vial. For 1 minute after you apply this oil to armor, any creature that hits you with a melee Strike must attempt a @Check[type:fortitude|dc:28] save with the following effects.</p>\n<p><strong>Success</strong> The creature is unaffected.</p>\n<p><strong>Failure</strong> The creature is pushed up to 10 feet away from you (the GM determines the direction).</p>\n<p><strong>Critical Failure</strong> As failure, and the creature is also knocked prone.</p>"
+			"name": "斥力油 Oil of Repulsion",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这种油内包含了磁化的铁屑，因斥力而聚集到了瓶子的两端。你在把这种油涂抹到盔甲上之后的一分钟内，所有对你进行近战打击Strike的生物必须尝试一次 @Check[type:fortitude|dc:28] 强韧豁免。</p>\n<p><strong>成功</strong> 该生物不受影响</p>\n<p><strong>失败</strong> 该生物被你推离10尺（方向由GM决定）</p>\n<p><strong>大失败</strong> 同失败，但该生物同时被击倒</p>"
 		},
 		"Oil of Revelation": {
 			"name": "Oil of Revelation",
@@ -6326,12 +6326,12 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<p>This thin, black liquid imparts a bone-deep chill while rapidly repairing an undead creature's physical or spiritual form. When you dash oil of unlife onto an undead creature, or a living creature with negative healing, the oil absorbs quickly into its body, and the creature regains 3d8+10 Hit Points. You can pour oil of unlife on an incorporeal undead; in this case, the creature absorbs the oil into itself.</p>"
 		},
 		"Oil of Weightlessness": {
-			"name": "Oil of Weightlessness",
-			"description": "<p>You can spread this shimmering oil on an item of 1 Bulk or less to make it feel weightless. It has negligible Bulk for 1 hour.</p>"
+			"name": "失重油 Oil of Weightlessness",
+			"description": "<p>你可以将这种闪亮的油涂在负载Bulk不超过1的物品上，让它的重量消失。在接下来的1小时内，该物品没有负载Bulk。</p>"
 		},
 		"Oil of Weightlessness (Greater)": {
-			"name": "Oil of Weightlessness (Greater)",
-			"description": "<p>You can spread this shimmering oil on an item of 2 Bulk or less to make it feel weightless. It has negligible Bulk for 8 hours.</p>"
+			"name": "高等失重油 Oil of Weightlessness (Greater)",
+			"description": "<p>你可以将这种闪亮的油涂在负载Bulk不超过2的物品上，让它的重量消失。在接下来的8小时内，该物品没有负载Bulk。</p>"
 		},
 		"Oily Button": {
 			"name": "Oily Button",
@@ -6527,7 +6527,7 @@
 		},
 		"Penetrating Ammunition": {
 			"name": "穿透弹药 Penetrating Ammunition",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>This ammunition has a slender shape and a viciously pointed tip. When you activate and shoot <em>penetrating ammunition</em>, the Strike takes the shape of a @Template[type:line|distance:60] originating from you.</p>\n<p>Roll one attack roll and compare the result to the AC of each target in the line. The ammunition ignores up to 10 of a target's resistance, and it can penetrate walls up to 1 foot thick with Hardness 10 or less. Each target that takes damage from this ammunition also takes [[/r {1d6}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Bleed Damage}.</p>\n<p>If your attack roll result is a natural 20, you improve your degree of success only against the first target in the line, but you can still score a critical hit on other targets if your result exceeds their AC by 10 or more.</p>\n<p>If you have access to your bow's critical specialization effect, penetrating ammunition applies that effect only against a target in the last square of the line.</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>该弹药有着纤细的外形和尖锐的弹头。当你启动并发射穿透弹药，这次打击Strike有着以你为原点的 @Template[type:line|distance:60] 范围。</p>\n<p>投一次攻击骰并与线上的每一个目标的AC进行对抗。该弹药忽略目标身上10点抗力，并能够穿透最多1尺厚且硬度Hardness不超过10的墙。每个被该弹药伤害的生物也需要承受 [[/r {1d6}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续流血伤害}。</p>\n<p>如果你的攻击骰结果是自然20，你只会对线上的第一个目标提高成功度，但你仍然可以达成对其他目标的重击，只要你的结果比他们的AC高10点以上。</p>\n<p>如果你能够使用弓的重击专精效果，穿透弹药只会对线上的最后一个目标应用该效果。</p>"
 		},
 		"Pepperbox": {
 			"name": "Pepperbox",
@@ -7194,20 +7194,20 @@
 			"description": "<p><strong>Activate</strong> 1 minute (Interact)</p>\n<hr />\n<p>Quickpatch glue is a fast-setting adhesive designed for rapid but temporary repairs.</p>\n<p>When applied to a broken item, the glue adheres the item's pieces back together. This does not restore the item's hit points, but it allows the item to be used for its normal function and removes the broken condition. The glue is fragile and degrades over time. An item repaired by quickpatch glue regains the broken condition after it takes damage or 1 hour passes (whichever comes first). In order to apply a new vial of quickpatch glue to or repair the item, the item's holder must first remove the glue residue, a process that requires 10 minutes of effort and a set of alchemist's tools.</p>"
 		},
 		"Quicksilver Mutagen (Greater)": {
-			"name": "水银突变药剂（高等） Quicksilver Mutagen (Greater)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p><hr />\n<p>你的外貌变得纤细而瘦削。你变得更为迅捷和灵活，但你的身体也更为脆弱。</p>\n<p><strong>好处</strong> 你在特技（Acrobatics）检定、隐匿（Stealth）检定、贼活（Thievery）检定、反射豁免和远程攻击骰上获得+3物品加值，你还会在速度（Speed）上获得+15尺状态加值。</p>\n<p><strong>缺陷</strong> 你受到等同于你等级两倍的伤害；在突变药剂持续期间，你不能以任何方式恢复因为这个效果而损失的生命值。你在强韧豁免上承受-2的减值。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.2Bds6d4UGQZqYSZM]{效果：水银突变药剂（高等）}</p>"
+			"name": "高等水银突变药剂 Quicksilver Mutagen (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p><hr />\n<p>你的外貌变得纤细而瘦削。你变得更为迅捷和灵活，但你的身体也更为脆弱。</p>\n<p><strong>好处</strong> 你在特技（Acrobatics）检定、隐匿（Stealth）检定、贼活（Thievery）检定、反射豁免和远程攻击骰上获得+3物品加值，你还会在速度（Speed）上获得+15尺状态加值。</p>\n<p><strong>缺陷</strong> 你受到等同于你等级两倍的伤害；在突变药剂持续期间，你不能以任何方式恢复因为这个效果而损失的生命值。你在强韧豁免上承受-2的减值。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.2Bds6d4UGQZqYSZM]{效果：高等水银突变药剂}</p>"
 		},
 		"Quicksilver Mutagen (Lesser)": {
-			"name": "水银突变药剂（次等） Quicksilver Mutagen (Lesser)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的外貌变得纤细而瘦削。你变得更为迅捷和灵活，但你的身体也更为脆弱。</p>\n<p><strong>好处</strong> 你在特技（Acrobatics）检定、隐匿（Stealth）检定、贼活（Thievery）检定、反射豁免和远程攻击骰上获得+1物品加值，你还会在速度（Speed）上获得+5尺状态加值。</p>\n<p><strong>缺陷</strong> 你受到等同于你等级两倍的伤害；在突变药剂持续期间，你不能以任何方式恢复因为这个效果而损失的生命值。你在强韧豁免上承受-2的减值。</p>\n<p><strong>持续时间</strong> 1 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.6PNLBIdlqqWNCFMy]{效果：水银突变药剂（次等）}</p>"
+			"name": "次等水银突变药剂 Quicksilver Mutagen (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的外貌变得纤细而瘦削。你变得更为迅捷和灵活，但你的身体也更为脆弱。</p>\n<p><strong>好处</strong> 你在特技（Acrobatics）检定、隐匿（Stealth）检定、贼活（Thievery）检定、反射豁免和远程攻击骰上获得+1物品加值，你还会在速度（Speed）上获得+5尺状态加值。</p>\n<p><strong>缺陷</strong> 你受到等同于你等级两倍的伤害；在突变药剂持续期间，你不能以任何方式恢复因为这个效果而损失的生命值。你在强韧豁免上承受-2的减值。</p>\n<p><strong>持续时间</strong> 1 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.6PNLBIdlqqWNCFMy]{效果：次等水银突变药剂}</p>"
 		},
 		"Quicksilver Mutagen (Major)": {
-			"name": "水银突变药剂（上等） Quicksilver Mutagen (Major)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的外貌变得纤细而瘦削。你变得更为迅捷和灵活，但你的身体也更为脆弱。</p>\n<p><strong>好处</strong> 你在特技（Acrobatics）检定、隐匿（Stealth）检定、贼活（Thievery）检定、反射豁免和远程攻击骰上获得+4物品加值，你还会在速度（Speed）上获得+20尺状态加值。</p>\n<p><strong>缺陷</strong> 你受到等同于你等级两倍的伤害；在突变药剂持续期间，你不能以任何方式恢复因为这个效果而损失的生命值。你在强韧豁免上承受-2的减值。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.988f6NpOo4YzFzIr]{效果：水银突变药剂（上等）}</p>"
+			"name": "上等水银突变药剂 Quicksilver Mutagen (Major)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的外貌变得纤细而瘦削。你变得更为迅捷和灵活，但你的身体也更为脆弱。</p>\n<p><strong>好处</strong> 你在特技（Acrobatics）检定、隐匿（Stealth）检定、贼活（Thievery）检定、反射豁免和远程攻击骰上获得+4物品加值，你还会在速度（Speed）上获得+20尺状态加值。</p>\n<p><strong>缺陷</strong> 你受到等同于你等级两倍的伤害；在突变药剂持续期间，你不能以任何方式恢复因为这个效果而损失的生命值。你在强韧豁免上承受-2的减值。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.988f6NpOo4YzFzIr]{效果：上等水银突变药剂}</p>"
 		},
 		"Quicksilver Mutagen (Moderate)": {
-			"name": "水银突变药剂（中等） Quicksilver Mutagen (Moderate)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的外貌变得纤细而瘦削。你变得更为迅捷和灵活，但你的身体也更为脆弱。</p>\n<p><strong>好处</strong> 你在特技（Acrobatics）检定、隐匿（Stealth）检定、贼活（Thievery）检定、反射豁免和远程攻击骰上获得+2物品加值，你还会在速度（Speed）上获得+10尺状态加值。</p>\n<p><strong>缺陷</strong> 你受到等同于你等级两倍的伤害；在突变药剂持续期间，你不能以任何方式恢复因为这个效果而损失的生命值。你在强韧豁免上承受-2的减值。</p>\n<p><strong>持续时间</strong> 10 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.VPtsrpbP0AE642al]{效果：水银突变药剂（中等）}</p>"
+			"name": "中等水银突变药剂 Quicksilver Mutagen (Moderate)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的外貌变得纤细而瘦削。你变得更为迅捷和灵活，但你的身体也更为脆弱。</p>\n<p><strong>好处</strong> 你在特技（Acrobatics）检定、隐匿（Stealth）检定、贼活（Thievery）检定、反射豁免和远程攻击骰上获得+2物品加值，你还会在速度（Speed）上获得+10尺状态加值。</p>\n<p><strong>缺陷</strong> 你受到等同于你等级两倍的伤害；在突变药剂持续期间，你不能以任何方式恢复因为这个效果而损失的生命值。你在强韧豁免上承受-2的减值。</p>\n<p><strong>持续时间</strong> 10 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.VPtsrpbP0AE642al]{效果：中等水银突变药剂}</p>"
 		},
 		"Quill of Passage": {
 			"name": "Quill of Passage",
@@ -7894,15 +7894,15 @@
 			"description": "<p>This luminescent paste is made from the powdered bones of a long-forgotten saint, mixed with herbs and blessed by a priest. It typically comes in a tightly sealed, palm-sized dish etched with holy symbols. Applying <em>saints' balm</em> to yourself or a creature within reach restores 3d8+10 Hit Points to the creature to which it's applied.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>"
 		},
 		"Salamander Elixir (Greater)": {
-			"name": "火蜥蜴灵药（高等） Salamander Elixir (Greater)",
+			"name": "高等火蜥蜴灵药 Salamander Elixir (Greater)",
 			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶灵药由能够抵抗火焰的火蜥蜴鳞屑制成。饮用后24小时内，你免受严重高温（severe heat）的影响。你也会免受极端和超常高温（incredible heat）的影响。</p>"
 		},
 		"Salamander Elixir (Lesser)": {
-			"name": "火蜥蜴灵药（次等） Salamander Elixir (Lesser)",
+			"name": "次等火蜥蜴灵药 Salamander Elixir (Lesser)",
 			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶灵药由能够抵抗火焰的火蜥蜴鳞屑制成。饮用后24小时内，你免受严重高温（severe heat）的影响。</p>"
 		},
 		"Salamander Elixir (Moderate)": {
-			"name": "火蜥蜴灵药（中等） Salamander Elixir (Moderate)",
+			"name": "中等火蜥蜴灵药 Salamander Elixir (Moderate)",
 			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶灵药由能够抵抗火焰的火蜥蜴鳞屑制成。饮用后24小时内，你免受严重高温（severe heat）的影响。你也会免受极端高温（extreme heat）的影响。</p>"
 		},
 		"Salve of Antiparalysis": {
@@ -8066,15 +8066,15 @@
 			"description": "<p>This snare sends a powerful series of scything blades to slice through a creature entering the snare's square, dealing 14d8 slashing damage (DC 31 basic Reflex).</p>"
 		},
 		"Sea Touch Elixir (Greater)": {
-			"name": "海洋之触灵药（高等） Sea Touch Elixir (Greater)",
+			"name": "高等海洋之触灵药 Sea Touch Elixir (Greater)",
 			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶带有咸味的混合物能够改变你手脚的皮肤。你手指和脚趾之间的空隙会长出蹼，在24小时内给予你20尺的游泳速度，并且你能够在水中呼吸。</p>\n<p>@Compendium[pf2e.consumable-effects.RRusoN3HEGnDO1Dg]{Effect: Sea Touch Elixir (Greater)}</p>"
 		},
 		"Sea Touch Elixir (Lesser)": {
-			"name": "海洋之触灵药（次等） Sea Touch Elixir (Lesser)",
+			"name": "次等海洋之触灵药 Sea Touch Elixir (Lesser)",
 			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶带有咸味的混合物能够改变你手脚的皮肤。你手指和脚趾之间的空隙会长出蹼，在10分钟内给予你20尺的游泳速度。</p>\n<p>@Compendium[pf2e.consumable-effects.thOpQunbQr77XWdF]{Effect: Sea Touch Elixir (Lesser)}</p>"
 		},
 		"Sea Touch Elixir (Moderate)": {
-			"name": "海洋之触灵药（中等） Sea Touch Elixir (Moderate)",
+			"name": "中等海洋之触灵药 Sea Touch Elixir (Moderate)",
 			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶带有咸味的混合物能够改变你手脚的皮肤。你手指和脚趾之间的空隙会长出蹼，在1小时内给予你20尺的游泳速度，并且你能够在水中呼吸。</p>\n<p>@Compendium[pf2e.consumable-effects.9keegq0GdS1eSrNr]{Effect: Sea Touch Elixir (Moderate)}</p>"
 		},
 		"Sealing Chest (Greater)": {
@@ -8114,20 +8114,20 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> envision, Interact</p>\n<hr />\n<p>Both beaded bracelets in this pair have an even larger bead in their center. The bracelets are magically linked and only interact with their counterpart from the same pair.</p>\n<p>When you crush the largest bead to activate the bracelet, it creates a mental alert in the mind of the wearer of the paired bracelet. This alert works at any distance as long as both bracelets are on the same plane.</p>"
 		},
 		"Serene Mutagen (Greater)": {
-			"name": "宁静突变药剂（高等） Serene Mutagen (Greater)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你获得了内心的安宁，能够专注于细微的事物并冷静地应对心智攻击，但你会意识到暴力令人生厌。</p>\n<p><strong>好处</strong> 你在意志豁免和察觉（Perception）、医疗（Medicine）、自然（Natue）、宗教（Religion）和生存（Survival）检定上获得+3物品加值。当你尝试以意志豁免对抗心智效果时，这个加值会提升至+4。当你在对抗心智效果的意志豁免上取得成功时，你可以将其替换为大成功，并且你可以将对抗心智效果的意志豁免上取得的大失败视作失败。</p>\n<p><strong>缺陷</strong> 你在攻击骰和进攻性法术的豁免DC上承受-1的减值，并且在所有武器、无武装攻击和法术伤害的每个伤害骰上承受-1的减值。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.jw6Tr9FbErjLAFLQ]{效果：宁静突变药剂（高等）}</p>"
+			"name": "高等宁静突变药剂 Serene Mutagen (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你获得了内心的安宁，能够专注于细微的事物并冷静地应对心智攻击，但你会意识到暴力令人生厌。</p>\n<p><strong>好处</strong> 你在意志豁免和察觉（Perception）、医疗（Medicine）、自然（Natue）、宗教（Religion）和生存（Survival）检定上获得+3物品加值。当你尝试以意志豁免对抗心智效果时，这个加值会提升至+4。当你在对抗心智效果的意志豁免上取得成功时，你可以将其替换为大成功，并且你可以将对抗心智效果的意志豁免上取得的大失败视作失败。</p>\n<p><strong>缺陷</strong> 你在攻击骰和进攻性法术的豁免DC上承受-1的减值，并且在所有武器、无武装攻击和法术伤害的每个伤害骰上承受-1的减值。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.jw6Tr9FbErjLAFLQ]{效果：高等宁静突变药剂}</p>"
 		},
 		"Serene Mutagen (Lesser)": {
-			"name": "宁静突变药剂（次等） Serene Mutagen (Lesser)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你获得了内心的安宁，能够专注于细微的事物并冷静地应对心智攻击，但你会意识到暴力令人生厌。</p>\n<p><strong>好处</strong> 你在意志豁免和察觉（Perception）、医疗（Medicine）、自然（Natue）、宗教（Religion）和生存（Survival）检定上获得+1物品加值。当你尝试以意志豁免对抗心智效果时，这个加值会提升至+2。</p>\n<p><strong>缺陷</strong> 你在攻击骰和进攻性法术的豁免DC上承受-1的减值，并且在所有武器、无武装攻击和法术伤害的每个伤害骰上承受-1的减值。</p>\n<p><strong>持续时间</strong> 1 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.5xgapIXn5DwbXHKh]{效果：宁静突变药剂（次等）}</p>"
+			"name": "次等宁静突变药剂 Serene Mutagen (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你获得了内心的安宁，能够专注于细微的事物并冷静地应对心智攻击，但你会意识到暴力令人生厌。</p>\n<p><strong>好处</strong> 你在意志豁免和察觉（Perception）、医疗（Medicine）、自然（Natue）、宗教（Religion）和生存（Survival）检定上获得+1物品加值。当你尝试以意志豁免对抗心智效果时，这个加值会提升至+2。</p>\n<p><strong>缺陷</strong> 你在攻击骰和进攻性法术的豁免DC上承受-1的减值，并且在所有武器、无武装攻击和法术伤害的每个伤害骰上承受-1的减值。</p>\n<p><strong>持续时间</strong> 1 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.5xgapIXn5DwbXHKh]{效果：次等宁静突变药剂}</p>"
 		},
 		"Serene Mutagen (Major)": {
-			"name": "宁静突变药剂（上等） Serene Mutagen (Major)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你获得了内心的安宁，能够专注于细微的事物并冷静地应对心智攻击，但你会意识到暴力令人生厌。</p>\n<p><strong>好处</strong> 你在意志豁免和察觉（Perception）、医疗（Medicine）、自然（Natue）、宗教（Religion）和生存（Survival）检定上获得+4物品加值。当你在对抗心智效果的意志豁免上取得成功时，你可以将其替换为大成功，并且你可以将对抗心智效果的意志豁免上取得的大失败视作失败。</p>\n<p><strong>缺陷</strong> 你在攻击骰和进攻性法术的豁免DC上承受-1的减值，并且在所有武器、无武装攻击和法术伤害的每个伤害骰上承受-1的减值。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.t7VUJHSUT6bkVUjg]{效果：宁静突变药剂（上等）}</p>"
+			"name": "上等宁静突变药剂 Serene Mutagen (Major)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你获得了内心的安宁，能够专注于细微的事物并冷静地应对心智攻击，但你会意识到暴力令人生厌。</p>\n<p><strong>好处</strong> 你在意志豁免和察觉（Perception）、医疗（Medicine）、自然（Natue）、宗教（Religion）和生存（Survival）检定上获得+4物品加值。当你在对抗心智效果的意志豁免上取得成功时，你可以将其替换为大成功，并且你可以将对抗心智效果的意志豁免上取得的大失败视作失败。</p>\n<p><strong>缺陷</strong> 你在攻击骰和进攻性法术的豁免DC上承受-1的减值，并且在所有武器、无武装攻击和法术伤害的每个伤害骰上承受-1的减值。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.t7VUJHSUT6bkVUjg]{效果：上等宁静突变药剂}</p>"
 		},
 		"Serene Mutagen (Moderate)": {
-			"name": "宁静突变药剂（中等） Serene Mutagen (Moderate)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你获得了内心的安宁，能够专注于细微的事物并冷静地应对心智攻击，但你会意识到暴力令人生厌。</p>\n<p><strong>好处</strong> 你在意志豁免和察觉（Perception）、医疗（Medicine）、自然（Natue）、宗教（Religion）和生存（Survival）检定上获得+2物品加值。当你尝试以意志豁免对抗心智效果时，这个加值会提升至+3。</p>\n<p><strong>缺陷</strong> 你在攻击骰和进攻性法术的豁免DC上承受-1的减值，并且在所有武器、无武装攻击和法术伤害的每个伤害骰上承受-1的减值。</p>\n<p><strong>持续时间</strong> 10 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.yrbz0rZzp8aZEqbv]{效果：宁静突变药剂（中等）}</p>"
+			"name": "中等宁静突变药剂 Serene Mutagen (Moderate)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你获得了内心的安宁，能够专注于细微的事物并冷静地应对心智攻击，但你会意识到暴力令人生厌。</p>\n<p><strong>好处</strong> 你在意志豁免和察觉（Perception）、医疗（Medicine）、自然（Natue）、宗教（Religion）和生存（Survival）检定上获得+2物品加值。当你尝试以意志豁免对抗心智效果时，这个加值会提升至+3。</p>\n<p><strong>缺陷</strong> 你在攻击骰和进攻性法术的豁免DC上承受-1的减值，并且在所有武器、无武装攻击和法术伤害的每个伤害骰上承受-1的减值。</p>\n<p><strong>持续时间</strong> 10 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.yrbz0rZzp8aZEqbv]{效果：中等宁静突变药剂}</p>"
 		},
 		"Serithtial": {
 			"name": "Serithtial",
@@ -8250,8 +8250,8 @@
 			"description": "<p><strong>Activate</strong> Cast a Spell</p>\n<hr />\n<p>This luminous mica dust fluoresces for a short time after being exposed to significant amounts of magical energy. When a creature fails its save against a cloud of <em>@Compendium[pf2e.spells-srd.0qaqksrGGDj74HXE]{Glitterdust}</em> created using this catalyst, glowing grains stick to them, causing them to shed dim light in a 20-foot radius for as long as their invisibility is negated by the spell as well as causing them to take a -2 circumstance penalty to Stealth for that duration.</p>"
 		},
 		"Shining Ammunition": {
-			"name": "Shining Ammunition",
-			"description": "<p>A piece of <em>shining ammunition</em> gives off a faint glow. When shot, this ammunition sheds bright light in a 20-foot radius (and dim light to the next 20 feet) for 10 minutes. If it hits a target, it sticks, causing the target to shed light in the same radius. A creature can remove the ammunition with an Interact action, but the ammunition itself continues to glow for the rest of the duration or until destroyed.</p>"
+			"name": "闪光弹药 Shining Ammunition",
+			"description": "<p>一支闪光弹药闪着暗淡的光。发射后，该弹药会发出明亮的光芒，使半径20尺范围内成为明亮照明（并使更远的20尺范围内成为昏暗照明），持续10分钟。如果它命中了一个目标，它会固定在目标身上，使目标发出同样的光芒。一个生物可以用一个交互Interact动作移除弹药，但弹药仍然会持续照明，直到持续时间结束或被摧毁。</p>"
 		},
 		"Shining Wayfinder": {
 			"name": "Shining Wayfinder",
@@ -8474,20 +8474,20 @@
 			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>你能够将这种银色的浆糊涂抹到一把近战武器、一把投掷武器或10份弹药上。银辉变质得很快，所以一旦你打开容器，你就必须立即将它全部用完，不能留到以后再用。</p>\n<p>在接下来的一个小时中，被涂抹的武器或弹药在考虑它造成的武器伤害时视作银制而不是原本的特殊材料（例如寒铁）。</p>"
 		},
 		"Silvertongue Mutagen (Greater)": {
-			"name": "巧舌突变药剂（高等） Silvertongue Mutagen (Greater)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的容貌变得引人注目，你的嗓音悦耳且令人动容，然而你眼中的现实和数理都变得模糊不清，起伏的情绪遮蔽了你理性思考的能力。</p>\n<p><strong>好处</strong> 你在交涉（Deception）、欺骗（Diplomacy）、威吓（Intimidation）和表演（Performance）检定上获得+3物品加值。你在这些技能上取得的大失败被替换为失败。</p>\n<p><strong>缺陷</strong> 你在奥法（Arcana）、手艺（Crafting）、学识（Lore）、神秘学（Occultism）和社科（Society）检定上承受-2的减值。选择一个你已受训的技能；在持续时间内，你在这个技能上变得未受训。所有你用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 的检定上取得的失败都变为大失败。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.oAewXfq9c0ecaSfw]{效果：巧舌突变药剂（高等）}</p>"
+			"name": "高等巧舌突变药剂 Silvertongue Mutagen (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的容貌变得引人注目，你的嗓音悦耳且令人动容，然而你眼中的现实和数理都变得模糊不清，起伏的情绪遮蔽了你理性思考的能力。</p>\n<p><strong>好处</strong> 你在交涉（Deception）、欺骗（Diplomacy）、威吓（Intimidation）和表演（Performance）检定上获得+3物品加值。你在这些技能上取得的大失败被替换为失败。</p>\n<p><strong>缺陷</strong> 你在奥法（Arcana）、手艺（Crafting）、学识（Lore）、神秘学（Occultism）和社科（Society）检定上承受-2的减值。选择一个你已受训的技能；在持续时间内，你在这个技能上变得未受训。所有你用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 的检定上取得的失败都变为大失败。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.oAewXfq9c0ecaSfw]{效果：高等巧舌突变药剂}</p>"
 		},
 		"Silvertongue Mutagen (Lesser)": {
-			"name": "巧舌突变药剂（次等） Silvertongue Mutagen (Lesser)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的容貌变得引人注目，你的嗓音悦耳且令人动容，然而你眼中的现实和数理都变得模糊不清，起伏的情绪遮蔽了你理性思考的能力。</p>\n<p><strong>好处</strong> 你在交涉（Deception）、欺骗（Diplomacy）、威吓（Intimidation）和表演（Performance）检定上获得+1物品加值。你在这些技能上取得的大失败被替换为失败。</p>\n<p><strong>缺陷</strong> 你在奥法（Arcana）、手艺（Crafting）、学识（Lore）、神秘学（Occultism）和社科（Society）检定上承受-2的减值。选择一个你已受训的技能；在持续时间内，你在这个技能上变得未受训。所有你用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 的检定上取得的失败都变为大失败。</p>\n<p><strong>持续时间</strong> 1 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.dpIrjd1UPY7EnWUD]{效果：巧舌突变药剂（次等）}</p>"
+			"name": "次等巧舌突变药剂 Silvertongue Mutagen (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的容貌变得引人注目，你的嗓音悦耳且令人动容，然而你眼中的现实和数理都变得模糊不清，起伏的情绪遮蔽了你理性思考的能力。</p>\n<p><strong>好处</strong> 你在交涉（Deception）、欺骗（Diplomacy）、威吓（Intimidation）和表演（Performance）检定上获得+1物品加值。你在这些技能上取得的大失败被替换为失败。</p>\n<p><strong>缺陷</strong> 你在奥法（Arcana）、手艺（Crafting）、学识（Lore）、神秘学（Occultism）和社科（Society）检定上承受-2的减值。选择一个你已受训的技能；在持续时间内，你在这个技能上变得未受训。所有你用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 的检定上取得的失败都变为大失败。</p>\n<p><strong>持续时间</strong> 1 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.dpIrjd1UPY7EnWUD]{效果：次等巧舌突变药剂}</p>"
 		},
 		"Silvertongue Mutagen (Major)": {
-			"name": "巧舌突变药剂（上等） Silvertongue Mutagen (Major)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的容貌变得引人注目，你的嗓音悦耳且令人动容，然而你眼中的现实和数理都变得模糊不清，起伏的情绪遮蔽了你理性思考的能力。</p>\n<p><strong>好处</strong> 你在交涉（Deception）、欺骗（Diplomacy）、威吓（Intimidation）和表演（Performance）检定上获得+4物品加值。你在这些技能上取得的大失败被替换为失败。</p>\n<p><strong>缺陷</strong> 你在奥法（Arcana）、手艺（Crafting）、学识（Lore）、神秘学（Occultism）和社科（Society）检定上承受-2的减值。选择一个你已受训的技能；在持续时间内，你在这个技能上变得未受训。所有你用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 的检定上取得的失败都变为大失败。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.9FfFhu2kl2wMTsiI]{效果：巧舌突变药剂（上等）}</p>"
+			"name": "上等巧舌突变药剂 Silvertongue Mutagen (Major)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的容貌变得引人注目，你的嗓音悦耳且令人动容，然而你眼中的现实和数理都变得模糊不清，起伏的情绪遮蔽了你理性思考的能力。</p>\n<p><strong>好处</strong> 你在交涉（Deception）、欺骗（Diplomacy）、威吓（Intimidation）和表演（Performance）检定上获得+4物品加值。你在这些技能上取得的大失败被替换为失败。</p>\n<p><strong>缺陷</strong> 你在奥法（Arcana）、手艺（Crafting）、学识（Lore）、神秘学（Occultism）和社科（Society）检定上承受-2的减值。选择一个你已受训的技能；在持续时间内，你在这个技能上变得未受训。所有你用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 的检定上取得的失败都变为大失败。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.9FfFhu2kl2wMTsiI]{效果：上等巧舌突变药剂}</p>"
 		},
 		"Silvertongue Mutagen (Moderate)": {
-			"name": "巧舌突变药剂（中等） Silvertongue Mutagen (Moderate)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的容貌变得引人注目，你的嗓音悦耳且令人动容，然而你眼中的现实和数理都变得模糊不清，起伏的情绪遮蔽了你理性思考的能力。</p>\n<p><strong>好处</strong> 你在交涉（Deception）、欺骗（Diplomacy）、威吓（Intimidation）和表演（Performance）检定上获得+2物品加值。你在这些技能上取得的大失败被替换为失败。</p>\n<p><strong>缺陷</strong> 你在奥法（Arcana）、手艺（Crafting）、学识（Lore）、神秘学（Occultism）和社科（Society）检定上承受-2的减值。选择一个你已受训的技能；在持续时间内，你在这个技能上变得未受训。所有你用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 的检定上取得的失败都变为大失败。</p>\n<p><strong>持续时间</strong> 10 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.v5Ht1V4MZvRKRBjL]{效果：巧舌突变药剂（中等）}</p>"
+			"name": "中等巧舌突变药剂 Silvertongue Mutagen (Moderate)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的容貌变得引人注目，你的嗓音悦耳且令人动容，然而你眼中的现实和数理都变得模糊不清，起伏的情绪遮蔽了你理性思考的能力。</p>\n<p><strong>好处</strong> 你在交涉（Deception）、欺骗（Diplomacy）、威吓（Intimidation）和表演（Performance）检定上获得+2物品加值。你在这些技能上取得的大失败被替换为失败。</p>\n<p><strong>缺陷</strong> 你在奥法（Arcana）、手艺（Crafting）、学识（Lore）、神秘学（Occultism）和社科（Society）检定上承受-2的减值。选择一个你已受训的技能；在持续时间内，你在这个技能上变得未受训。所有你用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 的检定上取得的失败都变为大失败。</p>\n<p><strong>持续时间</strong> 10 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.v5Ht1V4MZvRKRBjL]{效果：中等巧舌突变药剂}</p>"
 		},
 		"Simple painting": {
 			"name": "Simple painting",
@@ -8622,8 +8622,8 @@
 			"description": "<p>This matched pair of slates, roughly one handspan wide and tall, have identical ornate frames. Slates are crafted in pairs, and each works with only the other of its pair. If one slate of a pair is ever broken, the other shatters into non-magical shards. The listed price is for a pair of slates.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> Interact</p>\n<p><strong>Frequency</strong> once per hour</p>\n<p><strong>Effect</strong> You use a piece of chalk to write up to 25 words on a slate. As you write, the writing also appears on the other slate in its matched pair, no matter how far away it is, as long as it is on the same plane. Wiping one slate clean erases the writing from both slates. Each slate can be activated once per hour.</p>"
 		},
 		"Sleep Arrow": {
-			"name": "Sleep Arrow",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p><em>Sleep arrows</em> often have shafts of deep blue or black, and their fletching is exceptionally soft and downy. An activated <em>sleep arrow</em> deals no damage, but a living creature hit by it is subject to the effects of a <em>@Compendium[pf2e.spells-srd.o4lRVTwSxnOOn5vl]{Sleep}</em> spell (DC 17).</p>\n<p><strong>Craft Requirements</strong> Supply one casting of <em>sleep</em>.</p>"
+			"name": "睡眠箭 Sleep Arrow",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>睡眠箭常常有着深蓝色或黑色的箭杆，而且箭羽格外地蓬松柔软。一支启动的睡眠箭不会造成任何伤害，但被击中的活物需要承受一个 <em>@Compendium[pf2e.spells-srd.o4lRVTwSxnOOn5vl]{睡眠术 Sleep}</em> 的效果（DC 17）。</p>\n<p><strong>制作条件：</strong> 提供一次睡眠术Sleep施法。</p>"
 		},
 		"Sleeves of Storage": {
 			"name": "Sleeves of Storage",
@@ -8914,40 +8914,40 @@
 			"description": "<p>This shield bears eldritch glyphs to guard against magic. While you have this steel shield (Hardness 6, HP 24, BT 12) raised, you gain its circumstance bonus to saving throws against spells that target you (as well as to AC).</p>"
 		},
 		"Spellstrike Ammunition (Type I)": {
-			"name": "Spellstrike Ammunition (Type I)",
-			"description": "<p>Mystic patterns create a magic reservoir within this ammunition. You activate <em>spellstrike ammunition</em> by Casting a Spell into the ammunition. The spell must be of a spell level the ammunition can hold, and the spell must be able to target a creature other than the caster. A creature hit by activated <em>spellstrike ammunition</em> is targeted by the spell. If the creature isn't a valid target for the spell, the spell is lost.</p>\n<p>The ammunition affects only the target hit, even if the spell would normally affect more than one target. If the spell requires a spell attack roll, use the result of your ranged attack roll with the ammunition to determine the degree of success of the spell. If the spell requires a saving throw, the target attempts the save against your spell DC.</p>\n<p>The maximum level of spell the ammunition can hold determines its item level and Price.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> Cast a Spell</p>\n<p>Maximum Spell Level 1st</p>"
+			"name": "法袭弹药（类型I） Spellstrike Ammunition (Type I)",
+			"description": "<p>神秘的图纹让这发弹药成为了储存魔法的容器。你通过对法袭弹药进行施法Cast a Spell来启动它。该法术的等级必须是弹药可以容纳的，法术也必须能以施法者以外的一个生物为目标。被启动的法袭弹药命中的生物会成为法术的目标。如果该生物不能成为该法术的目标，则法术丢失。</p>\n<p>该弹药只能影响被命中的生物，即使法术正常情况下能够影响多个生物。如果法术需要一个法术攻击骰，使用发射该弹药的远程攻击骰结果来决定成功度。如果法术需要一个豁免骰，目标需要通过一个豁免，对抗你的法术DC。</p>\n<p>该弹药能容纳的法术最高环级取决于其等级与价格。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 施法</p>\n<p>最高法术环级 1环</p>"
 		},
 		"Spellstrike Ammunition (Type II)": {
-			"name": "Spellstrike Ammunition (Type II)",
-			"description": "<p>Mystic patterns create a magic reservoir within this ammunition. You activate <em>spellstrike ammunition</em> by Casting a Spell into the ammunition. The spell must be of a spell level the ammunition can hold, and the spell must be able to target a creature other than the caster. A creature hit by activated <em>spellstrike ammunition</em> is targeted by the spell. If the creature isn't a valid target for the spell, the spell is lost.</p>\n<p>The ammunition affects only the target hit, even if the spell would normally affect more than one target. If the spell requires a spell attack roll, use the result of your ranged attack roll with the ammunition to determine the degree of success of the spell. If the spell requires a saving throw, the target attempts the save against your spell DC.</p>\n<p>The maximum level of spell the ammunition can hold determines its item level and Price.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> Cast a Spell</p>\n<p>Maximum Spell Level 2nd</p>"
+			"name": "法袭弹药（类型II） Spellstrike Ammunition (Type II)",
+			"description": "<p>神秘的图纹让这发弹药成为了储存魔法的容器。你通过对法袭弹药进行施法Cast a Spell来启动它。该法术的等级必须是弹药可以容纳的，法术也必须能以施法者以外的一个生物为目标。被启动的法袭弹药命中的生物会成为法术的目标。如果该生物不能成为该法术的目标，则法术丢失。</p>\n<p>该弹药只能影响被命中的生物，即使法术正常情况下能够影响多个生物。如果法术需要一个法术攻击骰，使用发射该弹药的远程攻击骰结果来决定成功度。如果法术需要一个豁免骰，目标需要通过一个豁免，对抗你的法术DC。</p>\n<p>该弹药能容纳的法术最高环级取决于其等级与价格。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 施法</p>\n<p>最高法术环级 2环</p>"
 		},
 		"Spellstrike Ammunition (Type III)": {
-			"name": "Spellstrike Ammunition (Type III)",
-			"description": "<p>Mystic patterns create a magic reservoir within this ammunition. You activate <em>spellstrike ammunition</em> by Casting a Spell into the ammunition. The spell must be of a spell level the ammunition can hold, and the spell must be able to target a creature other than the caster. A creature hit by activated <em>spellstrike ammunition</em> is targeted by the spell. If the creature isn't a valid target for the spell, the spell is lost.</p>\n<p>The ammunition affects only the target hit, even if the spell would normally affect more than one target. If the spell requires a spell attack roll, use the result of your ranged attack roll with the ammunition to determine the degree of success of the spell. If the spell requires a saving throw, the target attempts the save against your spell DC.</p>\n<p>The maximum level of spell the ammunition can hold determines its item level and Price.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> Cast a Spell</p>\n<p>Maximum Spell Level 3rd</p>"
+			"name": "法袭弹药（类型III） Spellstrike Ammunition (Type III)",
+			"description": "<p>神秘的图纹让这发弹药成为了储存魔法的容器。你通过对法袭弹药进行施法Cast a Spell来启动它。该法术的等级必须是弹药可以容纳的，法术也必须能以施法者以外的一个生物为目标。被启动的法袭弹药命中的生物会成为法术的目标。如果该生物不能成为该法术的目标，则法术丢失。</p>\n<p>该弹药只能影响被命中的生物，即使法术正常情况下能够影响多个生物。如果法术需要一个法术攻击骰，使用发射该弹药的远程攻击骰结果来决定成功度。如果法术需要一个豁免骰，目标需要通过一个豁免，对抗你的法术DC。</p>\n<p>该弹药能容纳的法术最高环级取决于其等级与价格。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 施法</p>\n<p>最高法术环级 3环</p>"
 		},
 		"Spellstrike Ammunition (Type IV)": {
-			"name": "Spellstrike Ammunition (Type IV)",
-			"description": "<p>Mystic patterns create a magic reservoir within this ammunition. You activate <em>spellstrike ammunition</em> by Casting a Spell into the ammunition. The spell must be of a spell level the ammunition can hold, and the spell must be able to target a creature other than the caster. A creature hit by activated <em>spellstrike ammunition</em> is targeted by the spell. If the creature isn't a valid target for the spell, the spell is lost.</p>\n<p>The ammunition affects only the target hit, even if the spell would normally affect more than one target. If the spell requires a spell attack roll, use the result of your ranged attack roll with the ammunition to determine the degree of success of the spell. If the spell requires a saving throw, the target attempts the save against your spell DC.</p>\n<p>The maximum level of spell the ammunition can hold determines its item level and Price.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> Cast a Spell</p>\n<p>Maximum Spell Level 4th</p>"
+			"name": "法袭弹药（类型IV） Spellstrike Ammunition (Type IV)",
+			"description": "<p>神秘的图纹让这发弹药成为了储存魔法的容器。你通过对法袭弹药进行施法Cast a Spell来启动它。该法术的等级必须是弹药可以容纳的，法术也必须能以施法者以外的一个生物为目标。被启动的法袭弹药命中的生物会成为法术的目标。如果该生物不能成为该法术的目标，则法术丢失。</p>\n<p>该弹药只能影响被命中的生物，即使法术正常情况下能够影响多个生物。如果法术需要一个法术攻击骰，使用发射该弹药的远程攻击骰结果来决定成功度。如果法术需要一个豁免骰，目标需要通过一个豁免，对抗你的法术DC。</p>\n<p>该弹药能容纳的法术最高环级取决于其等级与价格。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 施法</p>\n<p>最高法术环级 4环</p>"
 		},
 		"Spellstrike Ammunition (Type IX)": {
-			"name": "Spellstrike Ammunition (Type IX)",
-			"description": "<p>Mystic patterns create a magic reservoir within this ammunition. You activate <em>spellstrike ammunition</em> by Casting a Spell into the ammunition. The spell must be of a spell level the ammunition can hold, and the spell must be able to target a creature other than the caster. A creature hit by activated <em>spellstrike ammunition</em> is targeted by the spell. If the creature isn't a valid target for the spell, the spell is lost.</p>\n<p>The ammunition affects only the target hit, even if the spell would normally affect more than one target. If the spell requires a spell attack roll, use the result of your ranged attack roll with the ammunition to determine the degree of success of the spell. If the spell requires a saving throw, the target attempts the save against your spell DC.</p>\n<p>The maximum level of spell the ammunition can hold determines its item level and Price.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> Cast a Spell</p>\n<p>Maximum Spell Level 9th</p>"
+			"name": "法袭弹药（类型IX） Spellstrike Ammunition (Type IX)",
+			"description": "<p>神秘的图纹让这发弹药成为了储存魔法的容器。你通过对法袭弹药进行施法Cast a Spell来启动它。该法术的等级必须是弹药可以容纳的，法术也必须能以施法者以外的一个生物为目标。被启动的法袭弹药命中的生物会成为法术的目标。如果该生物不能成为该法术的目标，则法术丢失。</p>\n<p>该弹药只能影响被命中的生物，即使法术正常情况下能够影响多个生物。如果法术需要一个法术攻击骰，使用发射该弹药的远程攻击骰结果来决定成功度。如果法术需要一个豁免骰，目标需要通过一个豁免，对抗你的法术DC。</p>\n<p>该弹药能容纳的法术最高环级取决于其等级与价格。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 施法</p>\n<p>最高法术环级 9环</p>"
 		},
 		"Spellstrike Ammunition (Type V)": {
-			"name": "Spellstrike Ammunition (Type V)",
-			"description": "<p>Mystic patterns create a magic reservoir within this ammunition. You activate <em>spellstrike ammunition</em> by Casting a Spell into the ammunition. The spell must be of a spell level the ammunition can hold, and the spell must be able to target a creature other than the caster. A creature hit by activated <em>spellstrike ammunition</em> is targeted by the spell. If the creature isn't a valid target for the spell, the spell is lost.</p>\n<p>The ammunition affects only the target hit, even if the spell would normally affect more than one target. If the spell requires a spell attack roll, use the result of your ranged attack roll with the ammunition to determine the degree of success of the spell. If the spell requires a saving throw, the target attempts the save against your spell DC.</p>\n<p>The maximum level of spell the ammunition can hold determines its item level and Price.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> Cast a Spell</p>\n<p>Maximum Spell Level 5th</p>"
+			"name": "法袭弹药（类型V） Spellstrike Ammunition (Type V)",
+			"description": "<p>神秘的图纹让这发弹药成为了储存魔法的容器。你通过对法袭弹药进行施法Cast a Spell来启动它。该法术的等级必须是弹药可以容纳的，法术也必须能以施法者以外的一个生物为目标。被启动的法袭弹药命中的生物会成为法术的目标。如果该生物不能成为该法术的目标，则法术丢失。</p>\n<p>该弹药只能影响被命中的生物，即使法术正常情况下能够影响多个生物。如果法术需要一个法术攻击骰，使用发射该弹药的远程攻击骰结果来决定成功度。如果法术需要一个豁免骰，目标需要通过一个豁免，对抗你的法术DC。</p>\n<p>该弹药能容纳的法术最高环级取决于其等级与价格。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 施法</p>\n<p>最高法术环级 5环</p>"
 		},
 		"Spellstrike Ammunition (Type VI)": {
-			"name": "Spellstrike Ammunition (Type VI)",
-			"description": "<p>Mystic patterns create a magic reservoir within this ammunition. You activate <em>spellstrike ammunition</em> by Casting a Spell into the ammunition. The spell must be of a spell level the ammunition can hold, and the spell must be able to target a creature other than the caster. A creature hit by activated <em>spellstrike ammunition</em> is targeted by the spell. If the creature isn't a valid target for the spell, the spell is lost.</p>\n<p>The ammunition affects only the target hit, even if the spell would normally affect more than one target. If the spell requires a spell attack roll, use the result of your ranged attack roll with the ammunition to determine the degree of success of the spell. If the spell requires a saving throw, the target attempts the save against your spell DC.</p>\n<p>The maximum level of spell the ammunition can hold determines its item level and Price.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> Cast a Spell</p>\n<p>Maximum Spell Level 6th</p>"
+			"name": "法袭弹药（类型VI） Spellstrike Ammunition (Type VI)",
+			"description": "<p>神秘的图纹让这发弹药成为了储存魔法的容器。你通过对法袭弹药进行施法Cast a Spell来启动它。该法术的等级必须是弹药可以容纳的，法术也必须能以施法者以外的一个生物为目标。被启动的法袭弹药命中的生物会成为法术的目标。如果该生物不能成为该法术的目标，则法术丢失。</p>\n<p>该弹药只能影响被命中的生物，即使法术正常情况下能够影响多个生物。如果法术需要一个法术攻击骰，使用发射该弹药的远程攻击骰结果来决定成功度。如果法术需要一个豁免骰，目标需要通过一个豁免，对抗你的法术DC。</p>\n<p>该弹药能容纳的法术最高环级取决于其等级与价格。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 施法</p>\n<p>最高法术环级 6环</p>"
 		},
 		"Spellstrike Ammunition (Type VII)": {
-			"name": "Spellstrike Ammunition (Type VII)",
-			"description": "<p>Mystic patterns create a magic reservoir within this ammunition. You activate <em>spellstrike ammunition</em> by Casting a Spell into the ammunition. The spell must be of a spell level the ammunition can hold, and the spell must be able to target a creature other than the caster. A creature hit by activated <em>spellstrike ammunition</em> is targeted by the spell. If the creature isn't a valid target for the spell, the spell is lost.</p>\n<p>The ammunition affects only the target hit, even if the spell would normally affect more than one target. If the spell requires a spell attack roll, use the result of your ranged attack roll with the ammunition to determine the degree of success of the spell. If the spell requires a saving throw, the target attempts the save against your spell DC.</p>\n<p>The maximum level of spell the ammunition can hold determines its item level and Price.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> Cast a Spell</p>\n<p>Maximum Spell Level 7th</p>"
+			"name": "法袭弹药（类型VII） Spellstrike Ammunition (Type VII)",
+			"description": "<p>神秘的图纹让这发弹药成为了储存魔法的容器。你通过对法袭弹药进行施法Cast a Spell来启动它。该法术的等级必须是弹药可以容纳的，法术也必须能以施法者以外的一个生物为目标。被启动的法袭弹药命中的生物会成为法术的目标。如果该生物不能成为该法术的目标，则法术丢失。</p>\n<p>该弹药只能影响被命中的生物，即使法术正常情况下能够影响多个生物。如果法术需要一个法术攻击骰，使用发射该弹药的远程攻击骰结果来决定成功度。如果法术需要一个豁免骰，目标需要通过一个豁免，对抗你的法术DC。</p>\n<p>该弹药能容纳的法术最高环级取决于其等级与价格。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 施法</p>\n<p>最高法术环级 7环</p>"
 		},
 		"Spellstrike Ammunition (Type VIII)": {
-			"name": "Spellstrike Ammunition (Type VIII)",
-			"description": "<p>Mystic patterns create a magic reservoir within this ammunition. You activate <em>spellstrike ammunition</em> by Casting a Spell into the ammunition. The spell must be of a spell level the ammunition can hold, and the spell must be able to target a creature other than the caster. A creature hit by activated <em>spellstrike ammunition</em> is targeted by the spell. If the creature isn't a valid target for the spell, the spell is lost.</p>\n<p>The ammunition affects only the target hit, even if the spell would normally affect more than one target. If the spell requires a spell attack roll, use the result of your ranged attack roll with the ammunition to determine the degree of success of the spell. If the spell requires a saving throw, the target attempts the save against your spell DC.</p>\n<p>The maximum level of spell the ammunition can hold determines its item level and Price.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> Cast a Spell</p>\n<p>Maximum Spell Level 8th</p>"
+			"name": "法袭弹药（类型VIII） Spellstrike Ammunition (Type VIII)",
+			"description": "<p>神秘的图纹让这发弹药成为了储存魔法的容器。你通过对法袭弹药进行施法Cast a Spell来启动它。该法术的等级必须是弹药可以容纳的，法术也必须能以施法者以外的一个生物为目标。被启动的法袭弹药命中的生物会成为法术的目标。如果该生物不能成为该法术的目标，则法术丢失。</p>\n<p>该弹药只能影响被命中的生物，即使法术正常情况下能够影响多个生物。如果法术需要一个法术攻击骰，使用发射该弹药的远程攻击骰结果来决定成功度。如果法术需要一个豁免骰，目标需要通过一个豁免，对抗你的法术DC。</p>\n<p>该弹药能容纳的法术最高环级取决于其等级与价格。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 施法</p>\n<p>最高法术环级 8环</p>"
 		},
 		"Sphere of Annihilation": {
 			"name": "Sphere of Annihilation",
@@ -9478,8 +9478,8 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<hr />\n<p>This mutagen calcifies your body making it as hard as stone.</p>\n<p><strong>Benefit</strong> You gain resistance 5 to physical damage (except bludgeoning).</p>\n<p><strong>Drawback</strong> Your speeds are reduced by 10 feet (minimum 5 feet) and you take a -2 penalty to Reflex saves.</p>\n<p><strong>Duration</strong> 1 hour.</p>\n<p>@Compendium[pf2e.consumable-effects.1xHHvQlW4pRR89qj]{Effect: Stone Body Mutagen (Moderate)}</p>"
 		},
 		"Stone Bullet": {
-			"name": "Stone Bullet",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This sling bullet looks like a petrified serpent's eye. A creature hit by an activated <em>stone bullet</em> is subject to the effects of a 6th-level <em>@Compendium[pf2e.spells-srd.znv4ECL7ZtuiagtA]{Flesh to Stone}</em> spell (DC 34).</p>\n<hr />\n<p><strong>Craft Requirements</strong> Supply one casting of <em>flesh to stone</em>.</p>"
+			"name": "石化弹丸 Stone Bullet",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这颗投石索弹丸像是惊恐的蛇眼。被启动的石化弹丸命中的生物同时受到一个6环 <em>@Compendium[pf2e.spells-srd.znv4ECL7ZtuiagtA]{石化术 Flesh to Stone}</em> 的效果（DC 34）。</p>\n<hr />\n<p><strong>制作条件：</strong> 提供一次石化术Flesh to Stone施法。</p>"
 		},
 		"Stone Circle": {
 			"name": "Stone Circle",
@@ -9506,8 +9506,8 @@
 			"description": "<p><strong>Ammunition</strong> arrow, bolt</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<hr />\n<p>Each piece of stonethroat ammunition is tipped with an unusual yellow stone. When an activated piece of stonethroat ammunition hits a target, the target must attempt a DC 30 Fortitude save.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The ammunition lodges itself loosely into the target's throat. For 1 round, the target takes a -2 status penalty to attack rolls with its jaws or fangs, and to Athletics checks.</p>\n<p>@Compendium[pf2e.equipment-effects.AJx8i8QX35vsG5Q4]{Effect: Stonethroat Ammunition (Success)}</p>\n<p><strong>Failure</strong> The ammunition embeds itself deep in the target's throat. The target can't use its jaws or fangs Strike (if it has one) or the Swallow Whole ability until the end of its next turn.</p>\n<p><strong>Critical Failure</strong> As failure, and the target is @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled 2} for 1 round.</p>"
 		},
 		"Storm Arrow": {
-			"name": "Storm Arrow",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>The head of this arrow is made from gleaming copper.</p>\n<p>When an activated <em>storm arrow</em> hits a target, it is buffeted by raging winds and struck by a bolt of lightning that deals [[/r 3d12]] electricity damage and the target must attempt a @Check[type:reflex|dc:25] saving throw.</p>\n<p>If this arrow is shot from a weapon with a shock property rune, the save DC increases to 27, though the attack doesn't benefit from the <em>shock</em> property rune itself.</p>\n<hr />\n<p><strong>Critical Success</strong> The foe is unaffected.</p>\n<p><strong>Success</strong> The foe takes half damage and isn't affected by the wind.</p>\n<p><strong>Failure</strong> The foe takes full damage and is buffeted by winds for 1 round, taking a -2 circumstance penalty to ranged attack rolls and a -10-foot circumstance penalty to its fly Speed.</p>\n<p><strong>Critical Failure</strong> As failure, but the foe takes double damage.</p>"
+			"name": "风暴箭 Storm Arrow",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这支箭的箭头是用闪烁着的铜制成的。当一支启动的风暴箭命中目标，目标会被狂风袭扰并受到能造成 [[/r 3d12]] 电击伤害的闪电矢的打击，另外目标还需要通过一次 @Check[type:reflex|dc:25] 的反射豁免。</p>\n<p>如果这支箭是由一把具有电击Shock性能符文的武器射出，则豁免DC提升至27，但本次攻击并不会从电击Shock性能符文本身得到好处。</p>\n<hr />\n<p><strong>大成功</strong> 目标不受影响</p>\n<p><strong>成功</strong> 目标承受一半的伤害，并不受狂风的影响</p>\n<p><strong>失败</strong> 目标承受完整的伤害，并受到狂风袭扰，在远程攻击骰中承受-2环境罚值并在飞行速度Speed中承受-10尺环境罚值，持续1轮。</p>\n<p><strong>大失败</strong> 如失败，但目标承受双倍的伤害。</p>"
 		},
 		"Storm Chair": {
 			"name": "Storm Chair",
@@ -10362,8 +10362,8 @@
 			"description": "<p>The metal plates of this <em>+2 resilient full plate</em> are covered by a bright tabard featuring a distinctive coat of arms divided into four fields. This insignia magically records your recent victories, displaying one triumph in each field of the coat of arms, allowing you to call upon those victories for aid in future battles.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">R</span> envision</p>\n<p><strong>Trigger</strong> You kill or destroy a creature of a level equal to or greater than your <em>victory plate </em>(adjusted as usual if you add fundamental runes to victory plate). This creature must have one of the traits listed in the second activation</p>\n<p><strong>Effect</strong> You direct the armor to commemorate your victory. The coat of arms on the armor's tabard shifts to incorporate heraldry related to the slain creature, and the victory is recorded within the tabard. If you have already recorded four victories, choose one to replace with the new victory.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> envision, Interact</p>\n<p><strong>Frequency</strong> once per minute</p>\n<p><strong>Effect</strong> You touch one of the tabard's four fields representing one of your victories and recall your triumph over that creature. That creature vanishes from the tabard, and for 1 minute, you gain resistance 10 to a damage type based on the creature's trait (you gain resistance to only one type, even if the creature has more than one trait that could apply):</p>\n<ul>\n<li><strong>Aberration</strong> or <strong>Fey</strong> mental</li>\n<li><strong>Celestial</strong> good</li>\n<li><strong>Construct</strong> poison</li>\n<li><strong>Dragon</strong> or Elemental: one energy type that matches one of the dragon's or elemental's traits</li>\n<li><strong>Fiend</strong> evil</li>\n<li><strong>Ooze</strong> precision, and the resistance is 20</li>\n<li><strong>Undead</strong> negative</li>\n</ul>"
 		},
 		"Vine Arrow": {
-			"name": "Vine Arrow",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Command</p>\n<p>Leafy stalks protrude from the shaft of this rustic arrow. When an activated <em>vine arrow</em> hits a target, the arrow's shaft splits and grows, wrapping the target in vines.</p>\n<p>The target takes a -10-foot circumstance penalty to its Speeds for [[/r 2d4]] rounds, or until it Escapes against a DC of 19. On a critical hit, the target is also immobilized until it Escapes.</p>"
+			"name": "藤蔓箭 Vine Arrow",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 命令</p>\n<p>这支质朴的箭的箭杆上长出了带叶的茎。当一支启动的藤蔓箭命中了一个目标，箭的杆部分散并开始生长，用藤蔓缠住目标。</p>\n<p>目标在他的速度Speed上承受-10尺环境罚值，持续 [[/r 2d4]] 轮，或直到目标成功通过了一个DC为19的逃脱Escape检定。在重击时，目标在逃脱Escape之前也会陷入禁足Immobilized。</p>"
 		},
 		"Vine of Roses": {
 			"name": "Vine of Roses",
@@ -10378,8 +10378,8 @@
 			"description": "<p>The delicate process of extracting violet venom from a violet fungus leaves it diluted at the best of times. Alchemists are still on the hunt for a truly pure, unadulterated version of this highly toxic poison.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact (Contact)</p>\n<p><strong>Saving Throw</strong> @Check[type:fortitude|dc:17]</p>\n<p><strong>Onset</strong> 1 minute</p>\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong> [[/r {1d6}[poison]]]{1d6 poison damage} plus @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled 1} (1 round)</p>\n<p><strong>Stage 2</strong> [[/r {1d6}[poison]]]{1d6 poison damage} plus @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drained} (1 round)</p>\n<p><strong>Stage 3</strong> [[/r {2d6}[poison]]]{2d6 poison damage} plus enfeebled 1 (1 round)</p>"
 		},
 		"Viper Arrow": {
-			"name": "Viper Arrow",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Command</p>\n<p>The shaft of this arrow is covered in fine green scales, and its iron head comes to a pair of points almost like fangs.</p>\n<p>After an activated viper arrow hits a target, the arrow transforms into a @Compendium[pf2e.pathfinder-bestiary.lFlXmieuHTBIonhj]{Viper}. The target is affected by the viper's poison, as if it had been bitten. The viper then lands in an open space adjacent to the target.</p>\n<p>The viper has the summoned trait and acts at the end of your turn, even though you didn't use the Sustain a Spell action. It is under the GM's control, but it generally attacks the creature the arrow struck. The viper vanishes after 1 minute or when slain.</p>\n<p><strong>Craft Requirements</strong> Supply one casting of <em>@Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]{Summon Animal}</em></p>"
+			"name": "蝰蛇箭 Viper Arrow",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 命令</p>\n<p>这支箭的箭杆被精细的绿色鳞片包裹，它的铁质箭头形状也像是尖牙一样。</p>\n<p>当一支启动的蝰蛇箭命中一个目标，这支箭变形成一只 @Compendium[pf2e.pathfinder-bestiary.lFlXmieuHTBIonhj]{蝰蛇 Viper}。目标受到蝰蛇的毒液效果，如同已经被咬了一样。这只蝰蛇接着会落在邻接目标的空格子中。</p>\n<p>这只蝰蛇有着召唤Summon特征，在你回合结束时行动，即使你没有使用维持法术Sustain a Spell动作。它受到GM的控制，但它通常会去攻击箭所命中的目标。蝰蛇在1分钟后，或被杀死时消失。</p>\n<p><strong>制作条件：</strong> 提供一次 <em>@Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]{召唤动物 Summon Animal}</em>施法</p>"
 		},
 		"Viper's Fang": {
 			"name": "Viper's Fang",
@@ -10910,15 +10910,15 @@
 			"description": "<p>Made from soft leather, with delicate white wings attached to the heel, these boots are ensorcelled with powerful air magic.</p>\n<p>Whenever you fall while wearing these boots, the boots automatically cast <em>@Compendium[pf2e.spells-srd.TTwOKGqmZeKSyNMH]{Feather Fall}</em> on you. This benefit can't trigger again for 10 minutes.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> command, Interact</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You speak a command word and click the boots' heels together to cause the wings to animate and flap rapidly, granting you a fly Speed of 30 feet for 10 minutes.</p>\n<p>@Compendium[pf2e.equipment-effects.1S51uIRb9bnZtpFU]{Effect: Winged Boots}</p>"
 		},
 		"Winter Wolf Elixir (Greater)": {
-			"name": "冬狼灵药（高等） Winter Wolf Elixir (Greater)",
+			"name": "高等冬狼灵药 Winter Wolf Elixir (Greater)",
 			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">1</span> 交互</p>\n<p>这瓶灵药会温暖你的内在并促进身体循环。24小时内，你免受严重寒冷（severe cold）的影响。你也会免受极端寒冷和超常寒冷（incredible cold）的影响。</p>"
 		},
 		"Winter Wolf Elixir (Lesser)": {
-			"name": "冬狼灵药（次等） Winter Wolf Elixir (Lesser)",
+			"name": "次等冬狼灵药 Winter Wolf Elixir (Lesser)",
 			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">1</span> 交互</p>\n<p>这瓶灵药会温暖你的内在并促进身体循环。24小时内，你免受严重寒冷（severe cold）的影响。</p>"
 		},
 		"Winter Wolf Elixir (Moderate)": {
-			"name": "冬狼灵药（中等） Winter Wolf Elixir (Moderate)",
+			"name": "中等冬狼灵药 Winter Wolf Elixir (Moderate)",
 			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">1</span> 交互</p>\n<p>这瓶灵药会温暖你的内在并促进身体循环。24小时内，你免受严重寒冷（severe cold）的影响。你也会免受极端寒冷（extreme cold）的影响。</p>"
 		},
 		"Wish Blade": {
