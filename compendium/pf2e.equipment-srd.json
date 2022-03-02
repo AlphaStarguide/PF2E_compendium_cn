@@ -5174,20 +5174,20 @@
 			"description": "<p>Jezails are simple, efficient long guns developed in Casmaron that typically feature a custom stock and a flintlock firing mechanism. Though lacking the range and stopping power of an arquebus or the raw force of a harmona gun, the jezail is an elegant, well-balanced weapon suitable for a variety of combat situations. It's even possible to tuck it under one arm to fire a less accurate attack that uses only one hand.</p>"
 		},
 		"Juggernaut Mutagen (Greater)": {
-			"name": "Juggernaut Mutagen (Greater)",
-			"description": "<p><strong>Activate</strong><span class=\"pf2-icon\">1</span> Interact</p>\n<hr />\n<p>After you drink this mutagen, your body becomes thick and sturdy. You exhibit a healthy glow, though you tend to be ponderous and unobservant.</p>\n<p><strong>Benefit</strong> You gain a +3 item bonus to Fortitude saves and 30 temporary Hit Points. Whenever you are at maximum Hit Points for at least 1 full minute, you regain the temporary Hit Points. When you roll a success on a Fortitude save, you get a critical success instead.</p>\n<p><strong>Drawback</strong> You take a -2 penalty to Will saves, Perception checks and initiative rolls.</p>\n<p><strong>Duration</strong> 1 hour.</p>\n<p>@Compendium[pf2e.consumable-effects.xLilBqqf34ZJYO9i]{Effect: Juggernaut Mutagen (Greater)}</p>"
+			"name": "主宰突变药剂（高等） Juggernaut Mutagen (Greater)",
+			"description": "<p><strong>启动</strong><span class=\"pf2-icon\">1</span> 交互</p>\n<hr />\n<p>在你饮用这瓶突变药剂后，你的身体会变得厚实而强壮。你呈现出容光焕发的健康体态，不过也会倾向于变得呆板而缺乏注意力。</p>\n<p><strong>好处</strong> 你在强韧豁免上获得+3物品加值，并获得30点临时生命值。每当你将生命值保持在最大值至少1分钟时，你就会重新获得这一临时生命值。 当你在强韧豁免上取得成功时，你可以将其替换为大成功。</p>\n<p><strong>缺陷</strong> 你在意志豁免、察觉（Perception）检定和先攻骰上承受-2的减值。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.xLilBqqf34ZJYO9i]{效果：主宰突变药剂（高等）}</p>"
 		},
 		"Juggernaut Mutagen (Lesser)": {
-			"name": "Juggernaut Mutagen (Lesser)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<hr />\n<p>After you drink this mutagen, your body becomes thick and sturdy. You exhibit a healthy glow, though you tend to be ponderous and unobservant.</p>\n<p><strong>Benefit</strong> You gain a +1 item bonus to Fortitude saves and 5 temporary Hit Points. Whenever you are at maximum Hit Points for at least 1 full minute, you regain the temporary Hit Points.</p>\n<p><strong>Drawback</strong> You take a -2 penalty to Will saves, Perception checks and initiative rolls.</p>\n<p><strong>Duration</strong> 1 minute.</p>\n<p>@Compendium[pf2e.consumable-effects.1l139A2Qik4lBHKO]{Effect: Juggernaut Mutagen (Lesser)}</p>"
+			"name": "主宰突变药剂（次等） Juggernaut Mutagen (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>在你饮用这瓶突变药剂后，你的身体会变得厚实而强壮。你呈现出容光焕发的健康体态，不过也会倾向于变得呆板而缺乏注意力。</p>\n<p><strong>好处</strong> 你在强韧豁免上获得+1物品加值，并获得5点临时生命值。每当你将生命值保持在最大值至少1分钟时，你就会重新获得这一临时生命值。</p>\n<p><strong>缺陷</strong> 你在意志豁免、察觉（Perception）检定和先攻骰上承受-2的减值。</p>\n<p><strong>持续时间</strong> 1 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.1l139A2Qik4lBHKO]{效果：主宰突变药剂（次等）}</p>"
 		},
 		"Juggernaut Mutagen (Major)": {
-			"name": "Juggernaut Mutagen (Major)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<hr />\n<p>After you drink this mutagen, your body becomes thick and sturdy. You exhibit a healthy glow, though you tend to be ponderous and unobservant.</p>\n<p><strong>Benefit</strong> You gain a +4 item bonus to Fortitude saves and 45 temporary Hit Points. Whenever you are at maximum Hit Points for at least 1 full minute, you regain the temporary Hit Points. When you roll a success on a Fortitude save you get a critical success instead, and you critical failures on Fortitude saves become failures instead.</p>\n<p><strong>Drawback</strong> You take a -2 penalty to Will saves, Perception checks and initiative rolls.</p>\n<p><strong>Duration</strong> 1 hour.</p>\n<p>@Compendium[pf2e.consumable-effects.2PNo8u4wxSbz5WEs]{Effect: Juggernaut Mutagen (Major)}</p>"
+			"name": "主宰突变药剂（上等） Juggernaut Mutagen (Major)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>在你饮用这瓶突变药剂后，你的身体会变得厚实而强壮。你呈现出容光焕发的健康体态，不过也会倾向于变得呆板而缺乏注意力。</p>\n<p><strong>好处</strong> 你在强韧豁免上获得+4物品加值，并获得45点临时生命值。每当你将生命值保持在最大值至少1分钟时，你就会重新获得这一临时生命值。 当你在强韧豁免上取得成功时，你可以将其替换为大成功，并且你在强韧豁免上取得的大失败全都替换为失败。</p>\n<p><strong>缺陷</strong> 你在意志豁免、察觉（Perception）检定和先攻骰上承受-2的减值。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.2PNo8u4wxSbz5WEs]{效果：主宰突变药剂（上等）}</p>"
 		},
 		"Juggernaut Mutagen (Moderate)": {
-			"name": "Juggernaut Mutagen (Moderate)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<hr />\n<p>After you drink this mutagen, your body becomes thick and sturdy. You exhibit a healthy glow, though you tend to be ponderous and unobservant.</p>\n<p><strong>Benefit</strong> You gain a +2 item bonus to Fortitude saves and 10 temporary Hit Points. Whenever you are at maximum Hit Points for at least 1 full minute, you regain the temporary Hit Points.</p>\n<p><strong>Drawback</strong> You take a -2 penalty to Will saves, Perception checks and initiative rolls.</p>\n<p><strong>Duration</strong> 10 minute.</p>\n<p>@Compendium[pf2e.consumable-effects.fUrZ4xcMJz0CfTyG]{Effect: Juggernaut Mutagen (Moderate)}</p>"
+			"name": "主宰突变药剂（中等） Juggernaut Mutagen (Moderate)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>在你饮用这瓶突变药剂后，你的身体会变得厚实而强壮。你呈现出容光焕发的健康体态，不过也会倾向于变得呆板而缺乏注意力。</p>\n<p><strong>好处</strong> 你在强韧豁免上获得+2物品加值，并获得10点临时生命值。每当你将生命值保持在最大值至少1分钟时，你就会重新获得这一临时生命值。</p>\n<p><strong>缺陷</strong> 你在意志豁免、察觉（Perception）检定和先攻骰上承受-2的减值。</p>\n<p><strong>持续时间</strong> 10 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.fUrZ4xcMJz0CfTyG]{效果：主宰突变药剂（中等）}</p>"
 		},
 		"Juggling Club": {
 			"name": "Juggling Club",
@@ -5338,12 +5338,12 @@
 			"description": "<p>Once injected, this synthetic toxin sinks into the extremities, numbing them nearly to paralysis.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> Interact (Injury)</p>\n<p><strong>Saving Throw</strong> @Check[type:fortitude|dc:20]</p>\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong> [[/r {1d10}[poison]]]{1d10 poison damage} and -5-foot status penalty to all Speeds (1 round)</p>\n<p><strong>Stage 2</strong> [[/r {2d6}[poison]]]{2d6 poison damage} and -10-foot status penalty to all Speeds (1 round)</p>\n<p><strong>Stage 3</strong> [[/r {2d6}[poison]]]{2d6 poison damage} and -20-foot status penalty to all Speeds (1 round)</p>"
 		},
 		"Leaper's Elixir (Greater)": {
-			"name": "Leaper's Elixir (Greater)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<p>This tingly solution increases the elasticity and contraction of your leg muscles. For 1 minute after drinking this elixir, you can @Compendium[pf2e.actionspf2e.2HJ4yuEFY1Cast4h]{High Jump} or @Compendium[pf2e.actionspf2e.JUvAvruz7yRQXfz2]{Long Jump} as a single action instead of 2 actions. If you do, you don't perform the initial Stride (nor do you fail if you don't Stride 10 feet).</p>\n<p>The maximum vertical distance you can jump with a High Jump is the same as you can jump horizontally with a Long Jump.</p>"
+			"name": "跳跃者灵药（高等） Leaper's Elixir (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">1</span> 交互</p>\n<p>这瓶刺激性的溶液能够增强你腿部肌肉的弹性和伸缩性。在饮用灵药后的1分钟，取代原本的2个动作，你能够以单个动作进行 @Compendium[pf2e.actionspf2e.2HJ4yuEFY1Cast4h]{跳高 High Jump} 或 @Compendium[pf2e.actionspf2e.JUvAvruz7yRQXfz2]{跳远 Long Jump} 。如果你这样做，你不会执行最初的迈步（Stride）（即便你没有迈步10尺你也不会失败）。</p>\n<p>你跳高时能够跳起的最大垂直距离如同你跳远时能够跳出的水平距离。</p>"
 		},
 		"Leaper's Elixir (Lesser)": {
-			"name": "Leaper's Elixir (Lesser)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<p>This tingly solution increases the elasticity and contraction of your leg muscles. For 1 minute after drinking this elixir, you can @Compendium[pf2e.actionspf2e.2HJ4yuEFY1Cast4h]{High Jump} or @Compendium[pf2e.actionspf2e.JUvAvruz7yRQXfz2]{Long Jump} as a single action instead of 2 actions. If you do, you don't perform the initial Stride (nor do you fail if you don't Stride 10 feet).</p>"
+			"name": "跳跃者灵药（次等） Leaper's Elixir (Lesser)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">1</span> 交互</p>\n<p>这瓶刺激性的溶液能够增强你腿部肌肉的弹性和伸缩性。在饮用灵药后的1分钟，取代原本的2个动作，你能够以单个动作进行 @Compendium[pf2e.actionspf2e.2HJ4yuEFY1Cast4h]{跳高 High Jump} 或 @Compendium[pf2e.actionspf2e.JUvAvruz7yRQXfz2]{跳远 Long Jump} 。如果你这样做，你不会执行最初的迈步（Stride）（即便你没有迈步10尺你也不会失败）。</p>"
 		},
 		"Leather Armor": {
 			"name": "皮甲 Leather Armor",
