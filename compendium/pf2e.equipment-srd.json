@@ -198,32 +198,32 @@
 			"description": "<p>你必须启动橙色球体万古石以获得它的好处。共鸣能力让你在奥法Arcana、自然Nature、神秘Occultism或宗教Religion检定上获得+2物品加值，获得加成的技能与你最近一次利用该石头强化的法术所属的施法根源相匹配。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 想象</p>\n<p><strong>效果</strong> 如果你的下一个动作是施法Cast a Spell，该法术环级在用来反制或被反制时提高1级（最高10级）。</p>\n<p>@Compendium[pf2e.equipment-effects.yvabfuAO74pvH8hh]{效果：万古石（橙色球体） (奥法)}</p>\n<p>@Compendium[pf2e.equipment-effects.etJW0w4CiSFgMrWP]{效果：万古石（橙色球体） (自然)}</p>\n<p>@Compendium[pf2e.equipment-effects.vOU4Yv2MyAfYBbmF]{效果：万古石（橙色球体） (神秘)}</p>\n<p>@Compendium[pf2e.equipment-effects.FbFl95WRpzrrijh3]{效果：万古石（橙色球体） (宗教)}</p>"
 		},
 		"Aeon Stone (Pale Lavender Ellipsoid)": {
-			"name": "Aeon Stone (Pale Lavender Ellipsoid)",
-			"description": "<p>This aeon stone must be activated to provide a benefit. The resonant power allows you to cast the <em>@Compendium[pf2e.spells-srd.OhD2Z6rIGGD5ocZA]{Read Aura}</em> cantrip as an arcane innate spell.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">R</span> envision</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> A spell targets you</p>\n<p><strong>Effect</strong> The stone casts a 6th-level <em>@Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dispel Magic}</em> spell in an attempt to counteract the triggering spell, with a counteract modifier of [[/r 1d20+22]]. This can be used only on spells that specifically target you-not area spells that don't have targets. If it succeeds, it counteracts the spell for all targets if other creatures were targeted in addition to you.</p>\n<p>Each time you activate this <em>aeon stone</em>, attempt a DC 5 flat check. On a failure, the stone permanently turns into a <em>dull gray aeon stone</em>.</p>"
+			"name": "万古石（淡紫苏色椭球体） Aeon Stone (Pale Lavender Ellipsoid)",
+			"description": "<p>你必须启动这颗万古石以获得它的好处。共鸣能力让你可以以奥术内在法术的形式施展 <em>@Compendium[pf2e.spells-srd.OhD2Z6rIGGD5ocZA]{阅读灵光 Read Aura}</em> 戏法。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">R</span> 想象</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>触发</strong> 一个法术以你为目标</p>\n<p><strong>效果</strong> 这颗石头施放一次6环的 <em>@Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{解除魔法 Dispel Magic}</em> 以尝试反制触发的法术，反制调整值为 [[/r 1d20+22]]。这只能作用于明确以你为目标的法术，不能作用于无目标的区域法术。若检定成功，且除了你以外该法术还有其他的目标，它会为该法术的所有目标反制这个法术。</p>\n<p>你每次启动这颗万古石时都需要尝试一次DC 5的纯骰检定。如果失败，这颗石头将永久转变成一颗<em>暗灰色万古石</em>。</p>"
 		},
 		"Aeon Stone (Pale Orange Rhomboid)": {
-			"name": "Aeon Stone (Pale Orange Rhomboid)",
-			"description": "<p>The first time each day you die, your vital and spiritual essences mingle together and reside within this aeon stone.</p>\n<p>You have a limited sense of how many life forces are currently within 30 feet of the stone, which you can potentially use to determine when it's safe to call on the stone's power. At any time within the next hour after your body died, you can spend 1 minute concentrating in order to return to your body.</p>\n<p>As long as your body is still intact, you are no longer dead- you are restored to 1 HP with the @Compendium[pf2e.conditionitems.3uh1r86TzbQvosxv]{Doomed 3} and @Compendium[pf2e.conditionitems.Yl48xTdMh3aeQYL2]{Wounded 3} conditions. You can benefit from the effects of only one pale orange rhomboid aeon stone in a given day.</p>\n<p>The resonant power allows you to wait more than an hour to return to your body with the aeon stone; as long as the wayfinder remains on the body, your body doesn't decay and you can return at any point.</p>"
+			"name": "万古石（淡橙长菱体） Aeon Stone (Pale Orange Rhomboid)",
+			"description": "<p>在你每天第一次死亡的时候，你的生命和精神精华会混合在一起，并暂存在这块万古石中。你对目前在这块石头30英尺范围内有多少生命体有一个模糊的感知，你可以用它来决定什么时候可以安全地调用这块石头的力量。在你的身体死亡后的下一个小时内的任何时候，你都可以花1分钟的时间集中精力，以便回到你的身体。</p>\n<p>只要你的身体还完好无损，你就不再是死人了--你的生命值恢复到1，并获得 @Compendium[pf2e.conditionitems.3uh1r86TzbQvosxv]{毁灭 Doomed 3} 和 @Compendium[pf2e.conditionitems.Yl48xTdMh3aeQYL2]{受伤 Wounded 3} 状态。你在一天内只能从一个淡橙长菱体万古石的效果中获益。</p>\n<p>共振的力量为使你可以等待超过一个小时的时间来使用永生石返回你的身体；只要寻路仪还在身上，你的身体就不会腐烂，你可以在任何时候返回。</p>"
 		},
 		"Aeon Stone (Pearlescent Pyramid)": {
-			"name": "Aeon Stone (Pearlescent Pyramid)",
-			"description": "<p>While invested, this aeon stone grants the benefit of the @Compendium[pf2e.equipment-srd.JQdwHECogcTzdd8R]{Ghost Touch} property rune to your weapons and unarmed attacks.</p>\n<p>The resonant power grants a special activation.</p>\n<hr />\n<p><strong>Activate</strong><strong></strong> <span class=\"pf2-icon\">1</span> Envision</p>\n<p><strong>Frequency</strong> once per minute</p>\n<p><strong>Effect</strong> You gain the effects of <em>@Compendium[pf2e.spells-srd.jwK43yKsHTkJQvQ9]{See Invisibility}</em> for 1 round.</p>"
+			"name": "万古石（多彩锥形体） Aeon Stone (Pearlescent Pyramid)",
+			"description": "<p>在绑定时，这块万古石能使你的武器和非武装攻击获得 @Compendium[pf2e.equipment-srd.JQdwHECogcTzdd8R]{幽冥符文 Ghost Touch} 的好处。</p>\n<p>共振的力量为给予你一个特殊的启动能力。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">1</span> 想象</p>\n<p><strong>频率</strong> 每分钟一次</p>\n<p><strong>效果</strong> 你获得 <em>@Compendium[pf2e.spells-srd.jwK43yKsHTkJQvQ9]{识破隐形 See Invisibility}</em> 的效果，持续一轮。</p>"
 		},
 		"Aeon Stone (Pearly White Spindle)": {
-			"name": "Aeon Stone (Pearly White Spindle)",
-			"description": "<p>When you invest this aeon stone, it slowly starts healing your wounds, restoring 1 HP every minute.</p>\n<p>The resonant power grants you resistance 1 to negative damage.</p>"
+			"name": "万古石（珍珠白纺锤体） Aeon Stone (Pearly White Spindle)",
+			"description": "<p>当你绑定这个万古石时，它就会慢慢开始治疗你的伤口，每分钟恢复1HP。</p>\n<p>共振的力量为你提供1点负能量抗力。</p>"
 		},
 		"Aeon Stone (Pink Rhomboid)": {
-			"name": "Aeon Stone (Pink Rhomboid)",
-			"description": "<p>When you invest this stone, you gain 15 temporary Hit Points. If the stone's effects are suppressed, you lose any of the temporary Hit Points remaining until it returns. The temporary Hit Points refresh during your daily preparations; they do not refresh if you re-invest the stone, or invest another pink rhomboid aeon stone, before then.</p>\n<p>The resonant power allows you to cast the <em>@Compendium[pf2e.spells-srd.SnjhtQYexDtNDdEg]{Stabilize}</em> cantrip as a divine innate spell.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>Gain 15 temporary HP</li>\n</ul>"
+			"name": "万古石（粉色斜方体） Aeon Stone (Pink Rhomboid)",
+			"description": "<p>当你绑定这颗石头时，你获得15点临时生命值。如果石头的效果被压制，你失去剩余的所有临时生命值，直到石头的效果回来。临时生命值会在你进行每日准备时刷新；但在下一次每日准备之前，临时生命值不会在你重新绑定这颗石头，或绑定其他粉色斜方体万古石时刷新。</p>\n<p>共鸣能力让你可以以神术内在法术的形式施放 <em>@Compendium[pf2e.spells-srd.SnjhtQYexDtNDdEg]{稳定伤势 Stabilize}</em> 戏法。</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>获得15点临时生命值</li>\n</ul>"
 		},
 		"Aeon Stone (Tourmaline Sphere)": {
-			"name": "Aeon Stone (Tourmaline Sphere)",
-			"description": "<p>When you would die from the @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Dying} condition (typically at dying 4), this aeon stone automatically activates and reduces your dying value to 1 less than would normally kill you (typically to dying 3). The stone then permanently turns into a dull gray aeon stone. You can benefit from this ability only once per day, even if you have multiple such stones.</p>\n<p>The resonant power allows you to cast 1st-level <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Heal}</em> as a divine innate spell once per day.</p>"
+			"name": "万古石（碧绿色球体） Aeon Stone (Tourmaline Sphere)",
+			"description": "<p>当你即将死于 @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{濒死 Dying} 状态时（通常是达到濒死Dying 4的时候），这颗万古石会自动启动，并将你的濒死Dying数值降低到比你死亡时的数值低1点的程度（通常是降低到濒死Dying 3）。这颗石头之后就会永久性地转变成暗灰色万古石。你一天只能从这个效果中获益一次，无论你有多少颗这样的石头。</p>\n<p>共鸣能力让你可以以神术内在法术的形式施放1环的 <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{治疗术 Heal}</em>，每天一次。</p>"
 		},
 		"Aeon Stone (Western Star)": {
-			"name": "Aeon Stone (Western Star)",
-			"description": "<p>This aeon stone must be activated to provide a benefit.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> envision, Interact</p>\n<p><strong>Effect</strong> You activate the aeon stone to gain the effects of a 1st-level <em>@Compendium[pf2e.spells-srd.i35dpZFI7jZcRoBo]{Illusory Disguise}</em>.</p>\n<p>The resonant power allows you to render all of your aeon stones and your wayfinder @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisible} whenever you use the activation to gain the effects of illusory disguise.</p>"
+			"name": "万古石（西方之星） Aeon Stone (Western Star)",
+			"description": "<p>这个万古石必须被启动才能提供一个好处。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">2</span> 想象,交互</p>\n<p><strong>效果</strong> 当你启动万古石获得 <em>@Compendium[pf2e.spells-srd.i35dpZFI7jZcRoBo]{幻象伪装 Illusory Disguise}</em>的效果。</p>\n<p>其共振的力量允许你使你所有的万古石和你的寻路仪在启动获得幻象伪装的效果时 @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{隐形 Invisible} 。</p>"
 		},
 		"Agate": {
 			"name": "Agate",
