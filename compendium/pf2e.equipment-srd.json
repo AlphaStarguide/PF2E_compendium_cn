@@ -167,7 +167,7 @@
 		},
 		"Aeon Stone (Azure Briolette)": {
 			"name": "万古石（天蓝梨珠体） Aeon Stone (Azure Briolette)",
-			"description": "<p>这个万古石必须被启动才能提供好处。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">R</span> 想象</p>\n<p><strong>触发</strong> 一个敌人对你用你的一个法术槽施展的心灵法术的检定失败</p>\n<p><strong>效果</strong> 你获得相当于该法术环位两倍的临时HP，直到你的下一个回合。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">2</span> 指令，互动</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>效果</strong> 你获得一个 <em>@Compendium[pf2e.spells-srd.mAMEt4FFbdqoRnkN]{惊吓之触 Chill Touch}</em> 奥术戏法的效果。</p>"
+			"description": "<p>这个万古石必须被启动才能提供好处。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">R</span> 想象</p>\n<p><strong>触发</strong> 一个敌人对你用你的一个法术槽施展的心灵法术的检定失败</p>\n<p><strong>效果</strong> 你获得相当于该法术环位两倍的临时HP，直到你的下一个回合。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">2</span> 指令，交互</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>效果</strong> 你获得一个 <em>@Compendium[pf2e.spells-srd.mAMEt4FFbdqoRnkN]{惊吓之触 Chill Touch}</em> 奥术戏法的效果。</p>"
 		},
 		"Aeon Stone (Black Pearl)": {
 			"name": "万古石（黑珍珠） Aeon Stone (Black Pearl)",
@@ -415,7 +415,7 @@
 		},
 		"Anklets of Alacrity": {
 			"name": "敏捷脚镯 Anklets of Alacrity",
-			"description": "<p>这个镶嵌着宝石的黄金脚镯能够为你的特技Acrobatics检定提供+3物品加值。若绑定了该脚镯，你能将你的敏捷Dexterity提升2点，或将其提升至18点，选择结果更高的选项。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>效果</strong> 你将脚镯互相敲击，为你所有种类的速度Speed提供+20尺状态加值，并得到 <em>@Compendium[pf2e.spells-srd.Seaah9amXg70RKw2]{水上行走 Water Walk}</em> 的效果，持续10分钟。</p>\n<p>@Compendium[pf2e.equipment-effects.iK6JeCsZwm5Vakks]{效果：敏捷脚镯}</p>\n<hr />\n<p>自动生效</p>\n<ul>\n<li>特技Acrobatics检定+3物品加值</li>\n</ul>"
+			"description": "<p>这个镶嵌着宝石的黄金脚镯能够为你的特技Acrobatics检定提供+3物品加值。若绑定了该脚镯，你能将你的敏捷Dexterity提升2点，或将其提升至18点，选择结果更高的选项。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>效果</strong> 你将脚镯互相敲击，为你所有种类的速度Speed提供+20尺状态加值，并得到 <em>@Compendium[pf2e.spells-srd.Seaah9amXg70RKw2]{水上行走 Water Walk}</em> 的效果，持续10分钟。</p>\n<p>@Compendium[pf2e.equipment-effects.iK6JeCsZwm5Vakks]{效果：敏捷脚镯}</p>\n<hr />\n<p>自动生效</p>\n<ul>\n<li>特技Acrobatics检定+3物品加值</li>\n</ul>"
 		},
 		"Ankylostar": {
 			"name": "Ankylostar",
@@ -427,19 +427,19 @@
 		},
 		"Antidote (Greater)": {
 			"name": "高等解毒剂 Antidote (Greater)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>解毒剂能帮助你对抗毒物。在饮用解毒剂后，你在对抗毒素的强韧豁免检定上获得持续6小时的+4物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.QuZ5frBMJF3gi7RY]{效果: 高等解毒剂}</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>解毒剂能帮助你对抗毒物。在饮用解毒剂后，你在对抗毒素的强韧豁免检定上获得持续6小时的+4物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.QuZ5frBMJF3gi7RY]{效果: 高等解毒剂}</p>"
 		},
 		"Antidote (Lesser)": {
 			"name": "次等解毒剂 Antidote (Lesser)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>解毒剂能帮助你对抗毒物。在饮用解毒剂后，你在对抗毒素的强韧豁免检定上获得持续6小时的+2物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.7z1iY4AaNEAIKuAU]{效果: 次等解毒剂}</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>解毒剂能帮助你对抗毒物。在饮用解毒剂后，你在对抗毒素的强韧豁免检定上获得持续6小时的+2物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.7z1iY4AaNEAIKuAU]{效果: 次等解毒剂}</p>"
 		},
 		"Antidote (Major)": {
 			"name": "上等解毒剂 Antidote (Major)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>解毒剂能帮助你对抗毒物。在饮用解毒剂后，你在对抗毒素的强韧豁免检定上获得持续6小时的+4物品加值。并且当你饮用解毒剂时，你能够立即尝试一次豁免检定对抗一种正在影响你的、等级为14或更低的毒素。如果你取得成功，这个毒素即被中和。</p>\n<p>@Compendium[pf2e.consumable-effects.1mKjaWC65KWPuFR4]{效果: 上等解毒剂}</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>解毒剂能帮助你对抗毒物。在饮用解毒剂后，你在对抗毒素的强韧豁免检定上获得持续6小时的+4物品加值。并且当你饮用解毒剂时，你能够立即尝试一次豁免检定对抗一种正在影响你的、等级为14或更低的毒素。如果你取得成功，这个毒素即被中和。</p>\n<p>@Compendium[pf2e.consumable-effects.1mKjaWC65KWPuFR4]{效果: 上等解毒剂}</p>"
 		},
 		"Antidote (Moderate)": {
 			"name": "中等解毒剂 Antidote (Moderate)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>解毒剂能帮助你对抗毒物。在饮用解毒剂后，你在对抗毒素的强韧豁免检定上获得持续6小时的+3物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.mi4Md1fB2XThCand]{效果: 中等解毒剂}</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>解毒剂能帮助你对抗毒物。在饮用解毒剂后，你在对抗毒素的强韧豁免检定上获得持续6小时的+3物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.mi4Md1fB2XThCand]{效果: 中等解毒剂}</p>"
 		},
 		"Antimagic": {
 			"name": "Antimagic",
@@ -451,19 +451,19 @@
 		},
 		"Antiplague (Greater)": {
 			"name": "高等抗生素 Antiplague (Greater)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>A抗生素能够强化身体针对疾病的免疫力。在饮用抗生素后，你在对抗疾病的强韧豁免检定上获得持续24小时的+4物品加值；这个加值可以适用于你对抗疾病发展（disease’s progression）的每日豁免。</p>\n<p>@Compendium[pf2e.consumable-effects.R106i7WCXvHLGMTu]{效果: 高等抗生素}</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>A抗生素能够强化身体针对疾病的免疫力。在饮用抗生素后，你在对抗疾病的强韧豁免检定上获得持续24小时的+4物品加值；这个加值可以适用于你对抗疾病发展（disease’s progression）的每日豁免。</p>\n<p>@Compendium[pf2e.consumable-effects.R106i7WCXvHLGMTu]{效果: 高等抗生素}</p>"
 		},
 		"Antiplague (Lesser)": {
 			"name": "次等抗生素 Antiplague (Lesser)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>抗生素能够强化身体针对疾病的免疫力。在饮用抗生素后，你在对抗疾病的强韧豁免检定上获得持续24小时的+2物品加值；这个加值可以适用于你对抗疾病发展（disease’s progression）的每日豁免。</p>\n<p>@Compendium[pf2e.consumable-effects.kkDbalYEavzRpYlp]{效果: 次等抗生素}</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>抗生素能够强化身体针对疾病的免疫力。在饮用抗生素后，你在对抗疾病的强韧豁免检定上获得持续24小时的+2物品加值；这个加值可以适用于你对抗疾病发展（disease’s progression）的每日豁免。</p>\n<p>@Compendium[pf2e.consumable-effects.kkDbalYEavzRpYlp]{效果: 次等抗生素}</p>"
 		},
 		"Antiplague (Major)": {
 			"name": "上等抗生素 Antiplague (Major)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>抗生素能够强化身体针对疾病的免疫力。在饮用抗生素后，你在对抗疾病的强韧豁免检定上获得持续24小时的+4物品加值；这个加值可以适用于你对抗疾病发展（disease’s progression）的每日豁免。</p>\n<p>当你饮用抗生素时，你能够立即尝试一次豁免检定对抗一种正在影响你的、等级为14或更低的疾病。如果你取得成功，你即从疾病中康复。</p>\n<p>@Compendium[pf2e.consumable-effects.qVKrrKpTghgMIuGH]{效果: 上等抗生素}</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>抗生素能够强化身体针对疾病的免疫力。在饮用抗生素后，你在对抗疾病的强韧豁免检定上获得持续24小时的+4物品加值；这个加值可以适用于你对抗疾病发展（disease’s progression）的每日豁免。</p>\n<p>当你饮用抗生素时，你能够立即尝试一次豁免检定对抗一种正在影响你的、等级为14或更低的疾病。如果你取得成功，你即从疾病中康复。</p>\n<p>@Compendium[pf2e.consumable-effects.qVKrrKpTghgMIuGH]{效果: 上等抗生素}</p>"
 		},
 		"Antiplague (Moderate)": {
 			"name": "中等抗生素 Antiplague (Moderate)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>抗生素能够强化身体针对疾病的免疫力。在饮用抗生素后，你在对抗疾病的强韧豁免检定上获得持续24小时的+4物品加值；这个加值可以适用于你对抗疾病发展（disease’s progression）的每日豁免。</p>\n<p>@Compendium[pf2e.consumable-effects.HeRHBo2NaKy5IxhU]{效果: 中等抗生素}</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>抗生素能够强化身体针对疾病的免疫力。在饮用抗生素后，你在对抗疾病的强韧豁免检定上获得持续24小时的+4物品加值；这个加值可以适用于你对抗疾病发展（disease’s progression）的每日豁免。</p>\n<p>@Compendium[pf2e.consumable-effects.HeRHBo2NaKy5IxhU]{效果: 中等抗生素}</p>"
 		},
 		"Antivenom Potion": {
 			"name": "Antivenom Potion",
@@ -579,7 +579,7 @@
 		},
 		"Arsenic": {
 			"name": "砒霜 Arsenic",
-			"description": "<p>这份毒物由砷和其他物质混合而成。在毒素发作期间，你无法减弱你的恶心（sickened）状态。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 (摄入)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:18]</p>\n<p><strong>潜伏期</strong> 10 分钟</p>\n<p><strong>最大持续时间</strong> 5 分钟</p>\n<p><strong>阶段 1</strong> [[/r {1d4}[poison]]]{1d4 毒素伤害} 和 @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{恶心 Sickened 1} (1 分钟)</p>\n<p><strong>阶段 2</strong> [[/r {1d6}[poison]]]{1d6 毒素伤害} 和 @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{恶心 Sickened 2} (1 分钟)</p>\n<p><strong>阶段 3</strong> [[/r {2d6}[poison]]]{2d6 毒素伤害} 和 @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{恶心 Sickened 3} (1 分钟)</p>"
+			"description": "<p>这份毒物由砷和其他物质混合而成。在毒素发作期间，你无法减弱你的恶心（sickened）状态。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 (摄入)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:18]</p>\n<p><strong>潜伏期</strong> 10 分钟</p>\n<p><strong>最大持续时间</strong> 5 分钟</p>\n<p><strong>阶段 1</strong> [[/r {1d4}[poison]]]{1d4 毒素伤害} 和 @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{恶心 Sickened 1} (1 分钟)</p>\n<p><strong>阶段 2</strong> [[/r {1d6}[poison]]]{1d6 毒素伤害} 和 @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{恶心 Sickened 2} (1 分钟)</p>\n<p><strong>阶段 3</strong> [[/r {2d6}[poison]]]{2d6 毒素伤害} 和 @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{恶心 Sickened 3} (1 分钟)</p>"
 		},
 		"Artisan's Tools": {
 			"name": "工匠工具 Artisan's Tools",
@@ -794,8 +794,8 @@
 			"description": "<p>This blade or spike can be attached to a crossbow or firearm but, unlike other attached weapons, can be wielded in one hand as its own weapon. When used as a separate weapon, it can't benefit from any runes or abilities that function only for attached weapons.</p>"
 		},
 		"Beacon Shot": {
-			"name": "Beacon Shot",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>The shaft of a <em>beacon shot</em> is studded with tiny flecks of glimmering gemstones. When an activated <em>beacon shot</em> hits a target, it embeds itself into that target and spews sparks for 1 minute. If the target is @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisible}, it becomes merely @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Hidden} to creatures who would otherwise be unable to see it. The sparks also negate the @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} condition if the target was otherwise concealed.</p>\n<p>A creature can remove the arrow or bolt by using an Interact basic action and succeeding at a DC 20 Athletics check.</p>"
+			"name": "信标箭矢 Beacon Shot",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>信标箭矢的杆上装点着闪闪发亮的宝石微粒。当一支启动的信标箭矢命中了一个目标，它牢牢嵌入目标体内并喷出火星，持续1分钟。如果目标是 @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{隐形 Invisible}的，他在本来不能看到他的生物眼中变成了 @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{藏匿 Hidden} 。如果目标处于 @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{隐蔽 Concealed} 状态，火星也能抵消掉该状态。</p>\n<p>生物可以通过一个交互Interact动作，并成功通过一个DC 20的运动Athletics检定以移除嵌入体内的箭或矢。</p>"
 		},
 		"Beckoning Cat Amulet": {
 			"name": "Beckoning Cat Amulet",
@@ -807,7 +807,7 @@
 		},
 		"Belladonna": {
 			"name": "颠茄 Belladonna",
-			"description": "<p>颠茄有时候也被称作 \"死亡龙葵\"，它是一种被广泛使用的毒物，通常从类似番茄的植物中提取而出。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 互动 (摄入)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:19]</p>\n<p><strong>潜伏期</strong> 10 分钟</p>\n<p><strong>最大持续时间</strong> 30 分钟</p>\n<p><strong>阶段 1</strong> @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{目眩 Dazzled} (10 分钟)</p>\n<p><strong>阶段 2</strong> [[/r {1d6}[poison]]]{1d6 毒素伤害} 和 @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{恶心 Sickened 1} (10 分钟)</p>\n<p><strong>阶段 3</strong> [[/r {1d6}[poison]]]{1d6 毒素伤害}, @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{困惑 Confused}和 恶心 sickened 1 (1 分钟)</p>"
+			"description": "<p>颠茄有时候也被称作 \"死亡龙葵\"，它是一种被广泛使用的毒物，通常从类似番茄的植物中提取而出。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 交互 (摄入)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:19]</p>\n<p><strong>潜伏期</strong> 10 分钟</p>\n<p><strong>最大持续时间</strong> 30 分钟</p>\n<p><strong>阶段 1</strong> @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{目眩 Dazzled} (10 分钟)</p>\n<p><strong>阶段 2</strong> [[/r {1d6}[poison]]]{1d6 毒素伤害} 和 @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{恶心 Sickened 1} (10 分钟)</p>\n<p><strong>阶段 3</strong> [[/r {1d6}[poison]]]{1d6 毒素伤害}, @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{困惑 Confused}和 恶心 sickened 1 (1 分钟)</p>"
 		},
 		"Bellflower Toolbelt": {
 			"name": "Bellflower Toolbelt",
@@ -903,7 +903,7 @@
 		},
 		"Black Adder Venom": {
 			"name": "黑蝰毒 Black Adder Venom",
-			"description": "<p>蝰蛇毒液是强化武器的一种简单却有效的方式。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 互动 (受伤)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:18]</p>\n<p><strong>最大持续时间</strong> 3 轮</p>\n<p><strong>阶段 1</strong> [[/r {1d8}[poison]]]{1d8 毒素伤害} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {1d10}[poison]]]{1d10 毒素伤害} (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {2d6}[poison]]]{2d6 毒素伤害} (1 轮)</p>"
+			"description": "<p>蝰蛇毒液是强化武器的一种简单却有效的方式。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 交互 (受伤)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:18]</p>\n<p><strong>最大持续时间</strong> 3 轮</p>\n<p><strong>阶段 1</strong> [[/r {1d8}[poison]]]{1d8 毒素伤害} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {1d10}[poison]]]{1d10 毒素伤害} (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {2d6}[poison]]]{2d6 毒素伤害} (1 轮)</p>"
 		},
 		"Black Dragon's Breath Potion (Adult)": {
 			"name": "Black Dragon's Breath Potion (Adult)",
@@ -919,7 +919,7 @@
 		},
 		"Black Lotus Extract": {
 			"name": "黑莲汁 Black Lotus Extract",
-			"description": "<p>黑莲汁能够引发严重的内出血。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 (接触)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:42]</p>\n<p><strong>潜伏期</strong> 1 分钟</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> [[/r {15d6}[poison]]]{15d6 毒素伤害} 和 @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{流失 Drained 1} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {17d6}[poison]]]{17d6 毒素伤害} 和 流失drained 1 (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {20d6}[poison]]]{20d6 毒素伤害} 和 流失drained 2 (1 轮)</p>"
+			"description": "<p>黑莲汁能够引发严重的内出血。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 (接触)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:42]</p>\n<p><strong>潜伏期</strong> 1 分钟</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> [[/r {15d6}[poison]]]{15d6 毒素伤害} 和 @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{流失 Drained 1} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {17d6}[poison]]]{17d6 毒素伤害} 和 流失drained 1 (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {20d6}[poison]]]{20d6 毒素伤害} 和 流失drained 2 (1 轮)</p>"
 		},
 		"Black Powder (Dose or Round)": {
 			"name": "Black Powder (Dose or Round)",
@@ -1039,7 +1039,7 @@
 		},
 		"Blightburn Resin": {
 			"name": "燃疫松香 Blightburn Resin",
-			"description": "<p>这坨黏糊的硬化树液由感染了菌枯病（fungal blights）的树木上收割而来，并已经过明火灼烧。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 (接触)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:31]</p>\n<p><strong>潜伏期</strong> 1 分钟</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> [[/r {8d6}[poison]]]{8d6 毒素伤害} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {10d6}[poison]]]{10d6 毒素伤害} (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {15d6}[poison]]]{15d6 毒素伤害} (1 轮)</p>"
+			"description": "<p>这坨黏糊的硬化树液由感染了菌枯病（fungal blights）的树木上收割而来，并已经过明火灼烧。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 (接触)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:31]</p>\n<p><strong>潜伏期</strong> 1 分钟</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> [[/r {8d6}[poison]]]{8d6 毒素伤害} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {10d6}[poison]]]{10d6 毒素伤害} (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {15d6}[poison]]]{15d6 毒素伤害} (1 轮)</p>"
 		},
 		"Blightburn Sickness": {
 			"name": "Blightburn Sickness",
@@ -1295,7 +1295,7 @@
 		},
 		"Bracers of Missile Deflection": {
 			"name": "飞弹偏斜护腕 Bracers of Missile Deflection",
-			"description": "<p>这对护腕由耐用的秘银制成，并如夏日的太阳一般闪闪发光。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">R</span> 互动</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>触发</strong> 一次远程武器攻击命中了你，但并没有达成重击</p>\n<p><strong>需求</strong> 你意识到了这次攻击，而且没有措手不及</p>\n<p><strong>效果</strong> 这对护腕偏斜了这次攻击的弹道。你在对抗触发的攻击的AC上获得+2环境加值。如果这会导致攻击失败，那么这次攻击丢失。</p>\n<p>@Compendium[pf2e.equipment-effects.PeiuJ951kkBPTCSM]{效果：飞弹偏斜护腕}</p>"
+			"description": "<p>这对护腕由耐用的秘银制成，并如夏日的太阳一般闪闪发光。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">R</span> 交互</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>触发</strong> 一次远程武器攻击命中了你，但并没有达成重击</p>\n<p><strong>需求</strong> 你意识到了这次攻击，而且没有措手不及</p>\n<p><strong>效果</strong> 这对护腕偏斜了这次攻击的弹道。你在对抗触发的攻击的AC上获得+2环境加值。如果这会导致攻击失败，那么这次攻击丢失。</p>\n<p>@Compendium[pf2e.equipment-effects.PeiuJ951kkBPTCSM]{效果：飞弹偏斜护腕}</p>"
 		},
 		"Bracers of Missile Deflection (Greater)": {
 			"name": "Bracers of Missile Deflection (Greater)",
@@ -1395,7 +1395,7 @@
 		},
 		"Brimstone Fumes": {
 			"name": "硫磺烟 Brimstone Fumes",
-			"description": "<p>从地狱锻炉中散发出的烟尘将同时耗竭生命与力量。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 (吸入)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:36]</p>\n<p><strong>潜伏期</strong> 1 轮</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> [[/r {7d6}[poison]]]{7d6 毒素伤害} 和 @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{力竭 Enfeebled 1} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {8d6}[poison]]]{8d6 毒素伤害} 和 力竭enfeebled 2 (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {10d6}[poison]]]{10d6 毒素伤害} 和 力竭enfeebled 3 (1 轮)</p>"
+			"description": "<p>从地狱锻炉中散发出的烟尘将同时耗竭生命与力量。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 (吸入)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:36]</p>\n<p><strong>潜伏期</strong> 1 轮</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> [[/r {7d6}[poison]]]{7d6 毒素伤害} 和 @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{力竭 Enfeebled 1} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {8d6}[poison]]]{8d6 毒素伤害} 和 力竭enfeebled 2 (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {10d6}[poison]]]{10d6 毒素伤害} 和 力竭enfeebled 3 (1 轮)</p>"
 		},
 		"Bronze Bull Pendant": {
 			"name": "Bronze Bull Pendant",
@@ -1511,7 +1511,7 @@
 		},
 		"Caltrops": {
 			"name": "铁蒺藜 Caltrops",
-			"description": "<p>这些四尖金属钉可能会对生物的脚造成伤害。你可以使用【互动（Interact）动作】在与你相邻的一个空方格中散布铁蒺藜。进入该方格的第一个生物必须成功进行DC 14的特技检定，否则就会受到1d4穿刺伤害和 [[/r {1}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续流血伤害}。受到来自铁蒺藜的持续流血伤害的生物受到-5尺的速度减值。花费一个【互动（Interact）动作】来拔除铁蒺藜可以降低停止流血的DC。 一旦一个生物受到来自铁蒺藜的伤害，足够多的铁蒺藜会被毁掉，后续的其他生物进入这个方格是安全的。如果没有生物受到伤害，可以回收散布的铁蒺藜以再次使用。否则足够多的铁蒺藜会被破坏，这样无法回收。</p>"
+			"description": "<p>这些四尖金属钉可能会对生物的脚造成伤害。你可以使用【交互（Interact）动作】在与你相邻的一个空方格中散布铁蒺藜。进入该方格的第一个生物必须成功进行DC 14的特技检定，否则就会受到1d4穿刺伤害和 [[/r {1}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续流血伤害}。受到来自铁蒺藜的持续流血伤害的生物受到-5尺的速度减值。花费一个【交互（Interact）动作】来拔除铁蒺藜可以降低停止流血的DC。 一旦一个生物受到来自铁蒺藜的伤害，足够多的铁蒺藜会被毁掉，后续的其他生物进入这个方格是安全的。如果没有生物受到伤害，可以回收散布的铁蒺藜以再次使用。否则足够多的铁蒺藜会被破坏，这样无法回收。</p>"
 		},
 		"Camouflage Suit": {
 			"name": "Camouflage Suit",
@@ -1583,7 +1583,7 @@
 		},
 		"Cat's Eye Elixir": {
 			"name": "猫眼灵药 Cat's Eye Elixir",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>在你消耗这瓶灵药之后，你的视线变得锐利，能够感知哪怕最为微小的运动。</p>\n<p>在接下来的一分钟，你瞄准藏匿（hidden）生物时进行的裸骰检定减少为5，而瞄准隐蔽（concealed）生物时则不需要进行裸骰检定。这些好处在对抗你周围30尺内的生物时才有效。</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>在你消耗这瓶灵药之后，你的视线变得锐利，能够感知哪怕最为微小的运动。</p>\n<p>在接下来的一分钟，你瞄准藏匿（hidden）生物时进行的裸骰检定减少为5，而瞄准隐蔽（concealed）生物时则不需要进行裸骰检定。这些好处在对抗你周围30尺内的生物时才有效。</p>"
 		},
 		"Caterwaul Sling": {
 			"name": "Caterwaul Sling",
@@ -1679,15 +1679,15 @@
 		},
 		"Cheetah's Elixir (Greater)": {
 			"name": "猎豹灵药（高等） Cheetah's Elixir (Greater)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动</p>\n<p>这瓶灵药中的混合酶能够刺激并增强你的腿部肌肉。你在1小时内于你的速度（Speed）上获得+10尺状态加值。</p>\n<p>@Compendium[pf2e.consumable-effects.PeuUz7JaabCgl6Yh]{效果：猎豹灵药（高等）}</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶灵药中的混合酶能够刺激并增强你的腿部肌肉。你在1小时内于你的速度（Speed）上获得+10尺状态加值。</p>\n<p>@Compendium[pf2e.consumable-effects.PeuUz7JaabCgl6Yh]{效果：猎豹灵药（高等）}</p>"
 		},
 		"Cheetah's Elixir (Lesser)": {
 			"name": "猎豹灵药（次等） Cheetah's Elixir (Lesser)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动</p>\n<p>这瓶灵药中的混合酶能够刺激并增强你的腿部肌肉。你在1分钟内于你的速度（Speed）上获得+5尺状态加值。</p>\n<p>@Compendium[pf2e.consumable-effects.lNWACCNe9RYgaFxb]{效果：猎豹灵药（次等）}</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶灵药中的混合酶能够刺激并增强你的腿部肌肉。你在1分钟内于你的速度（Speed）上获得+5尺状态加值。</p>\n<p>@Compendium[pf2e.consumable-effects.lNWACCNe9RYgaFxb]{效果：猎豹灵药（次等）}</p>"
 		},
 		"Cheetah's Elixir (Moderate)": {
 			"name": "猎豹灵药（中等） Cheetah's Elixir (Moderate)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动</p>\n<p>这瓶灵药中的混合酶能够刺激并增强你的腿部肌肉。你在10分钟内于你的速度（Speed）上获得+10尺状态加值。</p>\n<p>@Compendium[pf2e.consumable-effects.j9zVZwRBVAcnpEkE]{效果：猎豹灵药（中等）}</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶灵药中的混合酶能够刺激并增强你的腿部肌肉。你在10分钟内于你的速度（Speed）上获得+10尺状态加值。</p>\n<p>@Compendium[pf2e.consumable-effects.j9zVZwRBVAcnpEkE]{效果：猎豹灵药（中等）}</p>"
 		},
 		"Chest": {
 			"name": "箱子 Chest",
@@ -1826,8 +1826,8 @@
 			"description": "<p>This malleable, oil-based clay can be shaped by hand and is available in a variety of colors. A single unit has 4 ounces of clay.</p>"
 		},
 		"Climbing Bolt": {
-			"name": "Climbing Bolt",
-			"description": "<p>The shaft of this bolt is wrapped with fine twine. When the bolt strikes a solid surface, the twine unwinds and enlarges into a 50-foot-long rope, securely fastened to the surface the bolt struck. The rope can be pulled free with an Interact action and a successful DC 20 Athletics check.</p>"
+			"name": "攀爬矢 Climbing Bolt",
+			"description": "<p>这支矢的杆部卷着细绳，当这支矢击中了固体表面，细绳会解开成50尺长的绳子，稳固地系在弩矢撞击的表面上。通过一个交互Interact动作和一个DC 20的运动Athletics检定，可以将绳子取下来。</p>"
 		},
 		"Climbing Kit": {
 			"name": "攀爬工具包 Climbing Kit",
@@ -2367,7 +2367,7 @@
 		},
 		"Cytillesh Oil": {
 			"name": "碧幻油 Cytillesh Oil",
-			"description": "<p>这种粘稠的物质由能够窃取心灵的碧幻菌（cytillesh fungus）中蒸馏而来，不过它已失去改变记忆的能力。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 互动 (受伤)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:19]</p>\n<p><strong>最大持续时间</strong> 4 轮</p>\n<p><strong>阶段 1</strong> [[/r {1d10}[poison]]]{1d10 毒素伤害} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {1d12}[poison]]]{1d12 毒素伤害} (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {2d10}[poison]]]{2d10 毒素伤害} (1 轮)</p>"
+			"description": "<p>这种粘稠的物质由能够窃取心灵的碧幻菌（cytillesh fungus）中蒸馏而来，不过它已失去改变记忆的能力。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 交互 (受伤)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:19]</p>\n<p><strong>最大持续时间</strong> 4 轮</p>\n<p><strong>阶段 1</strong> [[/r {1d10}[poison]]]{1d10 毒素伤害} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {1d12}[poison]]]{1d12 毒素伤害} (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {2d10}[poison]]]{2d10 毒素伤害} (1 轮)</p>"
 		},
 		"Dagger": {
 			"name": "匕首 Dagger",
@@ -2411,15 +2411,15 @@
 		},
 		"Darkvision Elixir (Greater)": {
 			"name": "黑暗视觉灵药（高等） Darkvision Elixir (Greater)",
-			"description": "<p><strong>启动</strong><span class=\"pf2-icon\">1</span> 互动</p>\n<p>在你饮用这瓶灵药后，你在黑暗中的视线变得格外锐利。你在24小时内获得黑暗视觉。</p>\n<p>@Compendium[pf2e.consumable-effects.7vCenP9j6FuHRv5C]{效果：黑暗视觉灵药（高等）}</p>"
+			"description": "<p><strong>启动</strong><span class=\"pf2-icon\">1</span> 交互</p>\n<p>在你饮用这瓶灵药后，你在黑暗中的视线变得格外锐利。你在24小时内获得黑暗视觉。</p>\n<p>@Compendium[pf2e.consumable-effects.7vCenP9j6FuHRv5C]{效果：黑暗视觉灵药（高等）}</p>"
 		},
 		"Darkvision Elixir (Lesser)": {
 			"name": "黑暗视觉灵药（次等） Darkvision Elixir (Lesser)",
-			"description": "<p><strong>启动</strong><span class=\"pf2-icon\">1</span> 互动</p>\n<p>在你饮用这瓶灵药后，你在黑暗中的视线变得格外锐利。你在10分钟内获得黑暗视觉。</p>\n<p>@Compendium[pf2e.consumable-effects.7UL8belWmo7U5YGM]{效果：黑暗视觉灵药（次等）}</p>"
+			"description": "<p><strong>启动</strong><span class=\"pf2-icon\">1</span> 交互</p>\n<p>在你饮用这瓶灵药后，你在黑暗中的视线变得格外锐利。你在10分钟内获得黑暗视觉。</p>\n<p>@Compendium[pf2e.consumable-effects.7UL8belWmo7U5YGM]{效果：黑暗视觉灵药（次等）}</p>"
 		},
 		"Darkvision Elixir (Moderate)": {
 			"name": "黑暗视觉灵药（中等） Darkvision Elixir (Moderate)",
-			"description": "<p><strong>启动</strong><strong></strong><span class=\"pf2-icon\">1</span> 互动</p>\n<p>在你饮用这瓶灵药后，你在黑暗中的视线变得格外锐利。你在1小时内获得黑暗视觉。</p>\n<p>@Compendium[pf2e.consumable-effects.bcxVvIbuZWOvsKcA]{效果：黑暗视觉灵药（中等）}</p>"
+			"description": "<p><strong>启动</strong><strong></strong><span class=\"pf2-icon\">1</span> 交互</p>\n<p>在你饮用这瓶灵药后，你在黑暗中的视线变得格外锐利。你在1小时内获得黑暗视觉。</p>\n<p>@Compendium[pf2e.consumable-effects.bcxVvIbuZWOvsKcA]{效果：黑暗视觉灵药（中等）}</p>"
 		},
 		"Darkvision Scope": {
 			"name": "Darkvision Scope",
@@ -2511,7 +2511,7 @@
 		},
 		"Deathcap Powder": {
 			"name": "死帽粉 Deathcap Powder",
-			"description": "<p>有毒的死帽蕈（deathcap mushroom）可以经由晾晒、研磨制成无味且更具毒性的粉末。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 (摄入)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:33]</p>\n<p><strong>潜伏期</strong> 10 分钟</p>\n<p><strong>最大持续时间</strong> 6 分钟</p>\n<p><strong>阶段 1</strong> [[/r {13d6}[poison]]]{13d6 毒素伤害} (1 分钟)</p>\n<p><strong>阶段 2</strong> [[/r {17d6}[poison]]]{17d6 毒素伤害} 和 @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{恶心 Sickened 2} (1 分钟)</p>\n<p><strong>阶段 3</strong> [[/r {20d6}[poison]]]{20d6 毒素伤害} 和 恶心sickened 3 (1 分钟)</p>"
+			"description": "<p>有毒的死帽蕈（deathcap mushroom）可以经由晾晒、研磨制成无味且更具毒性的粉末。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 (摄入)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:33]</p>\n<p><strong>潜伏期</strong> 10 分钟</p>\n<p><strong>最大持续时间</strong> 6 分钟</p>\n<p><strong>阶段 1</strong> [[/r {13d6}[poison]]]{13d6 毒素伤害} (1 分钟)</p>\n<p><strong>阶段 2</strong> [[/r {17d6}[poison]]]{17d6 毒素伤害} 和 @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{恶心 Sickened 2} (1 分钟)</p>\n<p><strong>阶段 3</strong> [[/r {20d6}[poison]]]{20d6 毒素伤害} 和 恶心sickened 3 (1 分钟)</p>"
 		},
 		"Deathless": {
 			"name": "Deathless",
@@ -2654,8 +2654,8 @@
 			"description": "<p>这个小木盒子包含化妆品，假面部毛发，快干胶水和一些简单的假发。你通常需要一个化装工具来进行化装，以便使用唬骗技能冒充某人。如果你进行了很多次数的化装，您可以使用适合化装工具包类型的替代化妆品来补充</p>"
 		},
 		"Disintegration Bolt": {
-			"name": "Disintegration Bolt",
-			"description": "<p>The shaft of this bolt is scorched and blackened, and handling it coats your fingers with a fine black powder. When an activated <em>disintegration bolt</em> hits a target, it is subject to a <em>@Compendium[pf2e.spells-srd.r7ihOgKv19eJQnik]{Disintegrate}</em> spell requiring a @Check[type:fortitude|dc:34] save. As with the spell, a critical hit on the attack roll causes the target's saving throw outcome to be one degree worse.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p><strong>Craft Requirements</strong> Supply one casting of <em>disintegrate</em>.</p>"
+			"name": "解离矢 Disintegration Bolt",
+			"description": "<p>这支矢的杆部枯黄而焦黑，拿着它会使你的手粘上细密的黑色粉末。当一支启动的解离矢命中了一个目标，它会承受一个 <em>@Compendium[pf2e.spells-srd.r7ihOgKv19eJQnik]{解离术 Disintegrate}</em> 效果，并需要通过一个 @Check[type:fortitude|dc:34] 豁免检定。攻击骰上的暴击会使得目标的豁免结果下降一级。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p><strong>制造条件</strong> 提供一次解离术Disintegrate施法。</p>"
 		},
 		"Dispelling Sliver": {
 			"name": "Dispelling Sliver",
@@ -2751,7 +2751,7 @@
 		},
 		"Dragon Bile": {
 			"name": "龙胆汁 Dragon Bile",
-			"description": "<p>这种消化液和绿龙毒腺的混合物能让受害者呕吐不止，仿佛它的肉体从内部被消化一般。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 (接触)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:37]</p>\n<p><strong>Onset</strong> 1 分钟</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> [[/r {6d6}[poison]]]{6d6 毒素伤害} 和 @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{恶心 Sickened 2} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {7d6}[poison]]]{7d6 毒素伤害} 和 恶心sickened 3 (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {9d6}[poison]]]{9d6 毒素伤害} 和 恶心sickened 4 (1 轮)</p>"
+			"description": "<p>这种消化液和绿龙毒腺的混合物能让受害者呕吐不止，仿佛它的肉体从内部被消化一般。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 (接触)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:37]</p>\n<p><strong>Onset</strong> 1 分钟</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> [[/r {6d6}[poison]]]{6d6 毒素伤害} 和 @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{恶心 Sickened 2} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {7d6}[poison]]]{7d6 毒素伤害} 和 恶心sickened 3 (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {9d6}[poison]]]{9d6 毒素伤害} 和 恶心sickened 4 (1 轮)</p>"
 		},
 		"Dragon Mouth Pistol": {
 			"name": "Dragon Mouth Pistol",
@@ -3107,31 +3107,31 @@
 		},
 		"Elixir of Life (Greater)": {
 			"name": "高等生命灵药 Elixir of Life (Greater)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>生命灵药能够加速身体的自然治愈进程并增强免疫系统。在饮用生命灵药后，你恢复 [[/r {7d6+18}[healing]]]{7d6+18 生命值} 并于10分钟内在对抗疾病和毒素的豁免检定上获得+2物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.Z9oPh462q82IYIZ6]{效果: 高等生命灵药}</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>生命灵药能够加速身体的自然治愈进程并增强免疫系统。在饮用生命灵药后，你恢复 [[/r {7d6+18}[healing]]]{7d6+18 生命值} 并于10分钟内在对抗疾病和毒素的豁免检定上获得+2物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.Z9oPh462q82IYIZ6]{效果: 高等生命灵药}</p>"
 		},
 		"Elixir of Life (Lesser)": {
 			"name": "次等生命灵药 Elixir of Life (Lesser)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>生命灵药能够加速身体的自然治愈进程并增强免疫系统。在饮用生命灵药后，你恢复 [[/r {3d6+6}[healing]]]{3d6+6 生命值} 并于10分钟内在对抗疾病和毒素的豁免检定上获得+1物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.EpB7yJPEuG6ez4z3]{效果: 次等生命灵药}</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>生命灵药能够加速身体的自然治愈进程并增强免疫系统。在饮用生命灵药后，你恢复 [[/r {3d6+6}[healing]]]{3d6+6 生命值} 并于10分钟内在对抗疾病和毒素的豁免检定上获得+1物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.EpB7yJPEuG6ez4z3]{效果: 次等生命灵药}</p>"
 		},
 		"Elixir of Life (Major)": {
 			"name": "上等生命灵药 Elixir of Life (Major)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>生命灵药能够加速身体的自然治愈进程并增强免疫系统。在饮用生命灵药后，你恢复 [[/r {8d6+21}[healing]]]{8d6+21 生命值} 并于10分钟内在对抗疾病和毒素的豁免检定上获得+3物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.PpLxndUSgzgs6dd0]{效果: 上等生命灵药}</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>生命灵药能够加速身体的自然治愈进程并增强免疫系统。在饮用生命灵药后，你恢复 [[/r {8d6+21}[healing]]]{8d6+21 生命值} 并于10分钟内在对抗疾病和毒素的豁免检定上获得+3物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.PpLxndUSgzgs6dd0]{效果: 上等生命灵药}</p>"
 		},
 		"Elixir of Life (Minor)": {
 			"name": "下等生命灵药 Elixir of Life (Minor)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>生命灵药能够加速身体的自然治愈进程并增强免疫系统。在饮用生命灵药后，你恢复 [[/r {1d6}[healing]]]{1d6 生命值} 并于10分钟内在对抗疾病和毒素的豁免检定上获得+1物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.lPRuIRbu0rHBkoKY]{效果: 下等生命灵药}</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>生命灵药能够加速身体的自然治愈进程并增强免疫系统。在饮用生命灵药后，你恢复 [[/r {1d6}[healing]]]{1d6 生命值} 并于10分钟内在对抗疾病和毒素的豁免检定上获得+1物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.lPRuIRbu0rHBkoKY]{效果: 下等生命灵药}</p>"
 		},
 		"Elixir of Life (Moderate)": {
 			"name": "中等生命灵药 Elixir of Life (Moderate)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>生命灵药能够加速身体的自然治愈进程并增强免疫系统。在饮用生命灵药后，你恢复 [[/r {5d6+12}[healing]]]{5d6+12 生命值} 并于10分钟内在对抗疾病和毒素的豁免检定上获得+2物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.Yxssrnh9UZJAM0V7]{效果: 中等生命灵药}</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>生命灵药能够加速身体的自然治愈进程并增强免疫系统。在饮用生命灵药后，你恢复 [[/r {5d6+12}[healing]]]{5d6+12 生命值} 并于10分钟内在对抗疾病和毒素的豁免检定上获得+2物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.Yxssrnh9UZJAM0V7]{效果: 中等生命灵药}</p>"
 		},
 		"Elixir of Life (True)": {
 			"name": "真实生命灵药 Elixir of Life (True)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span>互动 Interact</p>\n<p>生命灵药能够加速身体的自然治愈进程并增强免疫系统。在饮用生命灵药后，你恢复 [[/r {10d6+27}[healing]]]{10d6+27 生命值} 并于10分钟内在对抗疾病和毒素的豁免检定上获得+4物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.9MeHc072G4L8AJkp]{效果: 真实生命灵药}</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span>交互 Interact</p>\n<p>生命灵药能够加速身体的自然治愈进程并增强免疫系统。在饮用生命灵药后，你恢复 [[/r {10d6+27}[healing]]]{10d6+27 生命值} 并于10分钟内在对抗疾病和毒素的豁免检定上获得+4物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.9MeHc072G4L8AJkp]{效果: 真实生命灵药}</p>"
 		},
 		"Elixir of Rejuvenation": {
 			"name": "回春灵药 Elixir of Rejuvenation",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>回春灵药能够完全恢复一名生物的健康，并且根除所有正在影响它的毒物。当你饮用这瓶灵药时，你的生命值恢复至最大值，并移除所有正在影响你的等级为20或更低的苦难（afflictions）。</p>\n<p>你也能够将这瓶灵药给予一名死亡不超过一周的生物。如果你这么做，这名生物立即重获生命，此时它拥有1点生命值，并且不会拥有任何法术位、聚能点或其他每日资源。</p>\n<hr />\n<p><strong>制作需求</strong> 贤者之石 philosopher's stone，真实生命灵药 true elixir of life</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>回春灵药能够完全恢复一名生物的健康，并且根除所有正在影响它的毒物。当你饮用这瓶灵药时，你的生命值恢复至最大值，并移除所有正在影响你的等级为20或更低的苦难（afflictions）。</p>\n<p>你也能够将这瓶灵药给予一名死亡不超过一周的生物。如果你这么做，这名生物立即重获生命，此时它拥有1点生命值，并且不会拥有任何法术位、聚能点或其他每日资源。</p>\n<hr />\n<p><strong>制作需求</strong> 贤者之石 philosopher's stone，真实生命灵药 true elixir of life</p>"
 		},
 		"Elven Absinthe": {
 			"name": "Elven Absinthe",
@@ -3362,12 +3362,12 @@
 			"description": "<p>Before activation, this item appears to be nothing more than a simple rolled-up tent, barely large enough to fit four Medium creatures. Despite attempts to clean it, the tent is perpetually smudged with dirt in various places.</p>\n<p><strong>Activate</strong> (10 minutes) Interact</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> The rolled-up tent expands into a spacious yurt complete with a fire pit, 10 bedrolls, various cooking utensils, and basic food and water.</p>\n<p>The yurt can house and feed you and up to nine other Medium creatures that eat roughly as much as a human does; they need not attempt a Survival check to Subsist when you use the yurt. Fires and light inside the yurt do not extend illumination into the area surrounding the yurt, making it harder to spot from a distance.</p>\n<p>A large loop of red cloth hangs from one wall. If this loop is pulled, which takes an Interact action, the entire yurt immediately folds back up into its deactivated form, ready for further travel.</p>"
 		},
 		"Explosive Ammunition": {
-			"name": "Explosive Ammunition",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This piece of ammunition is coated in gritty black soot. When activated <em>explosive ammunition</em> hits a target, the missile explodes in a @Template[type:burst|distance:10], dealing [[/r 6d6]] fire damage to each creature in the area (including the target). Each creature must attempt a @Check[type:reflex|dc:25|basic:true] save.</p>"
+			"name": "爆炸弹药 Explosive Ammunition",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这发弹药包裹着灰黑色的煤灰。当启动的爆炸弹药命中了一个目标便会发生爆炸，对 @Template[type:burst|distance:10]范围内的每个生物都造成 [[/r 6d6]] 火焰伤害（包括目标）。每个生物都必须尝试一次 @Check[type:reflex|dc:25|basic:true] 豁免。</p>"
 		},
 		"Explosive Ammunition (Greater)": {
-			"name": "Explosive Ammunition (Greater)",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This piece of ammunition is coated in gritty black soot. When activated <em>explosive ammunition</em> hits a target, the missile explodes in a @Template[type:burst|distance:10], dealing [[/r10d6]] fire damage to each creature in the area (including the target). Each creature must attempt a @Check[type:reflex|dc:30|basic:true|name:Greater Explosive Ammunition] save.</p>"
+			"name": "爆炸弹药（高等） Explosive Ammunition (Greater)",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这发弹药包裹着灰黑色的煤灰。当启动的爆炸弹药命中了一个目标便会发生爆炸，对 @Template[type:burst|distance:10]范围内的每个生物都造成 [[/r10d6]] 火焰伤害（包括目标）。每个生物都必须尝试一次 @Check[type:reflex|dc:30|basic:true|name:Greater Explosive Ammunition] 豁免。</p>"
 		},
 		"Explosive Dogslicer": {
 			"name": "Explosive Dogslicer",
@@ -4070,8 +4070,8 @@
 			"description": "<p><strong>Perception</strong> +22; precise vision 30 feet, imprecise hearing 30 feet, constant detect magic</p>\n<p><strong>Communication</strong> speech (Common, Draconic, and eight other common languages)</p>\n<p><strong>Skills</strong> Arcana +34, seven Lore skills +28, Occultism +28, Society +28</p>\n<p><strong>Int</strong> +8, <strong>Wis</strong> +0, <strong>Cha</strong> +4</p>\n<p><strong>Will</strong> +24</p>\n<hr />\n<p>The genius diadem is a @Compendium[pf2e.equipment-srd.1FKDq4Gfev5GObDT]{Diadem of Intellect} that typically acts like an arrogant professor or mentor, often boasting that it is a certified greater intellect and far superior to your own intelligence, even after the benefits the diadem grants you. The genius diadem encourages you to learn things for yourself rather than actually attempting to Recall Knowledge for you, though you or your allies might be able to play on its arrogance using Deception to trick it into doing so. In addition to allowing you to activate it, the diadem can use the diadem of intellect's hypercognition activation with its own actions, though if it does so, the diadem gains the benefits instead of you. Only the diadem can use the following activation.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> command, Interact</p>\n<p><strong>Frequency</strong> once per hour</p>\n<p><strong>Effect</strong> The <em>genius diadem</em> casts 7th-level feeblemind.</p>"
 		},
 		"Ghost Ammunition": {
-			"name": "Ghost Ammunition",
-			"description": "<p>Ghost ammunition is cool to the touch. This ammunition has the benefits of the ghost touch property rune and can fly through any obstacle except those that can block incorporeal creatures or effects. Though the ammunition penetrates barriers and ignores all cover, the target still benefits from the flat check from being concealed or hidden. You still can't target an undetected creature without guessing.</p>\n<p>After it is launched, the ammunition vanishes into mist. However, in the dead of the night [[/r 1d4 #days]]{1d4 days} later, it reappears in the last quiver or other container it was taken from.</p>"
+			"name": "幽冥弹药 Ghost Ammunition",
+			"description": "<p>幽冥弹药的触感十分冰凉。该弹药有着幽冥Ghost Touch性能符文的效果，而且可以穿过任何无法阻挡虚体生物及效果的障碍物。虽然该弹药能够穿透屏障并忽略所有掩体，目标仍然能从掩体带来的隐蔽Concealed或藏匿Hidden中受益。你仍然无法在不猜测的情况下直接瞄准无踪Undetected的生物。</p>\n<p>该弹药发射之后便会化作雾气。然而在 [[/r 1d4 #days]]{1d4 天} 之后的深夜，它会出现在它被取出的箭袋或其他容器中。</p>"
 		},
 		"Ghost Charge (Greater)": {
 			"name": "Ghost Charge (Greater)",
@@ -4119,15 +4119,15 @@
 		},
 		"Giant Centipede Venom": {
 			"name": "巨蜈蚣毒 Giant Centipede Venom",
-			"description": "<p>巨蜈蚣的毒液能够引发多重肌肉僵直。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 互动 (受伤)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:17]</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> [[/r {1d6}[poison]]]{1d6 毒素伤害} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {1d8}[poison]]]{1d8 毒素伤害} 和 @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{措手不及 Flat-Footed} (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {1d12}[poison]]]{1d12 毒素伤害}, @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{笨拙 Clumsy 1}和 措手不及flat-footed (1 轮)</p>"
+			"description": "<p>巨蜈蚣的毒液能够引发多重肌肉僵直。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 交互 (受伤)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:17]</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> [[/r {1d6}[poison]]]{1d6 毒素伤害} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {1d8}[poison]]]{1d8 毒素伤害} 和 @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{措手不及 Flat-Footed} (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {1d12}[poison]]]{1d12 毒素伤害}, @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{笨拙 Clumsy 1}和 措手不及flat-footed (1 轮)</p>"
 		},
 		"Giant Scorpion Venom": {
 			"name": "巨蝎毒 Giant Scorpion Venom",
-			"description": "<p>蝎毒能够带来剧烈的疼痛并使受害者变得虚弱。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 互动 (受伤)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:22]</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> [[/r {1d10}[poison]]]{1d10 毒素伤害} 和 @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{力竭 Enfeebled 1} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {2d10}[poison]]]{2d10 毒素伤害} 和 力竭enfeebled 1 (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {2d10}[poison]]]{2d10 毒素伤害} 和 力竭enfeebled 2 (1 轮)</p>"
+			"description": "<p>蝎毒能够带来剧烈的疼痛并使受害者变得虚弱。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 交互 (受伤)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:22]</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> [[/r {1d10}[poison]]]{1d10 毒素伤害} 和 @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{力竭 Enfeebled 1} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {2d10}[poison]]]{2d10 毒素伤害} 和 力竭enfeebled 1 (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {2d10}[poison]]]{2d10 毒素伤害} 和 力竭enfeebled 2 (1 轮)</p>"
 		},
 		"Giant Wasp Venom": {
 			"name": "巨蜂毒 Giant Wasp Venom",
-			"description": "<p>巨峰毒液会妨碍受害者的移动。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 互动 (受伤)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:25]</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> [[/r {2d6}[poison]]]{2d6 毒素伤害} 和 @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{笨拙 Clumsy 1} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {3d6}[poison]]]{3d6 毒素伤害} 和 笨拙clumsy 2 (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {4d6}[poison]]]{4d6 毒素伤害} 和 笨拙clumsy 2 (1 轮)</p>"
+			"description": "<p>巨峰毒液会妨碍受害者的移动。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 交互 (受伤)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:25]</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> [[/r {2d6}[poison]]]{2d6 毒素伤害} 和 @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{笨拙 Clumsy 1} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {3d6}[poison]]]{3d6 毒素伤害} 和 笨拙clumsy 2 (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {4d6}[poison]]]{4d6 毒素伤害} 和 笨拙clumsy 2 (1 轮)</p>"
 		},
 		"Gilded ceremonial armor": {
 			"name": "Gilded ceremonial armor",
@@ -4363,7 +4363,7 @@
 		},
 		"Graveroot": {
 			"name": "墓根 Graveroot",
-			"description": "<p>这种从墓根中提取出的白色不透明汁液能让人意识模糊。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 互动 (受伤)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:19]</p>\n<p><strong>最大持续时间</strong> 4 轮</p>\n<p><strong>阶段 1</strong> [[/r {1d10}[poison]]]{1d10 毒素伤害} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {1d12}[poison]]]{1d12 毒素伤害} 和 @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{呆滞 Stupefied 1} (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {2d6}[poison]]]{2d6 毒素伤害} 和 呆滞stupefied 2 (1 轮)</p>"
+			"description": "<p>这种从墓根中提取出的白色不透明汁液能让人意识模糊。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 交互 (受伤)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:19]</p>\n<p><strong>最大持续时间</strong> 4 轮</p>\n<p><strong>阶段 1</strong> [[/r {1d10}[poison]]]{1d10 毒素伤害} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {1d12}[poison]]]{1d12 毒素伤害} 和 @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{呆滞 Stupefied 1} (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {2d6}[poison]]]{2d6 毒素伤害} 和 呆滞stupefied 2 (1 轮)</p>"
 		},
 		"Grease Snare": {
 			"name": "Grease Snare",
@@ -4695,7 +4695,7 @@
 		},
 		"Hemlock": {
 			"name": "毒芹 Hemlock",
-			"description": "<p>浓缩的毒芹是一种异常致命的毒物，它能够终止受害者的肌肉活动——包括心脏的跳动。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 (摄入)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:40]</p>\n<p><strong>潜伏期</strong> 30 分钟</p>\n<p><strong>最大持续时间</strong> 60 分钟</p>\n<p><strong>阶段 1</strong> [[/r {17d6}[poison]]]{17d6 毒素伤害} 和 @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{力竭 Enfeebled 2} (10 分钟)</p>\n<p><strong>阶段 2</strong> [[/r {21d6}[poison]]]{21d6 毒素伤害} 和 力竭enfeebled 3 (10 分钟)</p>\n<p><strong>阶段 3</strong> [[/r {26d6}[poison]]]{26d6 毒素伤害} 和 力竭enfeebled 4 (10 分钟)</p>"
+			"description": "<p>浓缩的毒芹是一种异常致命的毒物，它能够终止受害者的肌肉活动——包括心脏的跳动。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 (摄入)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:40]</p>\n<p><strong>潜伏期</strong> 30 分钟</p>\n<p><strong>最大持续时间</strong> 60 分钟</p>\n<p><strong>阶段 1</strong> [[/r {17d6}[poison]]]{17d6 毒素伤害} 和 @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{力竭 Enfeebled 2} (10 分钟)</p>\n<p><strong>阶段 2</strong> [[/r {21d6}[poison]]]{21d6 毒素伤害} 和 力竭enfeebled 3 (10 分钟)</p>\n<p><strong>阶段 3</strong> [[/r {26d6}[poison]]]{26d6 毒素伤害} 和 力竭enfeebled 4 (10 分钟)</p>"
 		},
 		"Herd Mask": {
 			"name": "Herd Mask",
@@ -4827,7 +4827,7 @@
 		},
 		"Hunting Spider Venom": {
 			"name": "猎蛛毒 Hunting Spider Venom",
-			"description": "<p>这种毒液能够腐蚀受害者的防御，以便蜘蛛捕食猎物。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 互动 (受伤)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:21]</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> [[/r {1d10}[poison]]]{1d10 毒素伤害} 和 @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{措手不及 Flat-Footed} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {1d12}[poison]]]{1d12 毒素伤害}, @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{笨拙 Clumsy 1} 和 措手不及flat-footed (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {2d6}[poison]]]{2d6 毒素伤害}， 笨拙clumsy 2 和 措手不及flat-footed (1 轮)</p>"
+			"description": "<p>这种毒液能够腐蚀受害者的防御，以便蜘蛛捕食猎物。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 交互 (受伤)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:21]</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> [[/r {1d10}[poison]]]{1d10 毒素伤害} 和 @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{措手不及 Flat-Footed} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {1d12}[poison]]]{1d12 毒素伤害}, @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{笨拙 Clumsy 1} 和 措手不及flat-footed (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {2d6}[poison]]]{2d6 毒素伤害}， 笨拙clumsy 2 和 措手不及flat-footed (1 轮)</p>"
 		},
 		"Hyldarf's Fang": {
 			"name": "Hyldarf's Fang",
@@ -4959,7 +4959,7 @@
 		},
 		"Infiltrator's Elixir": {
 			"name": "渗透者灵药 Infiltrator's Elixir",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>受到密探和诡术师青睐的渗透者灵药能够改变你的容貌。在摄入这份灵药时，你获得符合你体型的类人生物的形态，并且与你有足够大的差别以使你无法被认出。如果你并非一个类人生物，你可能会获得一个比你自己更小的形态，具体由GM判断。由灵药的制造者决定你在摄入这瓶灵药时所转变成的形态的基础容貌，包括瞳色，肤色和发色。灵药无法将你的形态变为特定的个体。在形态改变后，你在接下里的10分钟内保持这一形态。</p>\n<p>饮用这瓶灵药视作设下伪装进行模仿。你在避免他人看穿伪装的欺骗（Deception）DC上获得+4的状态加值，即使你在欺骗上未受训你也可以将你的等级加到这个DC上。</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>受到密探和诡术师青睐的渗透者灵药能够改变你的容貌。在摄入这份灵药时，你获得符合你体型的类人生物的形态，并且与你有足够大的差别以使你无法被认出。如果你并非一个类人生物，你可能会获得一个比你自己更小的形态，具体由GM判断。由灵药的制造者决定你在摄入这瓶灵药时所转变成的形态的基础容貌，包括瞳色，肤色和发色。灵药无法将你的形态变为特定的个体。在形态改变后，你在接下里的10分钟内保持这一形态。</p>\n<p>饮用这瓶灵药视作设下伪装进行模仿。你在避免他人看穿伪装的欺骗（Deception）DC上获得+4的状态加值，即使你在欺骗上未受训你也可以将你的等级加到这个DC上。</p>"
 		},
 		"Injection Spear": {
 			"name": "Injection Spear",
@@ -5255,7 +5255,7 @@
 		},
 		"King's Sleep": {
 			"name": "王之安眠 King's Sleep",
-			"description": "<p>王之安眠是一种极其隐蔽的长效毒素，让那些尊贵的受害者看起来仿佛是死于疾病甚至自然因素。王之安眠带来的流失（drained）状态会在每次豁免失败时叠加，并且在毒素持续期间无法被移除。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 (摄入)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:41]</p>\n<p><strong>潜伏期</strong> 1 天</p>\n<p><strong>阶段 1</strong> @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{流失Drained 1} (1 天)</p>\n<p><strong>阶段 2</strong> 流失drained 1 (1 天)</p>\n<p><strong>阶段 3</strong> 流失drained 2 (1 天)</p>"
+			"description": "<p>王之安眠是一种极其隐蔽的长效毒素，让那些尊贵的受害者看起来仿佛是死于疾病甚至自然因素。王之安眠带来的流失（drained）状态会在每次豁免失败时叠加，并且在毒素持续期间无法被移除。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 (摄入)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:41]</p>\n<p><strong>潜伏期</strong> 1 天</p>\n<p><strong>阶段 1</strong> @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{流失Drained 1} (1 天)</p>\n<p><strong>阶段 2</strong> 流失drained 1 (1 天)</p>\n<p><strong>阶段 3</strong> 流失drained 2 (1 天)</p>"
 		},
 		"Kite": {
 			"name": "Kite",
@@ -5307,11 +5307,11 @@
 		},
 		"Lantern (Bull's Eye)": {
 			"name": "提灯(牛眼) Lantern (Bull's Eye)",
-			"description": "<p>一盏提灯提供明亮光线并且需要1品脱油才能燃烧6小时。一个牛眼提灯在一个60英尺的锥形内发出光芒。一个附盖提灯在30英尺半径范围内散发光线并配有百叶窗，你可以关闭它以阻挡光线。关闭或打开百叶窗需要一个【互动动作】。</p>"
+			"description": "<p>一盏提灯提供明亮光线并且需要1品脱油才能燃烧6小时。一个牛眼提灯在一个60英尺的锥形内发出光芒。一个附盖提灯在30英尺半径范围内散发光线并配有百叶窗，你可以关闭它以阻挡光线。关闭或打开百叶窗需要一个【交互动作】。</p>"
 		},
 		"Lantern (Hooded)": {
 			"name": "提灯(附盖) Lantern (Hooded)",
-			"description": "<p>一盏提灯提供明亮光线并且需要1品脱油才能燃烧6小时。一个牛眼提灯在一个60英尺的锥形内发出光芒。一个附盖提灯在30英尺半径范围内散发光线并配有百叶窗，你可以关闭它以阻挡光线。关闭或打开百叶窗需要一个【互动动作】。</p>"
+			"description": "<p>一盏提灯提供明亮光线并且需要1品脱油才能燃烧6小时。一个牛眼提灯在一个60英尺的锥形内发出光芒。一个附盖提灯在30英尺半径范围内散发光线并配有百叶窗，你可以关闭它以阻挡光线。关闭或打开百叶窗需要一个【交互动作】。</p>"
 		},
 		"Lantern of Empty Light": {
 			"name": "Lantern of Empty Light",
@@ -5363,7 +5363,7 @@
 		},
 		"Lethargy Poison": {
 			"name": "昏睡毒 Lethargy Poison",
-			"description": "<p>昏睡毒普遍用于卓尔的一击脱离战术，而另外一些希望受害者存活的家伙也会使用这种毒素；用毒伏击者会先行撤退，直到毒素发作让受害者倒地昏迷后再归来。多次曝露在昏睡毒之下并不会让目标进行额外的豁免检定；只有在对抗正于体内生效的毒素的豁免检定上失败时才会推进毒发阶段。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 互动 (受伤)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:18]</p>\n<p><strong>最大持续时间</strong> 4 小时</p>\n<p><strong>阶段 1</strong> @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{缓慢 Slowed 1} (1 轮)</p>\n<p><strong>阶段 2</strong> 缓慢slowed 1 (1 分钟)</p>\n<p><strong>阶段 3</strong> @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{失去意识 Unconscious} 且不能通过察觉检定醒来 (1 轮)</p>\n<p><strong>阶段 4</strong> 失去意识且不能通过察觉检定醒来 ([[/br 1d4 #hours]]{1d4 小时})</p>"
+			"description": "<p>昏睡毒普遍用于卓尔的一击脱离战术，而另外一些希望受害者存活的家伙也会使用这种毒素；用毒伏击者会先行撤退，直到毒素发作让受害者倒地昏迷后再归来。多次曝露在昏睡毒之下并不会让目标进行额外的豁免检定；只有在对抗正于体内生效的毒素的豁免检定上失败时才会推进毒发阶段。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 交互 (受伤)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:18]</p>\n<p><strong>最大持续时间</strong> 4 小时</p>\n<p><strong>阶段 1</strong> @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{缓慢 Slowed 1} (1 轮)</p>\n<p><strong>阶段 2</strong> 缓慢slowed 1 (1 分钟)</p>\n<p><strong>阶段 3</strong> @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{失去意识 Unconscious} 且不能通过察觉检定醒来 (1 轮)</p>\n<p><strong>阶段 4</strong> 失去意识且不能通过察觉检定醒来 ([[/br 1d4 #hours]]{1d4 小时})</p>"
 		},
 		"Liar's Demise": {
 			"name": "Liar's Demise",
@@ -5379,7 +5379,7 @@
 		},
 		"Lich Dust": {
 			"name": "巫妖尘 Lich Dust",
-			"description": "<p>这种从被摧毁的巫妖的遗骸中抢救出来的粉尘因具有麻痹性能而成为了极具价值的毒素。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 (摄入)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:28]</p>\n<p><strong>潜伏期</strong> 10 分钟</p>\n<p><strong>最大持续时间</strong> 6 分钟</p>\n<p><strong>阶段 1</strong> @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{疲乏 Fatigued} (1 分钟)</p>\n<p><strong>阶段 2</strong> [[/r {5d6}[poison]]]{5d6 毒素伤害} 和 疲乏fatigued (1 分钟)</p>\n<p><strong>阶段 3</strong> [[/r {5d6}[poison]]]{5d6 毒素伤害}, 疲乏fatigued, 和 @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{麻痹 Paralyzed} (1 分钟)</p>"
+			"description": "<p>这种从被摧毁的巫妖的遗骸中抢救出来的粉尘因具有麻痹性能而成为了极具价值的毒素。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 (摄入)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:28]</p>\n<p><strong>潜伏期</strong> 10 分钟</p>\n<p><strong>最大持续时间</strong> 6 分钟</p>\n<p><strong>阶段 1</strong> @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{疲乏 Fatigued} (1 分钟)</p>\n<p><strong>阶段 2</strong> [[/r {5d6}[poison]]]{5d6 毒素伤害} 和 疲乏fatigued (1 分钟)</p>\n<p><strong>阶段 3</strong> [[/r {5d6}[poison]]]{5d6 毒素伤害}, 疲乏fatigued, 和 @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{麻痹 Paralyzed} (1 分钟)</p>"
 		},
 		"Lich Soul Cage": {
 			"name": "Lich Soul Cage",
@@ -5679,7 +5679,7 @@
 		},
 		"Malyass Root Paste": {
 			"name": "烈赤根糊 Malyass Root Paste",
-			"description": "<p>烈赤根糊可能被用于在运动比赛中阻碍对手，此外也有用于间谍和追踪活动。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">T</span> 互动 (接触)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:26]</p>\n<p><strong>潜伏期</strong> 1 分钟</p>\n<p><strong>最大持续时间</strong> 6 分钟</p>\n<p><strong>阶段 1</strong> @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{笨拙 Clumsy 1} 和针对所有速度（Speeds）的-10尺状态减值 (1 分钟)</p>\n<p><strong>阶段 2</strong> 笨拙clumsy 2 和针对所有速度的-20尺状态减值 (1 分钟)</p>\n<p><strong>阶段 3</strong> 笨拙clumsy 3, @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{措手不及 Flat-Footed}, 和针对所有速度的-30尺状态减值</p>"
+			"description": "<p>烈赤根糊可能被用于在运动比赛中阻碍对手，此外也有用于间谍和追踪活动。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">T</span> 交互 (接触)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:26]</p>\n<p><strong>潜伏期</strong> 1 分钟</p>\n<p><strong>最大持续时间</strong> 6 分钟</p>\n<p><strong>阶段 1</strong> @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{笨拙 Clumsy 1} 和针对所有速度（Speeds）的-10尺状态减值 (1 分钟)</p>\n<p><strong>阶段 2</strong> 笨拙clumsy 2 和针对所有速度的-20尺状态减值 (1 分钟)</p>\n<p><strong>阶段 3</strong> 笨拙clumsy 3, @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{措手不及 Flat-Footed}, 和针对所有速度的-30尺状态减值</p>"
 		},
 		"Mambele": {
 			"name": "Mambele",
@@ -5923,7 +5923,7 @@
 		},
 		"Mindfog Mist": {
 			"name": "惑心迷雾 Mindfog Mist",
-			"description": "<p>惑心迷雾通常用于针对施法者，因为它能对受害者的心智能力产生迅速而又强力的影响。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 (吸入)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:35]</p>\n<p><strong>潜伏期</strong> 1 轮</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{呆滞 Stupefied 2} (1 轮)</p>\n<p><strong>阶段 2</strong> @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{困惑 Confused} 和 呆滞stupefied 3 (1 轮)</p>\n<p><strong>阶段 3</strong> 困惑confused 和 呆滞stupefied 4 (1 轮)</p>"
+			"description": "<p>惑心迷雾通常用于针对施法者，因为它能对受害者的心智能力产生迅速而又强力的影响。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 (吸入)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:35]</p>\n<p><strong>潜伏期</strong> 1 轮</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{呆滞 Stupefied 2} (1 轮)</p>\n<p><strong>阶段 2</strong> @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{困惑 Confused} 和 呆滞stupefied 3 (1 轮)</p>\n<p><strong>阶段 3</strong> 困惑confused 和 呆滞stupefied 4 (1 轮)</p>"
 		},
 		"Minotaur Chair": {
 			"name": "Minotaur Chair",
@@ -6159,7 +6159,7 @@
 		},
 		"Nettleweed Residue": {
 			"name": "荨麻草渣 Nettleweed Residue",
-			"description": "<p>由刺状野草的浓缩汁液制成的一种颇为有效的毒物。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 (接触)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:27]</p>\n<p><strong>潜伏期</strong> 1 分钟</p>\n<p><strong>最大持续时间</strong> 6 分钟</p>\n<p><strong>阶段 1</strong> [[/r {8d6}[poison]]]{8d6 毒素伤害} (1 分钟)</p>\n<p><strong>阶段 2</strong> [[/r {10d6}[poison]]]{10d6 毒素伤害} (1 分钟)</p>\n<p><strong>阶段 3</strong> [[/r {13d6}[poison]]]{13d6 毒素伤害} (1 分钟)</p>"
+			"description": "<p>由刺状野草的浓缩汁液制成的一种颇为有效的毒物。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 (接触)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:27]</p>\n<p><strong>潜伏期</strong> 1 分钟</p>\n<p><strong>最大持续时间</strong> 6 分钟</p>\n<p><strong>阶段 1</strong> [[/r {8d6}[poison]]]{8d6 毒素伤害} (1 分钟)</p>\n<p><strong>阶段 2</strong> [[/r {10d6}[poison]]]{10d6 毒素伤害} (1 分钟)</p>\n<p><strong>阶段 3</strong> [[/r {13d6}[poison]]]{13d6 毒素伤害} (1 分钟)</p>"
 		},
 		"Nightbreeze Machine": {
 			"name": "Nightbreeze Machine",
@@ -6175,7 +6175,7 @@
 		},
 		"Nightmare Vapor": {
 			"name": "梦魇蒸汽 Nightmare Vapor",
-			"description": "<p>据说梦魇蒸汽有着许多怪异的来源，不过大多数梦魇蒸汽是由遭受极其恐怖的梦魇折磨的类人生物身上收集来的汗液再经过沸腾产生的。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 (吸入)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:36]</p>\n<p><strong>潜伏期</strong> 1 轮</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{困惑 Confused} (1 轮)</p>\n<p><strong>阶段 2</strong> 困惑confused 和 @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{措手不及 Flat-Footed} (1 轮)</p>\n<p><strong>阶段 3</strong> 困惑confused, 措手不及flat-footed, 和 @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{呆滞 Stupefied 2} (1 轮)</p>"
+			"description": "<p>据说梦魇蒸汽有着许多怪异的来源，不过大多数梦魇蒸汽是由遭受极其恐怖的梦魇折磨的类人生物身上收集来的汗液再经过沸腾产生的。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 (吸入)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:36]</p>\n<p><strong>潜伏期</strong> 1 轮</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{困惑 Confused} (1 轮)</p>\n<p><strong>阶段 2</strong> 困惑confused 和 @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{措手不及 Flat-Footed} (1 轮)</p>\n<p><strong>阶段 3</strong> 困惑confused, 措手不及flat-footed, 和 @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{呆滞 Stupefied 2} (1 轮)</p>"
 		},
 		"Nightstick": {
 			"name": "Nightstick",
@@ -6271,7 +6271,7 @@
 		},
 		"Oil (1 pint)": {
 			"name": "油(1品脱) Oil (1 pint)",
-			"description": "<p>你可以用油来为提灯加油，但你也可以点燃一品脱油然后把它扔出去。你必须首先花费一个【互动动作】来准备油，然后用另一个动作进行远程接触攻击扔出它。如果你命中目标，它会溅在这个生物上或者你所瞄准的一个5尺方格。你必须成功进行DC 10的纯粹检定才能使油在命中时成功点燃。如果油点燃，目标会受到1d6火焰伤害。</p>"
+			"description": "<p>你可以用油来为提灯加油，但你也可以点燃一品脱油然后把它扔出去。你必须首先花费一个【交互动作】来准备油，然后用另一个动作进行远程接触攻击扔出它。如果你命中目标，它会溅在这个生物上或者你所瞄准的一个5尺方格。你必须成功进行DC 10的纯粹检定才能使油在命中时成功点燃。如果油点燃，目标会受到1d6火焰伤害。</p>"
 		},
 		"Oil of Animation": {
 			"name": "Oil of Animation",
@@ -6526,8 +6526,8 @@
 			"description": "<p>This amulet is hollow and shaped in the form of an unblinking eye. Its cavity typically holds some fragment of occult text. While wearing the pendant, you gain a +2 item bonus to Occultism checks, and you can cast the <em>@Compendium[pf2e.spells-srd.izcxFQFwf3woCnFs]{Guidance}</em> cantrip as an occult innate spell.</p>\n<p>The pendant can be activated.</p>\n<p><strong>Activate</strong> 10 minutes (Cast a Spell)</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You cast a 4th-level <em>@Compendium[pf2e.spells-srd.yM3KTTSAIHhyuP14]{Dream Message}</em> spell.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+2 item bonus to Occultism checks</li>\n</ul>"
 		},
 		"Penetrating Ammunition": {
-			"name": "Penetrating Ammunition",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This ammunition has a slender shape and a viciously pointed tip. When you activate and shoot <em>penetrating ammunition</em>, the Strike takes the shape of a @Template[type:line|distance:60] originating from you.</p>\n<p>Roll one attack roll and compare the result to the AC of each target in the line. The ammunition ignores up to 10 of a target's resistance, and it can penetrate walls up to 1 foot thick with Hardness 10 or less. Each target that takes damage from this ammunition also takes [[/r {1d6}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Bleed Damage}.</p>\n<p>If your attack roll result is a natural 20, you improve your degree of success only against the first target in the line, but you can still score a critical hit on other targets if your result exceeds their AC by 10 or more.</p>\n<p>If you have access to your bow's critical specialization effect, penetrating ammunition applies that effect only against a target in the last square of the line.</p>"
+			"name": "穿透弹药 Penetrating Ammunition",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>This ammunition has a slender shape and a viciously pointed tip. When you activate and shoot <em>penetrating ammunition</em>, the Strike takes the shape of a @Template[type:line|distance:60] originating from you.</p>\n<p>Roll one attack roll and compare the result to the AC of each target in the line. The ammunition ignores up to 10 of a target's resistance, and it can penetrate walls up to 1 foot thick with Hardness 10 or less. Each target that takes damage from this ammunition also takes [[/r {1d6}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Bleed Damage}.</p>\n<p>If your attack roll result is a natural 20, you improve your degree of success only against the first target in the line, but you can still score a critical hit on other targets if your result exceeds their AC by 10 or more.</p>\n<p>If you have access to your bow's critical specialization effect, penetrating ammunition applies that effect only against a target in the last square of the line.</p>"
 		},
 		"Pepperbox": {
 			"name": "Pepperbox",
@@ -6599,7 +6599,7 @@
 		},
 		"Philosopher's Stone": {
 			"name": "贤者之石 Philosopher's Stone",
-			"description": "<p>拥有 @Compendium[pf2e.feats-srd.zOK6IFSz3DIBRjEw]{制作贤者之石 Craft Philosopher's Stone} 专长的炼金术士能够每月一次通过在日常准备期间花费1批灌注试剂并使用高阶炼金术职业特性来制作出贤者之石。这是创造贤者之石的唯一方式。</p>\n<p>乍看之下，贤者之石只是一块自然界随处可见的黑漆漆的岩石。以暴力开启（Force Open）动作将岩石破坏（DC35）就可以揭露石头核心处的空腔。这个空腔填满了能够将贱金属转化为贵金属或是创造出回春药剂（elixir of rejuvenation）的稀有水银。</p>\n<p>要使用这种水银，你必须在手艺上成为传奇，并拥有炼金工艺（Alchemical Crafting）专长。你能够使用石头中的水银达成下述两个效果中的一个：</p>\n<ul>\n<li>•你能够将石头中的水银以一个互动动作添加到一瓶灌注真实生命灵药（true elixir of life）中。这会立即将这瓶灵药转化为一瓶灌注回春药剂。这个过程不需要制作时间和额外材料。</li>\n<li>•你能够花费至多一个月的休整期，依靠这种水银来利用钢铁创造出白银或是创造出黄金。这视作使用手艺进行的等级为20的赚取收入（Earn Income）任务，只是你会在取得成功时创造出价值500gp的所选金属，或是在取得大成功时创造出价值750gp的所选金属。</li>\n</ul>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact 或1天或更多天</p>"
+			"description": "<p>拥有 @Compendium[pf2e.feats-srd.zOK6IFSz3DIBRjEw]{制作贤者之石 Craft Philosopher's Stone} 专长的炼金术士能够每月一次通过在日常准备期间花费1批灌注试剂并使用高阶炼金术职业特性来制作出贤者之石。这是创造贤者之石的唯一方式。</p>\n<p>乍看之下，贤者之石只是一块自然界随处可见的黑漆漆的岩石。以暴力开启（Force Open）动作将岩石破坏（DC35）就可以揭露石头核心处的空腔。这个空腔填满了能够将贱金属转化为贵金属或是创造出回春药剂（elixir of rejuvenation）的稀有水银。</p>\n<p>要使用这种水银，你必须在手艺上成为传奇，并拥有炼金工艺（Alchemical Crafting）专长。你能够使用石头中的水银达成下述两个效果中的一个：</p>\n<ul>\n<li>•你能够将石头中的水银以一个交互动作添加到一瓶灌注真实生命灵药（true elixir of life）中。这会立即将这瓶灵药转化为一瓶灌注回春药剂。这个过程不需要制作时间和额外材料。</li>\n<li>•你能够花费至多一个月的休整期，依靠这种水银来利用钢铁创造出白银或是创造出黄金。这视作使用手艺进行的等级为20的赚取收入（Earn Income）任务，只是你会在取得成功时创造出价值500gp的所选金属，或是在取得大成功时创造出价值750gp的所选金属。</li>\n</ul>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact 或1天或更多天</p>"
 		},
 		"Phoenix Fighting Fan": {
 			"name": "Phoenix Fighting Fan",
@@ -7107,7 +7107,7 @@
 		},
 		"Purple Worm Venom": {
 			"name": "紫虫毒 Purple Worm Venom",
-			"description": "<p>来自庞大紫虫的毒液会让受害者陷入虚弱。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 互动 (受伤)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:32]</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> [[/r {5d6}[poison]]]{5d6 毒素伤害} 和 @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{力竭 Enfeebled 2} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {6d6}[poison]]]{6d6 毒素伤害} 和 力竭enfeebled 2 (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {8d6}[poison]]]{8d6 毒素伤害} 和 力竭enfeebled 2 (1 轮)</p>"
+			"description": "<p>来自庞大紫虫的毒液会让受害者陷入虚弱。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 交互 (受伤)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:32]</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> [[/r {5d6}[poison]]]{5d6 毒素伤害} 和 @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{力竭 Enfeebled 2} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {6d6}[poison]]]{6d6 毒素伤害} 和 力竭enfeebled 2 (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {8d6}[poison]]]{8d6 毒素伤害} 和 力竭enfeebled 2 (1 轮)</p>"
 		},
 		"Putrescent Glob": {
 			"name": "Putrescent Glob",
@@ -8175,7 +8175,7 @@
 		},
 		"Shadow Essence": {
 			"name": "阴影精华 Shadow Essence",
-			"description": "<p>这种由阴影位面蒸馏而来的油状物质能将晦暗之力施加于受害者。来自阴影精华的力竭（enfeebled）状态持续24小时。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 互动 (受伤)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:29]</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> [[/r {3d6}[negative]]]{3d6 负能量伤害} 和 [[/r {2d6}[poison]]]{2d6 毒素伤害} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {3d6}[negative]]]{3d6 负能量伤害}, [[/r {2d6}[poison]]]{2d6 毒素伤害}, 和 @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{力竭 Enfeebled 1} (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {3d6}[negative]]]{3d6 负能量伤害}, [[/r {2d6}[poison]]]{2d6 毒素伤害}, 和 力竭enfeebled 2 (1 轮)</p>"
+			"description": "<p>这种由阴影位面蒸馏而来的油状物质能将晦暗之力施加于受害者。来自阴影精华的力竭（enfeebled）状态持续24小时。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 交互 (受伤)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:29]</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> [[/r {3d6}[negative]]]{3d6 负能量伤害} 和 [[/r {2d6}[poison]]]{2d6 毒素伤害} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {3d6}[negative]]]{3d6 负能量伤害}, [[/r {2d6}[poison]]]{2d6 毒素伤害}, 和 @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{力竭 Enfeebled 1} (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {3d6}[negative]]]{3d6 负能量伤害}, [[/r {2d6}[poison]]]{2d6 毒素伤害}, 和 力竭enfeebled 2 (1 轮)</p>"
 		},
 		"Shadow Signet": {
 			"name": "Shadow Signet",
@@ -8471,23 +8471,23 @@
 		},
 		"Silversheen": {
 			"name": "银辉 Silversheen",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>你能够将这种银色的浆糊涂抹到一把近战武器、一把投掷武器或10份弹药上。银辉变质得很快，所以一旦你打开容器，你就必须立即将它全部用完，不能留到以后再用。</p>\n<p>在接下来的一个小时中，被涂抹的武器或弹药在考虑它造成的武器伤害时视作银制而不是原本的特殊材料（例如寒铁）。</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>你能够将这种银色的浆糊涂抹到一把近战武器、一把投掷武器或10份弹药上。银辉变质得很快，所以一旦你打开容器，你就必须立即将它全部用完，不能留到以后再用。</p>\n<p>在接下来的一个小时中，被涂抹的武器或弹药在考虑它造成的武器伤害时视作银制而不是原本的特殊材料（例如寒铁）。</p>"
 		},
 		"Silvertongue Mutagen (Greater)": {
 			"name": "巧舌突变药剂（高等） Silvertongue Mutagen (Greater)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动</p>\n<hr />\n<p>你的容貌变得引人注目，你的嗓音悦耳且令人动容，然而你眼中的现实和数理都变得模糊不清，起伏的情绪遮蔽了你理性思考的能力。</p>\n<p><strong>好处</strong> 你在交涉（Deception）、欺骗（Diplomacy）、威吓（Intimidation）和表演（Performance）检定上获得+3物品加值。你在这些技能上取得的大失败被替换为失败。</p>\n<p><strong>缺陷</strong> 你在奥法（Arcana）、手艺（Crafting）、学识（Lore）、神秘学（Occultism）和社科（Society）检定上承受-2的减值。选择一个你已受训的技能；在持续时间内，你在这个技能上变得未受训。所有你用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 的检定上取得的失败都变为大失败。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.oAewXfq9c0ecaSfw]{效果：巧舌突变药剂（高等）}</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的容貌变得引人注目，你的嗓音悦耳且令人动容，然而你眼中的现实和数理都变得模糊不清，起伏的情绪遮蔽了你理性思考的能力。</p>\n<p><strong>好处</strong> 你在交涉（Deception）、欺骗（Diplomacy）、威吓（Intimidation）和表演（Performance）检定上获得+3物品加值。你在这些技能上取得的大失败被替换为失败。</p>\n<p><strong>缺陷</strong> 你在奥法（Arcana）、手艺（Crafting）、学识（Lore）、神秘学（Occultism）和社科（Society）检定上承受-2的减值。选择一个你已受训的技能；在持续时间内，你在这个技能上变得未受训。所有你用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 的检定上取得的失败都变为大失败。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.oAewXfq9c0ecaSfw]{效果：巧舌突变药剂（高等）}</p>"
 		},
 		"Silvertongue Mutagen (Lesser)": {
 			"name": "巧舌突变药剂（次等） Silvertongue Mutagen (Lesser)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动</p>\n<hr />\n<p>你的容貌变得引人注目，你的嗓音悦耳且令人动容，然而你眼中的现实和数理都变得模糊不清，起伏的情绪遮蔽了你理性思考的能力。</p>\n<p><strong>好处</strong> 你在交涉（Deception）、欺骗（Diplomacy）、威吓（Intimidation）和表演（Performance）检定上获得+1物品加值。你在这些技能上取得的大失败被替换为失败。</p>\n<p><strong>缺陷</strong> 你在奥法（Arcana）、手艺（Crafting）、学识（Lore）、神秘学（Occultism）和社科（Society）检定上承受-2的减值。选择一个你已受训的技能；在持续时间内，你在这个技能上变得未受训。所有你用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 的检定上取得的失败都变为大失败。</p>\n<p><strong>持续时间</strong> 1 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.dpIrjd1UPY7EnWUD]{效果：巧舌突变药剂（次等）}</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的容貌变得引人注目，你的嗓音悦耳且令人动容，然而你眼中的现实和数理都变得模糊不清，起伏的情绪遮蔽了你理性思考的能力。</p>\n<p><strong>好处</strong> 你在交涉（Deception）、欺骗（Diplomacy）、威吓（Intimidation）和表演（Performance）检定上获得+1物品加值。你在这些技能上取得的大失败被替换为失败。</p>\n<p><strong>缺陷</strong> 你在奥法（Arcana）、手艺（Crafting）、学识（Lore）、神秘学（Occultism）和社科（Society）检定上承受-2的减值。选择一个你已受训的技能；在持续时间内，你在这个技能上变得未受训。所有你用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 的检定上取得的失败都变为大失败。</p>\n<p><strong>持续时间</strong> 1 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.dpIrjd1UPY7EnWUD]{效果：巧舌突变药剂（次等）}</p>"
 		},
 		"Silvertongue Mutagen (Major)": {
 			"name": "巧舌突变药剂（上等） Silvertongue Mutagen (Major)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动</p>\n<hr />\n<p>你的容貌变得引人注目，你的嗓音悦耳且令人动容，然而你眼中的现实和数理都变得模糊不清，起伏的情绪遮蔽了你理性思考的能力。</p>\n<p><strong>好处</strong> 你在交涉（Deception）、欺骗（Diplomacy）、威吓（Intimidation）和表演（Performance）检定上获得+4物品加值。你在这些技能上取得的大失败被替换为失败。</p>\n<p><strong>缺陷</strong> 你在奥法（Arcana）、手艺（Crafting）、学识（Lore）、神秘学（Occultism）和社科（Society）检定上承受-2的减值。选择一个你已受训的技能；在持续时间内，你在这个技能上变得未受训。所有你用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 的检定上取得的失败都变为大失败。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.9FfFhu2kl2wMTsiI]{效果：巧舌突变药剂（上等）}</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的容貌变得引人注目，你的嗓音悦耳且令人动容，然而你眼中的现实和数理都变得模糊不清，起伏的情绪遮蔽了你理性思考的能力。</p>\n<p><strong>好处</strong> 你在交涉（Deception）、欺骗（Diplomacy）、威吓（Intimidation）和表演（Performance）检定上获得+4物品加值。你在这些技能上取得的大失败被替换为失败。</p>\n<p><strong>缺陷</strong> 你在奥法（Arcana）、手艺（Crafting）、学识（Lore）、神秘学（Occultism）和社科（Society）检定上承受-2的减值。选择一个你已受训的技能；在持续时间内，你在这个技能上变得未受训。所有你用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 的检定上取得的失败都变为大失败。</p>\n<p><strong>持续时间</strong> 1 小时</p>\n<p>@Compendium[pf2e.consumable-effects.9FfFhu2kl2wMTsiI]{效果：巧舌突变药剂（上等）}</p>"
 		},
 		"Silvertongue Mutagen (Moderate)": {
 			"name": "巧舌突变药剂（中等） Silvertongue Mutagen (Moderate)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动</p>\n<hr />\n<p>你的容貌变得引人注目，你的嗓音悦耳且令人动容，然而你眼中的现实和数理都变得模糊不清，起伏的情绪遮蔽了你理性思考的能力。</p>\n<p><strong>好处</strong> 你在交涉（Deception）、欺骗（Diplomacy）、威吓（Intimidation）和表演（Performance）检定上获得+2物品加值。你在这些技能上取得的大失败被替换为失败。</p>\n<p><strong>缺陷</strong> 你在奥法（Arcana）、手艺（Crafting）、学识（Lore）、神秘学（Occultism）和社科（Society）检定上承受-2的减值。选择一个你已受训的技能；在持续时间内，你在这个技能上变得未受训。所有你用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 的检定上取得的失败都变为大失败。</p>\n<p><strong>持续时间</strong> 10 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.v5Ht1V4MZvRKRBjL]{效果：巧舌突变药剂（中等）}</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<hr />\n<p>你的容貌变得引人注目，你的嗓音悦耳且令人动容，然而你眼中的现实和数理都变得模糊不清，起伏的情绪遮蔽了你理性思考的能力。</p>\n<p><strong>好处</strong> 你在交涉（Deception）、欺骗（Diplomacy）、威吓（Intimidation）和表演（Performance）检定上获得+2物品加值。你在这些技能上取得的大失败被替换为失败。</p>\n<p><strong>缺陷</strong> 你在奥法（Arcana）、手艺（Crafting）、学识（Lore）、神秘学（Occultism）和社科（Society）检定上承受-2的减值。选择一个你已受训的技能；在持续时间内，你在这个技能上变得未受训。所有你用于 @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{回想知识 Recall Knowledge} 的检定上取得的失败都变为大失败。</p>\n<p><strong>持续时间</strong> 10 分钟</p>\n<p>@Compendium[pf2e.consumable-effects.v5Ht1V4MZvRKRBjL]{效果：巧舌突变药剂（中等）}</p>"
 		},
 		"Simple painting": {
 			"name": "Simple painting",
@@ -8675,7 +8675,7 @@
 		},
 		"Slumber Wine": {
 			"name": "沉眠佳酿 Slumber Wine",
-			"description": "<p>沉眠佳酿或许会在阴谋游戏中发挥最大的效用，在那里，一次缺席远比一场袭击更具毁灭性。 因为沉眠佳酿而失去意识（unconscious）的角色无法在这种毒素的持续时间内被任何手段唤醒，以这种方式失去意识的角色不需要进食或饮水，并呈现出新近死亡的状态，如果检查者在一个DC40的医疗（Medicine）检定上取得成功就可以发现这名角色并未死亡。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 (摄入)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:32]</p>\n<p><strong>潜伏期</strong> 1 小时</p>\n<p><strong>最大持续时间</strong> 7 天</p>\n<p><strong>阶段 1</strong> @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{失去意识 Unconscious} (1 天)</p>\n<p><strong>阶段 2</strong> 失去意识unconscious (2 天)</p>\n<p><strong>阶段 3</strong> 失去意识unconscious (3 天)</p>"
+			"description": "<p>沉眠佳酿或许会在阴谋游戏中发挥最大的效用，在那里，一次缺席远比一场袭击更具毁灭性。 因为沉眠佳酿而失去意识（unconscious）的角色无法在这种毒素的持续时间内被任何手段唤醒，以这种方式失去意识的角色不需要进食或饮水，并呈现出新近死亡的状态，如果检查者在一个DC40的医疗（Medicine）检定上取得成功就可以发现这名角色并未死亡。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 (摄入)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:32]</p>\n<p><strong>潜伏期</strong> 1 小时</p>\n<p><strong>最大持续时间</strong> 7 天</p>\n<p><strong>阶段 1</strong> @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{失去意识 Unconscious} (1 天)</p>\n<p><strong>阶段 2</strong> 失去意识unconscious (2 天)</p>\n<p><strong>阶段 3</strong> 失去意识unconscious (3 天)</p>"
 		},
 		"Small cold iron cauldron with onyx": {
 			"name": "Small cold iron cauldron with onyx",
@@ -8695,11 +8695,11 @@
 		},
 		"Smokestick (Greater)": {
 			"name": "高等发烟棒 Smokestick (Greater)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>快速地扭动这个物品，你能立即创造出一片不透明的厚重烟幕，它以你所在空间的一角为源点爆发。所有身处这块区域内的生物都视作隐蔽（concealed），并且所有其他生物对他们来说也视作隐蔽。这团烟幕持续1分钟或直到一阵强风将其吹散。</p>\n<p>烟幕的爆发半径为20尺。</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>快速地扭动这个物品，你能立即创造出一片不透明的厚重烟幕，它以你所在空间的一角为源点爆发。所有身处这块区域内的生物都视作隐蔽（concealed），并且所有其他生物对他们来说也视作隐蔽。这团烟幕持续1分钟或直到一阵强风将其吹散。</p>\n<p>烟幕的爆发半径为20尺。</p>"
 		},
 		"Smokestick (Lesser)": {
 			"name": "次等发烟棒 Smokestick (Lesser)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>快速地扭动这个物品，你能立即创造出一片不透明的厚重烟幕，它以你所在空间的一角为源点爆发。所有身处这块区域内的生物都视作隐蔽（concealed），并且所有其他生物对他们来说也视作隐蔽。这团烟幕持续1分钟或直到一阵强风将其吹散。</p>\n<p>烟幕的爆发半径为5尺。</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>快速地扭动这个物品，你能立即创造出一片不透明的厚重烟幕，它以你所在空间的一角为源点爆发。所有身处这块区域内的生物都视作隐蔽（concealed），并且所有其他生物对他们来说也视作隐蔽。这团烟幕持续1分钟或直到一阵强风将其吹散。</p>\n<p>烟幕的爆发半径为5尺。</p>"
 		},
 		"Smoking Sword": {
 			"name": "Smoking Sword",
@@ -8715,7 +8715,7 @@
 		},
 		"Snake Oil": {
 			"name": "蛇油 Snake Oil",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>你能够将蛇油涂抹在伤口或苦难（affliction）与疾病造成的其他外部症状上（例如疾病产生的溃疡或是毒素产生的色块）。在接下来一个小时，症状会消失，受伤或承受苦难的生物也不会感觉到伤口和苦难的存在，但仍旧承受这些效果的影响。一名成功通过DC17的察觉检定的生物能够揭露这种诡计，但只有在它使用搜寻（Seek）动作来专门检查蛇油的效果时才有效。</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>你能够将蛇油涂抹在伤口或苦难（affliction）与疾病造成的其他外部症状上（例如疾病产生的溃疡或是毒素产生的色块）。在接下来一个小时，症状会消失，受伤或承受苦难的生物也不会感觉到伤口和苦难的存在，但仍旧承受这些效果的影响。一名成功通过DC17的察觉检定的生物能够揭露这种诡计，但只有在它使用搜寻（Seek）动作来专门检查蛇油的效果时才有效。</p>"
 		},
 		"Snapleaf": {
 			"name": "Snapleaf",
@@ -8975,7 +8975,7 @@
 		},
 		"Spider Root": {
 			"name": "蜘丝根 Spider Root",
-			"description": "<p>将某种爬藤细小的丝状根部研磨成糊后制成的蛛丝根能让受害者变得笨拙又愚钝。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 (接触)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:28]</p>\n<p><strong>潜伏期</strong> 1 分钟</p>\n<p><strong>最大持续时间</strong> 6 分钟</p>\n<p><strong>阶段 1</strong> [[/r {8d6}[poison]]]{8d6 毒素伤害} 和 @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{笨拙 Clumsy 1} (1 分钟)</p>\n<p><strong>阶段 2</strong> [[/r {9d6}[poison]]]{9d6 毒素伤害} 和 笨拙clumsy 2 (1 分钟)</p>\n<p><strong>阶段 3</strong> [[/r {10d6}[poison]]]{10d6 毒素伤害} 和 笨拙clumsy 3 (1 分钟)</p>"
+			"description": "<p>将某种爬藤细小的丝状根部研磨成糊后制成的蛛丝根能让受害者变得笨拙又愚钝。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 (接触)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:28]</p>\n<p><strong>潜伏期</strong> 1 分钟</p>\n<p><strong>最大持续时间</strong> 6 分钟</p>\n<p><strong>阶段 1</strong> [[/r {8d6}[poison]]]{8d6 毒素伤害} 和 @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{笨拙 Clumsy 1} (1 分钟)</p>\n<p><strong>阶段 2</strong> [[/r {9d6}[poison]]]{9d6 毒素伤害} 和 笨拙clumsy 2 (1 分钟)</p>\n<p><strong>阶段 3</strong> [[/r {10d6}[poison]]]{10d6 毒素伤害} 和 笨拙clumsy 3 (1 分钟)</p>"
 		},
 		"Spiderfoot Brew (Greater)": {
 			"name": "Spiderfoot Brew (Greater)",
@@ -9491,7 +9491,7 @@
 		},
 		"Stone Fist Elixir": {
 			"name": "石拳灵药 Stone Fist Elixir",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>你的双拳变得如同石头一般坚硬。1小时内，你的拳头造成1d6点钝击伤害，并且失去非致命特征。</p>\n<p>@Compendium[pf2e.consumable-effects.AMhUb42NAJ1aisZp]{效果：石拳灵药}</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>你的双拳变得如同石头一般坚硬。1小时内，你的拳头造成1d6点钝击伤害，并且失去非致命特征。</p>\n<p>@Compendium[pf2e.consumable-effects.AMhUb42NAJ1aisZp]{效果：石拳灵药}</p>"
 		},
 		"Stone of Weight": {
 			"name": "Stone of Weight",
@@ -9643,7 +9643,7 @@
 		},
 		"Sunrod": {
 			"name": "日光杖 Sunrod",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>这个1尺长，顶端镶金的短杖会在撞击坚硬表面后发光。在接下来的6个小时里，它会在半径20尺的范围内散发出明亮光线（bright light）（并在范围之外的40尺散发出昏暗光线（dim light））。</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>这个1尺长，顶端镶金的短杖会在撞击坚硬表面后发光。在接下来的6个小时里，它会在半径20尺的范围内散发出明亮光线（bright light）（并在范围之外的40尺散发出昏暗光线（dim light））。</p>"
 		},
 		"Support": {
 			"name": "Support",
@@ -9747,19 +9747,19 @@
 		},
 		"Tanglefoot Bag (Greater)": {
 			"name": "高等绊足包 Tanglefoot Bag (Greater)",
-			"description": "<p>绊足包里装满了黏性物质。你在攻击骰上获得+2的物品加值。当你用绊足包命中一名生物时，目标承受-15尺的减值，逃脱的DC为28。</p>\n<p>一旦攻击造成重击，与固体表面接触的目标生物将会被定在表面上并陷入持续1分钟的 @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{禁足 Immobilized} 状态，如果是通过翅膀飞行的生物则会被缠住翅膀，导致它安全地落在地上并且1轮内不能再度起飞。绊足包对那些身处水中的生物没有效果。</p>\n<p>目标能够通过逃脱（Escaping）或花费3个互动（Interact）动作来小心地移除黏性物质，从而结束绊足包的效果。这些互动动作不必是连续的，其他生物也能提供这些互动动作。</p>"
+			"description": "<p>绊足包里装满了黏性物质。你在攻击骰上获得+2的物品加值。当你用绊足包命中一名生物时，目标承受-15尺的减值，逃脱的DC为28。</p>\n<p>一旦攻击造成重击，与固体表面接触的目标生物将会被定在表面上并陷入持续1分钟的 @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{禁足 Immobilized} 状态，如果是通过翅膀飞行的生物则会被缠住翅膀，导致它安全地落在地上并且1轮内不能再度起飞。绊足包对那些身处水中的生物没有效果。</p>\n<p>目标能够通过逃脱（Escaping）或花费3个交互（Interact）动作来小心地移除黏性物质，从而结束绊足包的效果。这些交互动作不必是连续的，其他生物也能提供这些交互动作。</p>"
 		},
 		"Tanglefoot Bag (Lesser)": {
 			"name": "次等绊足包 Tanglefoot Bag (Lesser)",
-			"description": "<p>绊足包里装满了黏性物质。当你用绊足包命中一名生物时，目标承受-10尺的减值，逃脱（Escape）的DC为17。</p>\n<p>一旦攻击造成重击，与固体表面接触的目标生物将会被定在表面上并陷入持续1分钟的 @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{禁足 Immobilized} 状态，如果是通过翅膀飞行的生物则会被缠住翅膀，导致它安全地落在地上并且1轮内不能再度起飞。绊足包对那些身处水中的生物没有效果。</p>\n<p>目标能够通过逃脱（Escaping）或花费3个互动（Interact）动作来小心地移除黏性物质，从而结束绊足包的效果。这些互动动作不必是连续的，其他生物也能提供这些互动动作。</p>"
+			"description": "<p>绊足包里装满了黏性物质。当你用绊足包命中一名生物时，目标承受-10尺的减值，逃脱（Escape）的DC为17。</p>\n<p>一旦攻击造成重击，与固体表面接触的目标生物将会被定在表面上并陷入持续1分钟的 @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{禁足 Immobilized} 状态，如果是通过翅膀飞行的生物则会被缠住翅膀，导致它安全地落在地上并且1轮内不能再度起飞。绊足包对那些身处水中的生物没有效果。</p>\n<p>目标能够通过逃脱（Escaping）或花费3个交互（Interact）动作来小心地移除黏性物质，从而结束绊足包的效果。这些交互动作不必是连续的，其他生物也能提供这些交互动作。</p>"
 		},
 		"Tanglefoot Bag (Major)": {
 			"name": "上等绊足包 Tanglefoot Bag (Major)",
-			"description": "<p>绊足包里装满了黏性物质。你在攻击骰上获得+3的物品加值。当你用绊足包命中一名生物时，目标承受-20尺的减值，逃脱的DC为37。</p>\n<p>一旦攻击造成重击，与固体表面接触的目标生物将会被定在表面上并陷入持续1分钟的 @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{禁足 Immobilized} 状态，如果是通过翅膀飞行的生物则会被缠住翅膀，导致它安全地落在地上并且1轮内不能再度起飞。绊足包对那些身处水中的生物没有效果。</p>\n<p>目标能够通过逃脱（Escaping）或花费3个互动（Interact）动作来小心地移除黏性物质，从而结束绊足包的效果。这些互动动作不必是连续的，其他生物也能提供这些互动动作。</p>"
+			"description": "<p>绊足包里装满了黏性物质。你在攻击骰上获得+3的物品加值。当你用绊足包命中一名生物时，目标承受-20尺的减值，逃脱的DC为37。</p>\n<p>一旦攻击造成重击，与固体表面接触的目标生物将会被定在表面上并陷入持续1分钟的 @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{禁足 Immobilized} 状态，如果是通过翅膀飞行的生物则会被缠住翅膀，导致它安全地落在地上并且1轮内不能再度起飞。绊足包对那些身处水中的生物没有效果。</p>\n<p>目标能够通过逃脱（Escaping）或花费3个交互（Interact）动作来小心地移除黏性物质，从而结束绊足包的效果。这些交互动作不必是连续的，其他生物也能提供这些交互动作。</p>"
 		},
 		"Tanglefoot Bag (Moderate)": {
 			"name": "中等绊足包 Tanglefoot Bag (Moderate)",
-			"description": "<p>绊足包里装满了黏性物质。你在攻击骰上获得+1的物品加值。当你用绊足包命中一名生物时，目标承受-15尺的减值，逃脱的DC为19。</p>\n<p>一旦攻击造成重击，与固体表面接触的目标生物将会被定在表面上并陷入持续1分钟的 @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{禁足 Immobilized} 状态，如果是通过翅膀飞行的生物则会被缠住翅膀，导致它安全地落在地上并且1轮内不能再度起飞。绊足包对那些身处水中的生物没有效果。</p>\n<p>目标能够通过逃脱（Escaping）或花费3个互动（Interact）动作来小心地移除黏性物质，从而结束绊足包的效果。这些互动动作不必是连续的，其他生物也能提供这些互动动作。</p>"
+			"description": "<p>绊足包里装满了黏性物质。你在攻击骰上获得+1的物品加值。当你用绊足包命中一名生物时，目标承受-15尺的减值，逃脱的DC为19。</p>\n<p>一旦攻击造成重击，与固体表面接触的目标生物将会被定在表面上并陷入持续1分钟的 @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{禁足 Immobilized} 状态，如果是通过翅膀飞行的生物则会被缠住翅膀，导致它安全地落在地上并且1轮内不能再度起飞。绊足包对那些身处水中的生物没有效果。</p>\n<p>目标能够通过逃脱（Escaping）或花费3个交互（Interact）动作来小心地移除黏性物质，从而结束绊足包的效果。这些交互动作不必是连续的，其他生物也能提供这些交互动作。</p>"
 		},
 		"Tankard owned by Cayden Cailean": {
 			"name": "Tankard owned by Cayden Cailean",
@@ -9779,7 +9779,7 @@
 		},
 		"Tears of Death": {
 			"name": "死之泪 Tears of Death",
-			"description": "<p>死之泪是最强大的炼金毒素之一，使用其他五种致命毒素以正确的比例蒸馏而成。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 (接触)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:46]</p>\n<p><strong>潜伏期</strong> 1 分钟</p>\n<p><strong>最大持续时间</strong> 10 分钟</p>\n<p><strong>阶段 1</strong> [[/r {18d6}[poison]]]{18d6 毒素伤害} 和 @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{麻痹 Paralyzed} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {25d6}[poison]]]{25d6 毒素伤害} 和 麻痹paralyzed (1 分钟)</p>\n<p><strong>阶段 3</strong> [[/r {30d6}[poison]]]{30d6 毒素伤害} 和 麻痹paralyzed (1 分钟)</p>"
+			"description": "<p>死之泪是最强大的炼金毒素之一，使用其他五种致命毒素以正确的比例蒸馏而成。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 (接触)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:46]</p>\n<p><strong>潜伏期</strong> 1 分钟</p>\n<p><strong>最大持续时间</strong> 10 分钟</p>\n<p><strong>阶段 1</strong> [[/r {18d6}[poison]]]{18d6 毒素伤害} 和 @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{麻痹 Paralyzed} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {25d6}[poison]]]{25d6 毒素伤害} 和 麻痹paralyzed (1 分钟)</p>\n<p><strong>阶段 3</strong> [[/r {30d6}[poison]]]{30d6 毒素伤害} 和 麻痹paralyzed (1 分钟)</p>"
 		},
 		"Tears of the Last Azlanti": {
 			"name": "Tears of the Last Azlanti",
@@ -9995,7 +9995,7 @@
 		},
 		"Tindertwig": {
 			"name": "火柴 Tindertwig",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 Interact</p>\n<p>一种撞击粗糙表面时便会燃烧的炼金物质包裹在这根细小木棍一端。用火柴生火远比使用燧石和铁片要快得多。你能够点燃火柴，并作为同一个互动动作的一部分用燃烧的火柴接触一堆易燃物。</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>一种撞击粗糙表面时便会燃烧的炼金物质包裹在这根细小木棍一端。用火柴生火远比使用燧石和铁片要快得多。你能够点燃火柴，并作为同一个交互动作的一部分用燃烧的火柴接触一堆易燃物。</p>"
 		},
 		"Titan's Grasp": {
 			"name": "Titan's Grasp",
@@ -10911,15 +10911,15 @@
 		},
 		"Winter Wolf Elixir (Greater)": {
 			"name": "冬狼灵药（高等） Winter Wolf Elixir (Greater)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">1</span> 互动</p>\n<p>这瓶灵药会温暖你的内在并促进身体循环。24小时内，你免受严重寒冷（severe cold）的影响。你也会免受极端寒冷和超常寒冷（incredible cold）的影响。</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">1</span> 交互</p>\n<p>这瓶灵药会温暖你的内在并促进身体循环。24小时内，你免受严重寒冷（severe cold）的影响。你也会免受极端寒冷和超常寒冷（incredible cold）的影响。</p>"
 		},
 		"Winter Wolf Elixir (Lesser)": {
 			"name": "冬狼灵药（次等） Winter Wolf Elixir (Lesser)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">1</span> 互动</p>\n<p>这瓶灵药会温暖你的内在并促进身体循环。24小时内，你免受严重寒冷（severe cold）的影响。</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">1</span> 交互</p>\n<p>这瓶灵药会温暖你的内在并促进身体循环。24小时内，你免受严重寒冷（severe cold）的影响。</p>"
 		},
 		"Winter Wolf Elixir (Moderate)": {
 			"name": "冬狼灵药（中等） Winter Wolf Elixir (Moderate)",
-			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">1</span> 互动</p>\n<p>这瓶灵药会温暖你的内在并促进身体循环。24小时内，你免受严重寒冷（severe cold）的影响。你也会免受极端寒冷（extreme cold）的影响。</p>"
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">1</span> 交互</p>\n<p>这瓶灵药会温暖你的内在并促进身体循环。24小时内，你免受严重寒冷（severe cold）的影响。你也会免受极端寒冷（extreme cold）的影响。</p>"
 		},
 		"Wish Blade": {
 			"name": "Wish Blade",
@@ -10939,7 +10939,7 @@
 		},
 		"Wolfsbane": {
 			"name": "狼毒乌头 Wolfsbane",
-			"description": "<p>狼毒乌头因它与兽化人之间的联系而出现在民俗传说中。如果你患有兽化症（lycanthropy）且成功从狼毒乌头的毒发阶段3中幸存，你的兽化症会立即得到治愈。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 互动 (摄入)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:30]</p>\n<p><strong>潜伏期</strong> 10 分钟</p>\n<p><strong>最大持续时间</strong> 6 分钟</p>\n<p><strong>阶段 1</strong> [[/r {12d6}[poison]]]{12d6 毒素伤害} (1 分钟)</p>\n<p><strong>阶段 2</strong> [[/r {16d6}[poison]]]{16d6 毒素伤害} (1 分钟)</p>\n<p><strong>阶段 3</strong> [[/r {20d6}[poison]]]{20d6 毒素伤害} (1 分钟)</p>"
+			"description": "<p>狼毒乌头因它与兽化人之间的联系而出现在民俗传说中。如果你患有兽化症（lycanthropy）且成功从狼毒乌头的毒发阶段3中幸存，你的兽化症会立即得到治愈。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 (摄入)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:30]</p>\n<p><strong>潜伏期</strong> 10 分钟</p>\n<p><strong>最大持续时间</strong> 6 分钟</p>\n<p><strong>阶段 1</strong> [[/r {12d6}[poison]]]{12d6 毒素伤害} (1 分钟)</p>\n<p><strong>阶段 2</strong> [[/r {16d6}[poison]]]{16d6 毒素伤害} (1 分钟)</p>\n<p><strong>阶段 3</strong> [[/r {20d6}[poison]]]{20d6 毒素伤害} (1 分钟)</p>"
 		},
 		"Wondrous Figurine (Bismuth Leopards)": {
 			"name": "奇妙雕像（铋石花豹） Wondrous Figurine (Bismuth Leopards)",
@@ -11035,7 +11035,7 @@
 		},
 		"Wyvern Poison": {
 			"name": "双足飞龙毒 Wyvern Poison",
-			"description": "<p>经过适当地收割和腌制，这种来自于双足飞龙钉刺的毒素具备高效且直白的毒害效果。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 互动 (受伤)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:26]</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> [[/r {5d6}[poison]]]{5d6 毒素伤害} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {6d6}[poison]]]{6d6 毒素伤害} (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {8d6}[poison]]]{8d6 毒素伤害} (1 轮)</p>"
+			"description": "<p>经过适当地收割和腌制，这种来自于双足飞龙钉刺的毒素具备高效且直白的毒害效果。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 交互 (受伤)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:26]</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> [[/r {5d6}[poison]]]{5d6 毒素伤害} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {6d6}[poison]]]{6d6 毒素伤害} (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {8d6}[poison]]]{8d6 毒素伤害} (1 轮)</p>"
 		},
 		"Yellow Musk Poison": {
 			"name": "Yellow Musk Poison",

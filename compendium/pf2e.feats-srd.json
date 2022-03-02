@@ -7755,7 +7755,7 @@
 		},
 		"Mega Bomb": {
 			"name": "超能炸弹 Mega Bomb",
-			"description": "<p><strong>需求</strong> 你持有一枚你制作的灌注炼金炸弹，它的等级至少比你的高阶炼金术等级低3级。</p>\n<hr />\n<p>你将一种超乎想象的强力添加剂加入你所持有的炸弹中，就此创造出了超能炸弹，这将会大幅提升这枚炸弹的爆炸范围和威力。</p>\n<p>你使用 @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{互动 Interact} 动作投掷这枚超能炸弹，而不是使用打击（Strike），你也不需要进行攻击骰。</p>\n<p>超能炸弹以你周围60尺内的某一点为中心，影响30尺爆炸半径内的所有生物。这枚炸弹会像每个生物都是主要目标一般对其造成伤害，并且它们需要进行一个基础反射豁免（Basic Reflex save）。一旦在豁免中失败，生物就会承受所有只影响主要目标的额外效果（例如瓶装闪电造成的措手不及）。区域内的所有目标都会如同主要目标一般受到溅射伤害，哪怕原本的溅射效果并不会影响这么大的范围。</p>\n<p>如果你在制造一枚超能炸弹后的下一个动作不是通过互动动作将其投掷出去的话，这枚超能炸弹就会变质并失去所有的效果。</p>"
+			"description": "<p><strong>需求</strong> 你持有一枚你制作的灌注炼金炸弹，它的等级至少比你的高阶炼金术等级低3级。</p>\n<hr />\n<p>你将一种超乎想象的强力添加剂加入你所持有的炸弹中，就此创造出了超能炸弹，这将会大幅提升这枚炸弹的爆炸范围和威力。</p>\n<p>你使用 @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{交互 Interact} 动作投掷这枚超能炸弹，而不是使用打击（Strike），你也不需要进行攻击骰。</p>\n<p>超能炸弹以你周围60尺内的某一点为中心，影响30尺爆炸半径内的所有生物。这枚炸弹会像每个生物都是主要目标一般对其造成伤害，并且它们需要进行一个基础反射豁免（Basic Reflex save）。一旦在豁免中失败，生物就会承受所有只影响主要目标的额外效果（例如瓶装闪电造成的措手不及）。区域内的所有目标都会如同主要目标一般受到溅射伤害，哪怕原本的溅射效果并不会影响这么大的范围。</p>\n<p>如果你在制造一枚超能炸弹后的下一个动作不是通过交互动作将其投掷出去的话，这枚超能炸弹就会变质并失去所有的效果。</p>"
 		},
 		"Megaton Strike": {
 			"name": "百万吨强击 Megaton Strike",
@@ -9095,7 +9095,7 @@
 		},
 		"高速投弹手 Quick Bomber": {
 			"name": "Quick Bomber",
-			"description": "<p>你把你的炸弹放在容易触及的弹药袋中，以便你不假思索地取出。你通过 @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{互动 Interact} 取出一枚炸弹，然后立即用它进行打击（Strike）。</p>"
+			"description": "<p>你把你的炸弹放在容易触及的弹药袋中，以便你不假思索地取出。你通过 @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{交互 Interact} 取出一枚炸弹，然后立即用它进行打击（Strike）。</p>"
 		},
 		"Quick Change (Beastkin)": {
 			"name": "Quick Change (Beastkin)",
@@ -10779,7 +10779,7 @@
 		},
 		"Skillful Tail (Tiefling)": {
 			"name": "灵活尾巴（魔裔） Skillful Tail (Tiefling)",
-			"description": "<p>你生来就有一条尾巴，几经训练后你的尾巴除了暴露你的心情之外有了其他功用。</p>\n<p>你可以尾巴进行简单的 @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{互动} 动作，例如打开未上锁的门。你无法以尾巴进行需要手指或要求精密操作的动作，包括任何需要进行检定的动作，你也不得以尾巴持握物品。</p>"
+			"description": "<p>你生来就有一条尾巴，几经训练后你的尾巴除了暴露你的心情之外有了其他功用。</p>\n<p>你可以尾巴进行简单的 @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{交互} 动作，例如打开未上锁的门。你无法以尾巴进行需要手指或要求精密操作的动作，包括任何需要进行检定的动作，你也不得以尾巴持握物品。</p>"
 		},
 		"Skim Scroll": {
 			"name": "Skim Scroll",

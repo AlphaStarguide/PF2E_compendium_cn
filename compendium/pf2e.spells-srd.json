@@ -2871,7 +2871,7 @@
 		},
 		"Phantasmal Treasure": {
 			"name": "幻影珍宝 Phantasmal Treasure",
-			"description": "<p>对目标而言能想象到的最为珍贵的事物在法术射程内，你选择的地点上出现。只有法术目标能够看到该宝藏，但你可以看见该宝藏的模糊外形——可能是一堆物品，神祇化身，或者死去的爱人或者英雄。目标对该宝物的反应基于目标的意志豁免。</p>\n<hr />\n<p><strong>大成功</strong> T目标不受影响。</p>\n<p><strong>成功</strong> 目标对该宝物 @Compendium[pf2e.conditionitems.AdPVz7rbaVSRxHFg]{迷魂 Fascinated}，持续时间直到其回合结束。如果接触该宝物， @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{搜索 Seeks}来检查该保护，或者如果该幻象为人物或类似事物时与其对话，目标也可以尝试不相信幻觉。如果目标不相信该幻觉，该法术结束。</p>\n<p><strong>失败</strong> 如同成功，但持续时间为1分钟。</p>\n<p><strong>大失败</strong> 如同成功，但持续时间为1分钟。目标觉得该宝物是如此诱人，直到法术结束，它必须花费每个动作专注于它。这包括如果目标不在宝物旁边时向宝物移动，如果目标在宝物旁边时则与宝物 @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{互动 Interacting} 。（如果幻象看起来是人物或者类似的事物，目标可以尝试交互（Interact）来与其交流。）</p>"
+			"description": "<p>对目标而言能想象到的最为珍贵的事物在法术射程内，你选择的地点上出现。只有法术目标能够看到该宝藏，但你可以看见该宝藏的模糊外形——可能是一堆物品，神祇化身，或者死去的爱人或者英雄。目标对该宝物的反应基于目标的意志豁免。</p>\n<hr />\n<p><strong>大成功</strong> T目标不受影响。</p>\n<p><strong>成功</strong> 目标对该宝物 @Compendium[pf2e.conditionitems.AdPVz7rbaVSRxHFg]{迷魂 Fascinated}，持续时间直到其回合结束。如果接触该宝物， @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{搜索 Seeks}来检查该保护，或者如果该幻象为人物或类似事物时与其对话，目标也可以尝试不相信幻觉。如果目标不相信该幻觉，该法术结束。</p>\n<p><strong>失败</strong> 如同成功，但持续时间为1分钟。</p>\n<p><strong>大失败</strong> 如同成功，但持续时间为1分钟。目标觉得该宝物是如此诱人，直到法术结束，它必须花费每个动作专注于它。这包括如果目标不在宝物旁边时向宝物移动，如果目标在宝物旁边时则与宝物 @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{交互 Interacting} 。（如果幻象看起来是人物或者类似的事物，目标可以尝试交互（Interact）来与其交流。）</p>"
 		},
 		"Phantom Crowd": {
 			"name": "Phantom Crowd",
@@ -4351,7 +4351,7 @@
 		},
 		"Vampiric Maiden": {
 			"name": "鲜血铁棺 Vampiric Maiden",
-			"description": "<p>虚幻的铁处女突然将目标困住，并吸取其生命力，以增益你的生命。这会造成 [[/r {4d4}[piercing]]]{4d4 穿刺伤害} 和 [[/r {4d4}[negative]]]{4d4 负能量伤害}，目标必须尝试一次强韧豁免。你获得等于目标承受的负能量伤害的临时HP（在计算抗力，弱点和类似效果后）。在一分钟后，你会失去剩余的临时HP。</p>\n<hr />\n<p><strong>大成功</strong> 目标不受影响。</p>\n<p><strong>成功</strong> 目标承受一半伤害。</p>\n<p><strong>失败</strong> 目标被暂时困在鲜血铁棺中。目标承受完整伤害，并且被铁处女所 @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{禁足 Immobilized} ，持续1轮，或者直到它使用一个 @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{互动 Interact} 动作来脱身，以先发生为准。</p>\n<p><strong>大失败</strong> 目标承受双倍伤害，并且被铁处女所禁足，持续一轮，或者直到它 @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{逃脱 Escapes}，DC是你的法术DC，以先发生为准。</p>\n<hr />\n<p><strong>升阶 (+1)</strong> 该穿刺伤害和负能量伤害各增加 [[/r 1d4]]。</p>"
+			"description": "<p>虚幻的铁处女突然将目标困住，并吸取其生命力，以增益你的生命。这会造成 [[/r {4d4}[piercing]]]{4d4 穿刺伤害} 和 [[/r {4d4}[negative]]]{4d4 负能量伤害}，目标必须尝试一次强韧豁免。你获得等于目标承受的负能量伤害的临时HP（在计算抗力，弱点和类似效果后）。在一分钟后，你会失去剩余的临时HP。</p>\n<hr />\n<p><strong>大成功</strong> 目标不受影响。</p>\n<p><strong>成功</strong> 目标承受一半伤害。</p>\n<p><strong>失败</strong> 目标被暂时困在鲜血铁棺中。目标承受完整伤害，并且被铁处女所 @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{禁足 Immobilized} ，持续1轮，或者直到它使用一个 @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{交互 Interact} 动作来脱身，以先发生为准。</p>\n<p><strong>大失败</strong> 目标承受双倍伤害，并且被铁处女所禁足，持续一轮，或者直到它 @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{逃脱 Escapes}，DC是你的法术DC，以先发生为准。</p>\n<hr />\n<p><strong>升阶 (+1)</strong> 该穿刺伤害和负能量伤害各增加 [[/r 1d4]]。</p>"
 		},
 		"Vampiric Touch": {
 			"name": "吸血鬼之触 Vampiric Touch",
