@@ -730,8 +730,8 @@
 			"description": "<p>This light barding is covered in stylized wind motifs. When you suit up your animal companion, the barding adjusts to fit your animal companion regardless of its shape.</p>\n<p>When your companion falls, wind picks it up from below; it gains the effects of <em>@Compendium[pf2e.spells-srd.TTwOKGqmZeKSyNMH]{Feather Fall}</em>.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> Interact</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You trace a finger along the wind motifs on the barding, granting your companion wearing the barding a fly Speed of 30 feet for 10 minutes. Even if the companion doesn't have the mount special ability, it can still Fly while being ridden.</p>\n<p>@Compendium[pf2e.equipment-effects.P7Y7pO2ulZ5wBgxU]{Effect: Barding of the Zephyr}</p>"
 		},
 		"Barkskin Potion": {
-			"name": "Barkskin Potion",
-			"description": "<p>After you drink this bitter draft, your skin thickens like bark. You gain the effects of a 2nd-level <em>@Compendium[pf2e.spells-srd.YWrfKetOqDwVFut7]{Barkskin}</em> spell for 10 minutes.</p>"
+			"name": "树肤药水 Barkskin Potion",
+			"description": "<p>在你喝下这瓶苦涩的药水之后，你的皮肤如树皮一样变得粗厚。你获得2环 <em>@Compendium[pf2e.spells-srd.YWrfKetOqDwVFut7]{树肤术 Barkskin}</em>的效果，持续10分钟。</p>"
 		},
 		"Barricade Stone (Cube)": {
 			"name": "Barricade Stone (Cube)",
@@ -906,16 +906,16 @@
 			"description": "<p>蝰蛇毒液是强化武器的一种简单却有效的方式。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 交互 (受伤)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:18]</p>\n<p><strong>最大持续时间</strong> 3 轮</p>\n<p><strong>阶段 1</strong> [[/r {1d8}[poison]]]{1d8 毒素伤害} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {1d10}[poison]]]{1d10 毒素伤害} (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {2d6}[poison]]]{2d6 毒素伤害} (1 轮)</p>"
 		},
 		"Black Dragon's Breath Potion (Adult)": {
-			"name": "Black Dragon's Breath Potion (Adult)",
-			"description": "<p>This liquid contains blood from a black dragon. For 1 hour after you imbibe the concoction, you can unleash a black dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:line|distance:30] of acid which deals [[/r {6d6}[acid]]]{6d6 acid damage}. All creatures in the area must attempt a @Check[type:reflex|dc:29|basic:true|name:Adult Black Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "成年黑龙龙息药水 Black Dragon's Breath Potion (Adult)",
+			"description": "<p>这种液体包含了黑龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出黑龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。 你喷出范围为 @Template[type:line|distance:30] 的强酸龙息，造成 [[/r {6d6}[acid]]]{6d6 酸液伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:29|basic:true|name:Adult Black Dragon's Breath Potion] 豁免检定。</p>\n<p>你在使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Black Dragon's Breath Potion (Wyrm)": {
-			"name": "Black Dragon's Breath Potion (Wyrm)",
-			"description": "<p>This liquid contains blood from a black dragon. For 1 hour after you imbibe the concoction, you can unleash a black dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:line|distance:30] of acid which deals [[/r {10d6}[acid]]]{10d6 acid damage}. All creatures in the area must attempt a @Check[type:reflex|dc:37|basic:true|name:Wyrm Black Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "古黑龙龙息药水 Black Dragon's Breath Potion (Wyrm)",
+			"description": "<p>这种液体包含了黑龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出黑龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。 你喷出范围为 @Template[type:line|distance:30] 的强酸龙息，造成 [[/r {10d6}[acid]]]{10d6 酸液伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:37|basic:true|name:Wyrm Black Dragon's Breath Potion] 豁免检定。</p>\n<p>你在使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Black Dragon's Breath Potion (Young)": {
-			"name": "Black Dragon's Breath Potion (Young)",
-			"description": "<p>This liquid contains blood from a black dragon. For 1 hour after you imbibe the concoction, you can unleash a black dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:line|distance:30] of acid which deals [[/r {4d6}[acid]]]{4d6 acid damage}. All creatures in the area must attempt a @Check[type:reflex|dc:23|basic:true|name:Young Black Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "少年黑龙龙息药水 Black Dragon's Breath Potion (Young)",
+			"description": "<p>这种液体包含了黑龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出黑龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。 你喷出范围为 @Template[type:line|distance:30] 的强酸龙息，造成 [[/r {4d6}[acid]]]{4d6 酸液伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:23|basic:true|name:Young Black Dragon's Breath Potion] 豁免检定。</p>\n<p>你在使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Black Lotus Extract": {
 			"name": "黑莲汁 Black Lotus Extract",
@@ -7906,16 +7906,16 @@
 			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这瓶灵药由能够抵抗火焰的火蜥蜴鳞屑制成。饮用后24小时内，你免受严重高温（severe heat）的影响。你也会免受极端高温（extreme heat）的影响。</p>"
 		},
 		"Salve of Antiparalysis": {
-			"name": "Salve of Antiparalysis",
-			"description": "<p>Applying this filmy salve to a creature helps it overcome magical paralysis. The creature recovers as if it were the target of a 3rd-level remove paralysis spell.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>"
+			"name": "抗麻痹软膏 Salve of Antiparalysis",
+			"description": "<p>将这种透明的软膏涂在生物身上可以帮助其克服魔法麻痹的效果。该生物恢复正常，如同接受了一次3环的移除麻痹Remove Paralysis。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>"
 		},
 		"Salve of Antiparalysis (Greater)": {
-			"name": "Salve of Antiparalysis (Greater)",
-			"description": "<p>A <em>greater salve of antiparalysis</em> can potentially remove petrification. The creature recovers as if it were the target of both a 6th-level <em>remove paralysis</em> spell and a stone to flesh spell.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>"
+			"name": "高等抗麻痹软膏 Salve of Antiparalysis (Greater)",
+			"description": "<p>将这种透明的软膏涂在生物身上可以帮助其克服魔法麻痹的效果。该生物恢复正常，如同接受了一次6环的移除麻痹Remove Paralysis。高等抗麻痹软膏也能移除石化。生物如同接受了一次6环的解除石化Stone to Flesh。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>"
 		},
 		"Salve of Slipperiness": {
-			"name": "Salve of Slipperiness",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This greenish, persistent grease can be applied to armor to make it extremely slippery for 8 hours, granting the wearer a +2 item bonus to Acrobatics checks to Escape or to Squeeze.</p>\n<p>@Compendium[pf2e.consumable-effects.MCny5ohCGf09a7Wl]{Effect: Salve of Slipperiness}</p>"
+			"name": "滑溜软膏 Salve of Slipperiness",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这种浅绿色的黏连油脂可以涂在盔甲上，让其在8小时内变得无比滑溜，这为穿戴者在用来逃脱Escape和挤入空间Squeeze的特技Acrobatics检定中获得+2物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.MCny5ohCGf09a7Wl]{效果：滑溜软膏}</p>"
 		},
 		"Sandstorm Top": {
 			"name": "Sandstorm Top",
@@ -8138,8 +8138,8 @@
 			"description": "<p>A <em>serrating</em> weapon's bladed edge separates into jagged, swirling shards that spin along the blade. When dealing slashing damage, the weapon deals an additional 1d4 damage.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p><strong>Effect</strong> You brandish the weapon and focus its power, causing the serrated shards to buzz as they spin at a dizzying speed. On your next hit with the weapon this turn that deals slashing damage, the <em>serrating</em> rune adds an additional 1d12 damage instead of the additional 1d4 damage, and then the shards return to their usual speed.</p>"
 		},
 		"Serum of Sex Shift": {
-			"name": "Serum of Sex Shift",
-			"description": "<p>Upon drinking this potion, your biology instantly transforms to take on a set of sexual characteristics of your choice, changing your appearance and physiology accordingly. You have mild control over the details of this change, but you retain a strong \"family resemblance\" to your former appearance.</p>\n<p>The magic functions instantaneously and can't be counteracted. Your new anatomy is as healthy and functional as your previous body's, potentially allowing you to procreate (depending on your ancestry's biology). Drinking a subsequent serum of sex shift allows you to either revert back to your original form or adopt other sexual characteristics, as you choose. The elixir has no effect if you are pregnant or from an ancestry with no sexual differentiation. Most ancestries have a wide spectrum of sexual differentiation, some common, others more rare.</p>"
+			"name": "性转血清 Serum of Sex Shift",
+			"description": "<p>喝下这瓶药水后，你的身体立刻发生变化，呈现出你自选的一组性征，你的外貌和生理机能也随之发生改变。你可以轻微调整变化的细节，但你总是与原来的形态有着强烈的 \"亲族相似\" 。</p>\n<p>这个魔法立刻生效并且无法被反制。你新的身体结构与你原来的身体同样健康和实用，而且可能让你能够繁殖（根据你所属族裔的生态）。喝下另一瓶性转血清可以让你选择变回原来的形态，或者选择接受其他的性征。如果你怀孕了，或者你属于一种没有性别区别的族裔，则该药水不会生效。大多数族裔都有广泛的性别差异，有些差异很常见，而另一些则十分稀有。</p>"
 		},
 		"Server's Stew": {
 			"name": "Server's Stew",
@@ -10158,16 +10158,16 @@
 			"description": "<p>This amulet bears the true name of a single creature with a level no higher than the item's level. These amulets are typically made of gold and engraved, but could be made of anything, including simple clay. The name is clearly visible, though only to you, and only while you have the amulet invested.</p>\n<p>If you can read the language in which the name is written, that creature always takes the effects of <em>invoke true name</em> against your spells (with a spell level equal to half the item's level, rounded up). In addition, when the creature uses any magical effect against you, you can immediately attempt to counteract it using Arcana, Nature, Occult, or Religion for the counteract check and the true name amulet's level to determine the counteract level. Legendary amulets bearing the true names of creatures of level 21+ may exist.</p>"
 		},
 		"Truesight Potion": {
-			"name": "Truesight Potion",
-			"description": "<p>Upon drinking this clear, refreshing potion, you can see things as they actually are. You gain the benefits of a 7th level <em>@Compendium[pf2e.spells-srd.uqlxMQQeSGWEVjki]{True Seeing}</em> spell that has a counteract modifier of [[/r 1d20+25]].</p>"
+			"name": "真视药水 Truesight Potion",
+			"description": "<p>喝下这瓶清澈干净的药水后，你可以看到事物真实的模样。你获得7环 <em>@Compendium[pf2e.spells-srd.uqlxMQQeSGWEVjki]{真知术 True Seeing}</em> 的效果，反制值为 [[/r 1d20+25]]。</p>"
 		},
 		"Trustworthy Round": {
 			"name": "Trustworthy Round",
 			"description": "<p><strong>Ammunition</strong> any</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> command</p>\n<p>This ammunition was developed in Dongun Hold to minimize casualties to friendly fire, and is always marked by a burnished copper head or tip so it can be easily identified. Before you can fire a trustworthy round, you must call out a target. You don't need to specify a name; the target could be \"The angry tiger attacking our group on the left.\" The round will only hit the specified target and will turn to gossamer dust midair if it misses the intended target or comes into contact with anything else; this also prevents abilities that redirect attacks. The round doesn't have any capabilities beyond your own to determine whether someone is who you think they are, so you can't use it to determine a disguised creature's identity. If you specify a target of \"Seltyiel\" and shoot someone disguised as Seltyiel who you thought was Seltyiel, the attack will still hit, whereas if you were about to hit a disguised Seltyiel who you didn't recognize to be Seltyiel, the round would dissolve.</p>"
 		},
 		"Truth Potion": {
-			"name": "Truth Potion",
-			"description": "<p>For 10 minutes after drinking this astringent potion, you can't intentionally lie and may be compelled to tell the truth. Upon drinking the potion, attempt a @Check[type:will|dc:19] save. You can voluntarily fail or critically fail.</p>\n<p><strong>Success</strong> The potion does not affect you.</p>\n<p><strong>Failure</strong> When you speak, you must tell the truth.</p>\n<p><strong>Critical Failure</strong> As failure, and when someone asks you a question, you must attempt another @Check[type:will|dc:19] saving throw. If you fail this saving throw, you must answer the question truthfully if you are able to do so; if you succeed, you are temporarily immune to further attempts to ask the same question within the potion's duration.</p>"
+			"name": "真实药水 Truth Potion",
+			"description": "<p>喝下这瓶辛辣药水后的10分钟内，你不能故意说谎，并可能被强制说出事实。在喝下药水的时候，尝试一次 @Check[type:will|dc:19] 豁免。你可以自愿达成失败或者大失败。</p>\n<p><strong>成功</strong> 药水不对你产生影响</p>\n<p><strong>失败</strong> 当你说话时，你必须说实话</p>\n<p><strong>大失败</strong> 如同失败，但一旦有人询问你一个问题，你必须进行一次 @Check[type:will|dc:19] 豁免。如果你豁免失败，只要你能，你必须如实回答问题；如果豁免成功，你在药水持续时间内能暂时免疫相同的问题。</p>"
 		},
 		"Turquoise": {
 			"name": "Turquoise",
