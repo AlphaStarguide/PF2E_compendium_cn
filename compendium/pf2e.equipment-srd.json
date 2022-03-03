@@ -6466,8 +6466,8 @@
 			"description": "<p>This thick, elegant bracelet conceals a specialized firing mechanism that can hold a single blowgun dart. You can fire the dart normally from the bracelet. Recognizing the bracelet's nature requires a successful DC 25 Perception check.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> Interact</p>\n<p><strong>Effect</strong> You expand the bracelet into a @Compendium[pf2e.equipment-srd.XyA6PKV46aNlLXOd]{Hand Crossbow}. The bracelet has enough pieces to assemble up to three bolts, but the bolts contain necessary components for the bracelet. Without all of the bolt pieces, you cannot collapse the crossbow back into a bracelet.</p>"
 		},
 		"Panacea": {
-			"name": "Panacea",
-			"description": "<p>This potion appears to shift colors, and no two observers describe it in the same way. When consumed, it attempts to counteract all curses and diseases affecting you, as well as the blinded and deafened conditions from spells affecting you. The potion has a counteract level of 7 and a [[/r 1d20+20]] modifier for the roll.</p>"
+			"name": "万灵药 Panacea",
+			"description": "<p>这种药水不断地改变颜色，没有哪两个观察者会用同样的方式描述它。喝下后，它会试图反制正在影响你的所有诅咒和疾病，包括来自法术的目盲Blinded和耳聋Deafened状态。该药水的反制等级为7级，调整值为 [[/r 1d20+20]] 。</p>"
 		},
 		"Panacea Fruit": {
 			"name": "Panacea Fruit",
@@ -6934,40 +6934,40 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<p>For 1 minute after drinking a potion of fire retaliation, you glow with a faint aura of fire energy, and a creature that touches you (such as by making an unarmed attack or using a spell with a range of touch against you) or is adjacent to you and hits you with a melee weapon strike takes fire damage.</p>\n<p>The aura deals 2d4 fire damage.</p>"
 		},
 		"Potion of Flying (Greater)": {
-			"name": "Potion of Flying (Greater)",
-			"description": "<p>Upon drinking this effervescent concoction, you gain a fly Speed of 40 feet for 1 hour.</p>\n<p>@Compendium[pf2e.consumable-effects.Zdh2uO1vVYJmaqld]{Effect: Potion of Flying (Greater)}</p>"
+			"name": "高等飞行药水 Potion of Flying (Greater)",
+			"description": "<p>喝下这瓶冒着气泡的调和物后，你获得40尺飞行速度Speed，持续1小时。</p>\n<p>@Compendium[pf2e.consumable-effects.Zdh2uO1vVYJmaqld]{效果：高等飞行药水}</p>"
 		},
 		"Potion of Flying (Standard)": {
-			"name": "Potion of Flying (Standard)",
-			"description": "<p>Upon drinking this effervescent concoction, you gain a fly Speed of 40 feet for 1 minute.</p>\n<p>@Compendium[pf2e.consumable-effects.Mf9EBLhYmZerf0nS]{Effect: Potion of Flying (Standard)}</p>"
+			"name": "标准飞行药水 Potion of Flying (Standard)",
+			"description": "<p>喝下这瓶冒着气泡的调和物后，你获得40尺飞行速度Speed，持续1分钟。</p>\n<p>@Compendium[pf2e.consumable-effects.Mf9EBLhYmZerf0nS]{效果：标准飞行药水}</p>"
 		},
 		"Potion of Grounding": {
 			"name": "Potion of Grounding",
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<hr />\n<p>Sparks flash within this amber syrup. Drinking this potion turns you into a living lightning rod for 1 minute, drawing nearby electricity to strike you instead of allies. You gain the @Compendium[pf2e.actionspf2e.s2RrhZx1f1X4YnYV]{Divert Lightning} reaction while the effect lasts.</p>"
 		},
 		"Potion of Leaping": {
-			"name": "Potion of Leaping",
-			"description": "<p>For 1 minute after you drink this fizzy potion, whenever you Leap, you gain the effect of the 1st-level <em>@Compendium[pf2e.spells-srd.Q7QQ91vQtyi1Ux36]{Jump}</em> spell.</p>"
+			"name": "跳跃药水 Potion of Leaping",
+			"description": "<p>你喝下这瓶起泡药水之后的1分钟内，只要你进行跳跃Leap，你获得1环 <em>@Compendium[pf2e.spells-srd.Q7QQ91vQtyi1Ux36]{跳跃术 Jump}</em> 的效果。</p>"
 		},
 		"Potion of Minute Echoes": {
 			"name": "Potion of Minute Echoes",
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<hr />\n<p>No matter how carefully you open this bottle, it always lets out an audible, echoing pop. For 1 minute after drinking this potion, you gain a +2 status bonus to Perception checks to hear. In addition, each time you Seek, your hearing becomes a precise sense until the beginning of your next turn, allowing you to pinpoint creatures' locations and otherwise perceive the world in detail by listening to the sound of echoes.</p>\n<p>@Compendium[pf2e.equipment-effects.HaZ5LB1wh1LY5wUy]{Equipment Effect: Potion of Minute Echoes}</p>"
 		},
 		"Potion of Quickness": {
-			"name": "Potion of Quickness",
-			"description": "<p>Drinking this silver potion grants you the effects of <em>@Compendium[pf2e.spells-srd.o6YCGx4lycsYpww4]{Haste}</em> for 1 minute.</p>"
+			"name": "加速药水 Potion of Quickness",
+			"description": "<p>喝下这瓶银色的药水能够让你获得 <em>@Compendium[pf2e.spells-srd.o6YCGx4lycsYpww4]{加速术 Haste}</em> 的效果，持续1分钟。</p>"
 		},
 		"Potion of Resistance (Greater)": {
-			"name": "Potion of Resistance (Greater)",
-			"description": "<p>Drinking this thick, fortifying potion grants 15 resistance against a single damage type for 1 hour. Each <em>potion of resistance</em> is created to defend against acid, cold, electricity, fire, or sonic damage (and is called a <em>lesser potion of fire resistance</em> or the like).</p>"
+			"name": "高等抗力药水 Potion of Resistance (Greater)",
+			"description": "<p>喝下这瓶厚重粘稠的药水后，你能获得针对单一伤害类型的15点抗力，持续1小时。每瓶抗力药水在制造出来时就能用来抵抗下列伤害类型之一：强酸Acid、寒冷Cold、闪电Electricity、火焰Fire、或音波Sonic（并被称为次等火焰抗力药水之类）。</p>"
 		},
 		"Potion of Resistance (Lesser)": {
-			"name": "Potion of Resistance (Lesser)",
-			"description": "<p>Drinking this thick, fortifying potion grants 5 resistance against a single damage type for 1 hour. Each <em>potion of resistance</em> is created to defend against acid, cold, electricity, fire, or sonic damage (and is called a <em>lesser potion of fire resistance</em> or the like).</p>"
+			"name": "次等抗力药水 Potion of Resistance (Lesser)",
+			"description": "<p>喝下这瓶厚重粘稠的药水后，你能获得针对单一伤害类型的5点抗力，持续1小时。每瓶抗力药水在制造出来时就能用来抵抗下列伤害类型之一：强酸Acid、寒冷Cold、闪电Electricity、火焰Fire、或音波Sonic（并被称为次等火焰抗力药水之类）。</p>"
 		},
 		"Potion of Resistance (Moderate)": {
-			"name": "Potion of Resistance (Moderate)",
-			"description": "<p>Drinking this thick, fortifying potion grants 10 resistance against a single damage type for 1 hour. Each <em>potion of resistance</em> is created to defend against acid, cold, electricity, fire, or sonic damage (and is called a <em>lesser potion of fire resistance</em> or the like).</p>"
+			"name": "中等抗力药水 Potion of Resistance (Moderate)",
+			"description": "<p>喝下这瓶厚重粘稠的药水后，你能获得针对单一伤害类型的10点抗力，持续1小时。每瓶抗力药水在制造出来时就能用来抵抗下列伤害类型之一：强酸Acid、寒冷Cold、闪电Electricity、火焰Fire、或音波Sonic（并被称为次等火焰抗力药水之类）。</p>"
 		},
 		"Potion of Shared Life": {
 			"name": "Potion of Shared Life",
@@ -6998,24 +6998,24 @@
 			"description": "<p>This aromatic potion is brewed from the white flowers and black roots of the magical herb moly. When you drink this potion, it immediately attempts to counteract all hostile transmutation effects affecting you (counteract level 8, counteract check modifier +25). For the next hour, you gain a +3 item bonus against transmutation effects, which is +4 against polymorph effects. If you roll a success against a polymorph effect during that time, you get a critical success instead.</p>\n<p>@Compendium[pf2e.equipment-effects.W9tKQlA7tVIcAuzw]{Equipment Effect: Greater Potion of Stable Form}</p>"
 		},
 		"Potion of Swimming (Greater)": {
-			"name": "Potion of Swimming (Greater)",
-			"description": "<p>This potion tastes like salt water, and sandy grit settles to the bottom of its container. When you drink it, you gain a swim Speed equal to your land Speed for 1 hour.</p>\n<p>@Compendium[pf2e.consumable-effects.ModBoFdCi7YQU4gP]{Effect: Potion of Swimming (Greater)}</p>"
+			"name": "高等游泳药水 Potion of Swimming (Greater)",
+			"description": "<p>这瓶药水尝起来很咸，还有沙粒沉在瓶底。喝下后，你获得等同于陆地速度Speed的游泳速度Speed，持续1小时。</p>\n<p>@Compendium[pf2e.consumable-effects.ModBoFdCi7YQU4gP]{效果：高等游泳药水}</p>"
 		},
 		"Potion of Swimming (Moderate)": {
-			"name": "Potion of Swimming (Moderate)",
-			"description": "<p>This potion tastes like salt water, and sandy grit settles to the bottom of its container. When you drink it, you gain a swim Speed equal to your land Speed for 10 minutes.</p>\n<p>@Compendium[pf2e.consumable-effects.W3xQBLj5hLOtb6Tj]{Effect: Potion of Swimming (Moderate)}</p>"
+			"name": "中等游泳药水 Potion of Swimming (Moderate)",
+			"description": "<p>这瓶药水尝起来很咸，还有沙粒沉在瓶底。喝下后，你获得等同于陆地速度Speed的游泳速度Speed，持续10分钟。</p>\n<p>@Compendium[pf2e.consumable-effects.W3xQBLj5hLOtb6Tj]{效果：中等游泳药水}</p>"
 		},
 		"Potion of Tongues": {
-			"name": "Potion of Tongues",
-			"description": "<p>This sour potion enlivens your tongue with unusual flavors and uncommon eloquence, allowing you to speak and understand all languages for 4 hours after you drink it. This doesn't allow you to read these languages in their written form.</p>"
+			"name": "巧舌药水 Potion of Tongues",
+			"description": "<p>这瓶酸味药水让你的舌头充满活力，使你变得非常风趣而健谈。在喝下之后，你变得可以说和理解全部的语言，持续4小时。这不能让你读懂这些语言的书写形式。</p>"
 		},
 		"Potion of Undetectability": {
-			"name": "Potion of Undetectability",
-			"description": "<p>Drinking this dull-black liquid makes you undetectable to divinations.</p>\n<p>This grants the same effects as <em>@Compendium[pf2e.spells-srd.C2w3YfBKjIRS07DP]{Mind Blank}</em>, but without the bonus against mental effects. You also gain the effects of a 4th-level <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{Invisibility}</em> spell, which protects against <em>@Compendium[pf2e.spells-srd.jwK43yKsHTkJQvQ9]{See Invisibility}</em> spells of 8th level and lower and has a DC of 36 against <em>@Compendium[pf2e.spells-srd.uqlxMQQeSGWEVjki]{True Seeing}</em>.</p>\n<p>The potion's effects last for 10 minutes.</p>"
+			"name": "反侦测药水 Potion of Undetectability",
+			"description": "<p>喝下这瓶暗黑色的药水能让你无法被预言系效果侦测。</p>\n<p>这和 <em>@Compendium[pf2e.spells-srd.C2w3YfBKjIRS07DP]{心里屏障 Mind Blank}</em>有着相同的功能，除了它不提供针对精神效果的加值。你也获得4环 <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{隐形术 Invisibility}</em> 的效果，而且能保护你不被8环或以下的 <em>@Compendium[pf2e.spells-srd.jwK43yKsHTkJQvQ9]{识破隐形 See Invisibility}</em> 法术侦测到，而且在对抗 <em>@Compendium[pf2e.spells-srd.uqlxMQQeSGWEVjki]{真知术 True Seeing}</em>时的DC为36。</p>\n<p>药水效果持续10分钟。</p>"
 		},
 		"Potion of Water Breathing": {
-			"name": "Potion of Water Breathing",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<hr />\n<p>This filmy, gray potion smells of an old fish midden and tastes even worse. After drinking this potion, you gain the effects of a 2nd level <em>@Compendium[pf2e.spells-srd.MZGkMsPBztFN0pUO]{Water Breathing}</em> spell for one hour.</p>"
+			"name": "水下呼吸药水 Potion of Water Breathing",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">1</span> 交互</p>\n<hr />\n<p>这瓶透明灰色的药水闻起来像腐烂的臭鱼，尝起来则感觉更糟。喝下之后，你获得2环的 <em>@Compendium[pf2e.spells-srd.MZGkMsPBztFN0pUO]{水下呼吸 Water Breathing}</em> 效果，持续1小时。</p>"
 		},
 		"Powder": {
 			"name": "Powder",
@@ -8310,12 +8310,12 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">a</span> envision</p>\n<p><strong>Requirements</strong> You're an expert in Intimidation and the affixed weapon is loaded.</p>\n<hr />\n<p>This dried skull of a snake is mounted atop the firearm's barrel or affixed to a crossbow's stock. When activated, the skull crawls onto the ammunition loaded in the affixed weapon. If you Strike with the weapon before the end of your turn, the skull lets out a bloodcurdling scream as the ammunition approaches its target. Regardless of whether the Strike is a success, the screaming skull allows you to attempt to @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Demoralize} the target as well as each enemy within 30 feet of the target.</p>"
 		},
 		"Shrinking Potion": {
-			"name": "Shrinking Potion",
-			"description": "<p>This fungus-flavored potion conveys the effects of the <em>@Compendium[pf2e.spells-srd.PjhUmyKnq6K5uDby]{Shrink}</em> spell to make you and all your gear smaller. After the onset, you remain small for 10 minutes.</p>\n<p><strong>Onset</strong> 1 minute</p>"
+			"name": "标准缩小药水 Shrinking Potion",
+			"description": "<p>这瓶霉味药水能提供 <em>@Compendium[pf2e.spells-srd.PjhUmyKnq6K5uDby]{缩小术 Shrink}</em> 的效果，让你和你身上的所有装备变小。在潜伏期过后，你在10分钟内都维持变化后的体型。</p>\n<p><strong>潜伏期</strong> 1 分钟</p>"
 		},
 		"Shrinking Potion (Greater)": {
-			"name": "Shrinking Potion (Greater)",
-			"description": "<p>This fungus-flavored potion conveys the effects of the shrink spell to make you and all your gear smaller. This potion has no onset, lasts for 1 hour, and grants the effects of a 4th-level <em>@Compendium[pf2e.spells-srd.PjhUmyKnq6K5uDby]{Shrink}</em> spell. In addition, you gain a +2 item bonus to Stealth checks while shrunken.</p>\n<p>@Compendium[pf2e.consumable-effects.zd85Ny1RS46OL0TD]{Effect: Shrinking Potion (Greater)}</p>"
+			"name": "高等缩小药水 Shrinking Potion (Greater)",
+			"description": "<p>这瓶霉味药水能提供缩小术Shrink的效果，让你和你身上的所有装备变小。药水没有潜伏期，持续1小时，提供4环 <em>@Compendium[pf2e.spells-srd.PjhUmyKnq6K5uDby]{缩小术 Shrink}</em> 的效果。另外，你在缩小时进行的隐匿Stealth检定上获得+2物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.zd85Ny1RS46OL0TD]{效果：高等缩小药水}</p>"
 		},
 		"Shuriken": {
 			"name": "手里剑 Shuriken",
