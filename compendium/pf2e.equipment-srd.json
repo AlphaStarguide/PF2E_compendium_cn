@@ -907,15 +907,15 @@
 		},
 		"Black Dragon's Breath Potion (Adult)": {
 			"name": "成年黑龙龙息药水 Black Dragon's Breath Potion (Adult)",
-			"description": "<p>这种液体包含了黑龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出黑龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。 你喷出范围为 @Template[type:line|distance:30] 的强酸龙息，造成 [[/r {6d6}[acid]]]{6d6 酸液伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:29|basic:true|name:Adult Black Dragon's Breath Potion] 豁免检定。</p>\n<p>你在使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
+			"description": "<p>这种液体包含了黑龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出黑龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:line|distance:30] 的强酸龙息，造成 [[/r {6d6}[acid]]]{6d6 酸液伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:29|basic:true|name:Adult Black Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Black Dragon's Breath Potion (Wyrm)": {
 			"name": "古黑龙龙息药水 Black Dragon's Breath Potion (Wyrm)",
-			"description": "<p>这种液体包含了黑龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出黑龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。 你喷出范围为 @Template[type:line|distance:30] 的强酸龙息，造成 [[/r {10d6}[acid]]]{10d6 酸液伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:37|basic:true|name:Wyrm Black Dragon's Breath Potion] 豁免检定。</p>\n<p>你在使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
+			"description": "<p>这种液体包含了黑龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出黑龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:line|distance:30] 的强酸龙息，造成 [[/r {10d6}[acid]]]{10d6 酸液伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:37|basic:true|name:Wyrm Black Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Black Dragon's Breath Potion (Young)": {
 			"name": "少年黑龙龙息药水 Black Dragon's Breath Potion (Young)",
-			"description": "<p>这种液体包含了黑龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出黑龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。 你喷出范围为 @Template[type:line|distance:30] 的强酸龙息，造成 [[/r {4d6}[acid]]]{4d6 酸液伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:23|basic:true|name:Young Black Dragon's Breath Potion] 豁免检定。</p>\n<p>你在使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
+			"description": "<p>这种液体包含了黑龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出黑龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:line|distance:30] 的强酸龙息，造成 [[/r {4d6}[acid]]]{4d6 酸液伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:23|basic:true|name:Young Black Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Black Lotus Extract": {
 			"name": "黑莲汁 Black Lotus Extract",
@@ -1098,8 +1098,8 @@
 			"description": "<p>This <em>+1 striking</em> kukri has a crimson blade that shimmers eerily in bright light. On a critical hit, the kukri deals [[/r {1d8}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Bleed Damage}. If the target didn't already have persistent bleed damage when you scored the critical hit, you also gain 1d8 temporary Hit Points.</p>"
 		},
 		"Bloodseeker Beak": {
-			"name": "Bloodseeker Beak",
-			"description": "<p>This long, hollow proboscis is harvested from the notorious bloodseeker beast and drips a trickle of blood.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Envision</p>\n<p><strong>Trigger</strong> You hit a flat-footed creature with the affixed weapon</p>\n<p>When you activate the beak, you deal an extra 1d4 precision damage on your damage roll. If you deal sneak attack damage to the creature, you also deal [[/r {1d4}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Bleed Damage}.</p>"
+			"name": "觅血者之针 Bloodseeker Beak",
+			"description": "<p>这根长长的空洞的针状吻是从声名狼藉的觅血者上摘下来的，而且仍然滴着血液。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 想象</p>\n<p><strong>触发</strong> 你用附着的武器击中了一个措手不及Flat-footed的生物</p>\n<p>当你启动这根针鼻，你在伤害骰上造成额外1d4点精准伤害。如果你对一个生物造成偷袭伤害的话，你还会造成 [[/r {1d4}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续流血伤害}。</p>"
 		},
 		"Bloodstone": {
 			"name": "Bloodstone",
@@ -1118,16 +1118,16 @@
 			"description": "<p>这些薄而轻的飞镖通常是用硬木制成的，用羽毛或毛皮固定。它们通常是空心的，所以可以用来喂毒。</p>"
 		},
 		"Blue Dragon's Breath Potion (Adult)": {
-			"name": "Blue Dragon's Breath Potion (Adult)",
-			"description": "<p>This liquid contains blood from a blue dragon. For 1 hour after you imbibe the concoction, you can unleash a blue dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:line|distance:30] of electricity which deals [[/r {6d6}[electricity]]]{6d6 electricity damage}. All creatures in the area must attempt a @Check[type:reflex|dc:29|basic:true|name:Adult Blue Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "成年蓝龙龙息药水 Blue Dragon's Breath Potion (Adult)",
+			"description": "<p>这种液体包含了蓝龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出蓝龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。 你喷出范围为 @Template[type:line|distance:30] 的电击龙息，造成 [[/r {6d6}[electricity]]]{6d6 电击伤害}。 每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:29|basic:true|name:Adult Blue Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Blue Dragon's Breath Potion (Wyrm)": {
-			"name": "Blue Dragon's Breath Potion (Wyrm)",
-			"description": "<p>This liquid contains blood from a blue dragon. For 1 hour after you imbibe the concoction, you can unleash a blue dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:line|distance:30] of electricity which deals [[/r {10d6}[electricity]]]{10d6 electricity damage}. All creatures in the area must attempt a @Check[type:reflex|dc:37|basic:true|name:Wyrm Blue Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "古蓝龙龙息药水 Blue Dragon's Breath Potion (Wyrm)",
+			"description": "<p>这种液体包含了蓝龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出蓝龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。 你喷出范围为 @Template[type:line|distance:30] 的电击龙息，造成 [[/r {10d6}[electricity]]]{10d6 电击伤害}。 每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:37|basic:true|name:Wyrm Blue Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Blue Dragon's Breath Potion (Young)": {
-			"name": "Blue Dragon's Breath Potion (Young)",
-			"description": "<p>This liquid contains blood from a blue dragon. For 1 hour after you imbibe the concoction, you can unleash a blue dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:line|distance:30] of electricity which deals [[/r {4d6}[electricity]]]{4d6 electricity damage}. All creatures in the area must attempt a @Check[type:reflex|dc:23|basic:true|name:Young Blue Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "少年蓝龙龙息药水 Blue Dragon's Breath Potion (Young)",
+			"description": "<p>这种液体包含了蓝龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出蓝龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。 你喷出范围为 @Template[type:line|distance:30] 的电击龙息，造成 [[/r {4d6}[electricity]]]{4d6 电击伤害}。 每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:23|basic:true|name:Young Blue Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Blue Dragonfly Poison": {
 			"name": "Blue Dragonfly Poison",
@@ -1306,16 +1306,16 @@
 			"description": "<p><strong>Perception</strong> +15; vision (<span style=\"color: var(--body); font-size: 1em;\">precise)</span><span style=\"color: var(--body); font-size: 1em;\"> 30 feet, hearing (</span><span style=\"color: var(--body); font-size: 1em;\">imprecise</span><span style=\"color: var(--body); font-size: 1em;\"> )</span><span style=\"color: var(--body); font-size: 1em;\">30 </span><span style=\"color: var(--body); font-size: 1em;\">feet</span></p>\n<p><strong>Communication</strong> speech (all languages known in life)</p>\n<p><strong>Skills</strong> varies</p>\n<p><strong>Int</strong> +2, <strong>Wis</strong> +2, <strong>Cha</strong> +2</p>\n<p><strong>AC</strong> 21; <strong>Fort</strong> +10, <strong>Ref</strong> +8, <strong>Will</strong> +15</p>\n<p><strong>HP</strong> 68; <strong>Immunities</strong> bleed, disease, death effects, paralyzed, poison; <strong>Weaknesses</strong> bludgeoning 7, sonic 7; <strong>Resistances</strong> fire 7, piercing 7, slashing 7</p>\n<hr />\n<p>A brain cylinder allows the extracted brain of a Large or smaller creature to continue to function even after it has been removed from the body. As long as the brain remains in the cylinder, the creature remains alive and can continue to think, even though its body is dead. Detachable modules that fit into the base of the cylinder allow the brain to see, hear, or speak using a raspy speaker. So long as these are attached, the brain can speak and understand any languages it knew in life, though nothing within the cylinder compels it to do so if it is unwilling. It also retains its living alignment, and can use Intelligence-, Wisdom-, and Charisma-based skills. A standard brain cylinder has one skill at +15, one at +13, and two at +11, as chosen by the GM.</p>\n<p>The brain retains no other abilities it possessed in life, including purely mental ones. Mi-go typically preserve humanoid brains in this manner when they wish to interrogate a creature at a later date, or when they wish to preserve a creature as a resource for consultation or research purposes, as a brain preserved in this manner can live for centuries. If a brain cylinder is destroyed, the brain dies and its soul finally moves on to the Boneyard. Restoring a brain in a brain cylinder to its former body can be done by any effect that restores life (and, in most cases, any capable of creating a new body, since the original is typically missing or long gone).</p>\n<p>Note that the level 6 brain cylinder presented represents a level 6 creature's brain. A less powerful or more powerful brain can be placed in a brain cylinder, which can affect the brain cylinder's Perception, mental ability scores, Will save, and skill modifiers (and can drastically alter the value of the brain cylinder), but the physical properties of the brain cylinder remain unchanged. Higher-level brain cylinders can be crafted, with resistances and weaknesses increasing as appropriate to their level. However, they always have low AC and HP and terrible Fortitude and Reflex saves for a creature of the brain cylinder's level.</p>\n<p>You can open a brain cylinder by taking three consecutive actions with the manipulate trait. If the brain cylinder contains a brain, the brain dies 3 rounds after it's removed or if the cylinder is left open for more than 10 minutes. You can transfer a brain from one brain cylinder to another with a DC 25 Medicine (expert) or Occultism (expert) check. This is a two-action activity with the manipulate trait. On a critical failure, the brain dies.</p>"
 		},
 		"Brass Dragon's Breath Potion (Adult)": {
-			"name": "Brass Dragon's Breath Potion (Adult)",
-			"description": "<p>This liquid contains blood from a brass dragon. For 1 hour after you imbibe the concoction, you can unleash a brass dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:line|distance:30] of fire which deals [[/r {6d6}[fire]]]{6d6 fire damage}. All creatures in the area must attempt a @Check[type:reflex|dc:29|basic:true|name:Adult Brass Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "成年黄铜龙龙息药水 Brass Dragon's Breath Potion (Adult)",
+			"description": "<p>这种液体包含了黄铜龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出黄铜龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:line|distance:30] 的火焰龙息，造成 [[/r {6d6}[fire]]]{6d6 火焰伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:29|basic:true|name:Adult Brass Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Brass Dragon's Breath Potion (Wyrm)": {
-			"name": "Brass Dragon's Breath Potion (Wyrm)",
-			"description": "<p>This liquid contains blood from a brass dragon. For 1 hour after you imbibe the concoction, you can unleash a brass dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:line|distance:30] of fire which deals [[/r {10d6}[fire]]]{10d6 fire damage}. All creatures in the area must attempt a @Check[type:reflex|dc:37|basic:true|name:Wyrm Brass Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "古黄铜龙龙息药水 Brass Dragon's Breath Potion (Wyrm)",
+			"description": "<p>这种液体包含了黄铜龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出黄铜龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:line|distance:30] 的火焰龙息，造成 [[/r {10d6}[fire]]]{10d6 火焰伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:37|basic:true|name:Wyrm Brass Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Brass Dragon's Breath Potion (Young)": {
-			"name": "Brass Dragon's Breath Potion (Young)",
-			"description": "<p>This liquid contains blood from a brass dragon. For 1 hour after you imbibe the concoction, you can unleash a brass dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:line|distance:30] of fire which deals [[/r {4d6}[fire]]]{4d6 fire damage}. All creatures in the area must attempt a @Check[type:reflex|dc:23|basic:true|name:Young Brass Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "少年黄铜龙龙息药水 Brass Dragon's Breath Potion (Young)",
+			"description": "<p>这种液体包含了黄铜龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出黄铜龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:line|distance:30] 的火焰龙息，造成 [[/r {4d6}[fire]]]{4d6 火焰伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:23|basic:true|name:Young Brass Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Brass Ear": {
 			"name": "Brass Ear",
@@ -1398,20 +1398,20 @@
 			"description": "<p>从地狱锻炉中散发出的烟尘将同时耗竭生命与力量。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 (吸入)</p>\n<p><strong>豁免检定</strong> @Check[type:fortitude|dc:36]</p>\n<p><strong>潜伏期</strong> 1 轮</p>\n<p><strong>最大持续时间</strong> 6 轮</p>\n<p><strong>阶段 1</strong> [[/r {7d6}[poison]]]{7d6 毒素伤害} 和 @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{力竭 Enfeebled 1} (1 轮)</p>\n<p><strong>阶段 2</strong> [[/r {8d6}[poison]]]{8d6 毒素伤害} 和 力竭enfeebled 2 (1 轮)</p>\n<p><strong>阶段 3</strong> [[/r {10d6}[poison]]]{10d6 毒素伤害} 和 力竭enfeebled 3 (1 轮)</p>"
 		},
 		"Bronze Bull Pendant": {
-			"name": "Bronze Bull Pendant",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Envision</p>\n<p><strong>Trigger</strong> You attempt an Athletics check to Shove, but you haven't rolled yet</p>\n<p><strong>Requirements</strong> You are trained in Athletics</p>\n<p>This pendant is forged from grainy steel and depicts a snorting bull's face. The pendant must be attached to the chest area or on a shoulder guard.</p>\n<p>When you activate the pendant, you gain a +2 status bonus to the Athletics check to Shove, and if you roll a critical failure on the check, you get a failure instead.</p>\n<p>@Compendium[pf2e.consumable-effects.Cxa7MdgMCUoMqbKm]{Effect: Bronze Bull Pendant}</p>"
+			"name": "青铜牛垂饰 Bronze Bull Pendant",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 想象</p>\n<p><strong>触发</strong> 你尝试一次运动Atheltics检定以进行推撞Shove，但你尚未投掷结果</p>\n<p><strong>需求</strong> 你在运动Athletics中受训</p>\n<p>这条垂饰用粗糙的钢铁制成，上面描绘了一个愤怒公牛的脸。这条垂饰必须附着在胸甲或肩甲处。</p>\n<p>当你启动这条垂饰，你在用来推撞Shove的运动Athletics检定中获得+2状态加值，另外如果你在检定中投出了大失败，用失败来替代。</p>\n<p>@Compendium[pf2e.consumable-effects.Cxa7MdgMCUoMqbKm]{效果：青铜牛垂饰}</p>"
 		},
 		"Bronze Dragon's Breath Potion (Adult)": {
-			"name": "Bronze Dragon's Breath Potion (Adult)",
-			"description": "<p>This liquid contains blood from a bronze dragon. For 1 hour after you imbibe the concoction, you can unleash a bronze dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:line|distance:30] of electricity which deals [[/r {6d6}[electricity]]]{6d6 electricity damage}. All creatures in the area must attempt a @Check[type:reflex|dc:29|basic:true|name:Adult Bronze Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "成年青铜龙龙息药水 Bronze Dragon's Breath Potion (Adult)",
+			"description": "<p>这种液体包含了青铜龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出青铜龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:line|distance:30] 的电击龙息，造成 [[/r {6d6}[electricity]]]{6d6 电击伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:29|basic:true|name:Adult Bronze Dragon's Breath Potion] save.</p>\n<p>豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Bronze Dragon's Breath Potion (Wyrm)": {
-			"name": "Bronze Dragon's Breath Potion (Wyrm)",
-			"description": "<p>This liquid contains blood from a bronze dragon. For 1 hour after you imbibe the concoction, you can unleash a bronze dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:line|distance:30] of electricity which deals [[/r {10d6}[electricity]]]{10d6 electricity damage}. All creatures in the area must attempt a @Check[type:reflex|dc:37|basic:true|name:Wyrm Bronze Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "古青铜龙龙息药水 Bronze Dragon's Breath Potion (Wyrm)",
+			"description": "<p>这种液体包含了青铜龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出青铜龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:line|distance:30] 的电击龙息，造成 [[/r {10d6}[electricity]]]{10d6 电击伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:37|basic:true|name:Wyrm Bronze Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Bronze Dragon's Breath Potion (Young)": {
-			"name": "Bronze Dragon's Breath Potion (Young)",
-			"description": "<p>This liquid contains blood from a bronze dragon. For 1 hour after you imbibe the concoction, you can unleash a bronze dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:line|distance:30] of electricity which deals [[/r {4d6}[electricity]]]{4d6 electricity damage}. All creatures in the area must attempt a @Check[type:reflex|dc:23|basic:true|name:Young Bronze Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "少年青铜龙龙息药水 Bronze Dragon's Breath Potion (Young)",
+			"description": "<p>这种液体包含了青铜龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出青铜龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:line|distance:30] 的电击龙息，造成 [[/r {4d6}[electricity]]]{4d6 电击伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:23|basic:true|name:Young Bronze Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Bronze bowl with wave imagery": {
 			"name": "Bronze bowl with wave imagery",
@@ -1534,8 +1534,8 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<p>When lit, this black candle's eerie blue flame reveals the presence of invisible creatures. Within a 10-foot radius of the lit candle, creatures don't benefit from the invisible condition. Their bodies are outlined, not fully visible, so they are concealed. Once lit, the candle burns for 1 minute, after which the effect ends. If extinguished, it can't be relit.</p>"
 		},
 		"Candle of Truth": {
-			"name": "Candle of Truth",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This tapered candle has a golden wick that burns with white fire. You activate the candle by lighting it, which causes creatures within 10 feet of the candle to find it difficult to tell falsehoods. Creatures in the area receive a -4 status penalty to Lie.</p>\n<p>In addition, when first entering the affected area, each creature (including you) must succeed at a @Check[type:will|dc:26] save or be unable to tell any deliberate lies while within 10 feet of the lit candle. This lasts for as long as the candle is lit. Once lit, the candle burns for 10 minutes, and it cannot be extinguished.</p>"
+			"name": "真实蜡烛 Candle of Truth",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这根尖头蜡烛有着金色的烛芯，点燃后会产生白色的火焰。你通过点燃这根蜡烛来启动它，这会让蜡烛周围10尺内的生物难以说谎。范围内的生物在说谎Lie上承受-4状态罚值。</p>\n<p>另外，每个生物首次进入该区域时（包括你自己），都必须成功通过一次 @Check[type:will|dc:26] 豁免，否则将不能在范围内刻意说谎。这个效果只要蜡烛还在燃烧就会持续。点燃后，这根蜡烛可以燃烧10分钟，而且无法被熄灭。</p>"
 		},
 		"Cane Pistol": {
 			"name": "Cane Pistol",
@@ -2162,16 +2162,16 @@
 			"description": "<p>This +1 striking longsword has a mirror-like blade free of tarnish despite being millennia old. While wielding it, you gain a +2 item bonus to checks to Aid. If you're an expert with the skill or attack roll you're using to Aid and you critically succeed, you grant your ally a +3 circumstance bonus to the triggering check instead of a +2 bonus.</p>"
 		},
 		"Copper Dragon's Breath Potion (Adult)": {
-			"name": "Copper Dragon's Breath Potion (Adult)",
-			"description": "<p>This liquid contains blood from a copper dragon. For 1 hour after you imbibe the concoction, you can unleash a copper dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:line|distance:30] of acid which deals [[/r {6d6}[acid]]]{6d6 acid damage}. All creatures in the area must attempt a @Check[type:reflex|dc:29|basic:true|name:Adult Copper Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "成年赤铜龙龙息药水 Copper Dragon's Breath Potion (Adult)",
+			"description": "<p>这种液体包含了赤铜龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出赤铜龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:line|distance:30] 的强酸龙息，造成 [[/r {6d6}[acid]]]{6d6 酸液伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:29|basic:true|name:Adult Copper Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Copper Dragon's Breath Potion (Wyrm)": {
-			"name": "Copper Dragon's Breath Potion (Wyrm)",
-			"description": "<p>This liquid contains blood from a copper dragon. For 1 hour after you imbibe the concoction, you can unleash a copper dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:line|distance:30] of acid which deals [[/r {10d6}[acid]]]{10d6 acid damage}. All creatures in the area must attempt a @Check[type:reflex|dc:37|basic:true|name:Wyrm Copper Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "古赤铜龙龙息药水 Copper Dragon's Breath Potion (Wyrm)",
+			"description": "<p>这种液体包含了赤铜龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出赤铜龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:line|distance:30] 的强酸龙息，造成 [[/r {10d6}[acid]]]{10d6 酸液伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:37|basic:true|name:Wyrm Copper Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Copper Dragon's Breath Potion (Young)": {
-			"name": "Copper Dragon's Breath Potion (Young)",
-			"description": "<p>This liquid contains blood from a copper dragon. For 1 hour after you imbibe the concoction, you can unleash a copper dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:line|distance:30] of acid which deals [[/r {4d6}[acid]]]{4d6 acid damage}. All creatures in the area must attempt a @Check[type:reflex|dc:23|basic:true|name:Young Copper Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for[[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "少年赤铜龙龙息药水 Copper Dragon's Breath Potion (Young)",
+			"description": "<p>这种液体包含了赤铜龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出赤铜龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:line|distance:30] 的强酸龙息，造成 [[/r {4d6}[acid]]]{4d6 酸液伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:23|basic:true|name:Young Copper Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Copper Pieces": {
 			"name": "铜币 Copper Pieces",
@@ -2286,8 +2286,8 @@
 			"description": "<p><strong>Usage</strong> etched onto a bludgeoning weapon</p>\n<hr />\n<p>Weapons with this rune empower your strength, and attacks with these weapons leave your foe staggered. When you critically hit a target with this weapon, your target becomes @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 2} and @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled 2} until the end of your next turn.</p>"
 		},
 		"Crying Angel Pendant": {
-			"name": "Crying Angel Pendant",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Envision</p>\n<p><strong>Trigger</strong> You critically fail to Administer First Aid</p>\n<p><strong>Requirements</strong> You are trained in Medicine</p>\n<p>When you activate this alabaster pendant, your critical failure becomes a normal failure instead.</p>"
+			"name": "泪天使垂饰 Crying Angel Pendant",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 想象</p>\n<p><strong>触发</strong> 你在进行急救Administer First Aid中大失败</p>\n<p><strong>需求</strong> 你在医疗Medicine中受训</p>\n<p>当你启动这件雪花石膏制成的垂饰时，你的大失败变成普通的失败。</p>"
 		},
 		"Cryomister (Greater)": {
 			"name": "Cryomister (Greater)",
@@ -2482,8 +2482,8 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<p>This heavier-than-air mist emits a soft glow. While this poison lasts, it causes its victims to shine from within with agonizing, brilliant radiance. This effect has the light trait (although the poison itself doesn't, so only the light effect can be counteracted by darkness effects). The @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened} condition from daylight vapor can't be removed while the poison lasts, and when the victim enters an area of magical darkness, the poison attempts to counteract the darkness with a counteract modifier of +21. If the poison fails, it can't attempt to counteract the same darkness again.</p>\n<hr />\n<p><strong>Saving Throw</strong> @Check[type:fortitude|dc:31]</p>\n<p><strong>Onset</strong> 1 round</p>\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong>[[/r {4d6}[poison]]]{4d6 poison damage} and sickened 1 (1 round)</p>\n<p><strong>Stage 2</strong>[[/r {6d6}[poison]]]{6d6 poison damage} and sickened 2 (1 round)</p>\n<p><strong>Stage 3</strong> [[/r {10d6}[poison]]]{10d6 poison damage} and sickened 3 (1 round)</p>\n<hr />\n<p><strong>Craft Requirements</strong> Supply one casting of <em>@Compendium[pf2e.spells-srd.a3aQxCpoj1q1NQxC]{Sunburst}</em>.</p>"
 		},
 		"Dazing Coil": {
-			"name": "Dazing Coil",
-			"description": "<p>This knot of copper wire reshapes itself in a new pattern every time its affixed weapon deals damage. When you activate the coil, the damaged creature must succeed at a @Check[type:will|dc:31] save or be stunned 1. If it critically fails, it instead becomes stunned 2.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Envision</p>\n<p><strong>Trigger</strong> You deal damage to a flat-footed creature with the affixed weapon</p>"
+			"name": "晕眩线圈 Dazing Coil",
+			"description": "<p>每当附着的武器造成伤害时，这圈铜线都会卷成新的形状。当你启动线圈，被伤害的生物必须通过一个 @Check[type:will|dc:31] 豁免，否则陷入震慑Stunned 1。如果它豁免大失败，则陷入震慑Stunned 2。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 想象</p>\n<p><strong>触发</strong> 你用附着的武器对一个措手不及Flat-footed的生物造成伤害</p>"
 		},
 		"Dazzling Rosary": {
 			"name": "Dazzling Rosary",
@@ -2658,8 +2658,8 @@
 			"description": "<p>这支矢的杆部枯黄而焦黑，拿着它会使你的手粘上细密的黑色粉末。当一支启动的解离矢命中了一个目标，它会承受一个 <em>@Compendium[pf2e.spells-srd.r7ihOgKv19eJQnik]{解离术 Disintegrate}</em> 效果，并需要通过一个 @Check[type:fortitude|dc:34] 豁免检定。攻击骰上的暴击会使得目标的豁免结果下降一级。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p><strong>制造条件</strong> 提供一次解离术Disintegrate施法。</p>"
 		},
 		"Dispelling Sliver": {
-			"name": "Dispelling Sliver",
-			"description": "<p>Made from a treated sliver of cold iron, this talisman allows you to counteract magical effects. When you activate the <em>dispelling sliver</em>, it attempts to counteract a single spell active on the target, with the effects of an 8th-level <em>@Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dispel Magic}</em> spell (counteract modifier +29)</p>\n<p>If you activate the talisman on a successful Dispelling Slice, the talisman attempts to counteract all spells active on the target.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Envision</p>\n<p><strong>Trigger</strong> Your Strike damages a target</p>\n<p><strong>Requirements</strong> You're a master with the affixed weapon</p>"
+			"name": "除法碎片 Dispelling Sliver",
+			"description": "<p>这个护符是用处理过的寒铁碎片制成的，能让你反制魔法效果。当你启动除法碎片Dispelling Sliver，它会尝试反制目标身上的一个法术，相当于一个8环 <em>@Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{解除魔法 Dispel Magic}</em> 的效果。</p>\n<p> 如果你通过一个成功的解除削击Dispel Slice启动该护符，则该护符会尝试反制目标身上激活的所有法术（反制调整值为+29）。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 想象</p>\n<p><strong>触发</strong> 你的打击Strike伤害了一个目标</p>\n<p><strong>需求</strong> 你在附着的武器的熟练等级是大师。</p>"
 		},
 		"Dispersing Bullet": {
 			"name": "Dispersing Bullet",
@@ -2762,8 +2762,8 @@
 			"description": "<p>This polished golden bracelet is formed around the scale of a famous dragon. The bracelet is etched with esoteric symbols or words—always in Draconic—that indicate kinship with dragons. As many types of <em>dragon rune bracelets</em> exist as there are types of dragons, though dragon rune bracelets associated with Uncommon or Rare dragons are Rare.</p>\n<p>While wearing a <em>dragon rune bracelet</em>, you gain a +2 item bonus to Diplomacy checks while interacting with dragons of the same type as the pendant's scale (such as red dragons or cloud dragons). You also gain a +2 item bonus to saving throws against fear effects from any kind of dragon.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">f</span> envision</p>\n<p><strong>Requirements</strong> You can cast bloodline spells from the draconic bloodline, such as from the sorcerer class or sorcerer multiclass archetype</p>\n<p><strong>Frequency</strong> Once per day</p>\n<p><strong>Effect</strong> You regain 1 Focus Point, which you can spend only to cast a sorcerer bloodline spell. If you don't spend this Focus Point by the end of your turn, it is lost.</p>\n<hr />\n<p><em>Automatically added effects: +2 item bonus to saving throws against fear effects caused by dragons.</em></p>"
 		},
 		"Dragon Turtle Scale": {
-			"name": "Dragon Turtle Scale",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Envision</p>\n<p><strong>Requirements</strong> You're an expert in Athletics</p>\n<p>This shimmering green scale is usually attached to a golden clasp or chain.</p>\n<p>When you activate the scale, for 1 minute you gain a swim Speed equal to half your land Speed.</p>\n<p>@Compendium[pf2e.consumable-effects.4tepFOJLhZSelPoa]{Effect: Dragon Turtle Scale}</p>"
+			"name": "龙龟鳞 Dragon Turtle Scale",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 想象</p>\n<p><strong>需求</strong> 你在运动Athletics的熟练度至少为专家</p>\n<p>这片闪烁着的绿色鳞片通常会挂在金色的扣环或吊链上。</p>\n<p>当你启动这片鳞片，在1分钟内你能获得等同于陆地速度Speed一半的游泳速度Speed。</p>\n<p>@Compendium[pf2e.consumable-effects.4tepFOJLhZSelPoa]{效果：龙龟鳞}</p>"
 		},
 		"Dragon's Blood Pudding": {
 			"name": "Dragon's Blood Pudding",
@@ -2982,8 +2982,8 @@
 			"description": "<p>You hide fragile pods of pollen or other clinging powder that get in the eyes of the first creature that enters the snare's square. The creature must attempt a @Check[type:reflex|dc:17] saving throw. A creature dazzled by the pollen can use an Interact action to attempt a DC 5 flat check to remove the condition.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature is dazzled for 1 round.</p>\n<p><strong>Failure</strong> The creature is dazzled for 10 minutes.</p>\n<p><strong>Critical Failure</strong> The creature is blinded for 1 round and dazzled for 10 minutes after.</p>"
 		},
 		"Dust of Appearance": {
-			"name": "Dust of Appearance",
-			"description": "<p>Stored in a small reed, this powder looks like a fine metallic dust. When you fling it in the air, it coats all creatures in a @Template[type:burst|distance:10] centered on a point within 5 feet of you. For 1 minute, the coated creatures can't be concealed or invisible, nor can they benefit from <em>@Compendium[pf2e.spells-srd.j8vIoIEWElvpwkcI]{Mirror Image}</em> or similar abilities that create illusory duplicates. Any illusions in the area of 3rd level or lower are revealed as such, although this does not end their effect.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>"
+			"name": "显像尘 Dust of Appearance",
+			"description": "<p>这些金属质感的精细粉末储存在一片小簧片中。当你将粉末撒到空中，它能复盖 @Template[type:burst|distance:10] 范围内的所有生物，其爆发原点位于你的5尺范围内。在1分钟内，被复盖的生物无法获得隐蔽Concealed或隐形Invisible状态，也无法从 <em>@Compendium[pf2e.spells-srd.j8vIoIEWElvpwkcI]{镜影术 Mirror Image}</em> 或其他可以创造幻象复制体的能力中获益。范围内任何3级或以下的幻术系Illusion效果都会被揭露，但这不会终止他们的效果。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>"
 		},
 		"Dust of Corpse Animation": {
 			"name": "Dust of Corpse Animation",
@@ -2994,8 +2994,8 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> Interact</p>\n<p>This black pouch contains what appears to be fine bone dust. Pouring the dust in a special pattern over a corpse turns it into an undead creature. The type of undead created depends on the condition of the corpse, resulting in either a <em>skeleton </em>or a <em>zombie</em>. If the undead's level would be greater than 11, the dust fails to animate it. The body must be of an appropriate size and type for the undead you wish to create-for example, you must sprinkle the dust on a horse's skeleton to animate a <em>skeletal horse</em>. If more than one undead in the level range is appropriate, such as <em>skeletal guard</em> or <em>skeletal champion</em> for a Medium humanoid skeleton, you choose.</p>\n<p>The animated undead has the <em>minion </em>trait, meaning it can use 2 actions when you Command it. You can issue a Command for the current turn as part of the activation. The undead creature remains animated for 1 minute before collapsing back into its corpse form. As usual, you can have a maximum of four minions under your control.</p>"
 		},
 		"Dust of Disappearance": {
-			"name": "Dust of Disappearance",
-			"description": "<p>This powder shimmers like a thousand tiny motes of light. Activating the dust by sprinkling it on yourself or a creature within reach casts a 4th-level <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{Invisibility}</em> spell with a duration of 1 minute on that creature. This invisibility can't be negated or seen through by any spell of 3rd level or lower or any item of 5th level or lower.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>"
+			"name": "消像尘 Dust of Disappearance",
+			"description": "<p>这堆粉末像是上千个细小的光粒一样闪烁着。将这堆粉末洒在你自己或触及范围内的一个生物上以启动它，这会对该生物施展一次4环的 <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{隐形术 Invisibility}</em>，持续1分钟。这个隐形术Invisibility无法被任何3环或以下的法术，以及5级或以下的物品抹消或识破。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>"
 		},
 		"Dwarven Daisy (Lesser)": {
 			"name": "Dwarven Daisy (Lesser)",
@@ -3062,8 +3062,8 @@
 			"description": "<p>This +1 @Compendium[pf2e.equipment-srd.qlunQzfnzPQpMG6U]{Returning} striking cold iron starknife has an ornate central grip that depicts a silver dragon, the neck, wings, and tail of which wrap over and around the handle in knots to support the weapon's four cold iron blades. While the handle is polished to a mirrorlike shine, the blades of Eclipse are a flat black and entirely unreflective. Eclipse is also the portal key required to activate Dreamgate at Alseta's Ring.</p>\n<p>Whenever you score a critical hit with Eclipse, the target creature's eyes are plunged into darkness; if that creature doesn't have darkvision, it is blinded for 1 round.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> command</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> <em>Eclipse's</em> blades glow like starlit night sky, causing it to shed light as a torch until you deactivate it as a single action, which has the concentrate trait.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">R</span> envision</p>\n<p><strong>Frequency</strong> three times per day</p>\n<p><strong>Trigger</strong> You attempt a Stealth check to Hide or Sneak, but you haven't rolled yet</p>\n<p><strong>Effect</strong> You absorb light, gaining a +2 status bonus to the Stealth check.</p>"
 		},
 		"Effervescent Ampoule": {
-			"name": "Effervescent Ampoule",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Envision</p>\n<p><strong>Requirements</strong> You're an expert in Acrobatics</p>\n<p>Light spring water fizzes and bubbles within this small glass globe, spilling onto the affixed armor when activated.</p>\n<p>Until the end of your turn, the armor lets you move across water and other liquids as if they were solid ground. If you Stride or Step over a weight-sensitive pressure plate, you don't cause the plate to depress, which prevents you from triggering any device or hazard attached to the pressure plate.</p>\n<p>When the ampoule's effect ends, you sink, fall, break through flimsy ground, or land on pressure plates as normal for your current location.</p>"
+			"name": "泡沫安瓿 Effervescent Ampoule",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 想象</p>\n<p><strong>需求</strong> 你在特技Acrobatics上达到专家</p>\n<p>这个玻璃球内装着不断冒泡的清澈泉水，启动时，泉水会洒在附着的盔甲上。</p>\n<p>直到你的回合结束，这件盔甲能够让你越过水面或其他液体表面，如同他们是固体表面一样。如果你使用行进Stride或快步Step走上一块压力板，你不会触发压力板以及其连接的所有装置和陷阱。</p>\n<p>当安瓿的效果结束，你会如常下沉、跌落、踩破不结实的地面、或按下当前位置的压力板。</p>"
 		},
 		"Elder Sign": {
 			"name": "Elder Sign",
@@ -3086,8 +3086,8 @@
 			"description": ""
 		},
 		"Elemental Gem": {
-			"name": "Elemental Gem",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> Command, Interact</p>\n<p>You shout the name of an elemental lord and dash this glassy gem against a hard surface to activate it. It cracks open, casting a 5th-level <em>@Compendium[pf2e.spells-srd.lpT6LotUaQPfinjj]{Summon Elemental}</em> spell to summon forth an elemental you control as long as you spend an action each round to Sustain the Activation.</p>\n<p>This gem comes in four varieties: transparent for a living whirlwind, light brown for a living landslide, reddish orange for a living wildfire, and blue-green for a living waterfall.</p>"
+			"name": "元素宝石 Elemental Gem",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 命令, 交互</p>\n<p>你高呼一个元素领主的名字，并将这颗光滑透明的宝石摔到坚硬的地表上来启动它。宝石碎裂，并施展一次5环的 <em>@Compendium[pf2e.spells-srd.lpT6LotUaQPfinjj]{召唤元素 Summon Elemental}</em> 以召唤一个元素生物；该生物由你控制，只要你每轮都持续使用维持启动Sustain the Activation。</p>\n<p>宝石分成四类：无色的是活体旋风、浅棕色的是活体崩石、橙红色的是活体野火、蓝绿色的是活体瀑布。</p>"
 		},
 		"Elemental Wayfinder (Air)": {
 			"name": "Elemental Wayfinder (Air)",
@@ -3166,8 +3166,8 @@
 			"description": "<p>This concave green lens is pitted and flawed; its jagged edges can cut those who don't handle it with care. While you have the Emerald Fulcrum Lens invested, your flesh appears waxen and pallid. You gain negative healing and harm spells gain a +4 status bonus to the Hit Points they restore to you. You can also activate the lens in the following ways.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> Interact (healing)</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You grasp the Emerald Fulcrum Lens in one hand, regain 30 Hit Points, and gain a +2 item bonus to saving throws against magic for 1 round.</p>\n<p>@Compendium[pf2e.equipment-effects.rH6RHxy6sNTLusKX]{Effect: Emerald Fulcrum Lens (Saving Throw)}</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> Interact (attack, possession)</p>\n<p>While grasping the lens, make a melee spell attack roll with a modifier of +20. On a hit, you force the splinter of Nhimbaloth's essence from the lens to possess the target. You're no longer invested in the lens, and the target gains the benefits as though it had invested the lens but can't activate the lens's other abilities. This effect is permanent, but it can be ended by any effect that removes a possession effect. The lens doesn't have any magical abilities until the possession effect ends; when it does, the essence returns to the lens.</p>"
 		},
 		"Emerald Grasshopper": {
-			"name": "Emerald Grasshopper",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Envision</p>\n<p><strong>Trigger</strong> You attempt a High Jump but haven't rolled yet</p>\n<p><strong>Requirements</strong> You're an expert in Acrobatics</p>\n<p>This metal grasshopper studded with emeralds is usually clasped to the legs of a suit of armor.</p>\n<p>When you activate it, if you succeed at the Athletics check, you Leap up to 50 feet vertically and up to 10 feet horizontally. If you critically succeed, you can Leap up to 75 feet vertically and 20 feet horizontally.</p>\n<p>If you don't end your jump on solid ground, you flutter in the air until the end of your turn, then fall harmlessly at a rate of 60 feet per round until you reach the ground.</p>"
+			"name": "绿宝石蝗虫 Emerald Grasshopper",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 想象</p>\n<p><strong>触发</strong> 你尝试一次跳高High Jump，但尚未投掷结果</p>\n<p><strong>需求</strong> 你在运动Athletics中达到专家</p>\n<p>这只金属蝗虫上装饰着绿宝石，通常附着在盔甲的腿部。</p>\n<p>当你启动它时，如果你在运动Athletics检定中成功，你跳跃Leap的垂直高度是50尺，水平距离是10尺。如果你达成大成功，你跳跃Leap的垂直高度是75尺，水平距离是20尺。</p>\n<p>如果你没有跳上一个固体地表，你在回合结束前都处于浮空状态，接着会以每轮60尺的速度无害地降落，直到落地。</p>"
 		},
 		"Emerald, brilliant green": {
 			"name": "Emerald, brilliant green",
@@ -3434,8 +3434,8 @@
 			"description": "<p>Granted by @Compendium[pf2e.feats-srd.flRXjabqedf6GjuU]{Extradimensional Stash}</p>\n<p>When you perform sleight of hand, you fold space so that objects really do disappear. You create a small extradimensional space somewhere within in your clothing that can hold up to 5 Bulk worth of objects. The space functions as a bag of holding, but can hold only up to 5 Bulk, has no Bulk of its own, and can be Interacted with using only one hand.</p>\n<p>In addition, when you Palm an Object, you can place it directly into this extradimensional space as long as the space has sufficient free space to hold the object.</p>"
 		},
 		"Eye of Apprehension": {
-			"name": "Eye of Apprehension",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Envision</p>\n<p><strong>Trigger</strong> You are about to roll Perception for initiative but haven't rolled yet</p>\n<p><strong>Requirements</strong> You are a master in Perception</p>\n<p>This round piece of cymophane's silky inclusion makes it look like a cat's eye. While affixed, it makes you jittery.</p>\n<p>When you activate it, roll Perception twice and use the higher result.</p>"
+			"name": "忧虑之眼 Eye of Apprehension",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 想象</p>\n<p><strong>触发</strong> 你正准备以察觉Perception进行先攻检定，但尚未投掷结果</p>\n<p><strong>需求</strong> 你在察觉Perception上达到大师</p>\n<p>这枚波光玉内有着丝绸一般的内容物，看起来像猫的眼睛。附着上后，它会让你变得心神不宁。当你启动它时，投两次察觉Perception检定，并使用更高的结果。</p>"
 		},
 		"Eye of Enlightenment": {
 			"name": "Eye of Enlightenment",
@@ -3462,8 +3462,8 @@
 			"description": "<p>These lenses of amber crystal fit over your eyes. They grant you low-light vision and a +2 item bonus to Perception checks that involve sight.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+2 item bonus to Perception checks that involve sight</li>\n</ul>"
 		},
 		"Fade Band": {
-			"name": "Fade Band",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Envision</p>\n<p><strong>Trigger</strong> An attack misses you</p>\n<p><strong>Requirements</strong> You are a master in Stealth</p>\n<p>This thin, silvery wire wraps around your armor. When you activate the band, it casts a 2nd-level <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{Invisibility}</em> spell on you.</p>"
+			"name": "暗淡束带 Fade Band",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 想象</p>\n<p><strong>触发</strong> 一次攻击未能命中你</p>\n<p><strong>需求</strong> 你在隐匿Stealth上达到大师</p>\n<p>这条轻薄的银色带子捆在你的盔甲上。当你启动束带，它会对你施放一次2环 <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{隐形术 Invisibility}</em> 。</p>"
 		},
 		"Fairy Bullet": {
 			"name": "Fairy Bullet",
@@ -3526,8 +3526,8 @@
 			"description": "<p>A fauchard is similar to a glaive, save that its cutting edge is along the concave side. Fauchards are favored by Crimson Reclaimers for hacking through waves of zombies. The fauchard is a martial melee weapon.</p>"
 		},
 		"Fear Gem": {
-			"name": "Fear Gem",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> @Compendium[pf2e.feats-srd.lkcM4V3VDAtjlR9P]{Intimidating Strike}</p>\n<p>Dark smoke seems to writhe within this obsidian gem. When you activate the gem, you make an Intimidating Strike, as the fighter feat.</p>\n<p>If you have the Intimidating Strike feat, increase the frightened condition value from this Intimidating Strike to frightened 2, or frightened 3 on a critical hit.</p>"
+			"name": "恐惧宝石 Fear Gem",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> @Compendium[pf2e.feats-srd.lkcM4V3VDAtjlR9P]{威慑打击 Intimidating Strike}</p>\n<p>这颗黑曜石内似乎翻滚着黑烟。当你启动宝石，你进行一次威慑打击Intimidating Strike，如战士的同名专长。</p>\n<p>如果你有威慑打击Intimidating Strike专长，将惊惧Frightened状态的数值提高至惊惧Frightened 2；如果达成重击，则提高至惊惧Frightened 3。</p>"
 		},
 		"Fearsome": {
 			"name": "Fearsome",
@@ -3546,52 +3546,52 @@
 			"description": "<p>这颗通常切割成凸圆形的宝石是一小块里面困着羽毛或飞虫的琥珀。当你启动这颗宝石后，在你的回合结束前可以无视任何困难地形和高等困难地形的效果。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 想象</p>\n<p><strong>触发</strong> 你行进Stride或快步Step</p>\n<p><strong>需求</strong> 你在特技Acrobatics上达到专家</p>"
 		},
 		"Feather Token (Anchor)": {
-			"name": "Feather Token (Anchor)",
-			"description": "<p>This feather can be activated only on a boat. When activated, this feather transforms into a massive anchor that causes the boat to immediately stop. After 1 day, the anchor vanishes and the boat can move as normal. The anchor is attached to the boat by a magical chain of force, but the chain can be removed by <em>@Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dispel Magic}</em> or destroyed (Hardness 30, HP 40).</p>"
+			"name": "羽符（锚） Feather Token (Anchor)",
+			"description": "<p>每根羽符都像是来自某种奇异禽鸟的一根羽毛。羽毛的杆部用金线刻画了一个简单的奥法符文。启动一根羽符可以让它转化成另一件物品，之后便可以正常使用那件物品。每根羽毛都只能被启动一次，大多数都会永久性地变成描述中的物品。</p>\n<p>这根羽毛只能在船上被启动。启动后，羽毛转化成一个沉重的锚，能够让船立刻停下。一天后，锚消失，船也能正常前进。锚与船通过一根魔法的力场链相互连接，这根链条可以通过 <em>@Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{解除魔法 Dispel Magic}</em> 或伤害来移除（硬度30，生命值40）。</p>"
 		},
 		"Feather Token (Balloon)": {
-			"name": "Feather Token (Balloon)",
-			"description": "<p>This feather can't be activated underwater. When activated, the feather transforms into a balloon of waxed cloth that is 3 feet in diameter and filled with hot air. Handles on the bottom of the balloon allow up to two creatures sized Medium or smaller to hold onto the balloon. One round after being activated, the balloon rises up into the air at a speed of 20 feet per round. After rising for 3 rounds, the balloon floats in place for two rounds as the air inside cools, then descends at a speed of 20 feet per round. When the balloon reaches its original elevation, the balloon deflates.</p>"
+			"name": "羽符（气球） Feather Token (Balloon)",
+			"description": "<p>该羽符不能在水下启动。当启动时，该羽符会变成一个直径3尺、充满热空气的漆布气球。气球底部的把手能让两个体型不超过中型的生物攀附在气球上。在启动后的第一轮，气球以每轮20尺的速度升向空中。在上升3轮之后，气球会在原地漂浮2轮，直到内部的热气冷却，然后以每轮20尺的速度下降。当气球达到它启动时所在的高度时，气球内的空气会漏光。</p>"
 		},
 		"Feather Token (Bird)": {
-			"name": "Feather Token (Bird)",
-			"description": "<p>Each feather token appears to be a simple feather from some exotic bird. The feather's shaft, dipped in gold, bears a single arcane rune. Activating a feather token causes it to transform into another object, which then can be used as normal for that object. Each feather can be activated only once, with most of them permanently becoming the item in their description.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>When activated, this token transforms into a small sparrow that waits on your finger for you to relay a message up to 1 minute in length, along with the name and rough location of a recipient. The recipient must be someone you have met, and the location must be somewhere you have visited. After receiving the message, the bird flies off to deliver it, traveling at 30 miles per hour and then searching for the target in the location you provided. If the bird finds the target, it moves adjacent to them, your words emanate from the bird, and the bird then flies off and vanishes. The bird also vanishes if it fails to find your target after 10 hours of searching the location you specified.</p>"
+			"name": "羽符（鸟） Feather Token (Bird)",
+			"description": "<p>每根羽符都像是来自某种奇异禽鸟的一根羽毛。羽毛的杆部用金线刻画了一个简单的奥法符文。启动一根羽符可以让它转化成另一件物品，之后便可以正常使用那件物品。每根羽毛都只能被启动一次，大多数都会永久性地变成描述中的物品。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>启动后，这根羽符变成一只小麻雀，停留在你的指尖等着为你转发长度1分钟以内的信息，你也需要提供收件人的姓名和大概位置。收件人必须是你曾经见过的人，位置也必须是你曾经到访过的位置。收到信息后，这只鸟会飞走并转发信息，以每小时30英里的速度移动，然后在目标地点搜索你指示的收件人。如果这只鸟找到了目标，它会移动到目标旁边，并展示你的话语；接着这只鸟就会飞走并消失。如果它在你指示的位置找了10个小时以上都无法找到你的目标，它也会消失。</p>"
 		},
 		"Feather Token (Chest)": {
-			"name": "Feather Token (Chest)",
-			"description": "<p>Each feather token appears to be a simple feather from some exotic bird. The feather's shaft, dipped in gold, bears a single arcane rune. Activating a feather token causes it to transform into another object, which then can be used as normal for that object. Each feather can be activated only once, with most of them permanently becoming the item in their description.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>When you use this token, a small wooden chest appears and immediately opens. This chest can hold up to 10 Bulk worth of items. Once the chest is closed, it transforms again-this time into a key-taking all of the stored items with it. You can activate this key by spending an Interact action to turn it in an imaginary lock, which causes it to transform back into a chest with all of the items still inside. Once it has turned into a chest a second time, it forever remains a wooden chest.</p>"
+			"name": "羽符（木箱） Feather Token (Chest)",
+			"description": "<p>每根羽符都像是来自某种奇异禽鸟的一根羽毛。羽毛的杆部用金线刻画了一个简单的奥法符文。启动一根羽符可以让它转化成另一件物品，之后便可以正常使用那件物品。每根羽毛都只能被启动一次，大多数都会永久性地变成描述中的物品。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>当你使用这根羽符，一个小木箱子出现比立刻打开。这个箱子可以容纳10负载的物品。一旦箱子关上，它会带着储存的所有物品再次发生变化，变成一把钥匙。你可以以一个交互Interact动作旋转钥匙，打开一个想象中的锁，这会让它变回装着所有物品的箱子。一旦钥匙变回了箱子，它就永远保持着箱子的状态。</p>"
 		},
 		"Feather Token (Fan)": {
-			"name": "Feather Token (Fan)",
-			"description": "<p>Each feather token appears to be a simple feather from some exotic bird. The feather's shaft, dipped in gold, bears a single arcane rune. Activating a feather token causes it to transform into another object, which then can be used as normal for that object. Each feather can be activated only once, with most of them permanently becoming the item in their description.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>Activating this feather requires you to fan it in a given direction. If this direction is toward the sail of a vessel, the feather flutters up toward the sail and fans continuously, filling the sail with air and granting the vessel a +10-foot circumstance bonus to its Speed for 8 hours. If fanned in any other direction, it instead produces a single casting of <em>@Compendium[pf2e.spells-srd.g8QqHpv2CWDwmIm1]{Gust of Wind}</em> (DC 20).</p>"
+			"name": "羽符（扇） Feather Token (Fan)",
+			"description": "<p>每根羽符都像是来自某种奇异禽鸟的一根羽毛。羽毛的杆部用金线刻画了一个简单的奥法符文。启动一根羽符可以让它转化成另一件物品，之后便可以正常使用那件物品。每根羽毛都只能被启动一次，大多数都会永久性地变成描述中的物品。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>你需要朝着一个方向扇动这根羽毛以启动它。如果该方向面对着船帆，羽毛会飘到船帆上并开始持续扇风，这能让船的速度Speed获得+10尺状态加值，持续8小时。如果朝其他方向扇动羽毛，它会施展一次 <em>@Compendium[pf2e.spells-srd.g8QqHpv2CWDwmIm1]{造风术 Gust of Wind}</em> (DC 20).</p>"
 		},
 		"Feather Token (Holly Bush)": {
-			"name": "Feather Token (Holly Bush)",
-			"description": "<p>Each feather token appears to be a simple feather from some exotic bird. The feather's shaft, dipped in gold, bears a single arcane rune. Activating a feather token causes it to transform into another object, which then can be used as normal for that object. Each feather can be activated only once, with most of them permanently becoming the item in their description.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>When this feather is activated, it immediately transforms into a living holly bush, filling a single square. This bush can provide standard cover. In addition, the bush has 2d4 bright-red berries. While holly berries are usually poisonous, these berries are infused with beneficial magic. You can pick and eat a berry as an Interact action to recover 1 Hit Point. Once plucked from the bush, a berry becomes non-magical after a few seconds, so it doesn't heal you if you don't eat it within the span of your Interact action.</p>\n<p>If activated on soil, the plant continues to grow and thrive (although it doesn't produce any more healing berries). If activated elsewhere, it withers and dies within [[/r 1d4 #days]]{1d4 days}.</p>"
+			"name": "羽符（冬青木） Feather Token (Holly Bush)",
+			"description": "<p>每根羽符都像是来自某种奇异禽鸟的一根羽毛。羽毛的杆部用金线刻画了一个简单的奥法符文。启动一根羽符可以让它转化成另一件物品，之后便可以正常使用那件物品。每根羽毛都只能被启动一次，大多数都会永久性地变成描述中的物品。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>当这根羽毛被启动，它立刻变成一棵活着的冬青木，占据一个格子。灌木可以提供标准掩蔽。另外，灌木上有2d4颗亮红色的莓果。虽然冬青果通常有毒，但这些莓果里面灌注了有益的魔法。你可以用一个交互Interact动作摘下并食用一颗莓果以恢复1点生命值。一旦从灌木上摘下，这些莓果会在几秒钟之后失去魔法效力，因此如果你在这个交互Interact动作内不食用莓果，它就再也不能治疗你。</p>\n<p>如果在土壤上启动羽毛，这棵植物会继续生长并繁茂（虽然它不会继续提供更多治疗莓果）。如果它在其他地方启动，它会在 [[/r 1d4 #days]]{1d4 天}后枯死。</p>"
 		},
 		"Feather Token (Ladder)": {
-			"name": "Feather Token (Ladder)",
-			"description": "<p>Each feather token appears to be a simple feather from some exotic bird. The feather's shaft, dipped in gold, bears a single arcane rune. Activating a feather token causes it to transform into another object, which then can be used as normal for that object. Each feather can be activated only once, with most of them permanently becoming the item in their description.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>When activated, this feather transforms permanently into a 20-foot-long wooden ladder.</p>"
+			"name": "羽符（梯子） Feather Token (Ladder)",
+			"description": "<p>每根羽符都像是来自某种奇异禽鸟的一根羽毛。羽毛的杆部用金线刻画了一个简单的奥法符文。启动一根羽符可以让它转化成另一件物品，之后便可以正常使用那件物品。每根羽毛都只能被启动一次，大多数都会永久性地变成描述中的物品。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>启动后，这根羽毛永久变成一个20尺长的梯子。</p>"
 		},
 		"Feather Token (Puddle)": {
-			"name": "Feather Token (Puddle)",
-			"description": "<p>When activated, the feather transforms into two gallons of fresh, clear water. If no one drinks it, the water evaporates after 1 day.</p>"
+			"name": "羽符（水坑） Feather Token (Puddle)",
+			"description": "<p>当启动时，该羽符会转变为两加仑的淡水。如果没人喝它，水会在一天后蒸发。</p>"
 		},
 		"Feather Token (Swan Boat)": {
-			"name": "Feather Token (Swan Boat)",
-			"description": "<p>Each feather token appears to be a simple feather from some exotic bird. The feather's shaft, dipped in gold, bears a single arcane rune. Activating a feather token causes it to transform into another object, which then can be used as normal for that object. Each feather can be activated only once, with most of them permanently becoming the item in their description.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This feather can be activated only when tossed into a large body of water, such as a lake or broad river. It transforms into a swan-shaped boat capable of carrying up to 32 Medium creatures, 8 Large creatures, or 2 Huge creatures. The boat moves on the water at a Speed of 50 feet, and lasts 1 day.</p>"
+			"name": "羽符（天鹅船） Feather Token (Swan Boat)",
+			"description": "<p>每根羽符都像是来自某种奇异禽鸟的一根羽毛。羽毛的杆部用金线刻画了一个简单的奥法符文。启动一根羽符可以让它转化成另一件物品，之后便可以正常使用那件物品。每根羽毛都只能被启动一次，大多数都会永久性地变成描述中的物品。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这根羽毛只能在被扔到巨大水体上时启动，例如扔到湖上或大河上。它会变成一艘天鹅形状的船，能够容纳最多32个中型Medium生物，8个大型Large生物，或2个巨型Huge生物。这艘船在水上以50尺的速度Speed移动，持续1天。</p>"
 		},
 		"Feather Token (Tree)": {
-			"name": "Feather Token (Tree)",
-			"description": "<p>Each feather token appears to be a simple feather from some exotic bird. The feather's shaft, dipped in gold, bears a single arcane rune. Activating a feather token causes it to transform into another object, which then can be used as normal for that object. Each feather can be activated only once, with most of them permanently becoming the item in their description.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This token can be activated only on an unoccupied patch of earth or soil. When activated, this token transforms into an oak tree, 60 feet tall with a 5-foot-wide trunk. The tree continues to live and grow if conditions are favorable.</p>"
+			"name": "羽符（树） Feather Token (Tree)",
+			"description": "<p>每根羽符都像是来自某种奇异禽鸟的一根羽毛。羽毛的杆部用金线刻画了一个简单的奥法符文。启动一根羽符可以让它转化成另一件物品，之后便可以正常使用那件物品。每根羽毛都只能被启动一次，大多数都会永久性地变成描述中的物品。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这根羽符只能在被放在一块无主的土块上时启动。启动后，这根羽符变成一颗橡树，高60尺并有5尺宽的躯干。只要环境合适，这棵树会继续生长。</p>"
 		},
 		"Feather Token (Whip)": {
-			"name": "Feather Token (Whip)",
-			"description": "<p>Each feather token appears to be a simple feather from some exotic bird. The feather's shaft, dipped in gold, bears a single arcane rune. Activating a feather token causes it to transform into another object, which then can be used as normal for that object. Each feather can be activated only once, with most of them permanently becoming the item in their description.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>This feather transforms into a <em>+1 striking @Compendium[pf2e.equipment-srd.DCPsilr8wbPXxTUv]{Dancing} whip</em> when activated. The whip immediately jumps from your grasp and proceeds to attack your enemies until 1 minute has passed or it fails its flat check for <em>dancing</em>, at which point it vanishes. If the whip's target isn't prone, the whip uses its actions to attempt to Trip that creature instead of making a Strike. The whip's total attack modifier for Striking or Tripping is +18 instead of the normal bonus for a <em>dancing</em> weapon.</p>"
+			"name": "羽符（鞭子） Feather Token (Whip)",
+			"description": "<p>每根羽符都像是来自某种奇异禽鸟的一根羽毛。羽毛的杆部用金线刻画了一个简单的奥法符文。启动一根羽符可以让它转化成另一件物品，之后便可以正常使用那件物品。每根羽毛都只能被启动一次，大多数都会永久性地变成描述中的物品。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p>这根羽符启动后会变成一条 <em>+1 强击 @Compendium[pf2e.equipment-srd.DCPsilr8wbPXxTUv]{舞空 Dancing} 鞭</em>。这根鞭子会立刻从你手上跳开并开始攻击你的敌人，持续1分钟，或直到它在舞空Dancing的纯骰检定中失败，之后鞭子便会消失。如果鞭子的目标不是倒地Prone状态，鞭子会使用它的动作尝试摔拌Trip目标，而非进行打击Strike。这根鞭子在打击Strike或摔拌Trip上的总攻击加值是+18，而非一把舞空Dancing武器的正常加值。</p>"
 		},
 		"Fiendish Teleportation": {
 			"name": "Fiendish Teleportation",
-			"description": "<p>You tap into the fiendish ability to slip through space. When you Stride, you gain a +3 item bonus to Armor Class against reactions triggered by your movement. Once per day, from any distance, Abrogail Thrune II can call on a provision in your Thrune contract as a single action, causing you to become <em>paralyzed </em>for 1 hour or until Abrogail releases you, whichever comes first.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> command</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You recite a subclause of your contract regarding change in venue. You cast dimension <em>door.</em> The space you leave and the one you appear in are filled with the scent of brimstone, dealing 2d6 evil damage to creatures adjacent to both spaces.</p>"
+			"description": "<p>You tap into the fiendish ability to slip through space. When you Stride, you gain a +3 item bonus to Armor Class against reactions triggered by your movement. Once per day, from any distance, Abrogail Thrune II can call on a provision in your Thrune contract as a single action, causing you to become <em>paralyzed </em>for 1 hour or until Abrogail releases you, whichever comes first.</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">2</span> command</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You recite a subclause of your contract regarding change in venue. You cast dimension <em>door.</em> The space you leave and the one you appear in are filled with the scent of brimstone, dealing 2d6 evil damage to creatures adjacent to both spaces.</p>"
 		},
 		"Fighter's Fork": {
 			"name": "Fighter's Fork",
@@ -3702,8 +3702,8 @@
 			"description": "<p>The snare takes the form of a Tiny, drake‑like clockwork toy. When a creature enters its square the snare activates, causing the drake to spit a gout of fire in a @Template[type:cone|distance:15]{15‑foot cone} in the direction from which the creature entered.</p>\n<p>For instance, if a creature entered the square coming from the east, the cone would point east, to hit any allies behind the triggering creature. Those within the cone must succeed a basic @Check[type:reflex|dc:19] save or take [[/r {6d6}[fire]]]{6d6 fire damage}. After spitting its fire, the snare falls apart.</p>"
 		},
 		"Flame Navette": {
-			"name": "Flame Navette",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Envision</p>\n<p><strong>Requirements</strong> You're an Expert in Will saves</p>\n<p>This piece of bronzite is shaped like an oval with points at both ends. It has a carved flame at its center and is traditionally worn over the heart. You can activate only one <em>flame navette</em> per day.</p>\n<p>When you activate the navette, you gain the benefit of the fighter's @Compendium[pf2e.feats-srd.wdkbfWKEjAFXAxto]{Determination} class feat, with a counteract modifier of +22. If you have the Determination feat, you can use your own modifier if it's better.</p>"
+			"name": "焰心宝玉 Flame Navette",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 想象</p>\n<p><strong>需求</strong> 你在意志豁免中达到专家</p>\n<p>这颗古铜辉石切割成了椭圆形，且两头削尖。其中雕刻着火焰的图纹，并通常佩戴在心脏位置。你每天只能启动焰心宝玉一次。</p>\n<p>当你启动这颗宝玉，你获得战士职业专长 @Compendium[pf2e.feats-srd.wdkbfWKEjAFXAxto]{毅力 Determination} 的效果，反制调整值是+22。如果你有毅力专长且自己的反制调整值更高，你可以使用自己的调整值。</p>"
 		},
 		"Flame Tongue": {
 			"name": "Flame Tongue",
@@ -4006,8 +4006,8 @@
 			"description": "<p>Many marsh giants fight with oversized gaffs-lengths of wood with a single metal spike affixed to the tip. Used often by fisherfolk to land fish, marsh giants use their gaffs as weapons.</p>"
 		},
 		"Gallows Tooth": {
-			"name": "Gallows Tooth",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Interact</p>\n<p><strong>Trigger</strong> You attack an adjacent creature and haven't rolled your attack roll</p>\n<p><strong>Requirements</strong> You're a master in Intimidation</p>\n<p>This grisly molar hangs from a cord threaded through a tiny hole just above its dried, exposed root. When you activate this talisman, the creature you're attacking becomes flat-footed until the end of the current turn.</p>"
+			"name": "绞架之齿 Gallows Tooth",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 交互</p>\n<p><strong>触发</strong> 你攻击一个邻接的目标，但尚未投掷攻击骰</p>\n<p><strong>需求</strong> 你在威吓Intimidation上达到大师</p>\n<p>这颗可怕的臼齿挂在一根粗线上，线穿过其干枯的齿根上的一个小洞。当你启动这个护符，你攻击的生物在当前回合结束之前都陷入措手不及Flat-footed。</p>"
 		},
 		"Galvanic Mortal Coil": {
 			"name": "Galvanic Mortal Coil",
@@ -4090,8 +4090,8 @@
 			"description": "<p><strong>Usage</strong> held in 1 hand</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Strike</p>\n<hr />\n<p>These spring-loaded metal canisters contain a mixture of chemicals and salts that drain and disintegrate nearby undead creatures.</p>\n<p>A ghost charge gives a +1 item bonus to attack rolls, deals [[/r 2d8]] positive damage and 2 positive splash damage, though as usual for positive damage, this damage harms only undead and creatures with negative healing. A primary target that takes damage from a ghost charge becomes @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled 1} until the start of your next turn.</p>\n<p>Ghost charges are designed to explode even on contact with a spiritual substance, making them ideal for damaging incorporeal undead.</p>"
 		},
 		"Ghost Dust": {
-			"name": "Ghost Dust",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Envision</p>\n<p><strong>Trigger</strong> You use an action with the move trait</p>\n<p><strong>Requirements</strong> You are legendary in Stealth</p>\n<p>This small vial is filled with a grayish-green dust rendered from dried ectoplasm. When you activate the dust, it casts a 4th-level <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{Invisibility}</em> spell on you. This comes into effect before you move during the triggering action.</p>"
+			"name": "幽影尘 Ghost Dust",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 想象</p>\n<p><strong>触发</strong> 你使用一个具有移动Move特征的动作</p>\n<p><strong>需求</strong> 你在隐匿Stealth中达到传奇</p>\n<p>这个小瓶子里面装满了从干燥的细胞外质中提取出的灰绿色粉尘。当你启动粉尘，它会对你施展一次4环 <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{隐形术 Invisibility}</em>。它会在你进行触发动作的移动之前产生效果。</p>"
 		},
 		"Ghost Ink": {
 			"name": "Ghost Ink",
@@ -4230,16 +4230,16 @@
 			"description": "<p>The opaque crystal lenses of these sleek goggles do not obscure vision, but rather enhance it. While wearing the goggles, you gain a +3 item bonus to Perception checks involving sight.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> Rotating the lenses 90 degrees, you gain greater darkvision until you rotate the lenses back or the item is no longer invested by you, whichever comes first.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+3 item bonus to Perception checks involving sight</li>\n</ul>"
 		},
 		"Gold Dragon's Breath Potion (Adult)": {
-			"name": "Gold Dragon's Breath Potion (Adult)",
-			"description": "<p>This liquid contains blood from a gold dragon. For 1 hour after you imbibe the concoction, you can unleash a gold dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:cone|distance:15] of fire which deals [[/r {6d6}[fire]]]{6d6 fire damage}. All creatures in the area must attempt a @Check[type:reflex|dc:29|basic:true|name:Adult Gold Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "成年金龙龙息药水 Gold Dragon's Breath Potion (Adult)",
+			"description": "<p>这种液体包含了金龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出金龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:cone|distance:15] 的火焰龙息，造成 [[/r {6d6}[fire]]]{6d6 火焰伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:29|basic:true|name:Adult Gold Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Gold Dragon's Breath Potion (Wyrm)": {
-			"name": "Gold Dragon's Breath Potion (Wyrm)",
-			"description": "<p>This liquid contains blood from a gold dragon. For 1 hour after you imbibe the concoction, you can unleash a gold dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:cone|distance:15] of fire which deals [[/r {10d6}[fire]]]{10d6 fire damage}. All creatures in the area must attempt a @Check[type:reflex|dc:37|basic:true|name:Wyrm Gold Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "古金龙龙息药水 Gold Dragon's Breath Potion (Wyrm)",
+			"description": "<p>这种液体包含了金龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出金龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:cone|distance:15] 的火焰龙息，造成 [[/r {10d6}[fire]]]{10d6 火焰伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:37|basic:true|name:Wyrm Gold Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Gold Dragon's Breath Potion (Young)": {
-			"name": "Gold Dragon's Breath Potion (Young)",
-			"description": "<p>This liquid contains blood from a gold dragon. For 1 hour after you imbibe the concoction, you can unleash a gold dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:cone|distance:15] of fire which deals [[/r {4d6}[fire]]]{4d6 fire damage}. All creatures in the area must attempt a @Check[type:reflex|dc:23|basic:true|name:Young Gold Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "少年金龙龙息药水 Gold Dragon's Breath Potion (Young)",
+			"description": "<p>这种液体包含了金龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出金龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:cone|distance:15] 的火焰龙息，造成 [[/r {4d6}[fire]]]{4d6 火焰伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:23|basic:true|name:Young Gold Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Gold Pieces": {
 			"name": "金币 Gold Pieces",
@@ -4386,16 +4386,16 @@
 			"description": "<p>这把巨大的双手剑几乎和它的使用者一样高。它的下刃一般较钝，以便在近距离格斗中获得额外的杠杆作用力。</p>"
 		},
 		"Green Dragon's Breath Potion (Adult)": {
-			"name": "Green Dragon's Breath Potion (Adult)",
-			"description": "<p>This liquid contains blood from a green dragon. For 1 hour after you imbibe the concoction, you can unleash a green dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:cone|distance:15] of poison which deals [[/r {6d6}[poison]]]{6d6 poison damage}. All creatures in the area must attempt a @Check[type:fortitude|dc:29|basic:true|name:Adult Green Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "成年绿龙龙息药水 Green Dragon's Breath Potion (Adult)",
+			"description": "<p>这种液体包含了绿龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出绿龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:cone|distance:15] 的剧毒龙息，造成 [[/r {6d6}[poison]]]{6d6 毒素伤害}。每个区域内的生物都必须尝试一次 @Check[type:fortitude|dc:29|basic:true|name:Adult Green Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Green Dragon's Breath Potion (Wyrm)": {
-			"name": "Green Dragon's Breath Potion (Wyrm)",
-			"description": "<p>This liquid contains blood from a green dragon. For 1 hour after you imbibe the concoction, you can unleash a green dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:cone|distance:15] of poison which deals [[/r {10d6}[poison]]]{10d6 poison damage}. All creatures in the area must attempt a @Check[type:fortitude|dc:37|basic:true|name:Wyrm Green Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "古绿龙龙息药水 Green Dragon's Breath Potion (Wyrm)",
+			"description": "<p>这种液体包含了绿龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出绿龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:cone|distance:15] 的剧毒龙息，造成 [[/r {10d6}[poison]]]{10d6 毒素伤害}。每个区域内的生物都必须尝试一次 @Check[type:fortitude|dc:37|basic:true|name:Wyrm Green Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Green Dragon's Breath Potion (Young)": {
-			"name": "Green Dragon's Breath Potion (Young)",
-			"description": "<p>This liquid contains blood from a green dragon. For 1 hour after you imbibe the concoction, you can unleash a green dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:cone|distance:15] of poison which deals [[/r {4d6}[poison]]]{4d6 poison damage}. All creatures in the area must attempt a @Check[type:fortitude|dc:23|basic:true|name:Young Green Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "少年绿龙龙息药水 Green Dragon's Breath Potion (Young)",
+			"description": "<p>这种液体包含了绿龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出绿龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:cone|distance:15] 的剧毒龙息，造成 [[/r {4d6}[poison]]]{4d6 毒素伤害}。每个区域内的生物都必须尝试一次 @Check[type:fortitude|dc:23|basic:true|name:Young Green Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Green Wyrmling Breath Potion": {
 			"name": "Green Wyrmling Breath Potion",
@@ -4426,8 +4426,8 @@
 			"description": "<p>One bulb of this tiny hourglass contains black sand, the other white. After even a few grains pass from one side to the other, it reverses its flow to keep the two sides in equilibrium. The spell DC of any spell cast by Activating this item is 29.</p>\n<ul>\n<li>Armor You gain resistance 10 to negative.</li>\n<li>Weapon After you cast a necromancy spell by Activating the sandglass, your Strikes with the weapon deal an additional 1d8 negative damage until the end of your next turn.</li>\n</ul>\n<p><strong>Activate</strong> Cast a Spell</p>\n<p><strong>Effect</strong> You cast <em>@Compendium[pf2e.spells-srd.mAMEt4FFbdqoRnkN]{Chill Touch}</em>.</p>\n<hr />\n<p><strong>Activate</strong> Cast a Spell</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You cast 4th-level <em>@Compendium[pf2e.spells-srd.wdA52JJnsuQWeyqz]{Harm}</em> or <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Heal}</em>.</p>\n<hr />\n<p><strong>Activate</strong> Cast a Spell</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You cast <em>@Compendium[pf2e.spells-srd.eexkxcqnkXazsGfK]{Enervation}</em> or 4th-level <em>@Compendium[pf2e.spells-srd.SnaLVgxZ9ryUFmUr]{Restoration}</em>.</p>"
 		},
 		"Grim Trophy": {
-			"name": "Grim Trophy",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Envision</p>\n<p><strong>Trigger</strong> You attempt an Intimidation check to Coerce or Demoralize, but you haven't rolled yet</p>\n<p><strong>Requirements</strong> You are an expert in Intimidation.</p>\n<p>This talisman comes in many forms, most often a severed piece of a humanoid creature displayed in some gruesome manner. When you activate the trophy, select two targets and compare your Intimidation check result to both of their DCs.</p>"
+			"name": "惊惧战利品 Grim Trophy",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 想象</p>\n<p><strong>触发</strong> 你进行一次用来胁迫Coerce或挫败士气Demoralize的威吓Intimidation检定，但尚未投掷结果</p>\n<p><strong>需求</strong> 你在威吓Intimidation中达到专家</p>\n<p>这个护符有许多种形态，但通常都是某个类人生物身上摘下来的可怕肉片。当你启动这个战利品时，选择两个目标，将你的威吓Intimidation检定结果同时对抗这两个目标的DC</p>"
 		},
 		"Grimoire of Unknown Necessities": {
 			"name": "Grimoire of Unknown Necessities",
@@ -4810,8 +4810,8 @@
 			"description": "<p>This arrowhead-shaped charm is not meant to be affixed to an arrow, but instead to be carried in a pocket or inside of a quiver. A <em>hunter's arrowhead</em> is etched with images sacred to the elven god Ketephys.</p>\n<p>If you carry one on your person, you are infused with great skill at hunting, and gain a +1 item bonus to Survival skill checks and attack rolls against any creature you've currently designated as your prey for the Hunt Prey ranger ability (note that the bonus to attack rolls is an item bonus, and therefore not cumulative with an item bonus from a magic weapon).</p>\n<p>A hunter's arrowhead is also a religious symbol of Ketephys.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">R</span> command</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> You would miss with an attack made with a bow.</p>\n<p><strong>Effect</strong> You get a +2 circumstance bonus to your attack roll. This can turn a miss into a hit.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+1 item bonus to Survival skill checks against your Hunted Prey</li>\n<li>+1 item bonus to attack rolls against your Hunted Prey</li>\n</ul>"
 		},
 		"Hunter's Bane": {
-			"name": "Hunter's Bane",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Envision</p>\n<p><strong>Trigger</strong> An undetected enemy hits you with an attack</p>\n<p><strong>Requirements</strong> You are trained in Survival</p>\n<p>This talisman is a ring of dried, interwoven leaves. When you activate the <em>hunter's bane</em>, you sense the exact location of the attacker, making it hidden from you instead of undetected. If the attacker is behind lead, the <em>hunter's bane</em> fails and is wasted.</p>"
+			"name": "猎手之灾 Hunter's Bane",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 想象</p>\n<p><strong>触发</strong> 一个无踪的敌人用一次攻击命中了你</p>\n<p><strong>需求</strong> 你在生存Survival中受训</p>\n<p>这个护符是一枚干枯树叶编织而成的戒指。当你启动猎手之灾，你感知到了攻击者的确切位置，让他相对于你的状态从无踪Undetected变成藏匿Hidden。如果攻击者躲在铅后面，猎手之灾启动失败并且被浪费掉。</p>"
 		},
 		"Hunter's Bow": {
 			"name": "Hunter's Bow",
@@ -5054,20 +5054,20 @@
 			"description": "<p>This <em>+1 striking jezail</em> is built from white hot metal and has a ruby fused into the palm wood stock. When the <em>iris of the sky</em> misfires, you take [[/r {5}[persistent,fire]]]{5} @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Fire Damage}.</p>\n<p>The first firearm of this type came as the result of a gunslinger who entreated an efreeti, wishing for the might of the desert sun. The weapon constantly glows and burns with a brilliant intensity. The firearm has since belonged to an extensive string of users and been replicated several times, though each wielder of the weapon, whether the original or one of its copies, has eventually ended up as a charred husk, slain by fire in battle or unusual accidents that no one could quite explain except, perhaps, the efreet.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> envision</p>\n<p><strong>Frequency</strong> once per minute</p>\n<p><strong>Effect</strong> You focus the solar energy housed in the ruby to release a gout of solar flame instead of a bullet. Make a Strike with the <em>iris of the sky</em>. All damage from this Strike is fire damage and the target takes an additional [[/r {1d6}[fire]]]{1d6 fire damage} and [[/r {1d6}[persistent,fire]]]{1d6} @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Fire Damage}.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> command, envision (fortune)</p>\n<p><strong>Frequency</strong> once per minute</p>\n<p><strong>Effect</strong> You make a wish into the <em>iris of the sky</em>, yearning for it to strike true, and then fire. Strike against a foe with the iris, rolling the attack roll twice and taking the better result. If the attack is a failure, you take [[/r {5}[persistent,fire]]]{5} @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Fire Damage}.</p>"
 		},
 		"Iron Cube": {
-			"name": "Iron Cube",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> @Compendium[pf2e.feats-srd.39CqlOzlHjEhh0E4]{Knockdown}</p>\n<p><strong>Requirements</strong> You are an expert with the affixed weapon</p>\n<p>This cube of blackened iron is affixed to a weapon with an iron chain. When you activate the cube, you use Knockdown, as the fighter feat.</p>\n<p>If you have the Knockdown feat, ignore its normal size restrictions.</p>"
+			"name": "铁方块 Iron Cube",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> @Compendium[pf2e.feats-srd.39CqlOzlHjEhh0E4]{击倒 Knockdown}</p>\n<p><strong>需求</strong> 你在附着的武器上达到专家</p>\n<p>这个黑色的铁方块通过一条铁链附着到一把武器上。当你启动铁方块，你使用击倒Knockdown，如战士同名专长。</p>\n<p>如果你拥有击倒Knockdown专长，那么可以忽略掉它通常的体型限制。</p>"
 		},
 		"Iron Cudgel": {
-			"name": "Iron Cudgel",
-			"description": "<p>This miniature iron cudgel is typically affixed to a weapon by an iron chain. When you activate the cudgel, you use Brutal Finish, as the fighter feat. You must meet the normal requirements, including those of the press trait.</p>\n<p>If you have the Brutal Finish feat, add two additional weapon damage dice on a success or a failure.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Brutal Finish</p>\n<p><strong>Requirements</strong> You are a master with the affixed weapon</p>"
+			"name": "铁棒 Iron Cudgel",
+			"description": "<p>这根微型短铁棒通常通过一条铁链附着到一把武器上。当你启动这根短铁棒，你使用残酷终结Brutal Finish，如战士同名专长。你必须满足通常的条件，包括来自连携Press特性的限制。</p>\n<p>如果你拥有残酷终结Brutal Finish专长，在成功或失败时增加两个额外的武器伤害骰。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 残酷终结 Brutal Finish</p>\n<p><strong>需求</strong> 你在附着的武器上达到大师</p>"
 		},
 		"Iron Equalizer": {
-			"name": "Iron Equalizer",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> @Compendium[pf2e.feats-srd.h5DzKmKDADGhvmF9]{Certain Strike}</p>\n<p><strong>Requirements</strong> You are a master with the affixed weapon</p>\n<p>This small iron band has a shifting weight that helps equalize the affixed weapon's balance. When you activate it, you use Certain Strike, as the fighter feat. You must meet the normal requirements, including those of the press trait.</p>\n<p>If you have the Certain Strike feat, the failure effect increases to deal the weapon's normal damage.</p>"
+			"name": "铁配重 Iron Equalizer",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> @Compendium[pf2e.feats-srd.h5DzKmKDADGhvmF9]{确定之击 Certain Strike}</p>\n<p><strong>需求</strong> 你在附着的武器上达到大师</p>\n<p>这条小铁带上有个可以移动的配重，能够用来调整附着武器的平衡。当你启动它时，你使用确定之击Certain Strike，如战士同名专长。你必须满足通常的条件，包括来自连携Press特性的限制。</p>\n<p>如果你拥有确定之击Certain Strike专长，失败效果提升到造成武器的正常伤害。</p>"
 		},
 		"Iron Medallion": {
-			"name": "Iron Medallion",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Envision</p>\n<p><strong>Trigger</strong> You attempt a Will save against a fear effect but haven't rolled yet</p>\n<p><strong>Requirements</strong> You have master proficiency in Will saves or have the bravery class feature</p>\n<p>This small medallion is shaped like a shield. When you activate it, you gain a +2 status bonus to saves against fear for 1 minute. On the triggering save, if the outcome of your roll is a failure, you get a success instead or if the outcome is a critical failure, you get a failure instead.</p>"
+			"name": "铁奖章 Iron Medallion",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 想象</p>\n<p><strong>触发</strong> 你进行一次针对恐惧Fear效果的意志豁免，但尚未投掷豁免骰</p>\n<p><strong>需求</strong> 你在意志豁免上的熟练等级达到大师，或拥有勇敢Bravery职业特性。</p>\n<p>这枚小奖章的形状像是一面盾牌。当你启动它，你在针对恐惧的意志豁免中获得+2状态加值，持续1分钟。对于触发的那次豁免，如果你的结果是失败，则改为成功；如果结果是大失败，则改为失败。</p>"
 		},
 		"Iron and rock crystal brazier": {
 			"name": "Iron and rock crystal brazier",
@@ -5106,8 +5106,8 @@
 			"description": ""
 		},
 		"Jade Bauble": {
-			"name": "Jade Bauble",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Command</p>\n<p><strong>Requirements</strong> You are a master with the affixed weapon</p>\n<p>This bit of jade is usually carved in the shape of a duelist, or sometimes a multi-armed creature. When you activate the bauble, it magically draws the attention of foes. Until the start of your next turn, enemies within the reach of the weapon the talisman is affixed to are flat-footed.</p>"
+			"name": "翡翠雕饰 Jade Bauble",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 命令</p>\n<p><strong>需求</strong> 你在附着的武器上达到大师</p>\n<p>这块翡翠通常被雕刻成一个决斗者的形状，有时也会雕刻成一个多武装的生物。当你启动这块雕饰，它魔法般地吸引了对手的注意力。直到你下一回合开始，在护符附着的武器的触及范围内的敌人陷入措手不及Flat-footed。</p>"
 		},
 		"Jade Cat": {
 			"name": "翡翠猫 Jade Cat",
@@ -5130,8 +5130,8 @@
 			"description": "<p>这种细矛在投掷中能保持平衡，但并非设计用于近战。</p>"
 		},
 		"Javelin of Lightning": {
-			"name": "Javelin of Lightning",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> Command, Interact</p>\n<p>This item looks like a normal javelin carved with lightning-bolt motifs. If thrown without being activated, it wobbles in the air and fails to strike true.</p>\n<p>When you Activate the javelin, your command makes the carvings crackle with electricity. You then hurl the javelin. It shatters immediately after leaving your hand and unleashes its magic as a 4th-level <em>@Compendium[pf2e.spells-srd.9AAkVUCwF6WVNNY2]{Lightning Bolt}</em> originating from your space.</p>\n<p>The bolt deals [[/r 5d12]] electricity damage and has a Reflex save DC of 25.</p>"
+			"name": "闪电标枪 Javelin of Lightning",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 命令, 交互</p>\n<p>这个物品像是一把普通的标枪，上面刻有闪电矢的图纹。如果没启动的时候就将它丢出去，它会在空中摇晃，无法击中目标。当你启动Activate标枪，你的命令让雕纹灌注了闪电。你之后投掷标枪。它会在你投掷出去之后立刻碎裂并释放其中的魔法，施展一次4环 <em>@Compendium[pf2e.spells-srd.9AAkVUCwF6WVNNY2]{闪电矢 Lightning Bolt}</em> 法术，法术原点是你的格子。</p>\n<p>闪电矢造成 [[/r 5d12]] 电击伤害，反射Reflex豁免DC为25</p>"
 		},
 		"Jawbreaker Shield": {
 			"name": "Jawbreaker Shield",
@@ -5838,8 +5838,8 @@
 			"description": "<p>A <em>memory palace</em> is an elaborate magical structure that safely stores memories for easy access. It appears to be a miniature Taldan villa small enough to fit in the palm of a human hand.</p>\n<p><strong>Activate</strong> (10 minutes) envision, Interact</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> The miniature grows into a building connected to the Astral Plane for 1 hour. The memory palace has a 30-foot-square central courtyard surrounded by 12 10‑foot-square chambers. Arranged within these chambers are various items referred to as the palace's nodes-statues, tapestries, fountains, and other works of art are common, but a node can take other forms at the GM's discretion. As a 10‑minute activity, you can imprint one extended memory onto a node: the contents of a specific simple book, for example, or the events of a recent adventure. When you do, the node changes its shape and appearance to visually represent the memory you have imprinted onto it. If the node was already imprinted with a memory, the old one can be overwritten to repurpose the node.</p>\n<p>Memories you have imprinted on a node can be mentally accessed at any time by a creature holding the <em>memory palace</em> in its miniature form, regardless of who imprinted them. This grants a +2 item bonus to Recall Knowledge checks relating to details specifically occurring within the memory. What exactly qualifies is up to the GM's discretion, but a node shouldn't grant the benefits for most uses of a given skill. For example, a node dedicated to a book about trees found in the Mwangi Expanse would help with Recall Knowledge checks for such trees, but it wouldn't grant the benefits for all Nature checks to Recall Knowledge.</p>\n<p>A <em>memory palace</em> node can also store the text from a spellbook or magical tome, but these memories aren't a substitute for having the book in your possession. A wizard can't prepare spells from a <em>memory palace</em>, though they could use it as source material to try to Learn a Spell. However, since storing spells in a node would only benefit someone else who later discovers the memory palace, few choose to take such an action. The memories contained within the nodes aren't real, and thus don't cause harmful effects, even if the source of the memory was a mental danger. Many <em>memory palaces</em> have leftover memories from previous users-now long dead-imprinted on their various nodes.</p>"
 		},
 		"Mending Lattice": {
-			"name": "Mending Lattice",
-			"description": "<p>This lattice of reinforced iron is shaped into a perfect octagon. When you activate it, it negates the damage and instantly and completely repairs the affixed item.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Command</p>\n<p><strong>Trigger</strong> The affixed item would take damage</p>\n<p><strong>Requirements</strong> You are a master in Crafting</p>"
+			"name": "修复格栅 Mending Lattice",
+			"description": "<p>这个强化铁制成的格栅有着完美的八边形外表。当你启动它，它抵消掉即将受到的伤害并立刻完美地修复附着的物品。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 命令</p>\n<p><strong>触发</strong> 附着的物品即将受到伤害</p>\n<p><strong>需求</strong> 你在手艺Crafting上达到大师</p>"
 		},
 		"Mentalist's Staff": {
 			"name": "Mentalist's Staff",
@@ -5866,8 +5866,8 @@
 			"description": "<p>This deep red cloak fits lightly about your shoulders, and the edges perpetually twitch slightly, as though caught in a breeze. The cloth feels smoother than silk, rippling and swaying like liquid when in motion. You feel a lively energy infusing your arms and legs. You gain a +3 item bonus to Acrobatics and Stealth, and a +2 circumstance bonus to AC against attacks from reactions triggered by your movement.</p>\n<p>When you invest the cloak, you either increase your Dexterity score by 2 or increase it to 18, whichever would give you a higher score.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">r</span> Interact</p>\n<p><strong>Frequency</strong> once per hour</p>\n<p><strong>Trigger</strong> An enemy misses you with a melee Strike</p>\n<p><strong>Effect</strong> You slip around the attacking creature with ease. You Step, without moving away from the triggering enemy, and then make a melee Strike against the triggering enemy if it's within reach. If you do make a Strike, the target attempts a @Check[type:perception|dc:38|name:Detect Reaction|showDC:all] check before you roll.</p>\n<p><strong>Failure</strong> This creature is @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} against the Strike.</p>\n<p><strong>Critical Failure</strong> This creature is flat-footed against all your attacks until the end of their next turn.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> command, envision (conjuration, teleportation)</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> The cloak hums with power as your whirl it around yourself, disappearing amid a brief flash of light. Teleport up to double your Speed to a location you can see. At the end of the teleportation, you can make a melee Strike against a creature within reach, if there is one.</p>"
 		},
 		"Mesmerizing Opal": {
-			"name": "Mesmerizing Opal",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Envision</p>\n<p><strong>Trigger</strong> You attempt a Deception check to Feint, but you haven't rolled yet</p>\n<p>This silver-bound opal pendant is afire with iridescence. When you activate it, if the outcome of your triggering Deception check is a critical failure, you get a failure instead (or if the outcome is a success, you get a critical success instead).</p>"
+			"name": "迷心蛋白石 Mesmerizing Opal",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 想象</p>\n<p><strong>触发</strong> 你进行一次用来虚招Feint的欺骗Deception检定，但尚未投掷结果</p>\n<p>这枚吊在银链上的蛋白石垂饰洋溢着灿烂的光辉。当你启动它，如果你用来触发的欺骗Deception检定结果是大失败，则改成失败；如果结果是成功，则改成大成功。</p>"
 		},
 		"Messenger's Ring": {
 			"name": "Messenger's Ring",
@@ -6058,12 +6058,12 @@
 			"description": ""
 		},
 		"Mummified Bat": {
-			"name": "Mummified Bat",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Command</p>\n<p><strong>Requirements</strong> You are a master in Perception</p>\n<p>This talisman is the magically treated corpse of a tiny bat bound in papyrus. When you activate the bat, the affixed weapon detects vibrations around you and guides your perception. You gain the benefits of the fighter @Compendium[pf2e.feats-srd.y2XeMe1F18lIyo59]{Blind-Fight} class feat for 1 minute.</p>\n<p>If you have the Blind-Fight feat, you gain imprecise echolocation with a range of 30 feet for 1 minute. This makes creatures that would be undetected by you because you can't see them hidden instead.</p>"
+			"name": "木乃伊蝙蝠 Mummified Bat",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 命令</p>\n<p><strong>需求</strong> 你在察觉Perception上达到大师</p>\n<p>这个护符是一个经过魔法处理的微型蝙蝠残骸，并包在了莎草纸里面。当你启动这只蝙蝠，附着的武器会侦测到附近的颤动，并指引你的感官。你获得战士职业专长 @Compendium[pf2e.feats-srd.y2XeMe1F18lIyo59]{盲斗 Blind-Fight} 的效果，持续1分钟。</p>\n<p> 如果你拥有盲斗Blind-Fight专长，你获得距离30尺的模糊回声定位能力，持续1分钟。这能让因为你无法看见而获得无踪Undetected状态的生物改为获得藏匿Hidden状态。</p>"
 		},
 		"Murderer's Knot": {
-			"name": "Murderer's Knot",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Command</p>\n<p><strong>Trigger</strong> You damage a flat-footed creature with a Strike using the Affixed weapon</p>\n<p><strong>Requirements</strong> You are an expert with the affixed weapon</p>\n<p>This black strand of leather is tied to look like a peace knot when the weapon is stowed, but it doesn't hamper drawing the weapon. When you activate the knot, the creature you damaged takes [[/r {1d6}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Bleed Damage}.</p>\n<p>If you have the @Compendium[pf2e.feats-srd.5Jc2ySGLVi053qpz]{Twist the Knife} feat, the talisman instead deals persistent bleed damage equal to your sneak attack damage.</p>"
+			"name": "杀手绳结 Murderer's Knot",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 命令</p>\n<p><strong>触发</strong> 你用附着的武器进行的打击Strike伤害了一个措手不及Flat-footed的生物</p>\n<p><strong>需求</strong> 你在附着的武器上达到专家</p>\n<p>这卷黑色的皮绳系在一起，在附着的武器收起来的时候看起来就像和平结一样，但不会影响你拔出武器的动作。当你启动这个绳结，你伤害的生物受到 [[/r {1d6}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续流血伤害}。</p>\n<p>如果你拥有 @Compendium[pf2e.feats-srd.5Jc2ySGLVi053qpz]{扭转刀刃 Twist the Knife} 专长，这个护符造成的持续流血伤害等同于你的偷袭攻击伤害。</p>"
 		},
 		"Musical Instrument (Handheld)": {
 			"name": "乐器(手持) Musical Instrument (Handheld)",
@@ -6354,8 +6354,8 @@
 			"description": ""
 		},
 		"Onyx Panther": {
-			"name": "Onyx Panther",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Envision</p>\n<p><strong>Trigger</strong> You use a Sneak action</p>\n<p><strong>Requirements</strong> You are trained in Stealth</p>\n<p>This small stone is a stylized panther shape. When you activate it, you can move your full Speed (instead of half) during the triggering Sneak and any other time you Sneak this turn.</p>"
+			"name": "缟玛瑙黑豹 Onyx Panther",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 想象</p>\n<p><strong>触发</strong> 你使用一个潜行Sneak动作</p>\n<p><strong>需求</strong> 你在隐秘Stealth中受训</p>\n<p>这个小石头是风格化的黑豹形状。当你启动它，你在触发的潜行Sneak动作以及这回合的其他潜行Sneak动作中可以以完整的速度Speed移动（而非一半的速度Speed）。</p>"
 		},
 		"Opal": {
 			"name": "Opal",
@@ -7306,16 +7306,16 @@
 			"description": "<p><strong>Bulk</strong> L (8 if inflated)</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<hr />\n<p>Tattletail developed this tether-covered bladder to help divers in Anuli's Crater Lake recover heavy salvage or escape dangerous underwater beasts. Pulling the ripcord causes a small, pressurized air tank to instantly inflate the bladder to the size of a rowboat, forcing up to 16 Bulk of attached items or creatures to jet to the surface of the water at a rate of 60 feet per round. Pulling the ripcord, or removing or affixing something to one of the many tethers on the recovery bladder, takes an Interact action. A recovery bladder can only be used once, as the quick inflation permanently stretches the bladder, and only a few tinkerers have the skills and equipment to refill a pressurized air tank.</p>"
 		},
 		"Red Dragon's Breath Potion (Adult)": {
-			"name": "Red Dragon's Breath Potion (Adult)",
-			"description": "<p>This liquid contains blood from a red dragon. For 1 hour after you imbibe the concoction, you can unleash a red dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:cone|distance:15] of fire which deals [[/r {6d6}[fire]]]{6d6 fire damage}. All creatures in the area must attempt a @Check[type:reflex|dc:29|basic:true|name:Adult Red Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "成年红龙龙息药水 Red Dragon's Breath Potion (Adult)",
+			"description": "<p>这种液体包含了红龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出红龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:cone|distance:15] 的火焰龙息，造成 [[/r {6d6}[fire]]]{6d6 火焰伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:29|basic:true|name:Adult Red Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Red Dragon's Breath Potion (Wyrm)": {
-			"name": "Red Dragon's Breath Potion (Wyrm)",
-			"description": "<p>This liquid contains blood from a red dragon. For 1 hour after you imbibe the concoction, you can unleash a red dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:cone|distance:15] of fire which deals [[/r {10d6}[fire]]]{10d6 fire damage}. All creatures in the area must attempt a @Check[type:reflex|dc:37|basic:true|name:Wyrm Red Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "古红龙龙息药水 Red Dragon's Breath Potion (Wyrm)",
+			"description": "<p>这种液体包含了红龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出红龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:cone|distance:15] 的火焰龙息，造成 [[/r {10d6}[fire]]]{10d6 火焰伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:37|basic:true|name:Wyrm Red Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Red Dragon's Breath Potion (Young)": {
-			"name": "Red Dragon's Breath Potion (Young)",
-			"description": "<p>This liquid contains blood from a red dragon. For 1 hour after you imbibe the concoction, you can unleash a red dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:cone|distance:15] of fire which deals [[/r {4d6}[fire]]]{4d6 fire damage}. All creatures in the area must attempt a @Check[type:reflex|dc:23|basic:true|name:Young Red Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "少年红龙龙息药水 Red Dragon's Breath Potion (Young)",
+			"description": "<p>这种液体包含了红龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出红龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:cone|distance:15] 的火焰龙息，造成 [[/r {4d6}[fire]]]{4d6 火焰伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:23|basic:true|name:Young Red Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Red-Rib Gill Mask (Greater)": {
 			"name": "Red-Rib Gill Mask (Greater)",
@@ -7858,8 +7858,8 @@
 			"description": "<p>This jagged glyph, the wrath Thassilonian rune of sin, reacts to evocation magic. When you Cast an evocation Spell, you gain resistance 5 to damage from spells until the start of your next turn. This resistance is increased to 7 against evocation spells.</p>"
 		},
 		"Runestone": {
-			"name": "Runestone",
-			"description": "<p>This flat piece of hard stone is specially prepared for etching a magical fundamental rune or property rune. You can etch only one rune upon a stone. Once the stone is etched, it gains the magic school trait of the rune etched upon it. When a rune is transferred from the <em>runestone</em> to another object, the <em>runestone</em> cracks and is destroyed. The Price listed is for an empty stone; a stone holding a rune adds the Price of the rune.</p>"
+			"name": "符文石 Runestone",
+			"description": "<p>这块平坦坚硬的石头能用来蚀刻魔法基础符文或性能符文的。你只能在上面蚀刻一个符文。一旦石头被蚀刻了，它获得所刻符文所具有的的魔法学派特征。当一个符文从符文石上转移到其他物品上，符文石碎裂并被摧毁。上面列出的价格是空白符文石的；保存了符文的符文石应该将符文的价格加上去。</p>"
 		},
 		"Rungu": {
 			"name": "Rungu",
@@ -7946,8 +7946,8 @@
 			"description": ""
 		},
 		"Savior Spike": {
-			"name": "Savior Spike",
-			"description": "<p>This pyramid-shaped spike is attached to an armor's chest piece. When you activate the spike, it shoots a strand of force to help you gain purchase. If you roll a success on the triggering attempt, you get a critical success instead (if you roll a critical failure, you get a failure instead).</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Command</p>\n<p><strong>Trigger</strong> You attempt to Grab an Edge but haven't rolled</p>\n<p><strong>Requirements</strong> You're an expert in Reflex</p>"
+			"name": "救主之钉 Savior Spike",
+			"description": "<p>这个金字塔形状的钉子附着在盔甲胸部。当你启动钉子，它会发射出一条力场来帮助你抓牢。如果你在触发的动作中投出了成功，则改成大成功；如果你投出了大失败，则改成失败。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 命令</p>\n<p><strong>触发</strong> 你进行一次抓住边缘Grab an Edge，但尚未投掷结果</p>\n<p><strong>需求</strong> 你在反射Reflex中达到专家</p>"
 		},
 		"Sawtooth Saber": {
 			"name": "锯齿剑 Sawtooth Saber",
@@ -8186,8 +8186,8 @@
 			"description": "<p>This simple wooden mask is carved into the shape of an animal, usually tailored to a species of beast that the user favors. While wearing this mask, you can speak even when polymorphed into an animal. The shapespeak mask does not otherwise remove any limitations, such as the inability to cast spells when transformed.</p>"
 		},
 		"Shark Tooth Charm": {
-			"name": "Shark Tooth Charm",
-			"description": "<p>This dried seaweed bracelet is lined with charms shaped like small shark teeth. When you activate the bracelet, if you roll a success on the triggering check, you get a critical success instead (if you roll a critical failure, you get a failure instead). If you fail the Acrobatics check against a grabbing creature, the creature must either release you as a free action or take 2d8 piercing damage as shark's teeth momentarily emerge from your skin.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Command</p>\n<p><strong>Trigger</strong> You attempt to Escape using Acrobatics for your roll, but you haven't rolled yet</p>\n<p><strong>Requirements</strong> You are an expert in Acrobatics</p>"
+			"name": "鲨齿咒符 Shark Tooth Charm",
+			"description": "<p>这条干枯海草编成的项链上挂着形状像是小型鲨鱼牙齿的坠饰。当你启动项链，如果你在触发的检定中投出了成功，则改为大成功；如果你投出了大失败，则改为失败。如果你在对抗一个正在擒抱你的生物的特技Acrobatics检定中失败了，鲨鱼牙齿也会突然从你皮肤上钻出，令该生物要么以一个自由动作释放你，要么承受2d8点穿刺伤害。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 命令</p>\n<p><strong>触发</strong> 你用特技Acrobatics进行一次逃脱Escape，但尚未投掷结果</p>\n<p><strong>需求</strong> 你在特技Acrobatics上达到专家</p>"
 		},
 		"Shauth Blade": {
 			"name": "Shauth Blade",
@@ -8414,16 +8414,16 @@
 			"description": "<p>Silver weapons are a bane to creatures ranging from devils to werewolves. Silver items are less durable than steel items, and low-grade silver items are usually merely silver-plated.</p><h2>Silver Items</h2>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>Silver Items</th>\n<th>Hardness\n</th>\n<th>HP</th>\n<th>BT</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Thin Items</td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>Low-grade</td>\n<td>3</td>\n<td>12</td>\n<td>6</td>\n</tr>\n<tr>\n<td>Standard-grade</td>\n<td>5</td>\n<td>20</td>\n<td>10</td>\n</tr>\n<tr>\n<td>High-grade</td>\n<td>8</td>\n<td>32</td>\n<td>16</td>\n</tr>\n<tr>\n<td>Items</td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>Low-grade<strong></strong><p><strong></strong></p></td>\n<td>5</td>\n<td>20</td>\n<td>10</td>\n</tr>\n<tr>\n<td>Standard-grade<strong></strong><p><strong></strong></p></td>\n<td>7</td>\n<td>28</td>\n<td>14</td>\n</tr>\n<tr>\n<td>High-grade</td>\n<td>10</td>\n<td>40</td>\n<td>20</td>\n</tr>\n<tr>\n<td>Structure</td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td>Low-grade<strong></strong><p><strong></strong></p></td>\n<td>10</td>\n<td>40</td>\n<td>20</td>\n</tr>\n<tr>\n<td>Standard-grade<strong></strong><p><strong></strong></p></td>\n<td>14</td>\n<td>56</td>\n<td>28</td>\n</tr>\n<tr>\n<td>High-grade</td>\n<td>20</td>\n<td>80</td>\n<td>40</td>\n</tr>\n</tbody>\n</table>"
 		},
 		"Silver Dragon's Breath Potion (Adult)": {
-			"name": "Silver Dragon's Breath Potion (Adult)",
-			"description": "<p>This liquid contains blood from a silver dragon. For 1 hour after you imbibe the concoction, you can unleash a silver dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:cone|distance:15] of cold which deals [[/r {6d6}[cold]]]{6d6 cold damage}. All creatures in the area must attempt a @Check[type:reflex|dc:29|basic:true|name:Adult Silver Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "成年银龙龙息药水 Silver Dragon's Breath Potion (Adult)",
+			"description": "<p>这种液体包含了银龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出银龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:cone|distance:15] 的寒冰龙息，造成 [[/r {6d6}[cold]]]{6d6 寒冷伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:29|basic:true|name:Adult Silver Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Silver Dragon's Breath Potion (Wyrm)": {
-			"name": "Silver Dragon's Breath Potion (Wyrm)",
-			"description": "<p>This liquid contains blood from a silver dragon. For 1 hour after you imbibe the concoction, you can unleash a silver dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:cone|distance:15] of cold which deals [[/r {10d6}[cold]]]{10d6 cold damage}. All creatures in the area must attempt a @Check[type:reflex|dc:37|basic:true|name:Wyrm Silver Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "古银龙龙息药水 Silver Dragon's Breath Potion (Wyrm)",
+			"description": "<p>这种液体包含了银龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出银龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:cone|distance:15] 的寒冰龙息，造成 [[/r {10d6}[cold]]]{10d6 寒冷伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:37|basic:true|name:Wyrm Silver Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Silver Dragon's Breath Potion (Young)": {
-			"name": "Silver Dragon's Breath Potion (Young)",
-			"description": "<p>This liquid contains blood from a silver dragon. For 1 hour after you imbibe the concoction, you can unleash a silver dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:cone|distance:15] of fire which deals [[/r {4d6}[cold]]]{4d6 cold damage}. All creatures in the area must attempt a @Check[type:reflex|dc:23|basic:true|name:Young Silver Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "少年银龙龙息药水 Silver Dragon's Breath Potion (Young)",
+			"description": "<p>这种液体包含了银龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出银龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:cone|distance:15] 的寒冰龙息，造成 [[/r {4d6}[cold]]]{4d6 寒冷伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:23|basic:true|name:Young Silver Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Silver Ingot": {
 			"name": "Silver Ingot",
@@ -8730,8 +8730,8 @@
 			"description": "<p>该工具包包含用于创建陷阱的工具和材料。陷阱工具包允许你使用手艺技能制作陷阱。专家级陷阱工具包为你提供+1物品加值。</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>制作陷阱时的手艺检定+1物品加值</li>\n</ul>"
 		},
 		"Sneaky Key": {
-			"name": "Sneaky Key",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p><strong>Requirements</strong> You are an expert in Thievery</p>\n<p>This small silver skeleton key can be pinned to armor or a sleeve. When you turn the key to activate it, for the next minute, if the outcome of any your attempts to Pick a Lock is a critical failure, you get a failure instead.</p>"
+			"name": "鬼祟钥匙 Sneaky Key",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p><strong>需求</strong> 你在贼活Thievery中达到专家</p>\n<p>这把银色骷髅钥匙可以被贴在盔甲或袖子上。你可以转动这把钥匙来启动它，之后1分钟内无论何时你进行的开锁Pick a Lock检定结果是大失败，你都能将其改为失败。</p>"
 		},
 		"Sneezing Powder": {
 			"name": "Sneezing Powder",
@@ -9678,8 +9678,8 @@
 			"description": "<p>An impenetrable swarmsuit is made of expensive, finely crafted mesh designed to completely prevent swarms from getting inside. You gain resistance 10 to physical damage from swarms. Explorer's clothing altered in this way has a Dexterity cap of +2, check penalty of -1, and Speed penalty of -5 feet regardless of your Strength.</p>"
 		},
 		"Swift Block Cabochon": {
-			"name": "Swift Block Cabochon",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Envision</p>\n<p><strong>Trigger</strong> You take damage from a physical attack while you don't have the affixed shield raised</p>\n<p>This clear quartz cabochon attaches to the center of your shield.</p>\n<p>When you activate the cabochon, you use the Shield Block reaction even if you hadn't raised the affixed shield (and even if you don't normally have that reaction).</p>"
+			"name": "疾盾宝石 Swift Block Cabochon",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 想象</p>\n<p><strong>触发</strong> 你在未举起附着的盾牌时承受了一次物理攻击伤害</p>\n<p>这颗透明石英制成的凸圆形宝石附着在盾牌的中央位置。</p>\n<p>当你启动这颗宝石，你可以使用盾牌格挡Shield Block反应，即使你未举起附着的盾牌（甚至即使在你正常情况下没有这个反应也能使用）。</p>"
 		},
 		"Swim Fins": {
 			"name": "Swim Fins",
@@ -9962,8 +9962,8 @@
 			"description": "<p>This <em>+2 greater striking returning</em> @Compendium[pf2e.equipment-srd.3T3ayvgw9HDn05Mz]{Combat Grapnel} takes the form of a fishhook made of scavenged bones and stone with a cord of braided water. Attacks with a tidal fishhook don't take any of the normal penalties for fighting underwater. A broken (but not destroyed) tidal fishhook can be fully repaired by submerging it in an ocean for 1 minute.</p>\n<hr />\n<p><strong>Activation</strong> <span class=\"pf2-icon\">2</span> Interact (teleportation, water)</p>\n<p><strong>Frequency</strong> once per hour</p>\n<p><strong>Effect</strong> A tidal fishhook can travel between bodies of water to strike distant foes. You throw the fishhook into a 5-foot square that's fully covered with water, and it emerges to Strike or @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Grapple} a target from another such square within 60 feet; the squares can be part of the same body of water or different ones. The distance between the bodies of water doesn't count toward the fishhook's range increment. If you successfully Grapple the target as part of this Strike, you can pull yourself along the fishhook's line, teleporting to the secondary body of water.</p>"
 		},
 		"Tiger Menuki": {
-			"name": "Tiger Menuki",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Envision</p>\n<p><strong>Trigger</strong> You Strike with the affixed weapon</p>\n<p>This tiger formed of pewter snarls viciously from your weapon's grip. When you activate the tiger, the affixed weapon gains the sweep trait for the triggering attack and all other attacks for 1 minute.</p>"
+			"name": "虎目贯 Tiger Menuki",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 想象</p>\n<p><strong>触发</strong> 你使用附着的武器进行一次打击</p>\n<p>这只白锡老虎在你武器的握把上凶狠地低吼。当你启动这只老虎，附着的武器在触发的攻击以及1分钟内的所有其他攻击上都获得横扫特征。</p>"
 		},
 		"Tiger's Claw": {
 			"name": "Tiger's Claw",
@@ -10278,8 +10278,8 @@
 			"description": "<p>The blade of this <em>+2 greater striking wounding scythe</em> is sharp enough to produce a whistling sound when swung through the air. The shaft is made of ebony wood with a sickly shine to it, much like the shine of infected wounds and contaminated water.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">r</span> command</p>\n<p><strong>Trigger</strong> An enemy critically succeeds at an attempt to Disarm you</p>\n<p><strong>Effect</strong> As the scythe leaves your hand, it drinks the triggering creature's blood. The creature must succeed at a @Check[type:fortitude|dc:30|name:Vampiric Scythe Disarm|traits:uncommon] save or become @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drained 2} (@Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drained 3} on a critical failure). If the triggering creature becomes drained, you gain temporary Hit Points equal to the triggering creature's level. You lose any remaining temporary Hit Points after 1 minute.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">r</span> command</p>\n<p><strong>Frequency</strong> once per hour</p>\n<p><strong>Trigger</strong> You critically succeed at a Strike against a living opponent</p>\n<p><strong>Effect</strong> The scythe drains life essence from your opponent into you. You gain a number of temporary Hit Points equal to half the slashing damage the scythe dealt to the foe. You lose any remaining temporary Hit Points after 1 minute.</p>"
 		},
 		"Vanishing Coin": {
-			"name": "Vanishing Coin",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Envision</p>\n<p><strong>Trigger</strong> You attempt a Stealth check for initiative, but you haven't rolled yet</p>\n<p><strong>Requirements</strong> You are a master in Stealth</p>\n<p>This copper coin dangles from a leather strip strung through a hole drilled in the center. Until activated, the coin becomes invisible for a few seconds at random intervals every few minutes.</p>\n<p>When you activate the coin, it casts a 2nd-level <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{Invisibility}</em> spell on you, lasting until the end of your next turn.</p>"
+			"name": "消失钱币 Vanishing Coin",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 想象</p>\n<p><strong>触发</strong> 你用隐秘Stealth来进行先攻检定，但尚未投掷结果</p>\n<p><strong>需求</strong> 你在隐秘Stealth中达到大师</p>\n<p>这枚铜币悬挂在一条皮带上，皮带穿过了铜币中央的一个小孔。启动之前，这枚铜币每几分钟都会随机消失几秒。</p>\n<p>当你启动它时，它会对你施展一次2环 <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{隐形术 Invisibility}</em>，持续到你的下一个回合结束。</p>"
 		},
 		"Vanishing Wayfinder": {
 			"name": "Vanishing Wayfinder",
@@ -10382,8 +10382,8 @@
 			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 命令</p>\n<p>这支箭的箭杆被精细的绿色鳞片包裹，它的铁质箭头形状也像是尖牙一样。</p>\n<p>当一支启动的蝰蛇箭命中一个目标，这支箭变形成一只 @Compendium[pf2e.pathfinder-bestiary.lFlXmieuHTBIonhj]{蝰蛇 Viper}。目标受到蝰蛇的毒液效果，如同已经被咬了一样。这只蝰蛇接着会落在邻接目标的空格子中。</p>\n<p>这只蝰蛇有着召唤Summon特征，在你回合结束时行动，即使你没有使用维持法术Sustain a Spell动作。它受到GM的控制，但它通常会去攻击箭所命中的目标。蝰蛇在1分钟后，或被杀死时消失。</p>\n<p><strong>制作条件：</strong> 提供一次 <em>@Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]{召唤动物 Summon Animal}</em>施法</p>"
 		},
 		"Viper's Fang": {
-			"name": "Viper's Fang",
-			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">R</span> Envision</p>\n<p><strong>Trigger</strong> A creature within your reach uses a manipulate or move action, makes a ranged attack, or leaves a square during a moving action it's using</p>\n<p><strong>Requirements</strong> You are a master with the affixed weapon</p>\n<p>When you activate this resin-strengthened viper skull, you make an Attack of Opportunity against the triggering creature.</p>\n<p>If you have Attack of Opportunity, you can activate the <em>viper's fang</em> as a free action.</p>"
+			"name": "蝰蛇之牙 Viper's Fang",
+			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">R</span> 想象</p>\n<p><strong>触发</strong> 你触及范围内的一个生物使用了一个操作Manipulate或移动Move动作、进行了一次远程攻击、或这在一次移动动作中离开了一个格子</p>\n<p><strong>需求</strong> 你在附着的武器上达到大师</p>\n<p>当你启动了这根用树脂强化过的蝰蛇头骨，你对触发的生物进行一次借机攻击Attack of Opportunity。</p>\n<p>如果你有借机攻击Attack of Opportunity，你可以以自由动作启动蝰蛇之牙。</p>"
 		},
 		"Virtuoso silver flute": {
 			"name": "Virtuoso silver flute",
@@ -10854,16 +10854,16 @@
 			"description": "<p>This delicate necklace contains bottled whispers distilled from a source on the Astral Plane rumored to be connected to the first lie ever told.</p>\n<p>While wearing the necklace, you gain a +3 item bonus to Deception checks, and you can attempt to counteract effects that would force you to tell the truth or determine whether you are lying.</p>\n<p>Success on this counteract attempt lets you ignore the effect, rather than removing the effect entirely. The counteract level is 9, with a counteract modifier of [[/r 1d20+35]].</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">T</span> Interact, envision, command</p>\n<p><strong>Effect</strong> You unstopper the vial and release the lie, creating the effect of a <em>@Compendium[pf2e.spells-srd.6s0UW4bujggma9TC]{Fabricated Truth}</em> (DC 47). The vial is emptied and can never be activated again.</p>\n<hr />\n<p><strong>Craft Requirements</strong> Supply a casting of <em>fabricated truth</em>.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+3 item bonus to Deception checks</li>\n</ul>"
 		},
 		"White Dragon's Breath Potion (Adult)": {
-			"name": "White Dragon's Breath Potion (Adult)",
-			"description": "<p>This liquid contains blood from a white dragon. For 1 hour after you imbibe the concoction, you can unleash a white dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:cone|distance:15] of cold which deals [[/r {6d6}[cold]]]{6d6 cold damage}. All creatures in the area must attempt a @Check[type:reflex|dc:29|basic:true|name:Adult White Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "成年白龙龙息药水 White Dragon's Breath Potion (Adult)",
+			"description": "<p>这种液体包含了白龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出白龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:cone|distance:15] 的寒冰龙息，造成 [[/r {6d6}[cold]]]{6d6 寒冷伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:29|basic:true|name:Adult White Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"White Dragon's Breath Potion (Wyrm)": {
-			"name": "White Dragon's Breath Potion (Wyrm)",
-			"description": "<p>This liquid contains blood from a white dragon. For 1 hour after you imbibe the concoction, you can unleash a white dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:cone|distance:15] of cold which deals [[/r {10d6}[cold]]]{10d6 cold damage}. All creatures in the area must attempt a @Check[type:reflex|dc:37|basic:true|name:Wyrm White Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "古白龙龙息药水 White Dragon's Breath Potion (Wyrm)",
+			"description": "<p>这种液体包含了白龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出白龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:cone|distance:15] 的寒冰龙息，造成 [[/r {10d6}[cold]]]{10d6 寒冷伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:37|basic:true|name:Wyrm White Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"White Dragon's Breath Potion (Young)": {
-			"name": "White Dragon's Breath Potion (Young)",
-			"description": "<p>This liquid contains blood from a white dragon. For 1 hour after you imbibe the concoction, you can unleash a white dragon's breath weapon. The potency of the breath depends on the potion's type, based on the age of the dragon whose blood was used to make the potion.</p>\n<p>Exhaling dragon breath uses a single action. You create a @Template[type:cone|distance:15] of fire which deals [[/r {4d6}[cold]]]{4d6 cold damage}. All creatures in the area must attempt a @Check[type:reflex|dc:23|basic:true|name:Young White Dragon's Breath Potion] save.</p>\n<p>After you use the breath weapon, you can't do so again for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "少年白龙龙息药水 White Dragon's Breath Potion (Young)",
+			"description": "<p>这种液体包含了白龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出白龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:cone|distance:15] 的寒冰龙息，造成 [[/r {4d6}[cold]]]{4d6 寒冷伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:23|basic:true|name:Young White Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Wide landscape by an expert": {
 			"name": "Wide landscape by an expert",
