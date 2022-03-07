@@ -914,7 +914,7 @@
 			"description": "<p>这种液体包含了黑龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出黑龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:line|distance:30] 的强酸龙息，造成 [[/r {10d6}[acid]]]{10d6 酸液伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:37|basic:true|name:Wyrm Black Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Black Dragon's Breath Potion (Young)": {
-			"name": "少年黑龙龙息药水 Black Dragon's Breath Potion (Young)",
+			"name": "青年黑龙龙息药水 Black Dragon's Breath Potion (Young)",
 			"description": "<p>这种液体包含了黑龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出黑龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:line|distance:30] 的强酸龙息，造成 [[/r {4d6}[acid]]]{4d6 酸液伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:23|basic:true|name:Young Black Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Black Lotus Extract": {
@@ -1126,7 +1126,7 @@
 			"description": "<p>这种液体包含了蓝龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出蓝龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。 你喷出范围为 @Template[type:line|distance:30] 的电击龙息，造成 [[/r {10d6}[electricity]]]{10d6 电击伤害}。 每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:37|basic:true|name:Wyrm Blue Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Blue Dragon's Breath Potion (Young)": {
-			"name": "少年蓝龙龙息药水 Blue Dragon's Breath Potion (Young)",
+			"name": "青年蓝龙龙息药水 Blue Dragon's Breath Potion (Young)",
 			"description": "<p>这种液体包含了蓝龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出蓝龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。 你喷出范围为 @Template[type:line|distance:30] 的电击龙息，造成 [[/r {4d6}[electricity]]]{4d6 电击伤害}。 每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:23|basic:true|name:Young Blue Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Blue Dragonfly Poison": {
@@ -1314,7 +1314,7 @@
 			"description": "<p>这种液体包含了黄铜龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出黄铜龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:line|distance:30] 的火焰龙息，造成 [[/r {10d6}[fire]]]{10d6 火焰伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:37|basic:true|name:Wyrm Brass Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Brass Dragon's Breath Potion (Young)": {
-			"name": "少年黄铜龙龙息药水 Brass Dragon's Breath Potion (Young)",
+			"name": "青年黄铜龙龙息药水 Brass Dragon's Breath Potion (Young)",
 			"description": "<p>这种液体包含了黄铜龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出黄铜龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:line|distance:30] 的火焰龙息，造成 [[/r {4d6}[fire]]]{4d6 火焰伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:23|basic:true|name:Young Brass Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Brass Ear": {
@@ -1410,7 +1410,7 @@
 			"description": "<p>这种液体包含了青铜龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出青铜龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:line|distance:30] 的电击龙息，造成 [[/r {10d6}[electricity]]]{10d6 电击伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:37|basic:true|name:Wyrm Bronze Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Bronze Dragon's Breath Potion (Young)": {
-			"name": "少年青铜龙龙息药水 Bronze Dragon's Breath Potion (Young)",
+			"name": "青年青铜龙龙息药水 Bronze Dragon's Breath Potion (Young)",
 			"description": "<p>这种液体包含了青铜龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出青铜龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:line|distance:30] 的电击龙息，造成 [[/r {4d6}[electricity]]]{4d6 电击伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:23|basic:true|name:Young Bronze Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Bronze bowl with wave imagery": {
@@ -2170,7 +2170,7 @@
 			"description": "<p>这种液体包含了赤铜龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出赤铜龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:line|distance:30] 的强酸龙息，造成 [[/r {10d6}[acid]]]{10d6 酸液伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:37|basic:true|name:Wyrm Copper Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Copper Dragon's Breath Potion (Young)": {
-			"name": "少年赤铜龙龙息药水 Copper Dragon's Breath Potion (Young)",
+			"name": "青年赤铜龙龙息药水 Copper Dragon's Breath Potion (Young)",
 			"description": "<p>这种液体包含了赤铜龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出赤铜龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:line|distance:30] 的强酸龙息，造成 [[/r {4d6}[acid]]]{4d6 酸液伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:23|basic:true|name:Young Copper Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Copper Pieces": {
@@ -4238,7 +4238,7 @@
 			"description": "<p>这种液体包含了金龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出金龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:cone|distance:15] 的火焰龙息，造成 [[/r {10d6}[fire]]]{10d6 火焰伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:37|basic:true|name:Wyrm Gold Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Gold Dragon's Breath Potion (Young)": {
-			"name": "少年金龙龙息药水 Gold Dragon's Breath Potion (Young)",
+			"name": "青年金龙龙息药水 Gold Dragon's Breath Potion (Young)",
 			"description": "<p>这种液体包含了金龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出金龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:cone|distance:15] 的火焰龙息，造成 [[/r {4d6}[fire]]]{4d6 火焰伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:23|basic:true|name:Young Gold Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Gold Pieces": {
@@ -4394,7 +4394,7 @@
 			"description": "<p>这种液体包含了绿龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出绿龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:cone|distance:15] 的剧毒龙息，造成 [[/r {10d6}[poison]]]{10d6 毒素伤害}。每个区域内的生物都必须尝试一次 @Check[type:fortitude|dc:37|basic:true|name:Wyrm Green Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Green Dragon's Breath Potion (Young)": {
-			"name": "少年绿龙龙息药水 Green Dragon's Breath Potion (Young)",
+			"name": "青年绿龙龙息药水 Green Dragon's Breath Potion (Young)",
 			"description": "<p>这种液体包含了绿龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出绿龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:cone|distance:15] 的剧毒龙息，造成 [[/r {4d6}[poison]]]{4d6 毒素伤害}。每个区域内的生物都必须尝试一次 @Check[type:fortitude|dc:23|basic:true|name:Young Green Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Green Wyrmling Breath Potion": {
@@ -7314,7 +7314,7 @@
 			"description": "<p>这种液体包含了红龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出红龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:cone|distance:15] 的火焰龙息，造成 [[/r {10d6}[fire]]]{10d6 火焰伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:37|basic:true|name:Wyrm Red Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Red Dragon's Breath Potion (Young)": {
-			"name": "少年红龙龙息药水 Red Dragon's Breath Potion (Young)",
+			"name": "青年红龙龙息药水 Red Dragon's Breath Potion (Young)",
 			"description": "<p>这种液体包含了红龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出红龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:cone|distance:15] 的火焰龙息，造成 [[/r {4d6}[fire]]]{4d6 火焰伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:23|basic:true|name:Young Red Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Red-Rib Gill Mask (Greater)": {
@@ -8422,7 +8422,7 @@
 			"description": "<p>这种液体包含了银龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出银龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:cone|distance:15] 的寒冰龙息，造成 [[/r {10d6}[cold]]]{10d6 寒冷伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:37|basic:true|name:Wyrm Silver Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Silver Dragon's Breath Potion (Young)": {
-			"name": "少年银龙龙息药水 Silver Dragon's Breath Potion (Young)",
+			"name": "青年银龙龙息药水 Silver Dragon's Breath Potion (Young)",
 			"description": "<p>这种液体包含了银龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出银龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:cone|distance:15] 的寒冰龙息，造成 [[/r {4d6}[cold]]]{4d6 寒冷伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:23|basic:true|name:Young Silver Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Silver Ingot": {
@@ -10862,7 +10862,7 @@
 			"description": "<p>这种液体包含了白龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出白龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:cone|distance:15] 的寒冰龙息，造成 [[/r {10d6}[cold]]]{10d6 寒冷伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:37|basic:true|name:Wyrm White Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"White Dragon's Breath Potion (Young)": {
-			"name": "少年白龙龙息药水 White Dragon's Breath Potion (Young)",
+			"name": "青年白龙龙息药水 White Dragon's Breath Potion (Young)",
 			"description": "<p>这种液体包含了白龙的血。你饮下这瓶调和物之后的一小时内，你可以喷出白龙的吐息武器。吐息的效力基于药水的类型，是根据提供龙血的龙的年龄来决定的。药水拥有和吐息武器伤害类型一致的特征。</p>\n<p>释放龙息要花费一个动作。你喷出范围为 @Template[type:cone|distance:15] 的寒冰龙息，造成 [[/r {4d6}[cold]]]{4d6 寒冷伤害}。每个区域内的生物都必须尝试一次 @Check[type:reflex|dc:23|basic:true|name:Young White Dragon's Breath Potion] 豁免检定。</p>\n<p>使用了一次吐息武器之后，你在 [[/r 1d4 #rounds]]{1d4 轮}内无法再次使用。</p>"
 		},
 		"Wide landscape by an expert": {
