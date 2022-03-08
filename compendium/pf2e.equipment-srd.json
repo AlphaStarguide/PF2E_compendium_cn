@@ -570,8 +570,8 @@
 			"description": "<p>This is a long rifle that offers more range than the average firearm, though the long barrel and ferocious kickback make the weapon particularly unsteady unless a tripod or other stand is used to stabilize it. The arquebus is one of the most commonly used long guns among the soldiers of Dongun Hold and Alkenstar.</p>"
 		},
 		"Arrow-Catching Shield": {
-			"name": "Arrow-Catching Shield",
-			"description": "<p>This wooden shield (Hardness 10, HP 40, BT 20) is carved with images of overlapping fletched arrows.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">R</span> Interact</p>\n<p><strong>Trigger</strong> A ranged weapon Strike targets a creature within 15 feet of you when you have this shield raised, and the attacker has not yet rolled their attack</p>\n<p><strong>Effect</strong> The triggering Strike targets you instead of its normal target. If it hits, you gain the effects of the @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Shield Block} reaction.</p>"
+			"name": "吸矢盾 Arrow-Catching Shield",
+			"description": "<p>这面木盾（硬度6，HP24，BT12）上画着重叠着的箭羽的图案。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">R</span> 交互</p>\n<p><strong>触发</strong> 当你举起盾牌时，你15尺内的一位盟友正受到一次远程武器打击，且攻击者还未骰出攻击骰；</p>\n<p><strong>效果</strong> 触发的打击其攻击目标变为你而非正常目标。若命中，你会获得 @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{盾牌格挡 Shield Block}反应动作的效果。</p>"
 		},
 		"Arrows": {
 			"name": "箭 Arrows",
@@ -1094,8 +1094,8 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<p><strong>Duration</strong> 1 hour</p>\n<p>This wide, single-use mask is designed to be slipped over your mouth and nose and its alchemical filter activated all with one hand. Once activated, the mask sharpens odors, giving you imprecise scent a 30 foot range. You can't wear other masks while you're wearing a bloodhound mask.</p>\n<p>When you use Survival to @Compendium[pf2e.actionspf2e.EA5vuSgJfiHH7plD]{Track} a creature by its scent, your proficiency bonus is equal to your level even if you're untrained, and the mask grants you a +2 item bonus to your Survival check. The GM sets the Survival DC based on the area's ability to hold scent rather than on visual clues, as normal for using scent.</p>\n<p>@Compendium[pf2e.consumable-effects.wFF0SZs1Hcf87Kk1]{Effect: Bloodhound Mask (Moderate)}</p>"
 		},
 		"Bloodletting Kukri": {
-			"name": "Bloodletting Kukri",
-			"description": "<p>This <em>+1 striking</em> kukri has a crimson blade that shimmers eerily in bright light. On a critical hit, the kukri deals [[/r {1d8}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Bleed Damage}. If the target didn't already have persistent bleed damage when you scored the critical hit, you also gain 1d8 temporary Hit Points.</p>"
+			"name": "放血反曲刀 Bloodletting Kukri",
+			"description": "<p>这把+1强击反曲刀其刀身在亮光下映照出诡异的深红色。若重击成功，该反曲刀造成 [[/r {1d8}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续流血伤害}。若你在重击成功时若目标身上无持续性流血伤害，你还能获得1d8点临时生命值。</p>"
 		},
 		"Bloodseeker Beak": {
 			"name": "觅血者之针 Bloodseeker Beak",
@@ -1586,8 +1586,8 @@
 			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>在你消耗这瓶灵药之后，你的视线变得锐利，能够感知哪怕最为微小的运动。</p>\n<p>在接下来的一分钟，你瞄准藏匿（hidden）生物时进行的裸骰检定减少为5，而瞄准隐蔽（concealed）生物时则不需要进行裸骰检定。这些好处在对抗你周围30尺内的生物时才有效。</p>"
 		},
 		"Caterwaul Sling": {
-			"name": "Caterwaul Sling",
-			"description": "<p>Made of shiny brown leather, this +1 striking sling has a single white thread interwoven into its cord.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> Interact (sonic)</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You pull the white thread free, then whirl the sling in circles at high speed. It lets out an ear-piercing wave of sound. Each creature in a @Template[type:cone|distance:30] takes [[/r 4d6]] sonic damage (DC 21 basic Fortitude save). Any creature that fails is deafened for 1 round, or 1 hour on a critical failure.</p>"
+			"name": "尖叫投石索 Caterwaul Sling",
+			"description": "<p>以光泽明亮的棕皮制作，这件+1强击投石索用一根白色的线将皮革穿起来。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 交互 (音波)</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>效果</strong> 你空挥白线，将投石索回旋甩至最高速度。它会发出一股刺耳的尖叫， @Template[type:cone|distance:30] 内所有生物受到 [[/r 4d6]] 点音波伤害（DC21基础强韧豁免）。所有豁免失败的生物耳聋1轮，大失败则耳聋1小时。</p>"
 		},
 		"Cauldron of Nightmares": {
 			"name": "Cauldron of Nightmares",
@@ -1602,8 +1602,8 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<hr />\n<p>This small, clockwork torch device uses a trigger-operated sparker to ignite a flow of flammable gas, creating a short, hot flame capable of rapidly cauterizing wounds and helping to stop bleeding. The cauterizing torch is applied to yourself or an adjacent target. The target attempts an immediate flat check to end any persistent bleed effect with the lower DC for particularly effective assistance.</p>"
 		},
 		"Celestial Armor": {
-			"name": "Celestial Armor",
-			"description": "<p>This suit of +2 resilient chain mail is made of fine white links of a strange and slightly translucent pale metal, and the sleeves and skirt are fashioned into smaller trails that resemble feathers. Unlike normal chain mail, celestial armor has no Speed reduction, its armor check penalty is 0, and its Bulk is 1.</p>\n<p>You gain a +1 circumstance bonus to AC and saving throws against fiends. You appear radiant while you wear the armor, giving you a +2 item bonus to Diplomacy checks against all creatures except fiends.</p>\n<p>If you are not good, you are drained 2 while wearing <em>celestial armor</em>. You can't recover from this condition while wearing the armor.</p>\n<hr />\n<p><strong>Activate</strong> command</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> The armor sprouts glowing wings that grant you a fly Speed of 30 feet. The wings shed bright light in a 40-foot radius (and dim light to the next 40 feet). The wings fade away after 10 minutes.</p>\n<p>@Compendium[pf2e.equipment-effects.gDefAEEMXVVZgqXH]{Effect: Celestial Armor}</p>\n<hr />\n<p><strong>Craft Requirements</strong> You are good.</p>\n<p>Automatically applied effects:</p>\n<ul>\n<li>+1 circumstance bonus to AC and saving throws against fiends.</li>\n<li>+2 item bonus to Diplomacy checks against all creatures except fiends.</li>\n</ul>"
+			"name": "天界甲 Celestial Armor",
+			"description": "<p>这套+2抗力链甲衫是用一种奇妙的半透明灰色金属制成的白色链环织成，袖套和战裙装饰有羽毛状的流苏。和普通链甲衫不同，天界甲没有速度减值，护甲检定减值为0，负载为1。</p>\n<p>你对抗炼狱生物时AC和豁免骰会获得+1环境加值。穿戴该护甲时你看上去在发光，对所有非炼狱生物的交涉检定获得+2物品加值。</p>\n<p>若你非善良阵营，穿戴天界甲会事你获得drained2状态。只要穿戴该护甲，你就无法移除该状态。</p>\n<hr />\n<p><strong>启动</strong> 命令</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>效果</strong> 护甲背部长出光之翼，给与你30尺飞行速度。该翅膀发出半径40尺的明亮光芒（向外40尺则为昏暗光）。该翅膀10分钟后黯淡消失。</p>\n<p>@Compendium[pf2e.equipment-effects.gDefAEEMXVVZgqXH]{效果：天界甲}</p>\n<hr />\n<p><strong>制造需求</strong> 你需为善良阵营。</p>\n<p>自动生效:</p>\n<ul>\n<li>你对抗炼狱生物时AC和豁免骰获得+1环境加值。</li>\n<li>对所有非炼狱生物的交涉检定获得+2物品加值。</li>\n</ul>"
 		},
 		"Celestial Hair": {
 			"name": "Celestial Hair",
@@ -2382,8 +2382,8 @@
 			"description": "<p>This tiny serrated dagger looks like a miniature sawtooth sabre. Until activated, it is too small and ornamental to function as a weapon, which might allow it to be passed off as a weapon-shaped decoration.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p><strong>Effect</strong> You transform the dagger of eternal sleep into a +1 @Compendium[pf2e.equipment-srd.qUnDHEXteUQGE8yp]{Grievous} striking dagger and Strike an unconscious target with the dagger.</p>\n<p>If you are not in an encounter or otherwise threatened and you roll a hit with your Strike, you get a critical hit instead. The damage from the Strike and the bleed from the critical specialization effect do not awaken the target, though the target becomes temporarily immune to this effect until the next time it wakes up, meaning further daggers of eternal sleep awaken it as normal. The dagger disintegrates immediately after use.</p>"
 		},
 		"Dagger of Venom": {
-			"name": "Dagger of Venom",
-			"description": "<p>The serrated blade of this <em>+1 striking</em> dagger has a greenish tinge, and the hilt is sculpted to look like the head of a serpent about to strike.</p>\n<p>When you critically succeed at an attack roll with the dagger of venom, the target becomes sickened 1 unless it succeeds at a DC 19 Fortitude save. This is a poison effect.</p>\n<p>In addition, you can activate the dagger to poison a creature with a more potent poison.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Interact</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> You damage a creature with the <em>dagger of venom</em></p>\n<p><strong>Effect</strong> You poison the creature you hit with dagger venom.</p>\n<p><strong>Dagger Venom</strong> (poison)</p>\n<p><strong>Saving Throw</strong> Fortitude DC 21</p>\n<p><strong>Maximum Duration</strong> 4 rounds.</p>\n<p><strong>Stage 1</strong> 1d8 poison damage and enfeebled 1.</p>"
+			"name": "剧毒匕首 Dagger of Venom",
+			"description": "<p>这把锯齿刃的+1强击匕首刀身墨绿，刀柄雕成张牙舞爪的蛇头一般。</p>\n<p>当用剧毒匕首攻击成功重击时，目标需通过DC19的强韧豁免，否则获得恶心1（sickened）。这是一个毒素效果。</p>\n<p>另外，你可以启动匕首制作更有效的毒素来下毒。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 交互</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>触发</strong> 你用剧毒匕首伤害一个生物；</p>\n<p><strong>效果</strong> 你使命中的生物感染匕首剧毒。</p>\n<p><strong>匕首剧毒 Dagger Venom</strong> (毒素)</p>\n<p><strong>豁免检定</strong> 强韧 DC 21</p>\n<p><strong>最大持续时间</strong> 4 轮</p>\n<p><strong>阶段 1</strong> 1d8点毒素伤害和力竭1（enfeebled）。</p>"
 		},
 		"Daikyu": {
 			"name": "Daikyu",
@@ -2550,8 +2550,8 @@
 			"description": "<p>A <em>demolishing</em> weapon is made to destroy constructs. Damage inflicted on a construct with a demolishing weapon continues to spread throughout the creature-cracks form, linkages fail, surfaces erode-and otherwise dismantle its body. When you damage a construct using a <em>demolishing</em> weapon, you deal an extra [[/r {1d6}[persistent,force]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Force Damage}. On a critical hit, you deal an extra [[/r {1d12}[persistent,force]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Force Damage} instead</p>"
 		},
 		"Demon Armor": {
-			"name": "Demon Armor",
-			"description": "<p>Crafted from black iron, this crude suit of +2 resilient full plate is designed to make you look like a horned demon, with your face peering out of the screaming maw of the beast.</p>\n<p>While wearing the armor, you can attack with the helmet's horns. They are a martial melee weapon with the effects of a <em>+2 weapon potency rune</em>. They deal 2d8 piercing damage and have the deadly d12 trait. On a critical hit with the horns, the target must attempt a DC 30 Fortitude save against the Abyssal plague disease. The horns can't be etched with any runes.</p>\n<p>If you aren't evil, you're drained 2 and can't recover from this condition while wearing <em>demon armor</em>.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> Command</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You cast <em>@Compendium[pf2e.spells-srd.VlNcjmYyu95vOUe8]{Dimension Door}</em>.</p>\n<p><strong>Craft Requirements</strong> You are evil; supply one casting of <em>dimension door</em>.</p>"
+			"name": "恶魔甲 Demon Armor",
+			"description": "<p>黑铁锻造，这套+2抗力全身甲被设计成让穿戴者看上去如同长角恶魔一般，脸会从兽型头盔中伸出。</p>\n<p>穿戴该护甲时，你可用头盔的角攻击。这是一个拥有+2武器潜力符文效果的军用近战武器。它造成2d8点穿刺伤害并且有致命d12特征。用角重击成功时，目标必须通过DC30强韧豁免检定，否则感染深渊瘟疫Abyssal plague。该角无法蚀刻任何符文。</p>\n<p>若你非邪恶阵营，穿戴恶魔甲会事你获得drained2状态。只要穿戴该护甲，你就无法移除该状态。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 命令</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>效果</strong> 你施放 <em>@Compendium[pf2e.spells-srd.VlNcjmYyu95vOUe8]{任意门 Dimension Door}</em>法术。</p>\n<p><strong>制造需求</strong> 你需为邪恶阵营；提供一次任意门的施法。</p>"
 		},
 		"Demon Dust": {
 			"name": "Demon Dust",
@@ -2850,16 +2850,16 @@
 			"description": "<p>Dragonhide shields are each immune to one damage type based on the type of dragon.</p>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>Dragon Type</th>\n<th>Immunity</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Black or copper</td>\n<td>acid</td>\n</tr>\n<tr>\n<td>Blue or bronze</td>\n<td>electricity</td>\n</tr>\n<tr>\n<td>Brass, Red, or Gold</td>\n<td>fire</td>\n</tr>\n<tr>\n<td>Green</td>\n<td>poison</td>\n</tr>\n<tr>\n<td>Silver or white</td>\n<td>cold</td>\n</tr>\n</tbody>\n</table>\n<p>The shield has Hardness 4, HP 16, and BT 8.</p>\n<p><strong>Craft Requirements</strong> dragonhide worth at least 55 gp</p>"
 		},
 		"Dragonplate": {
-			"name": "Dragonplate",
-			"description": "<p>This suit of +2 greater resilient dragonhide full plate makes you look like a fearsome dragon. The armor comes in 10 varieties corresponding to the 10 common dragon types, though other varieties undoubtedly exist.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> Interact</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You unleash a bout of dragon breath with a shape, damage type, and saving throw corresponding to the type of dragon used to make the armor (shown on the table below). The breath weapon deals 14d6 damage; each creature in the area must attempt a DC 36 basic saving throw.</p>\n<hr />\n<p><strong>Craft Requirements</strong> The initial raw materials must include 1,250 gp of dragonhide.</p>"
+			"name": "龙鳞甲 Dragonplate",
+			"description": "<p>这套+2高等抗力龙革全身甲，让穿戴者如同怒龙降世。基于10种常见龙的类型，该护甲也有10种不同的类型，不过其它类型也应该存在。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 交互</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>效果</strong> 你喷涂出龙息，根据龙革出处类型来决定龙息的形态、伤害类型和需豁免骰。该龙息喷吐武器造成14d6点伤害；所有区域内的生物需要进行DC36的基础豁免检定。</p>\n<hr />\n<p><strong>制造需求</strong> 原材料必须包含1250gp的龙革。</p>"
 		},
 		"Dragonscale Amulet": {
 			"name": "Dragonscale Amulet",
 			"description": "<p>This amulet is made from the scales of five ancient dragons. You gain resistance 5 to acid, cold, electricity, fire, and poison. If you take damage of one of these types from a dragon's Breath Weapon, the amulet begins to glow brightly; for the next 10 minutes, your resistance against that type of damage increases to 20. If you are subjected to a dragon's frightful presence, you can roll your saving throw twice and use the higher result to determine the aura's effects. This is a fortune effect.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> command</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You exude an aura that terrifies all foes in a 60-foot radius, as the frightful presence ability with a @Check[type:will|dc:34] save.</p>"
 		},
 		"Dragonslayer's Shield": {
-			"name": "Dragonslayer's Shield",
-			"description": "<p>A <em>dragonslayer's shield</em> is a steel shield covered with dragonhide from a certain type of dragon, which distinguishes each shield from the others. While raised, this steel shield (Hardness 8, HP 32, BT 16) grants its circumstance bonus to Reflex saves against area effects (as well as to AC, as normal).</p>\n<p>While you hold the shield, it also grants you a +2 circumstance bonus to Will saves against a dragon's frightful presence ability. The shield has resistance 10 against the damage type corresponding to the type of dragon whose hide was used in its creation; this applies after reducing the damage for Hardness, so when you use Shield Block, the <em>dragonslayer's shield</em> takes 18 less damage from attacks of that damage type. You can use Shield Block against attacks that deal damage of that type.</p>\n<h2>Dragon's Breath Potion</h2>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>Dragon Type</th>\n<th>Breath Weapon (Save)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Black or copper</td>\n<td>30-foot line of acid (Reflex)</td>\n</tr>\n<tr>\n<td>Blue or bronze</td>\n<td>30-foot line of electricity (Reflex)</td>\n</tr>\n<tr>\n<td>Brass</td>\n<td>30-foot line of fire (Reflex)</td>\n</tr>\n<tr>\n<td>Green</td>\n<td>15-foot cone of poison (Fortitude)</td>\n</tr>\n<tr>\n<td>Gold or red</td>\n<td>15-foot cone of fire (Reflex)</td>\n</tr>\n<tr>\n<td>Silver or white</td>\n<td>15-foot cone of cold (Reflex)</td>\n</tr>\n</tbody>\n</table>"
+			"name": "屠龙盾 Dragonslayer's Shield",
+			"description": "<p>屠龙盾是一面复盖有特定类型龙革的铁盾，每一面屠龙盾都有差异。当举起它时，这面铁盾（硬度8，HP32，BT16）将举盾给与AC的环境加值添加到你对抗区域效果的反射豁免上。</p>\n<p>当你持握该盾牌时，在对抗龙的气势凶猛（frightful presence）能力的意志豁免会获得+2环境加值。根据制作这面盾时复盖其上的龙革类型，该盾牌会获得对应伤害类型的10点抗力（见龙革）；该抗力在硬度减伤完后生效，因此当你盾牌格挡时，屠龙盾对对应类型的伤害可以减少18点。你能对造成该类型伤害的攻击使用盾牌格挡。</p>\n<h2>龙息药水 Dragon's Breath Potion</h2>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>龙的类型</th>\n<th>吐息武器（豁免）</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>黑龙或赤铜龙</td>\n<td>３０尺直线酸液（反射）</td>\n</tr>\n<tr>\n<td>蓝龙或青铜龙</td>\n<td>３０尺直线电击（反射）</td>\n</tr>\n<tr>\n<td>黄铜龙</td>\n<td>３０尺直线火焰（反射）</td>\n</tr>\n<tr>\n<td>绿龙</td>\n<td>１５尺锥形毒素（强韧）</td>\n</tr>\n<tr>\n<td>金龙或红龙</td>\n<td>１５尺锥形火焰（反射）</td>\n</tr>\n<tr>\n<td>银龙或白龙</td>\n<td>１５尺锥形寒冷（反射）</td>\n</tr>\n</tbody>\n</table>"
 		},
 		"Drake Rifle (Acid)": {
 			"name": "Drake Rifle (Acid)",
@@ -3010,8 +3010,8 @@
 			"description": "<p>A favored weapon of dwarf scouts from Dongun Hold, the dwarven scattergun is a powerful weapon designed to take advantage of a dwarf's sturdy frame. A dwarven scattergun fires a large paper cartridge stuffed with black powder and knuckle-sized lumps of metal, creating a devastating burst so destructive that a foolish dwarf might find themself catching painful ricochets when firing at a too-close target. Some scatterguns are crafted with a clockwork firing tray that can quickly sort and load black powder and shot without needing a prepackaged cartridge, though this is largely an aesthetic feature with no real mechanical benefit.</p>"
 		},
 		"Dwarven Thrower": {
-			"name": "Dwarven Thrower",
-			"description": "<p>This +2 striking warhammer is inlaid with precious metals and decorated with geometric patterns in a dwarven style. If you're a dwarf, a dwarven thrower functions for you as a +2 greater striking returning warhammer with the thrown 30 feet trait, and your attacks with the hammer deal 1d8 additional damage against giants.</p>"
+			"name": "矮人投锤 Dwarven Thrower",
+			"description": "<p>这柄+2强击战锤嵌有珍贵的金属，雕刻有矮人风格的几何图案。若你为矮人，矮人投锤可如同+2高等强击回返战锤一般使用，拥有投掷30尺特征，且你用该战锤对巨人造成额外1d8点伤害。</p>"
 		},
 		"Dwarven War Axe": {
 			"name": "矮人战斧 Dwarven War Axe",
@@ -3070,8 +3070,8 @@
 			"description": "<p>This stone tablet is carved with the symbol of a five-branched twig. There are only a limited number of elder signs, and each time one is destroyed, the universe's doom creeps inexorably closer. Reciting one of three different occult mantras (DC 20 Occultism check to do so correctly) allows three different activations. All three abilities work only on a creature connected to the Elder Mythos or a cosmic horror, such as a wendigo or gug; the activations refer to them as \"eldritch creatures.\"</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> command, envision, Interact</p>\n<p><strong>Effect</strong> The <em>elder sign</em> casts a 10th-level banishment spell on an eldritch creature. Even if the creature isn't extraplanar, the <em>elder sign</em> can still banish it, sending it back to the part of the Material Plane from which it originated. If the creature is a Great Old One, the <em>elder sign</em> banishes it automatically (as if it critically failed its save) but is then forever destroyed.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> command, envision, Interact</p>\n<p><strong>Effect</strong> The <em>elder sign</em> casts dispel magic on an effect from an eldritch creature, using a counteract level of 10 and +30 modifier for the roll.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> command, envision, Interact</p>\n<p><strong>Effect</strong> The <em>elder sign</em> casts dimensional lock, though it wards against travel by only eldritch creatures. Each time the <em>elder sign</em> casts <em>dimensional lock</em> in this way, the previous <em>dimensional lock</em> spell ends.</p>\n<p><strong>Destruction</strong> The only way to destroy an <em>elder sign</em> is to use it to banish a Great Old One.</p>"
 		},
 		"Electric Eelskin": {
-			"name": "Electric Eelskin",
-			"description": "<p>Shining, slippery eelskin covers the plates of this +1 resilient greater slick leather armor. The armor gives you the ability to breathe water and grants you a +2 item bonus to Athletics checks to Swim and Stealth checks you attempt in the water.</p>\n<hr />\n<p><strong>Activate</strong><span class=\"pf2-icon\">D</span>Command, Interact</p>\n<p><strong>Frequency</strong> once per hour</p>\n<p><strong>Effect</strong> You cast a 2nd-level <em>@Compendium[pf2e.spells-srd.r3NeUnsgt9mS03Sn]{Shocking Grasp}</em> with a DC of 29.</p>\n<hr />\n<p><strong>Craft Requirements</strong> Supply one casting of <em>shocking grasp</em>.</p>\n<p>Automatically applied effects:</p>\n<ul>\n<li>+2 item bonus to Athletics checks to Swim</li>\n<li>+2 item bonus to Stealth checks you attempt in the water</li>\n</ul>"
+			"name": "斥电鳗皮 Electric Eelskin",
+			"description": "<p>这种将滑溜的鳗皮复盖全身的护甲是+1抗力高等滑溜皮甲。该护甲给你水下呼吸的能力，以及在水中进行的游泳和潜行动作检定+2物品加值。</p>\n<hr />\n<p><strong>启动</strong><span class=\"pf2-icon\">D</span> 命令, 交互</p>\n<p><strong>频率</strong> 每小时一次</p>\n<p><strong>效果</strong> 你施放1个2环 <em>@Compendium[pf2e.spells-srd.r3NeUnsgt9mS03Sn]{电爪术 Shocking Grasp}</em>，DC为29。</p>\n<hr />\n<p><strong>制造需求</strong> 提供1次电爪术的施法。</p>\n<p>自动生效:</p>\n<ul>\n<li>在水中进行的游泳检定+2物品加值</li>\n<li>在水中进行的潜行检定+2物品加值</li>\n</ul>"
 		},
 		"Electrocable": {
 			"name": "Electrocable",
@@ -3594,8 +3594,8 @@
 			"description": "<p>You tap into the fiendish ability to slip through space. When you Stride, you gain a +3 item bonus to Armor Class against reactions triggered by your movement. Once per day, from any distance, Abrogail Thrune II can call on a provision in your Thrune contract as a single action, causing you to become <em>paralyzed </em>for 1 hour or until Abrogail releases you, whichever comes first.</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">2</span> command</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You recite a subclause of your contract regarding change in venue. You cast dimension <em>door.</em> The space you leave and the one you appear in are filled with the scent of brimstone, dealing 2d6 evil damage to creatures adjacent to both spaces.</p>"
 		},
 		"Fighter's Fork": {
-			"name": "Fighter's Fork",
-			"description": "<p>This +1 trident, usually engraved with a decorative pattern resembling fish scales, is a common weapon among warriors of aquatic ancestries.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p><strong>Effect</strong> You extend or shorten the trident's haft. When extended, the trident requires two hands to wield and gains the reach trait, but loses the trident's normal thrown trait.</p>"
+			"name": "斗士三叉矛 Fighter's Fork",
+			"description": "<p>这柄+1三叉戟通常刻有鱼鳞状的纹路，对于水生族裔的战士来说是常见的武器。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p><strong>效果</strong> 你伸长或缩短三叉戟的握杆。伸长时，它需要双手持握使用，获得长触及特征，但会失去三叉戟正常的投掷特征。</p>"
 		},
 		"Fighting Fan": {
 			"name": "Fighting Fan",
@@ -3706,12 +3706,12 @@
 			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 想象</p>\n<p><strong>需求</strong> 你在意志豁免中达到专家</p>\n<p>这颗古铜辉石切割成了椭圆形，且两头削尖。其中雕刻着火焰的图纹，并通常佩戴在心脏位置。你每天只能启动焰心宝玉一次。</p>\n<p>当你启动这颗宝玉，你获得战士职业专长 @Compendium[pf2e.feats-srd.wdkbfWKEjAFXAxto]{毅力 Determination} 的效果，反制调整值是+22。如果你有毅力专长且自己的反制调整值更高，你可以使用自己的调整值。</p>"
 		},
 		"Flame Tongue": {
-			"name": "Flame Tongue",
-			"description": "<p>This +2 greater striking @Compendium[pf2e.equipment-srd.XszNvxnymWYRaoTp]{Flaming} longsword has an ornate brass hilt and a blade shaped like stylized flames. When wielded, the blade projects illumination resembling shimmering firelight, emitting dim light in a 10-foot radius.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> command, Interact</p>\n<p><strong>Effect</strong> You cast the <em>@Compendium[pf2e.spells-srd.O9w7r4BKgPogYDDe]{Produce Flame}</em> cantrip from the sword as a 7th-level arcane spell, using your melee attack modifier with <em>flametongue</em> as your spell attack modifier.</p>"
+			"name": "炎舌 Flame Tongue",
+			"description": "<p>这把+2高等强击 @Compendium[pf2e.equipment-srd.XszNvxnymWYRaoTp]{炽焰 Flaming}长剑有着华贵的青铜柄和火焰形状的剑刃。持握它时，剑刃发出淡淡的火光，提供10尺半径的昏暗光。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 命令, 交互</p>\n<p><strong>效果</strong> 你通过剑施放7环的奥术 <em>@Compendium[pf2e.spells-srd.O9w7r4BKgPogYDDe]{燃火术 Produce Flame}</em>，使用你用炎舌进行攻击的近战攻击调整值作为你的法术攻击调整值。</p>"
 		},
 		"Flame Tongue (Greater)": {
-			"name": "Flame Tongue (Greater)",
-			"description": "<p>This +3 greater striking @Compendium[pf2e.equipment-srd.XszNvxnymWYRaoTp]{Flaming} longsword has an ornate brass hilt and a blade shaped like stylized flames. When wielded, the blade projects illumination resembling shimmering firelight, emitting dim light in a 10-foot radius.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> command, Interact</p>\n<p><strong>Effect</strong> You cast the <em>@Compendium[pf2e.spells-srd.O9w7r4BKgPogYDDe]{Produce Flame}</em> cantrip from the sword as a 9th-level arcane spell, using your melee attack modifier with <em>flametongue</em> as your spell attack modifier.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> command</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> A @Template[type:emanation|distance:10] of flame radiates from the <em>greater flame tongue</em> for 1 minute. All weapon and unarmed attacks by you and your allies within the area gain the effect of the <em>flaming</em> property rune.</p>"
+			"name": "高等炎舌 Flame Tongue (Greater)",
+			"description": "<p>这把+3高等强击高等炽焰长剑有着华贵的青铜柄和火焰形状的剑刃。持握它时，剑刃发出淡淡的火光，提供10尺半径的昏暗光。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 命令, 交互</p>\n<p><strong>效果</strong> 你通过剑施放9环的奥术 <em>@Compendium[pf2e.spells-srd.O9w7r4BKgPogYDDe]{燃火术 Produce Flame}</em>，使用你用炎舌进行攻击的近战攻击调整值作为你的法术攻击调整值。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 命令</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>效果</strong> A @Template[type:emanation|distance:10] 范围被高等炎舌的火光笼罩。范围内你和所有盟友的所有武器与无武装攻击获得炽焰性能符文的效果。</p>"
 		},
 		"Flaming": {
 			"name": "Flaming",
@@ -3794,12 +3794,12 @@
 			"description": "<p>Though less accurate and powerful than a flintlock musket, the flintlock pistol is a preferred weapon of privateers thanks to its more compact size and affordability. Pirate captains often wear a brace of such pistols in a bandolier so they can draw and fire without stopping to reload.</p>"
 		},
 		"Floating Shield": {
-			"name": "Floating Shield",
-			"description": "<p>A <em>floating shield</em> is usually carved with wing motifs. This buckler (Hardness 6, HP 24, BT 12) can protect you on its own.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> The shield magically releases itself and floats off your arm into the air next to you, granting you its bonus automatically, as if you had Raised the Shield.</p>\n<p>Because you're not wielding the shield, you can't use reactions such as Shield Block with the shield, but you gain its benefits even when using both of your hands.</p>\n<p>After 1 minute, the shield drops to the ground, ending its floating effect. While the shield is adjacent to you, you can Interact to grasp it, ending its floating effect early.</p>"
+			"name": "浮空盾 Floating Shield",
+			"description": "<p>浮空盾上通常画有翅膀图案。这面小圆盾（硬度6，HP24，BT12）能够自动对你展开保护。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>效果</strong> 盾牌用魔法飞离你的手臂，在你四周空中环绕飞行，自动为你提供其加值，如同你已举起盾牌一般。</p>\n<p>因你没有持握盾牌，因此你无法用该盾牌使用盾牌格挡反应动作，不过你能在两手皆用的情况下获得其常规效果。</p>\n<p>1分钟后，浮空盾掉落在地，浮空效果结束。当浮空盾浮空邻接你时，你可用交互动作抓住它，提前结束浮空效果。</p>"
 		},
 		"Floating Shield (Greater)": {
-			"name": "Floating Shield (Greater)",
-			"description": "<p>A <em>floating shield</em> is usually carved with wing motifs. This buckler (Hardness 6, HP 24, BT 12) can protect you on its own.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p><strong>Frequency</strong> any number of times per day</p>\n<p><strong>Effect</strong> The shield magically releases itself and floats off your arm into the air next to you, granting you its bonus automatically, as if you had Raised the Shield. Because you're not wielding the shield, you can't use reactions such as Shield Block with the shield, but you gain its benefits even when using both of your hands. After 1 minute, the shield drops to the ground, ending its floating effect. While the shield is adjacent to you, you can Interact to grasp it, ending its floating effect early.</p>"
+			"name": "高等浮空盾 Floating Shield (Greater)",
+			"description": "<p>浮空盾上通常画有翅膀图案。这面小圆盾（硬度6，HP24，BT12）能够自动对你展开保护。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p><strong>频率</strong> 不限</p>\n<p><strong>效果</strong> 盾牌用魔法飞离你的手臂，在你四周空中环绕飞行，自动为你提供其加值，如同你已举起盾牌一般。</p>\n<p>因你没有持握盾牌，因此你无法用该盾牌使用盾牌格挡反应动作，不过你能在两手皆用的情况下获得其常规效果。</p>\n<p>1分钟后，浮空盾掉落在地，浮空效果结束。当浮空盾浮空邻接你时，你可用交互动作抓住它，提前结束浮空效果。</p>"
 		},
 		"Floorbell": {
 			"name": "Floorbell",
@@ -3846,8 +3846,8 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<hr />\n<p>These savory breaded snacks stuffed with cheese, peppers, and \"secret ingredients\" of draconic or demonic origin are often offered alongside a challenge-complete a full portion and get a free drink. For 1 hour after consuming follypops, your stomach gurgles and rumbles with magical potential. During this time, you can unleash magic in the area up to three times as a single action, which has the concentrate trait, with an area and damage determined by the type of pop; the third time you use this magic, the effects of your <em>follypops</em> end. All creatures within the area must attempt a DC 27 basic saving throw each time you unleash magic, as noted by the type of pop.</p>\n<hr />\n<p><strong>Type</strong> hotpops</p>\n<p>You begin to sweat profusely after consuming the serving. When you unleash magic, you breathe out a blast of fire in a @Template[type:cone|distance:15]. Creatures in the cone take [[/r {4d6}[fire] #first blast]]{4d6 fire damage} with the first blast, [[/r {2d6}[fire] #second blast]]{2d6 fire damage} with the second blast, and [[/r {1d6}[fire] #third blast]]{1d6 fire damage} with the final blast. The creatures must attempt a @Check[type:reflex|dc:27|basic:true|name:Hotpops Follypop|traits:uncommon,fire|showDC:all] for each blast.</p>\n<hr />\n<p><strong>Type</strong> rotters</p>\n<p>Your breath smells of rotting garbage after you consume the serving. When you unleash magic, you exhale a noxious breath in a @Template[type:cone|distance:15]. Creatures in the cone take [[/r {4d6}[poison] #first blast]]{4d6 poison damage} with the first breath, [[/r {2d6}[poison] #second blast]]{2d6 poison damage} with the second breath, and [[/r {1d6}[poison] #third blast]]{1d6 poison damage} with the final breath. The creatures must attempt a @Check[type:fortitude|dc:27|basic:true|name:RottersFollypop|traits:uncommon,poison|showDC:all] for each breath.</p>\n<hr />\n<p><strong>Type</strong> sizzlers</p>\n<p>Your skin crawls and your hair stands on end after consuming the serving. When you unleash magic, you release a bolt of lightning from your hand that travels in a @Template[type:line|distance:30]. The first bolt deals [[/r {2d12}[electricity] #first jolt]]{2d12 electricity damage}, the second [[/r {1d12}[electricity] #second jolt]]{1d12 electricity damage}, and the third [[/r {1d6}[electricity] #third jolt]]{1d6 electricity damage}. The targeted creatures must attempt a @Check[type:reflex|dc:27|basic:true|name:Sizzlers Follypop|traits:uncommon,electricity|showDC:all] for each bolt.</p>"
 		},
 		"Force Shield": {
-			"name": "Force Shield",
-			"description": "<p>The edges of this elaborately engraved steel shield (Hardness 8, HP 32, BT 16) bear tiny glass tiles set in mosaic patterns.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> command</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> The shield surrounds you with a bubble of force that protects you from harm, granting you resistance 5 to physical damage for 1 minute. The bubble disappears if you cease holding the shield.</p>"
+			"name": "力能盾 Force Shield",
+			"description": "<p>这面精心锻造的铁盾（硬度8，HP32，BT16）边缘镶嵌有彩色式样的小玻璃块。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 命令</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>效果</strong> 力能盾在你周围张开一层力场泡来保护你，在1分钟内提供5点物理伤害抗力。力场泡在你不再手持力能盾后消失。</p>"
 		},
 		"Force Tiles": {
 			"name": "Force Tiles",
@@ -3858,8 +3858,8 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<p>Activating this vial of colorless liquid requires inserting a small amount of another chemical or material, such as blood or mud. The vial reacts rapidly, transforming into a murky, reddish-brown substance.</p>\n<p>Once activated, the dye remains potent for up to 10 minutes, during which time you can spend 1 minute to brush it onto a single object of up to 1 Bulk or across the ground in a single 5-foot square. Where the dye comes in contact with an exact match for the activating chemical, it takes on a bright blue hue, while staying transparent in areas where there is no activating component present.</p>"
 		},
 		"Forge Warden": {
-			"name": "Forge Warden",
-			"description": "<p>The religious symbol of Torag, the forge god-an ornate hammer of dwarven construction-adorns the face of this steel shield (Hardness 6, HP 24, BT 12). The shield is a religious symbol of Torag.</p>\n<p>You and any adjacent allies have fire resistance 5 while you have the shield raised. When used for a Shield Block, the <em>forge warden</em> rings out like the hammer strike of a blacksmith, and the symbol glows as if lit by the fires of a furnace.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> command (fire)</p>\n<p><strong>Trigger</strong> You use the forge warden to Shield Block an adjacent creature's attack and the shield takes damage</p>\n<p><strong>Effect</strong> The attacking creature takes 2d6 fire damage.</p>"
+			"name": "熔炉守卫 Forge Warden",
+			"description": "<p>锻造之神托拉格的印记——一柄矮人式样战锤——雕刻在这面铁盾（硬度6，HP24，BT12）正面。这面盾是托拉格的圣徽。</p>\n<p>当你举起该盾时，你和邻接你的盟友获得5点火焰抗力。当你使用盾牌格挡时，熔炉守卫发出如同锤打在铁毡上的声音，圣徽如同点燃的火炉般闪亮。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 命令 (火)</p>\n<p><strong>触发</strong> 你用熔炉守卫盾牌格挡了邻接敌人的攻击且盾受到了伤害</p>\n<p><strong>效果</strong> 攻击者受到2d6点火焰伤害。</p>"
 		},
 		"Forgefather's Seal": {
 			"name": "Forgefather's Seal",
@@ -3926,8 +3926,8 @@
 			"description": "<p>This weapon is empowered with freezing ice. It deals an additional 1d6 cold damage on a successful Strike.</p>\n<p>On a critical hit, the target is also @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Slowed 1} until the end of your next turn unless it succeeds at a @Check[type:fortitude|dc:34|name:Frost Rune|showDC:all] save.</p>\n<p>Cold damage dealt by this weapon ignores the target's cold resistance.</p>"
 		},
 		"Frost Brand": {
-			"name": "Frost Brand",
-			"description": "<p>The blade of this +2 greater striking @Compendium[pf2e.equipment-srd.Sexud7FdxIrg50vU]{Frost (Greater)} greatsword appears to be nothing but icy shards. The frost brand automatically extinguishes non-magical fires in a @Template[type:emanation|distance:20]. While wielding it, you gain fire resistance 5.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> command, Interact</p>\n<p><strong>Effect</strong> You swing the <em>frost brand</em> into the area of an ongoing magical fire, and the blade attempts to counteract the fire with a counteract modifier of +27. If it fails, it can't attempt to counteract the same fire again.</p>"
+			"name": "霜烙 Frost Brand",
+			"description": "<p>这柄+2高等强击高等 @Compendium[pf2e.equipment-srd.Sexud7FdxIrg50vU]{Frost (Greater)} greatsword appears to be nothing but icy shards. The frost brand automatically extinguishes non-magical fires in a @Template[type:emanation|distance:20]. While wielding it, you gain fire resistance 5.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> command, Interact</p>\n<p><strong>Effect</strong> You swing the <em>frost brand</em> into the area of an ongoing magical fire, and the blade attempts to counteract the fire with a counteract modifier of +27. If it fails, it can't attempt to counteract the same fire again.</p>"
 		},
 		"Frost Vial (Greater)": {
 			"name": "高等霜冻瓶 Frost Vial (Greater)",
@@ -4114,8 +4114,8 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">f</span> envision</p>\n<p><strong>Trigger</strong> You attempt a ranged Strike with the affixed weapon while hidden or undetected.</p>\n<hr />\n<p>This long strip of linen is tightly wound around the barrel of the affixed firearm or the grip of a bow. When activated, the talisman's magic dampens the sound of the triggering shot, rendering it completely silent, and additionally skews the angle of the shot, so it appears to come from a different location and direction than your actual position. You don't become automatically observed to any creatures due to making the triggering Strike.</p>"
 		},
 		"Ghoul Hide": {
-			"name": "Ghoul Hide",
-			"description": "<p>Stitched together from pieces of ghoul skin, this suit of <em>+1 </em><em>hide armor </em>grants you a +1 item bonus to saving throws against disease and paralysis and makes you immune to the paralysis of ghouls. <em>Ghoul hide</em> with a <em>resilient rune</em> increases the resilient rune's item bonus to saving throws against disease and paralysis by 1 (maximum +4).</p>\n<p><em>Ghoul hide</em> hisses with sibilant hatred at the touch of elves. When worn by a creature with the elf trait, the armor gains the noisy trait.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+1 item bonus to saving throws against disease and paralysis </li>\n</ul>"
+			"name": "尸鬼皮甲 Ghoul Hide",
+			"description": "<p>通过将食尸鬼皮一块块缝合而成，这套+1革甲使你对抗疾病和麻痹时的豁免检定获得+1物品加值，且你免疫食尸鬼的麻痹。尸鬼皮甲若蚀刻有抗力符文，上述对疾病和麻痹的物品加值会增加对应抗力符文所提升的数值（因此该对疾病与麻痹的加值最高为+4）。</p>\n<p>食尸鬼抗拒精灵的触摸，发出嘶嘶作响。若穿戴者拥有精灵特征，该护甲就会获得嘈杂（Noisy）特征。</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>对抗疾病和麻痹时的豁免检定获得+1物品加值</li>\n</ul>"
 		},
 		"Giant Centipede Venom": {
 			"name": "巨蜈蚣毒 Giant Centipede Venom",
@@ -4906,8 +4906,8 @@
 			"description": "<p>This rune thrums with pure magical energy. Weapons with the rune deal an additional 1d6 force damage on a successful Strike. On a critical hit, you can choose to force the target to succeed at a @Check[type:fortitude|dc:37|name:Resist Force Push|showDC:all] save or be pushed 10 feet away from you.</p>"
 		},
 		"Impenetrable Scale": {
-			"name": "Impenetrable Scale",
-			"description": "<p>Made of overlapping, lustrous black scales of standard-grade adamantine, this +2 greater resilient @Compendium[pf2e.equipment-srd.8buhFcGwuaJRrp0y]{Fortification} adamantine scale mail seems to momentarily thicken at the point of impact when hit.</p>\n<p>Whenever the armor's fortification rune successfully turns a significant foe's critical hit into a normal hit, one of the scales on the armor turns violet. You gain resistance to physical damage equal to the number of violet scales, to a maximum of 8.</p>\n<p>At dawn each day, all the violet scales return to normal.</p>\n<hr />\n<p><strong>Craft Requirements</strong> The initial raw materials must include 1,600 gp of adamantine.</p>"
+			"name": "不破鳞甲 Impenetrable Scale",
+			"description": "<p>用多层标准纯度的黑光精金甲片重叠锻打而成，这件+2高等抗力 @Compendium[pf2e.equipment-srd.8buhFcGwuaJRrp0y]{护命 Fortification}精金鳞甲似乎会针对被命中的位置临时加厚。</p>\n<p>当该护甲的护命符文效果成功将重击转化为普通命中后，其中一块甲片会变成紫色。你会获得等同于变成紫色的甲片数的物理伤害抗力，最高为8。</p>\n<p>在每天黎明时分，所有紫色甲片恢复正常。</p>\n<hr />\n<p><strong>制造需求</strong> 原材料中必须包含1600gp的精金。</p>"
 		},
 		"Implacable": {
 			"name": "Implacable",
@@ -4930,8 +4930,8 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<p>This black incense smells of fresh earth and ash. You activate the incense by lighting it, whereupon it fills a @Template[type:emanation|distance:10] with oily smoke and potent negative energy. <em>Undead </em>creatures, including <em>incorporeal </em>undead, gain fast healing 4 while in the area; though this healing comes from negative energy, it doesn't negatively impact living creatures. Once lit, the incense burns for 1 minute, and it can't be extinguished.</p>"
 		},
 		"Indestructible Shield": {
-			"name": "Indestructible Shield",
-			"description": "<p>An indestructible shield is a high-grade adamantine shield (Hardness 13, HP 90) that can withstand just about any damage. It can be damaged only by a disintegrate spell (roll damage as if against a creature that failed its save) or by an artifact tied to destruction, such as a sphere of annihilation.</p>\n<hr />\n<p><strong>Craft Requirements</strong> The raw materials must include at least 4,400 gp of adamantine.</p>"
+			"name": "不破坚盾 Indestructible Shield",
+			"description": "<p>不破坚盾是能承受任何伤害的高纯度精金盾（硬度13，HP90）。只有解离术或和毁灭有关的神器（比如毁灭之球sphere of annihilation）才能对其造成伤害。</p>\n<hr />\n<p><strong>制造需求</strong> 原材料必须包含4400gp的精金。</p>"
 		},
 		"Indomitable Keepsake": {
 			"name": "Indomitable Keepsake",
@@ -5438,8 +5438,8 @@
 			"description": "<p>A lion scythe resembles a common sickle but is specially weighted to allow for greater power when attacking. This is a martial melee weapon.</p>"
 		},
 		"Lion's Shield": {
-			"name": "Lion's Shield",
-			"description": "<p>This steel shield (Hardness 6, HP 36, BT 18) is forged into the shape of a roaring lion's head. The lion's head functions as +1 striking shield boss that can't be removed from the shield.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Raise a Shield</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You animate the lion's head. You Raise the Shield and make a melee Strike with it as part of the same action.</p>\n<p>The shield's biting maw is a martial melee weapon that deals 2d6 piercing damage and has the deadly 1d6 trait; it can't be enhanced by runes. The shield remains animated for 1 minute, during which time you can Strike with it each time you Raise the Shield, as well as with a Strike action.</p>"
+			"name": "狮子盾 Lion's Shield",
+			"description": "<p>这面铁盾（硬度6，HP36，BT18）被铸造出咆哮的狮头形状。这个石头可作为+1强击盾凸来使用，且无法从狮子盾上移除。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 举起盾牌</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>效果</strong> 你使狮头活化。作为举起盾牌动作的一部分进行一次近战打击。</p>\n<p>狮头的啮咬可作为军用近战武器来使用，造成2d6穿刺伤害并拥有致命1d6特征；狮头无法被符文增强。盾牌保持活化1分钟，时限内的每次举起盾牌动作都可同时用其进行一次打击，如同一次打击动作一般。</p>"
 		},
 		"Little Love": {
 			"name": "Little Love",
@@ -5654,8 +5654,8 @@
 			"description": "<p>These scopes use magically enhanced lenses to extend the range of your weapon and help spot distant foes. The scope grants you a +3 item bonus to visual Perception checks to @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Seek} creatures through the scope.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<p><strong>Effect</strong> While gazing through the scope, you zoom in on your targets to make it easier to hit them at a distance. You increase the range increment of the weapon to which the scope is attached by 20 feet until the beginning of your next turn or until you're no longer wielding the weapon, whichever comes first.</p>"
 		},
 		"Mail of Luck": {
-			"name": "Mail of Luck",
-			"description": "<p>This suit of +2 resilient splint mail has a large, green gemstone inset in a prominent location.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> Envision</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> You are hit or critically hit with an attack, but damage hasn't been rolled yet</p>\n<p><strong>Effect</strong> You force the attacker to reroll the attack roll and use the worse result. This effect has the misfortune trait.</p>\n<p>Activating the armor causes the gemstone to turn gray and become inert. You cannot activate the armor again until the stone returns to its original green color. The gem turns green again after 1 week or when a significant foe critically succeeds at an attack roll targeting you. (If an enemy rolls a critical success at an attack against you and you force the attacker to reroll that critical success, that critical success does not recharge the mail of luck.) Even if the armor's power returns before a week has elapsed, it can't be activated more than once per day.</p>"
+			"name": "幸运护甲 Mail of Luck",
+			"description": "<p>这套+2抗力板条甲在其最显眼的中心位置有着一颗巨大的绿宝石镶嵌在上。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">F</span> 想象</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>触发</strong> 你被一次攻击命中或重击，但还未骰伤害</p>\n<p><strong>效果</strong> 你迫使攻击者重骰攻击检定并使用较差的结果。这个效果拥有厄运（misfortune）特征。</p>\n<p>启动护甲效果会让绿宝石变灰并暗淡下去。直到宝石恢复绿色前你无法再次启动护甲效果。宝石会在1周后或一名敌人成功对你造成重击后恢复绿色。若敌人对你造成的重击后被你迫使重骰攻击骰，则该次重击成功不会充能幸运护甲。即便护甲的能量在短于一周的时间内充能，你也无法每天启动它超过1次。</p>"
 		},
 		"Main-Gauche": {
 			"name": "格挡匕首 Main-Gauche",
@@ -6018,8 +6018,8 @@
 			"description": "<p>This dried, gnarled hand is clenched in a fist, waiting for a creature to pick it up. When you pick up the monkey's paw, the hand opens, revealing three withered fingers. The monkey's paw grants you three wishes, curling one finger after every one. Once you pick up the monkey's paw, you cannot discard the hand until it returns to a clenched fist by casting its three wishes. Any attempts to discard the hand, even with the effects of a miracle or wish spell, are unsuccessful as the monkey's paw reappears among your possessions within [[/br 1d4 #hours]]{1d4 hours}; it doesn't work for any other creature in the intervening time. The hand returns even if another creature steals it from you. Once you make all three wishes, the monkey's paw uses plane shift to travel to a random point in the multiverse.</p>\n<p>Whenever the monkey's paw hears you utter a statement that sounds like a wish, even if you don't use the words \"I wish\", it activates and grants a twisted, horrifying version of your wish, producing any effect within the possibility of alter reality, miracle, primal phenomenon, or wish, and potentially a greater effect at the GM's discretion.</p>"
 		},
 		"Moonlit Chain": {
-			"name": "Moonlit Chain",
-			"description": "<p>This <em>+1 silver chain </em>shirt has a collar adorned with stitched images of the phases of the moon. You can see in moonlight as though you had low-light vision.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p><strong>Frequency</strong> one per day</p>\n<p><strong>Effect</strong> You touch the stitched image of the new moon on the armor's collar and suppress the dazzled condition for 1 minute.</p>\n<p><strong>Craft Requirements</strong> The initial raw materials must include 33 gp of silver.</p>"
+			"name": "月耀链衫 Moonlit Chain",
+			"description": "<p>这件+1银制链甲衫特别制作了一个绣有月相的衣领。你可在月光环境中如同有低光视觉一般视物。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>效果</strong> 触摸护甲衣领上的新月图案以压制自己所受的目眩状态1分钟。</p>\n<p><strong>制造需求</strong> 原材料中必须包含33gp的银。</p>"
 		},
 		"Moonstone": {
 			"name": "Moonstone",
@@ -6678,8 +6678,8 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<p>A synthetic adrenaline supplement that increases awareness and reaction time. Plasma hype has been infused with a specific mixture of Numerian fluids and other alchemical reagents to improve upon the original hype formula.</p>\n<p><strong>Saving Throw</strong> @Check[type:fortitude|dc:30]</p>\n<p><strong>Maximum Duration</strong> 1 minute</p>\n<p><strong>Stage 1</strong> +10-foot status bonus to speed, quickened and can use the additional action to Step, Stride, Climb, or Swim (1 round)</p>\n<p><strong>Stage 2</strong> quickened and can use the additional action to Step or Stride (1 round)</p>\n<p><strong>Stage 3</strong> drained 2 and stupefied 2 (1 round)</p>"
 		},
 		"Plate Armor of the Deep": {
-			"name": "Plate Armor of the Deep",
-			"description": "<p>This suit of +2 greater resilient full plate is decorated with swirling, ornate motifs of waves and fish scales.</p>\n<p>While wearing it, you take no Speed reduction or check penalty from armor when Swimming, gain a +2 item bonus to Athletics checks to Swim, can breathe underwater, and can speak Aquan.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+2 item bonus to Athletics checks to Swim</li>\n</ul>"
+			"name": "深水全身甲 Plate Armor of the Deep",
+			"description": "<p>这套+2高等抗力全身甲上画有旋涡、波浪和鱼鳞图案。</p>\n<p>穿戴它时，你在游泳时不会受到它的速度减值或检定减值影响，并且游泳时运动检定获得+2物品加值，你还能在水下呼吸和讲水族语（Aquan）。</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>游泳的运动检定获得+2物品加值</li>\n</ul>"
 		},
 		"Platinum Pieces": {
 			"name": "白金币 Platinum Pieces",
@@ -7350,8 +7350,8 @@
 			"description": "<p>When eaten or smoked, pesh gives users a sense of well-being, sometimes with hallucinations, aggression, and exhaustion.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact (Ingested, Inhaled)</p>\n<p><strong>Saving Throw</strong> @Check[type:fortitude|dc:12]</p>\n<p><strong>Onset</strong> 1 minute</p>\n<p><strong>Maximum Duration</strong> 6 hours</p>\n<p><strong>Stage 1</strong> @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied 1} and a +2 item bonus to saves versus fear effects (1 minute)</p>\n<p><strong>Stage 2</strong> 1 temporary Hit Point per level (first time you reach this stage only), +2 item bonus to saves versus fear effects, @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 1}, and stupefied 1 (1 minute)</p>\n<p><strong>Stage 3</strong> clumsy 2 and stupefied 2 (1 hour)</p>"
 		},
 		"Reflecting Shield": {
-			"name": "Reflecting Shield",
-			"description": "<p>This high-grade silver buckler (Hardness 6, HP 24, BT 12) is polished to a mirrorlike sheen. The shield functions as a spellguard shield that can also reflect spells.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">R</span> command</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> You are targeted by a spell</p>\n<p><strong>Requirements</strong> The <em>reflecting shield</em> is raised</p>\n<p><strong>Effect</strong> You attempt to reflect the spell on its caster, with the effects of a 9th-level <em>@Compendium[pf2e.spells-srd.OOELvfkTedBMlWtq]{Spell Turning}</em> with a counteract modifier of [[/r 1d20+40]].</p>\n<hr />\n<p><strong>Craft Requirements</strong> Supply one casting of <em>spell turning</em>, and the initial raw materials must include at least 2,750 gp of silver.</p>"
+			"name": "反射盾 Reflecting Shield",
+			"description": "<p>这面高纯度银制小圆盾（硬度6，HP24，BT12）涂出了银制镜面。它可如同护法盾一般使用，更能反射法术。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">R</span> 命令</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>触发</strong> 你成为了一个法术的目标</p>\n<p><strong>需求</strong> 你已举起反射盾</p>\n<p><strong>效果</strong> 你尝试将法术反射回施法者，如同反制调整值为[[/r 1d20+40]]的9环 <em>@Compendium[pf2e.spells-srd.OOELvfkTedBMlWtq]{法术反转 Spell Turning}</em> 一样。</p>\n<hr />\n<p><strong>制造需求</strong> 提供一次法术反转施法，原材料必须包含2750gp的银。</p>"
 		},
 		"Reflexive Tattoo": {
 			"name": "Reflexive Tattoo",
@@ -7478,8 +7478,8 @@
 			"description": "<p>When you make a thrown Strike with this weapon, it flies back to your hand after the Strike is complete. If your hands are full when the weapon returns, it falls to the ground in your space.</p>"
 		},
 		"Rhino Hide": {
-			"name": "Rhino Hide",
-			"description": "<p>This <em>+1 resilient </em>hide armor is made from rhinoceros hide. It has an armor check penalty of -1 instead of -3.</p>\n<p>When you use the Sudden Charge class feat while wearing this armor, your Strike deals an additional 1d8 damage.</p>\n<p><strong>Craft Requirements</strong> The initial raw materials must include 320 gp of rhinoceros hide (a common material).</p>\n<hr />\n<p>Automaticlly applied effects:</p>\n<ul>\n<li>+1d8 damage to your Strike when using Sudden Charge</li>\n</ul>"
+			"name": "犀牛革甲 Rhino Hide",
+			"description": "<p>这件+1抗力革甲用犀牛皮制成。它的护甲检定减值为-1而非-3。</p>\n<p>当你穿戴该护甲使用迅猛冲锋（Sunden Charge）专长时，你该次打击额外造成1d8点伤害。</p>\n<p><strong>制造需求</strong> 原材料中必须包含320gp的犀牛皮革（一种常见材料）。</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>迅猛冲锋额外造成1d8点伤害</li>\n</ul>"
 		},
 		"Rhino Hide Brooch": {
 			"name": "Rhino Hide Brooch",
@@ -8910,8 +8910,8 @@
 			"description": "<p>The guard of this +1 striking main-gauche is inscribed with eldritch glyphs that guard against magic.</p>\n<p>When you are benefiting from the +1 circumstance bonus to AC from this weapon's parry trait, you also apply that circumstance bonus to your saving throws against spells that target you.</p>\n<p>@Compendium[pf2e.equipment-effects.zqKzWGLODgIvtiKf]{Effect: Spellguard Blade}</p>"
 		},
 		"Spellguard Shield": {
-			"name": "Spellguard Shield",
-			"description": "<p>This shield bears eldritch glyphs to guard against magic. While you have this steel shield (Hardness 6, HP 24, BT 12) raised, you gain its circumstance bonus to saving throws against spells that target you (as well as to AC).</p>"
+			"name": "护法盾 Spellguard Shield",
+			"description": "<p>这面盾牌上的奥术符印可以抵抗魔法。当你举起这面铁盾（硬度6，HP24，BT12）时，其给与AC的环境加值同样作为环境加值添加到你对抗法术的豁免骰上。</p>"
 		},
 		"Spellstrike Ammunition (Type I)": {
 			"name": "法袭弹药（类型I） Spellstrike Ammunition (Type I)",
@@ -9006,8 +9006,8 @@
 			"description": "<p>提供和标准铁手套一样的防御功能，但这种铁手套关节上还突出了一组尖刺让拳击造成穿刺伤害。</p>"
 		},
 		"Spined Shield": {
-			"name": "Spined Shield",
-			"description": "<p>Five jagged spines project from the surface of this steel shield (Hardness 6, HP 24, BT 12). The spines are +1 striking shield spikes.</p>\n<p>When you use the Shield Block reaction with this shield, the spines take the damage before the shield itself does. When the shield would take damage (after applying Hardness), one spine snaps off per 6 damage, reducing the damage by 6. The shield takes any remaining damage. When there are no spines left, the shield takes damage as normal.</p>\n<p>When all the spines are gone, you lose the ability to attack with them until the spines regenerate the next day.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p><strong>Effect</strong> You shoot one of the shield's spines at a target. A fired spine uses the spikes' statistics, but it is a martial ranged weapon with a range increment of 120 feet.</p>"
+			"name": "尖刺盾 Spined Shield",
+			"description": "<p>五根锯齿尖刺从铁盾（硬度6，HP24，BT12）面伸出展开保护。尖刺作为+1强击盾刺使用。</p>\n<p>当你用该盾做出盾牌格挡反应动作时，尖刺会先于盾牌受到伤害。盾牌受到伤害时（应用硬度后），每根尖刺都能承受6点伤害，以减少6点对盾牌本体的伤害。在此之后盾牌本体才会受到剩下的伤害。若无尖刺参与，盾牌正常受到伤害。</p>\n<p>当所有尖刺消耗后，直到下一天尖刺复原为止，你失去用尖刺攻击的能力。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p><strong>效果</strong> 你用一根尖刺射击一个目标。射击出的尖刺使用尖刺数据，作为射程增量120尺的军用远程武器使用。</p>"
 		},
 		"Spinel, deep blue": {
 			"name": "Spinel, deep blue",
@@ -9570,28 +9570,28 @@
 			"description": "<p>This heavy backpack of alchemically treated cloth layered over a metal mesh protects its contents from water damage and other harmful effects.</p>\n<p>It holds up to 4 Bulk of items, and the first 2 Bulk contained within the sturdy satchel do not count against your Bulk limits.</p>\n<p>The bag has Hardness 5 and 20 Hit Points. As long as the bag remains closed and is not broken, water and other liquids can't seep into it.</p>"
 		},
 		"Sturdy Shield (Greater)": {
-			"name": "Sturdy Shield (Greater)",
-			"description": "<p>With a superior design and excellent craftsmanship, this steel shield has higher Hardness than its non-magical counterparts, making it harder to break and destroy.</p>\n<p>The shield has Hardness 15, HP 120, and BT 60.</p>"
+			"name": "高等百炼盾 Sturdy Shield (Greater)",
+			"description": "<p>通过特别的设计和精良的手艺，这种铁盾比非魔法版有着更高的硬度，让其更难被击破和摧毁。</p>\n<p>该盾牌拥有硬度15，HP120，BT60。</p>"
 		},
 		"Sturdy Shield (Lesser)": {
-			"name": "Sturdy Shield (Lesser)",
-			"description": "<p>With a superior design and excellent craftsmanship, this steel shield has higher Hardness than its non-magical counterparts, making it harder to break and destroy.</p>\n<p>The shield has Hardness 10, HP 80, and BT 40.</p>"
+			"name": "次等百炼盾 Sturdy Shield (Lesser)",
+			"description": "<p>通过特别的设计和精良的手艺，这种铁盾比非魔法版有着更高的硬度，让其更难被击破和摧毁。</p>\n<p>该盾牌拥有硬度10，HP80，BT40。</p>"
 		},
 		"Sturdy Shield (Major)": {
-			"name": "Sturdy Shield (Major)",
-			"description": "<p>With a superior design and excellent craftsmanship, this steel shield has higher Hardness than its non-magical counterparts, making it harder to break and destroy.</p>\n<p>The shield has Hardness 17, HP 136, and BT 68.</p>"
+			"name": "上等百炼盾 Sturdy Shield (Major)",
+			"description": "<p>通过特别的设计和精良的手艺，这种铁盾比非魔法版有着更高的硬度，让其更难被击破和摧毁。</p>\n<p>该盾牌拥有硬度17，HP136，BT68。</p>"
 		},
 		"Sturdy Shield (Minor)": {
-			"name": "Sturdy Shield (Minor)",
-			"description": "<p>With a superior design and excellent craftsmanship, this steel shield has higher Hardness than its non-magical counterparts, making it harder to break and destroy.</p>\n<p>The shield has Hardness 8, HP 64, and BT 32.</p>"
+			"name": "下等百炼盾 Sturdy Shield (Minor)",
+			"description": "<p>通过特别的设计和精良的手艺，这种铁盾比非魔法版有着更高的硬度，让其更难被击破和摧毁。</p>\n<p>该盾牌拥有硬度8，HP64，BT32。</p>"
 		},
 		"Sturdy Shield (Moderate)": {
-			"name": "Sturdy Shield (Moderate)",
-			"description": "<p>With a superior design and excellent craftsmanship, this steel shield has higher Hardness than its non-magical counterparts, making it harder to break and destroy.</p>\n<p>The shield has Hardness 13, HP 104, and BT 52.</p>"
+			"name": "中等百炼盾 Sturdy Shield (Moderate)",
+			"description": "<p>通过特别的设计和精良的手艺，这种铁盾比非魔法版有着更高的硬度，让其更难被击破和摧毁。</p>\n<p>该盾牌拥有硬度13，HP104，BT52。</p>"
 		},
 		"Sturdy Shield (Supreme)": {
-			"name": "Sturdy Shield (Supreme)",
-			"description": "<p>With a superior design and excellent craftsmanship, this steel shield has higher Hardness than its non-magical counterparts, making it harder to break and destroy.</p>\n<p>The shield has Hardness 20, HP 160, and BT 80.</p>"
+			"name": "超等百炼盾 Sturdy Shield (Supreme)",
+			"description": "<p>通过特别的设计和精良的手艺，这种铁盾比非魔法版有着更高的硬度，让其更难被击破和摧毁。</p>\n<p>该盾牌拥有硬度20，HP160，BT80。</p>"
 		},
 		"Succubus Kiss": {
 			"name": "Succubus Kiss",
