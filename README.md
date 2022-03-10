@@ -26,3 +26,5 @@
 法术：CRB,APG
 
 仪式：CRB，APG，B1
+
+造物:CRB(50%)
