@@ -374,8 +374,8 @@
 			"description": ""
 		},
 		"Anarchic": {
-			"name": "Anarchic",
-			"description": "<p>An <em>anarchic</em> rune is jagged and asymmetrical, channeling chaotic energy. A weapon with this rune deals an additional 1d6 chaotic damage against lawful targets. If you are lawful, you are enfeebled 2 while carrying or wielding this weapon.</p>\n<p>When you critically succeed at a Strike with this weapon against a lawful creature, roll 1d6. On a 1 or 2, you deal double minimum damage; on a 3 or 4, double your damage normally; on a 5 or 6, you deal double maximum damage.</p>\n<p><strong>Craft Requirements</strong> You are chaotic.</p>"
+			"name": "混沌 Anarchic",
+			"description": "<p>混沌符文满是锯齿和不对称感，能引导混乱能量。拥有该符文的武器对守序目标额外造成1d6点混乱伤害。若你为守序阵营，你在携带或持握该武器时获得力竭2（enfeebled）。</p>\n<p>当你用该武器对守序生物的打击成功重击时，骰1d6。若为1或2，你造成最小伤害的双倍；若为3或4，正常造成双倍伤害；若为5或6，你造成最大伤害的双倍。</p>\n<p><strong>制造需求</strong> 你是混乱阵营</p>"
 		},
 		"Ancestral Echoing": {
 			"name": "Ancestral Echoing",
@@ -442,8 +442,8 @@
 			"description": "<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互 Interact</p>\n<p>解毒剂能帮助你对抗毒物。在饮用解毒剂后，你在对抗毒素的强韧豁免检定上获得持续6小时的+3物品加值。</p>\n<p>@Compendium[pf2e.consumable-effects.mi4Md1fB2XThCand]{效果: 中等解毒剂}</p>"
 		},
 		"Antimagic": {
-			"name": "Antimagic",
-			"description": "<p>This intricate rune displaces spell energy, granting you a +1 status bonus to saving throws against magical effects.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">R</span> command</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> A spell targets you or includes you in its area</p>\n<p><strong>Effect</strong> The armor attempts to counteract the triggering spell with the effect of a 7th-level <em>@Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dispel Magic}</em> spell and a counteract modifier of +26.</p>\n<hr />\n<p><strong>Craft Requirements</strong> Supply one casting of <em>dispel magic</em>.</p>"
+			"name": "抗魔 Antimagic",
+			"description": "<p>这枚复杂的符文能转移法术能力，使你对抗魔法效果的豁免骰获得+1状态加值。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">R</span> 命令</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>触发</strong> 1个法术以你为目标或其范围中包括你</p>\n<p><strong>效果</strong> 护甲尝试用7环 <em>@Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{解除法术 Dispel Magic}</em> 法术反制触发的法术，反制调整值为+26。</p>\n<hr />\n<p><strong>制造需求</strong> 提供施放1次解除魔法法术。</p>"
 		},
 		"Antimagic Oil": {
 			"name": "反魔油 Antimagic Oil",
@@ -542,16 +542,16 @@
 			"description": "<p>This armor is easily doffed. A set of armor with armor latches gains the noisy trait. You cannot add armor latches to armor that already possesses the noisy trait. You can remove a set of armor with armor latches with a three-action activity, which has the manipulate trait. This doesn't affect the time it takes to don the armor.</p>"
 		},
 		"Armor Potency (+1)": {
-			"name": "Armor Potency (+1)",
-			"description": "<p>Magic wards deflect attacks. Increase the armor's item bonus to AC by 1. The armor can be etched with one property rune.</p>\n<p>You can upgrade the <em>armor potency</em> rune already etched on a suit of armor to a stronger version, increasing the values of the existing rune to those of the new rune. You must have the formula of the stronger rune to do so, and the Price of the upgrade is the difference between the two runes' Prices.</p>\n<p><strong>Craft Requirements</strong> You are an expert in Crafting.</p>"
+			"name": "+1护甲潜力 Armor Potency (+1)",
+			"description": "<p>可以偏斜攻击的魔法守护着你。该护甲的AC获得+1物品加值，该护甲可以被蚀刻上1枚性能符文。</p>\n<p>你可以将护甲上已蚀刻的护甲潜力符文升级为更强的版本，效果也会提升成新符文的数值。你必须有更强符文的配方才能如此做，且升级的价格是两枚符文之间价格的差额。</p>\n<p><strong>制造需求</strong> 手艺技能专家熟练度</p>"
 		},
 		"Armor Potency (+2)": {
-			"name": "Armor Potency (+2)",
-			"description": "<p>Magic wards deflect attacks. Increase the armor's item bonus to AC by 2. The armor can be etched with two property runes.</p>\n<p>You can upgrade the <em>armor potency</em> rune already etched on a suit of armor to a stronger version, increasing the values of the existing rune to those of the new rune. You must have the formula of the stronger rune to do so, and the Price of the upgrade is the difference between the two runes' Prices.</p>\n<p><strong>Craft Requirements</strong> You are an master in Crafting.</p>"
+			"name": "+2护甲潜力 Armor Potency (+2)",
+			"description": "<p>可以偏斜攻击的魔法守护着你。该护甲的AC获得+2物品加值，该护甲可以被蚀刻上2枚性能符文。</p>\n<p>你可以将护甲上已蚀刻的护甲潜力符文升级为更强的版本，效果也会提升成新符文的数值。你必须有更强符文的配方才能如此做，且升级的价格是两枚符文之间价格的差额。</p>\n<p><strong>制造需求</strong> 手艺技能大师熟练度</p>"
 		},
 		"Armor Potency (+3)": {
-			"name": "Armor Potency (+3)",
-			"description": "<p>Magic wards deflect attacks. Increase the armor's item bonus to AC by 3. The armor can be etched with three property runes.</p>\n<p>You can upgrade the <em>armor potency</em> rune already etched on a suit of armor to a stronger version, increasing the values of the existing rune to those of the new rune. You must have the formula of the stronger rune to do so, and the Price of the upgrade is the difference between the two runes' Prices.</p>\n<p><strong>Craft Requirements</strong> You are an legendary in Crafting.</p>"
+			"name": "+3护甲潜力 Armor Potency (+3)",
+			"description": "<p>可以偏斜攻击的魔法守护着你。该护甲的AC获得+3物品加值，该护甲可以被蚀刻上3枚性能符文。</p>\n<p>你可以将护甲上已蚀刻的护甲潜力符文升级为更强的版本，效果也会提升成新符文的数值。你必须有更强符文的配方才能如此做，且升级的价格是两枚符文之间价格的差额。</p>\n<p><strong>制造需求</strong> 手艺技能传奇熟练度</p>"
 		},
 		"Armored Skirt": {
 			"name": "Armored Skirt",
@@ -626,8 +626,8 @@
 			"description": "<p>The blade of this +4 major striking @Compendium[pf2e.equipment-srd.hg3IogR8ue2IWwgS]{Keen} @Compendium[pf2e.equipment-srd.qlunQzfnzPQpMG6U]{Returning} @Compendium[pf2e.equipment-srd.KnZL0xPWDzQx9vWQ]{Speed} dwarven waraxe is carved with an intricate design depicting countless generations of great dwarven warriors and leaders.</p>\n<p>The axe has the thrown 30 feet weapon trait, in addition to the normal weapon traits for a dwarven waraxe. Strikes with the axe deal an additional 1d6 damage to orcs.</p>\n<p>While the axe is in your possession, you gain a +4 item bonus when Crafting armor, jewelry, metalworking, stonemasonry, snares, traps, and weapons.</p>\n<p>If you are a dwarf, you gain greater darkvision while holding the axe. If you are not a dwarf, you are stupefied 4 while holding the axe, and if you are an orc, you are also drained 4 and enfeebled 4 while holding it.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">T</span> envision, Interact</p>\n<p><strong>Frequency</strong> once per week</p>\n<p><strong>Effect</strong> The axe casts a 10th-level <em>@Compendium[pf2e.spells-srd.lpT6LotUaQPfinjj]{Summon Elemental}</em> spell to conjure an elite elemental avalanche. The spell is automatically sustained, requiring no action on your part but still allowing you to command the elemental on each of your turns. You can Dismiss the Spell.</p>\n<hr />\n<p><strong>Destruction</strong> If an orc beheads a dwarven king with the <em>Axe of the Dwarven Lords</em>, the axe rusts away to nothing.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+4 item bonus when Crafting armor, jewelry, metalworking, stonemasonry, snares, traps, and weapons.</li>\n<li>+1d6 damage vs. orcs (use toggle on the Action page or target a creature with the orc trait to apply)</li>\n</ul>"
 		},
 		"Axiomatic": {
-			"name": "Axiomatic",
-			"description": "<p>Complex and symmetrical, an <em>axiomatic</em> rune imbues a weapon with lawful energy. A weapon with this rune deals an additional 1d6 lawful damage against chaotic targets. If you are chaotic, you are enfeebled 2 while carrying or wielding this weapon.</p>\n<p>When you critically succeed at an attack roll with this weapon against a chaotic creature, instead of rolling, count each weapon damage die as average damage rounded up (3 for d4, 4 for d6, 5 for d8, 6 for d10, 7 for d12).</p>\n<p><strong>Craft Requirements</strong> You are lawful.</p>"
+			"name": "公理 Axiomatic",
+			"description": "<p>复杂而对称，公理符文为武器注入秩序能量。拥有该符文的武器对混乱目标额外造成1d6点秩序伤害。若你为混乱阵营，你在携带或持握该武器时获得力竭2（enfeebled）。</p>\n<p>当你用该武器对混乱生物的攻击骰成功重击时。取代骰伤害，你直接将每个武器伤害骰取平均值取高（d4取3，d6取4，d8取5，d10取6，d12取7）。</p>\n<p><strong>制造需求</strong> 你是守序阵营</p>"
 		},
 		"Azure Worm Repellent": {
 			"name": "Azure Worm Repellent",
@@ -2206,12 +2206,12 @@
 			"description": "<p>This small pendant is usually shaped like a humanoid skull or small animal skull.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">3</span> Interact</p>\n<p><strong>Frequency</strong> three times per day</p>\n<p><strong>Effect</strong> You become undetectable to undead creatures for 10 minutes. Undead can't see, hear, or smell you, nor detect you with sensory capabilities such as scent or tremorsense. A creature can attempt a single @Check[type:will|dc:18] saving throw to ignore this effect. If an undead has reason to believe that undetected opponents are present, it can still attempt to Seek or Strike you. If you attempt to use a positive spell to damage undead, use <em>Command Undead</em>, touch or damage an undead creature, or attack any creature while warded in this manner, the pendant's effects immediately end. An undead creature who observes you in this manner or one who succeeds at the Will save is immune to the corpseward pendant for 24 hours.</p>"
 		},
 		"Corrosive": {
-			"name": "Corrosive",
-			"description": "<p>Acid sizzles across the surface of the weapon. When you hit with the weapon, add 1d6 acid damage to the damage dealt. In addition, on a critical hit, the target's armor (if any) takes 3d6 acid damage (before applying Hardness); if the target has a shield raised, the shield takes this damage instead.</p>"
+			"name": "酸蚀 Corrosive",
+			"description": "<p>酸液流在武器表面上嘶嘶作响。该武器命中时，额外造成1d6点酸伤害。另外，若重击，目标的护甲（若有）受到3d6点酸伤害（计算硬度前）；若目标的盾牌已举起，则改为该盾牌受到该伤害。</p>"
 		},
 		"Corrosive (Greater)": {
-			"name": "Corrosive (Greater)",
-			"description": "<p>Acid sizzles across the surface of the weapon. When you hit with the weapon, add 1d6 acid damage to the damage dealt. In addition, on a critical hit, the target's armor (if any) takes 6d6 acid damage (before applying Hardness); if the target has a shield raised, the shield takes this damage instead. The acid damage dealt by this weapon ignores the target's acid resistance.</p>"
+			"name": "高等酸蚀 Corrosive (Greater)",
+			"description": "<p>酸液流在武器表面上嘶嘶作响。该武器造成的酸伤害忽略目标的酸抗力。该武器命中时，额外造成1d6点酸伤害。另外，若重击，目标的护甲（若有）受到6d6点酸伤害（计算硬度前）；若目标的盾牌已举起，则改为该盾牌受到该伤害。</p>"
 		},
 		"Corrosive Ammunition": {
 			"name": "Corrosive Ammunition",
@@ -2390,8 +2390,8 @@
 			"description": "<p>This asymmetrical bow, made of laminated bamboo, wood, and leather, stands 6 feet or more in height. Using a daikyu while mounted limits its firing range to your left side.</p>"
 		},
 		"Dancing": {
-			"name": "Dancing",
-			"description": "<p>A dancing weapon flies autonomously and strikes your foes.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> command, Interact</p>\n<p><strong>Effect</strong> You Release the weapon and it dances through the air, fighting on its own against the last enemy you attacked, or the nearest enemy to it if your target has been defeated. At the end of your turn each round, the weapon can Fly up to its fly Speed of 40 feet, and then can either Fly again or Strike one creature within its reach.</p>\n<p>The weapon has a space of 5 feet, but it doesn't block or impede enemies attempting to move though that space, nor does it benefit from or provide flanking. The weapon can't move through an enemy's space. The weapon can't use reactions, and its Fly actions don't trigger reactions.</p>\n<p>While it's activated, a <em>dancing</em> weapon makes Strikes with an attack modifier of [[/r 1d20+24]] plus its item bonus to attack rolls. It uses the weapon's normal damage but has a +0 Strength modifier. The weapon's abilities that automatically trigger on a hit or critical hit still function, but the weapon can't be activated or benefit from any of your abilities while dancing.</p>\n<p>Each round, when the weapon is finished using its actions, attempt a DC 6 flat check. On a failure, the activation ends and the weapon falls to the ground. You can't activate the item again for 10 minutes.</p>"
+			"name": "舞空 Dancing",
+			"description": "<p>舞空武器能自动飞舞攻击敌人。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 命令, 交互</p>\n<p><strong>效果</strong> 你放开（Release）武器让其飞至空中，和你最后一个攻击过的敌人战斗，若该敌人已被击败，则和离你最近的敌人战斗。每轮你的回合结束时，该武器以最高40尺飞行速度进行飞行，然后可以再飞行一次或打击一个其触及内的生物。</p>\n<p>武器占据5尺空间，但它不会阻挡或妨碍敌人穿过它占据的空间，也不会受益于和提供夹击。该武器无法移动穿过敌人的占据空间。该武器无法使用反应动作，它的飞行动作也不会触发反应动作。</p>\n<p>启动后，舞空武器进行打击的攻击调整值是+24加上其攻击骰的物品加值。伤害使用武器的正常伤害，但力量调整值是+0。命中或重击时自动触发的武器能力依然有效，但舞空时无法启动该武器的其它能力，它也不会从你的其它能力处获得好处。</p>\n<p>每轮该武器结束其动作后，进行一次DC6的纯骰检定。若失败，舞空结束，该武器掉到地面上。你在10分钟内无法再启动该武器的舞空。</p>"
 		},
 		"Dancing Scarf": {
 			"name": "舞动围巾 Dancing Scarf",
@@ -2666,12 +2666,12 @@
 			"description": "<p><strong>Ammunition</strong> sling bullet</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<hr />\n<p>The metals used to forge this lead shot were taken from a variety of continents and barely stay together. When an activated dispersing bullet hits a target, the bullet scatters into a sphere of metal shards as the metals try to return to their places of origin. All creatures in a @Template[type:emanation|distance:10] around the target of the attack (and not including the target) must succeed at a @Check[type:fortitude|dc:21] save or be pushed 10 feet from the target (15 feet on a critical failure).</p>"
 		},
 		"Disrupting": {
-			"name": "Disrupting",
-			"description": "<p>A <em>disrupting</em> weapon pulses with positive energy, dealing an extra 1d6 positive damage to undead. On a critical hit, the undead is also enfeebled 1 until the end of your next turn.</p>"
+			"name": "瓦解 Disrupting",
+			"description": "<p>瓦解武器充斥着正能量，对不死生物额外造成1d6点正能量伤害。若重击，目标不死生物直到你的下一回合结束为止获得力竭1（enfeebled）。</p>"
 		},
 		"Disrupting (Greater)": {
-			"name": "Disrupting (Greater)",
-			"description": "<p>A <em>disrupting</em> weapon pulses with positive energy, dealing an extra 2d6 positive damage to undead. On a critical hit, the undead creature must attempt a @Check[type:fortitude|dc:34|name:Greater Disrupting] save with the following effects. This is an incapacitation effect.</p>\n<hr />\n<p><strong>Critical Success</strong> It's @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled 1} until the end of your next turn.</p>\n<p><strong>Success</strong> It's @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled 2} until the end of your next turn.</p>\n<p><strong>Failure</strong> It's @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled 3} until the end of your next turn.</p>\n<p><strong>Critical Failure</strong> It's destroyed.</p>"
+			"name": "高等瓦解 Disrupting (Greater)",
+			"description": "<p>瓦解武器充斥着正能量，对不死生物额外造成2d6点正能量伤害。若重击，目标不死生物必须进行 @Check[type:fortitude|dc:34|name:Greater Disrupting] 豁免检定，并按下列结果处理。这是一个失能（incapacitation）效果。</p>\n<hr />\n<p><strong>大成功</strong> 目标直到你的下一回合结束为止 @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{力竭 Enfeebled 1}。</p>\n<p><strong>成功</strong> 目标直到你的下一回合结束为止 @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{力竭 Enfeebled 2}。</p>\n<p><strong>失败</strong> 目标直到你的下一回合结束为止 @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{力竭 Enfeebled 3}。</p>\n<p><strong>大失败</strong> 目标被摧毁。</p>"
 		},
 		"Divine Scroll Case of Simplicity": {
 			"name": "Divine Scroll Case of Simplicity",
@@ -3242,12 +3242,12 @@
 			"description": "<p>This brightly colored linen robe is covered in delicate embroidery depicting creatures and natural phenomena suiting its aligned energy, such as a living thunderclap, pools of acid, roaring flames, or dancing marids. You gain resistance 5 to fire.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> command, Interact</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You speak a command word, and the embroidered threads in the robe glow vividly. You gain a +30-foot status bonus to Speed for 1 minute as flames shoot out behind you to speed you up.</p>\n<p>@Compendium[pf2e.equipment-effects.6alqXfVq0qWQC359]{Effect: Energy Robe of Fire}</p>"
 		},
 		"Energy-Resistant": {
-			"name": "Energy-Resistant",
-			"description": "<p>These symbols convey protective forces from the Elemental Planes. You gain resistance 5 to acid, cold, electricity, or fire. The crafter chooses the damage type when creating the rune. Multiple <em>energy-resistant</em> runes can be etched onto a suit of armor; rather than using only the highest-level effect, each must provide resistance to a different damage type. For instance, a <em>+2 acid-resistant greater fire-resistant breastplate</em> would give you acid resistance 5 and fire resistance 10.</p>"
+			"name": "抵抗能量 Energy-Resistant",
+			"description": "<p>这些符文从元素位面获得防护能力。你获得5点的酸、寒冷、电击或火焰抗力。制造者在制作符文时即决定可抵御的伤害类型。多个抵抗能量符文可以被蚀刻到同一套护甲上；与只取最高等级效果不同，只要抵抗的伤害类型不同，即能同时提供抗力。举个例子，+2抗酸高等抗火胸甲能给你提供5点酸抗力和10点火焰抗力。</p>"
 		},
 		"Energy-Resistant (Greater)": {
-			"name": "Energy-Resistant (Greater)",
-			"description": "<p>These symbols convey protective forces from the Elemental Planes. You gain resistance 10 to acid, cold, electricity, or fire. The crafter chooses the damage type when creating the rune. Multiple <em>energy-resistant</em> runes can be etched onto a suit of armor; rather than using only the highest-level effect, each must provide resistance to a different damage type. For instance, a <em>+2 acid-resistant greater fire-resistant breastplate</em> would give you acid resistance 5 and fire resistance 10.</p>"
+			"name": "高等抵抗能量 Energy-Resistant (Greater)",
+			"description": "<p>这些符文从元素位面获得防护能力。你获得10点的酸、寒冷、电击或火焰抗力。制造者在制作符文时即决定可抵御的伤害类型。多个抵抗能量符文可以被蚀刻到同一套护甲上；与只取最高等级效果不同，只要抵抗的伤害类型不同，即能同时提供抗力。举个例子，+2抗酸高等抗火胸甲能给你提供5点酸抗力和10点火焰抗力。</p>"
 		},
 		"Enfilading Arrow": {
 			"name": "Enfilading Arrow",
@@ -3302,8 +3302,8 @@
 			"description": ""
 		},
 		"Ethereal": {
-			"name": "Ethereal",
-			"description": "<p>An <em>ethereal rune</em> replicates armor on the Ethereal Plane.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> command</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You gain the effects of an <em>@Compendium[pf2e.spells-srd.D2nPKbIS67m9199U]{Ethereal Jaunt}</em> spell. This doesn't require concentration and lasts for 10 minutes or until you choose to return to material form as a free action.</p>\n<hr />\n<p><strong>Craft Requirements</strong> Supply a casting of 9th level <em>ethereal jaunt</em>.</p>"
+			"name": "灵化 Ethereal",
+			"description": "<p>灵化符文能在灵界复制出护甲来。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 命令</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>效果</strong> 你获得 <em>@Compendium[pf2e.spells-srd.D2nPKbIS67m9199U]{幻化灵体 Ethereal Jaunt}</em> 法术效果。这不需要你维持专注并且最多持续10分钟，或直到你用1个自由动作选择恢复实体为止。</p>\n<hr />\n<p><strong>制造需求</strong> 提供施放1次9环的幻化灵体法术。</p>"
 		},
 		"Etheric Essence Disruptor (Greater)": {
 			"name": "Etheric Essence Disruptor (Greater)",
@@ -3714,12 +3714,12 @@
 			"description": "<p>这把+3高等强击高等炽焰长剑有着华贵的青铜柄和火焰形状的剑刃。持握它时，剑刃发出淡淡的火光，提供10尺半径的昏暗光。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 命令, 交互</p>\n<p><strong>效果</strong> 你通过剑施放9环的奥术 <em>@Compendium[pf2e.spells-srd.O9w7r4BKgPogYDDe]{燃火术 Produce Flame}</em>，使用你用炎舌进行攻击的近战攻击调整值作为你的法术攻击调整值。</p>\n<hr />\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 命令</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>效果</strong> A @Template[type:emanation|distance:10] 范围被高等炎舌的火光笼罩。范围内你和所有盟友的所有武器与无武装攻击获得炽焰性能符文的效果。</p>"
 		},
 		"Flaming": {
-			"name": "Flaming",
-			"description": "<p>This weapon is empowered by flickering flame. The weapon deals an additional 1d6 fire damage on a successful Strike, plus [[/r {1d10}[persistent,fire]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Fire Damage} on a critical hit.</p>"
+			"name": "炽焰 Flaming",
+			"description": "<p>该武器用闪烁着的火焰增强了威力。该武器成功的打击命中额外造成1d6点火焰伤害，若重击，还能再造成 [[/r {1d10}[persistent,fire]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续火焰伤害}。</p>"
 		},
 		"Flaming (Greater)": {
-			"name": "Flaming (Greater)",
-			"description": "<p>This weapon is empowered by flickering flame. The weapon deals an additional 1d6 fire damage on a successful Strike, plus [[/r {2d10}[persistent,fire]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Fire Damage} on a critical hit.</p>\n<p>Fire damage dealt by this weapon (including the persistent fire damage) ignores the target's fire resistance.</p>"
+			"name": "高等炽焰 Flaming (Greater)",
+			"description": "<p>该武器用闪烁着的火焰增强了威力。该武器成功的打击命中额外造成1d6点火焰伤害，若重击，还能再造成 [[/r {2d10}[persistent,fire]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续火焰伤害}。</p>\n<p>该武器造成的火焰伤害（包括持续火焰伤害）忽略目标的火焰抗力。</p>"
 		},
 		"Flaming Star": {
 			"name": "Flaming Star",
@@ -3886,12 +3886,12 @@
 			"description": "<p>A leshy can derive nourishment from specially formulated bottles of sunlight instead of natural sunlight.</p>"
 		},
 		"Fortification": {
-			"name": "Fortification",
-			"description": "<p>A <em>fortification</em> rune wards against the most deadly attacks. Each time you're critically hit while wearing the etched armor, attempt a DC 17 flat check. On a success, it becomes a normal hit. This property thickens the armor, increasing its Bulk by 1 and the Strength required to reduce its penalties by 2.</p>"
+			"name": "护命 Fortification",
+			"description": "<p>护命符文对最致命的攻击提供防护。你在穿戴该护甲时每次被重击，都可进行一次DC17的纯骰检定。若成功，该次攻击变为普通命中。该性能会加厚护甲，增加护甲的负载1点，克服减值所需的力量增加2点。</p>"
 		},
 		"Fortification (Greater)": {
-			"name": "Fortification (Greater)",
-			"description": "<p>A <em>fortification</em> rune wards against the most deadly attacks. Each time you're critically hit while wearing the etched armor, attempt a DC 14 flat check. On a success, it becomes a normal hit. This property thickens the armor, increasing its Bulk by 1 and the Strength required to reduce its penalties by 2.</p>"
+			"name": "高等护命 Fortification (Greater)",
+			"description": "<p>护命符文对最致命的攻击提供防护。你在穿戴该护甲时每次被重击，都可进行一次DC14的纯骰检定。若成功，该次攻击变为普通命中。该性能会加厚护甲，增加护甲的负载1点，克服减值所需的力量增加2点。</p>"
 		},
 		"Fortifying Pebble": {
 			"name": "Fortifying Pebble",
@@ -3918,12 +3918,12 @@
 			"description": "<p>This clockwork traveler's chair is shaped like a wheeled frog, with springs attached to the bottom and an extensible tongue on the front.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<p><strong>Frequency</strong> once per hour</p>\n<p><strong>Effect</strong> You activate the wheelchair's springs to make hopping leaps. For 1 minute, whenever you @Compendium[pf2e.actionspf2e.d5I6018Mci2SWokk]{Leap} with the wheelchair, you can jump 30 feet in any direction without touching the ground. You must land on a space of solid ground within 30 feet of you, or else you fall after using your next action.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<p><strong>Frequency</strong> Once per minute</p>\n<p><strong>Effect</strong> You activate the wheelchair's tongue to grab a nearby object and bring it to you. @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{Interact} to pick up an unattended object within 15 feet and bring it to your empty hand. If you don't have a hand to take the object, it falls in your space instead.</p>"
 		},
 		"Frost": {
-			"name": "Frost",
-			"description": "<p>This weapon is empowered with freezing ice. It deals an additional 1d6 cold damage on a successful Strike. On a critical hit, the target is also @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Slowed 1} until the end of your next turn unless it succeeds at a @Check[type:fortitude|dc:24|name:Frost Rune|showDC:all] save.</p>"
+			"name": "冻寒 Frost",
+			"description": "<p>该武器用冻结的冰霜增强了威力。该武器成功的打击命中额外造成1d6点寒冷伤害，若重击，目标还需进行@Check[type:fortitude|dc:24|name:Frost Rune|showDC:all]豁免检定，失败则直到你下一回合结束为止获得 @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{缓慢 Slowed 1}。</p>"
 		},
 		"Frost (Greater)": {
-			"name": "Frost (Greater)",
-			"description": "<p>This weapon is empowered with freezing ice. It deals an additional 1d6 cold damage on a successful Strike.</p>\n<p>On a critical hit, the target is also @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Slowed 1} until the end of your next turn unless it succeeds at a @Check[type:fortitude|dc:34|name:Frost Rune|showDC:all] save.</p>\n<p>Cold damage dealt by this weapon ignores the target's cold resistance.</p>"
+			"name": "高等冻寒 Frost (Greater)",
+			"description": "<p>该武器用冻结的冰霜增强了威力。该武器成功的打击命中额外造成1d6点寒冷伤害，若重击，目标还需进行@Check[type:fortitude|dc:34|name:Frost Rune|showDC:all]豁免检定，失败则直到你下一回合结束为止获得 @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{缓慢 Slowed 1}。</p>\n<p>该武器造成的寒冷伤害忽略目标的寒冷抗力。</p>"
 		},
 		"Frost Brand": {
 			"name": "霜烙 Frost Brand",
@@ -4098,8 +4098,8 @@
 			"description": "<p><strong>Activate</strong> 10 minutes (Interact)</p>\n<p>This pale-blue ink dries rapidly, becoming fully transparent 1 minute after application. The ink glows red when exposed to heat, such as that from a torch or other open flame. This glow lasts only as long as the ink is exposed to heat, after which the ink becomes invisible again. The crafter of the ghost ink can alter the formula slightly to instead make the ink sensitive to sunlight, starlight, magical light, or heatless light created by an alchemical effect such as a sunrod.</p>\n<p>While the text isn't glowing, a creature closely examining a surface marked with ghost ink can detect the presence of the ink with a successful DC 25 Perception check. On a critical success, they can make out the ink well enough to use Society to @Compendium[pf2e.actionspf2e.d9gbpiQjChYDYA2L]{Decipher Writing}. One vial of ghost ink is sufficient to write a page worth of text.</p>"
 		},
 		"Ghost Touch": {
-			"name": "Ghost Touch",
-			"description": "<p>The weapon can harm creatures without physical form. A <em>ghost touch</em> weapon is particularly effective against incorporeal creatures, which almost always have a specific weakness to <em>ghost touch</em> weapons. Incorporeal creatures can touch, hold, and wield <em>ghost touch</em> weapons (unlike most physical objects).</p>"
+			"name": "幽冥 Ghost Touch",
+			"description": "<p>该武器可以伤害到没有实体的生物。幽冥武器对虚体生物特别有效，那些东西大多数都对幽冥武器有着弱点。虚体生物可以接触、手持和持握幽冥武器（这和大多数物质物体不同）。</p>"
 		},
 		"Ghostbane Fulu": {
 			"name": "Ghostbane Fulu",
@@ -4150,8 +4150,8 @@
 			"description": "<p>This +2 @Compendium[pf2e.equipment-srd.DH0kB9Wbr5pDeunX]{Holy} greater striking glaive has a long, multi-tailed rainbow-colored banner affixed to the butt of the pole in the style of Shelyn's religious symbol. While wielding the glaive, you gain a +2 item bonus on Crafting and Performance checks.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p><strong>Frequency</strong> once per round</p>\n<p><strong>Effect</strong> You furl one of the colored tails around the pole, causing the glaive to gain the effects of your choice of the corrosive, flaming, frost, shocking, or thundering property runes for 1 round, depending on the tail you chose.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">D</span> Interact</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You thrust the blade of the glaive into the ground, activating the power of the banner. (The blade can penetrate any non-metallic surface when used in this way, and does not leave a mark when withdrawn.) As long as the glaive is thrust into the ground and standing upright, all allies within 60 feet who can see the glaive's banner gain a +2 item bonus to Performance checks.</p>\n<p>@Compendium[pf2e.equipment-effects.EpNflrkmWzQ0lEb4]{Effect: Glaive of the Artist}</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+2 item bonus on Crafting and Performance checks</li>\n</ul>"
 		},
 		"Glamered": {
-			"name": "Glamered",
-			"description": "<p>This armor can be disguised with a mere thought.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> envision</p>\n<p><strong>Effect</strong> You change the shape and appearance of this armor to appear as ordinary or fine clothes of your imagining. The armor's statistics do not change. Only a creature that is benefiting from true seeing or a similar effect can attempt to disbelieve this illusion, with a DC of 25.</p>"
+			"name": "无相 Glamered",
+			"description": "<p>该护甲可以仅凭想象变化自身。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 想象</p>\n<p><strong>效果</strong> 你改变护甲的形状和外表，展现成想象中服饰的普通版或精良版的样子。护甲的数据不会改变。只有受到真知术或类似效果的生物才能尝试不相信这个幻术效果，DC是25。</p>"
 		},
 		"Glamorous Buckler": {
 			"name": "Glamorous Buckler",
@@ -4406,8 +4406,8 @@
 			"description": "<p>This watery, mint-green emetic of xulgath design is often carried in a delicate obsidian vial or other fragile container.</p>\n<p>In the unfortunate circumstance that a creature has been Swallowed Whole by another creature, the swallowed creature can break open a vial of greengut to immediately induce vomiting.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p>The swallower must succeed at a @Check[type:fortitude|dc:40] save or take [[/r {18d6}[poison]]]{18d6 poison damage} and possibly vomit the contents of its stomach.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes half damage.</p>\n<p><strong>Failure</strong> The creature takes full damage, is @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened 1}, and vomits up any and all creatures Swallowed Whole on its next turn (a single action, which also allows it a Fortitude save against the sickened condition), as well as any stones or other objects it swallowed.</p>\n<p><strong>Critical Failure</strong> As failure, but the creature takes double damage and is sickened 2.</p>"
 		},
 		"Grievous": {
-			"name": "Grievous",
-			"description": "<p>When your attack roll with this weapon is a critical hit and gains the critical specialization effect, you gain an additional benefit depending on the weapon group.</p>\n<p><strong>Axe</strong> You can damage a third creature, with the same restrictions.</p>\n<p><strong>Bow</strong> The Athletics check to pull the missile free is DC 20.</p>\n<p><strong>Brawling</strong> The target takes a -4 circumstance penalty to its save.</p>\n<p><strong>Club</strong> You can knock the target up to 15 feet away.</p>\n<p><strong>Dart</strong> The base pers@Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Bleed Damage} increases to 2d6.</p>\n<p><strong>Flail</strong> You move the target 5 feet. You can't move it away from you, but you can move it in another direction of your choice.</p>\n<p><strong>Hammer</strong> You can also knock the target 5 feet away from you.</p>\n<p><strong>Knife</strong> The target takes a -5-foot status penalty to its Speed while it has the @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Bleed Damage}.</p>\n<p><strong>Pick</strong> The extra damage from the critical specialization effect increases to 4 per weapon damage die.</p>\n<p><strong>Polearm</strong> You can move the target up to 10 feet.</p>\n<p><strong>Shield</strong> You can knock the target up to 10 feet away.</p>\n<p><strong>Sling</strong> The target also takes a -10-foot status penalty to its Speed for 1 round if it fails the save.</p>\n<p><strong>Spear</strong> The clumsy condition lasts for 2 rounds.</p>\n<p><strong>Sword</strong> The target is flat-footed until the end of your next turn.</p>"
+			"name": "深化 Grievous",
+			"description": "<p>当你使用该武器重击且获得了重击专精特效时，你还会基于武器组获得额外的好处。</p>\n<p><strong>斧 Axe</strong> 你可以攻击第三个生物，使用和常规重击专精特效相同的限制。</p>\n<p><strong>弓弩 Bow</strong> 拔出弹头的运动DC为20。</p>\n<p><strong>搏击 Brawling</strong> 目标的豁免获得-4环境减值。</p>\n<p><strong>棍棒 Club</strong> 你可以击退目标最多15尺远。</p>\n<p><strong>暗器 Dart</strong> 基础@Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续流血伤害} 提升至2d6。</p>\n<p><strong>连枷 Flail</strong> 你移动目标5尺。你无法将其移动远离你，但可以按你所想将其移动到你的另一个方位上。</p>\n<p><strong>锤 Hammer</strong> 你还可以将其击退离你5尺远。</p>\n<p><strong>短刃 Knife</strong> 只要目标还受到该@Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续流血伤害}，其速度获得-5尺减值。</p>\n<p><strong>镐 Pick</strong> 重击专精效果的额外伤害增加为每颗武器伤害骰4点。</p>\n<p><strong>长武 Polearm</strong> 你可以移动目标最多10尺。</p>\n<p><strong>盾牌 Shield</strong> 你可以击退目标最多10尺远。</p>\n<p><strong>投索 Sling</strong> 若目标豁免失败，其移动速度1轮内获得-10尺的减值。</p>\n<p><strong>矛 Spear</strong> 笨拙Clumsy状态持续2轮。</p>\n<p><strong>剑 Sword</strong> 目标直到你的下一回合结束前措手不及。</p>"
 		},
 		"Griffon Cane": {
 			"name": "Griffon Cane",
@@ -4714,8 +4714,8 @@
 			"description": "<p>具有超自然意义的植物为某些原能施法者（如德鲁伊）提供神力的焦点，以使用某些技能并施放一些法术。必须用一只手拿着一捆冬青和槲寄生才能使用它。对于专注于自然其他方面的德鲁伊来说，存在其他类型的原始神力焦点。</p>"
 		},
 		"Holy": {
-			"name": "Holy",
-			"description": "<p><em>Holy</em> weapons command powerful celestial energy. A weapon with this rune deals an extra 1d6 good damage against evil targets. If you are evil, you are enfeebled 2 while carrying or wielding this weapon.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">R</span> command</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> You critically succeed at an attack roll against an evil creature with the weapon</p>\n<p><strong>Effect</strong> You regain HP equal to double the evil creature's level. This is a good, positive, healing effect.</p>\n<p><strong>Craft Requirements</strong> You are good.</p>"
+			"name": "神圣 Holy",
+			"description": "<p>神圣武器能号令强大的天界能量。拥有该符文的武器对邪恶目标额外造成1d6点善良伤害。若你为邪恶阵营，你在携带或持握该武器时获得力竭2（enfeebled）。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">R</span> 命令</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>触发</strong> 你用该武器对一邪恶生物重击成功</p>\n<p><strong>效果</strong> 你获得该邪恶生物等级双倍的HP。这是一个善良、正能量、治疗效果。</p>\n<p><strong>制造需求</strong> 你是善良阵营。</p>"
 		},
 		"Holy Avenger": {
 			"name": "神圣复仇者 Holy Avenger",
@@ -5030,12 +5030,12 @@
 			"description": "<p>Inubrix is much softer than steel, and it's atypical for it to be used to make shields. An item made by an unskilled smith will dent from a single blow and prove worthless on the battlefield. However, its yielding surface can entrap metal weapons.</p>\n<p>You can use an inubrix shield (or shield boss or shield spikes on an inubrix shield) to @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Disarm} a metal item with the Athletics skill even if you don't have a free hand; doing so uses the weapon's reach (if different from your own) and adds the weapon's item bonus to attack rolls (if any) as an item bonus to the Athletics check. If you critically fail a check to Disarm a metal item using the weapon, you can drop the weapon to take the effects of a failure instead of a critical failure. On a critical success, you still need a free hand if you want to take the item.</p>\n<p><strong>Craft Requirements</strong> inubrix worth at least 44 gp</p>"
 		},
 		"Invisibility": {
-			"name": "Invisibility",
-			"description": "<p>ight seems to partially penetrate this armor.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> command</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> Whispering the command word, you become invisible for 1 minute, gaining the effects of a 2nd-level <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{Invisibility}</em> spell.</p>\n<p><strong>Craft Requirements</strong> Supply one casting of <em>invisibility</em>.</p>"
+			"name": "隐形 Invisibility",
+			"description": "<p>光线似乎直接穿透了该护甲。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 命令</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>效果</strong> 轻念命令词，你会变得隐形1分钟，获得2环 <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{隐形术 Invisibility}</em> 的效果。</p>\n<p><strong>制造需求</strong> 提供施放1次隐形术法术</p>"
 		},
 		"Invisibility (Greater)": {
-			"name": "Invisibility (Greater)",
-			"description": "<p>ight seems to partially penetrate this armor.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> command</p>\n<p><strong>Frequency</strong> three times per day</p>\n<p><strong>Effect</strong> Whispering the command word, you become invisible for 1 minute, gaining the effects of a 2nd-level <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{Invisibility}</em> spell.</p>\n<p><strong>Craft Requirements</strong> Supply one casting of <em>invisibility</em>.</p>"
+			"name": "高等隐形 Invisibility (Greater)",
+			"description": "<p>光线似乎直接穿透了该护甲。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 命令</p>\n<p><strong>频率</strong> 每天三次</p>\n<p><strong>效果</strong> 轻念命令词，你会变得隐形1分钟，获得2环 <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{隐形术 Invisibility}</em> 的效果。</p>\n<p><strong>制造需求</strong> 提供施放1次隐形术法术</p>"
 		},
 		"Invisibility Potion": {
 			"name": "隐形药水 Invisibility Potion",
@@ -5234,8 +5234,8 @@
 			"description": "<p>也被称为拳刃，其特定是Ｈ型的握把，允许刀刃从指关节外突出。</p>"
 		},
 		"Keen": {
-			"name": "Keen",
-			"description": "<p>The edges of a keen weapon are preternaturally sharp. Attacks with this weapon are a critical hit on a 19 on the die as long as that result is a success. This property has no effect on a 19 if the result would be a failure.</p>"
+			"name": "锐锋 Keen",
+			"description": "<p>锐锋武器的锋刃超乎寻常的锐利。用该武器的攻击若骰出19且攻击结果为成功，则可为重击。若骰出19但结果为失败，则该性能符文没有效果。</p>"
 		},
 		"Keymaking Tools": {
 			"name": "Keymaking Tools",
@@ -7434,16 +7434,16 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<p>This clear, tasteless tar causes the victim to emit waves of harmful mental energy that repel other creatures. Desperate users might consume this poison to keep enemies at bay despite the poison's debilitating effects. While you're @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied} from this poison, a creature that starts its turn within 10 feet of you or approaches within 10 feet of you must attempt a @Check[type:will|dc:35] saving throw. On a failure, the creature can't voluntarily move closer to you; this is a mental effect. Once the approaching creature has attempted to save, it uses the same result for all saves from that dose of repulsion resin.</p>\n<hr />\n<p><strong>Saving Throw</strong> @Check[type:fortitude|dc:38]</p>\n<p><strong>Onset</strong> 10 minutes</p>\n<p><strong>Maximum Duration</strong> 6 minutes</p>\n<p><strong>Stage 1</strong> [[/r {12d6}[mental]]]{12d6 mental damage} and stupefied 1 (1 minute)</p>\n<p><strong>Stage 2</strong> [[/r {16d6}[poison]]]{16d6 poison damage} and stupefied 1 (1 minute)</p>\n<p><strong>Stage 3</strong> [[/r {20d6}[poison]]]{20d6 poison damage} and stupefied 2 (1 minute)</p>\n<hr />\n<p><strong>Craft Requirements</strong> Supply one casting of <em>@Compendium[pf2e.spells-srd.yrZA4k2VAqEP8xx7]{Repulsion}</em>.</p>"
 		},
 		"Resilient": {
-			"name": "Resilient",
-			"description": "<p><em>Resilient</em> runes imbue armor with additional protective magic. This grants the wearer a +1 item bonus to saving throws.</p>\n<p>You can upgrade the <em>resilient</em> rune already etched on a suit of armor to a stronger version, increasing the values of the existing rune to those of the new rune. You must have the formula of the stronger rune to do so, and the Price of the upgrade is the difference between the two runes' Prices.</p>"
+			"name": "抗力 Resilient",
+			"description": "<p>抗力符文为护甲提供额外的防护力。穿戴者的豁免骰获得+1物品加值。</p>\n<p>你可以将护甲上已蚀刻的抗力符文升级为更强的版本，效果也会提升成新符文的数值。你必须有更强符文的配方才能如此做，且升级的价格是两枚符文之间价格的差额。</p>"
 		},
 		"Resilient (Greater)": {
-			"name": "Resilient (Greater)",
-			"description": "<p><em>Resilient</em> runes imbue armor with additional protective magic. This grants the wearer a +2 item bonus to saving throws.</p>\n<p>You can upgrade the <em>resilient</em> rune already etched on a suit of armor to a stronger version, increasing the values of the existing rune to those of the new rune. You must have the formula of the stronger rune to do so, and the Price of the upgrade is the difference between the two runes' Prices.</p>"
+			"name": "高等抗力 Resilient (Greater)",
+			"description": "<p>抗力符文为护甲提供额外的防护力。穿戴者的豁免骰获得+2物品加值。</p>\n<p>你可以将护甲上已蚀刻的抗力符文升级为更强的版本，效果也会提升成新符文的数值。你必须有更强符文的配方才能如此做，且升级的价格是两枚符文之间价格的差额。</p>"
 		},
 		"Resilient (Major)": {
-			"name": "Resilient (Major)",
-			"description": "<p><em>Resilient</em> runes imbue armor with additional protective magic. This grants the wearer a +3 item bonus to saving throws.</p>\n<p>You can upgrade the <em>resilient</em> rune already etched on a suit of armor to a stronger version, increasing the values of the existing rune to those of the new rune. You must have the formula of the stronger rune to do so, and the Price of the upgrade is the difference between the two runes' Prices.</p>"
+			"name": "上等抗力 Resilient (Major)",
+			"description": "<p>抗力符文为护甲提供额外的防护力。穿戴者的豁免骰获得+3物品加值。</p>\n<p>你可以将护甲上已蚀刻的抗力符文升级为更强的版本，效果也会提升成新符文的数值。你必须有更强符文的配方才能如此做，且升级的价格是两枚符文之间价格的差额。</p>"
 		},
 		"Resonating Ammunition (Arrow)": {
 			"name": "Resonating Ammunition (Arrow)",
@@ -7474,8 +7474,8 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">f</span> command</p>\n<p><strong>Requirements</strong> You have a free hand.</p>\n<hr />\n<p>This triangular prism showing swirling black patterns inside constantly moves around on your armor, no matter where you affix it. When you activate this talisman, any item in your possession of 1 bulk or less, chosen when you activate the prism, immediately teleports into your hand.</p>\n<p>The retrieval prism can't retrieve an item that's not on your plane, including one that's in an extradimensional space like a bag of holding. If you haven't expended the talisman, you can attune it to a different item by Affixing the Talisman again.</p>\n<p>You don't need to attune the prism. It can retrieve any item in your possession of 1 Bulk or less, chosen when you activate the prism.</p>"
 		},
 		"Returning": {
-			"name": "Returning",
-			"description": "<p>When you make a thrown Strike with this weapon, it flies back to your hand after the Strike is complete. If your hands are full when the weapon returns, it falls to the ground in your space.</p>"
+			"name": "回力 Returning",
+			"description": "<p>当你用该武器进行投掷打击时，打击动作完成后它即会飞回你的手中。若武器飞回时你的手全被占满，该武器会在你所在的位置掉落于地。</p>"
 		},
 		"Rhino Hide": {
 			"name": "犀牛革甲 Rhino Hide",
@@ -8162,16 +8162,16 @@
 			"description": "<p>This comfortable and stylish wide-brimmed hat magically protects you from the worst of the heat in hot areas, even when the heat doesn't come from the sun. While wearing the <em>shade hat</em>, you are protected from mild and severe heat (but not extreme heat).</p>"
 		},
 		"Shadow": {
-			"name": "Shadow",
-			"description": "<p>Armor with this rune becomes hazy black. You gain a +1 item bonus to Stealth checks while wearing the armor.</p>"
+			"name": "暗影 Shadow",
+			"description": "<p>蚀刻该符文的护甲变城朦胧的黑色。穿戴者的潜行检定获得+1物品加值。</p>"
 		},
 		"Shadow (Greater)": {
-			"name": "Shadow (Greater)",
-			"description": "<p>Armor with this rune becomes hazy black. You gain a +2 item bonus to Stealth checks while wearing the armor.</p>"
+			"name": "高等暗影 Shadow (Greater)",
+			"description": "<p>蚀刻该符文的护甲变城朦胧的黑色。穿戴者的潜行检定获得+2物品加值。</p>"
 		},
 		"Shadow (Major)": {
-			"name": "Shadow (Major)",
-			"description": "<p>Armor with this rune becomes hazy black. You gain a +3 item bonus to Stealth checks while wearing the armor.</p>"
+			"name": "上等暗影 Shadow (Major)",
+			"description": "<p>蚀刻该符文的护甲变城朦胧的黑色。穿戴者的潜行检定获得+3物品加值。</p>"
 		},
 		"Shadow Essence": {
 			"name": "阴影精华 Shadow Essence",
@@ -8242,8 +8242,8 @@
 			"description": "<p>This prosthetic arm is imbued with transmutation magic that can transform it into a weapon.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">3</span> command, Interact</p>\n<p><strong>Requirements</strong> You are holding a one-handed weapon</p>\n<p><strong>Effect</strong> The prosthesis engulfs the weapon and absorbs it entirely. The weapon is unavailable until you use this Activation to release it from the prosthesis. The prosthesis can hold up to two items at a time.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">F</span> envision</p>\n<p><strong>Frequency</strong> once per minute</p>\n<p><strong>Effect</strong> The prosthesis reshapes into the form of a weapon it has absorbed. The prosthesis has all of the statistics of the weapon, including the effects of any etched runes. The prosthesis remains in this weapon's form until you use this Activation again to revert it back to a prosthesis.</p>"
 		},
 		"Shifting": {
-			"name": "Shifting",
-			"description": "<p>With a moment of manipulation, you can shift this weapon into a different weapon with a similar form.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> Interact</p>\n<p><strong>Effect</strong> The weapon takes the shape of another melee weapon that requires the same number of hands to wield. The weapon's runes and any precious material it's made of apply to the weapon's new shape. Any property runes that can't apply to the new form are suppressed until the item takes a shape to which they can apply.</p>"
+			"name": "变型 Shifting",
+			"description": "<p>随着一阵操作，你将该武器变型为类似形态的另一种武器。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 交互</p>\n<p><strong>效果</strong> 武器变型成另一种需要同样手来持握的近战武器。武器符文和任何珍贵材料效果都在新武器形态上有效。但若性能符文不适合新武器形态，则该符文效果被压制，直到它变型成的新形态能适合该符文为止。</p>"
 		},
 		"Shimmering Dust": {
 			"name": "Shimmering Dust",
@@ -8266,12 +8266,12 @@
 			"description": "<p>The shobhad longrifle is a firearm with a long, rifled barrel. Often mounted with a multi-lensed scope for targeting at an array of ranges and a chambering mechanism that can adjust the speed and penetrating power of each shot, it's the preferred weapon of many shobhad warriors.</p>\n<p>Shobhad longrifles are equipped with a built-in @Compendium[pf2e.equipment-srd.0BEbpOMBo7ET8NsR]{Silencer} so they make no more noise than a crossbow when fired.</p>\n<p>A shobhad longrifle is a martial weapon.</p>"
 		},
 		"Shock": {
-			"name": "Shock",
-			"description": "<p>Electric arcs crisscross this weapon, dealing an extra 1d6 electricity damage on a hit. On a critical hit, electricity arcs out to deal an equal amount of electricity damage to up to two other creatures of your choice within 10 feet of the target.</p>"
+			"name": "电击 Shock",
+			"description": "<p>电弧在武器周身穿梭，用其命中额外造成1d6点电击伤害。若重击，电弧对目标10尺内另外最多2个你所选的目标造成等量的电击伤害。</p>"
 		},
 		"Shock (Greater)": {
-			"name": "Shock (Greater)",
-			"description": "<p>Electric arcs crisscross this weapon, dealing an extra 1d6 electricity damage on a hit. On a critical hit, electricity arcs out to deal an equal amount of electricity damage to up to two other creatures of your choice within 10 feet of the target.</p>\n<p>Electricity damage dealt by this weapon ignores the target's electricity resistance (and the other creatures' on a critical hit).</p>"
+			"name": "高等电击 Shock (Greater)",
+			"description": "<p>电弧在武器周身穿梭，用其命中额外造成1d6点电击伤害。若重击，电弧对目标10尺内另外最多2个你所选的目标造成等量的电击伤害。</p>\n<p>该武器造成的电击伤害忽略目标的电击抗力（包括重击时对另外生物造成的电击伤害）。</p>"
 		},
 		"Shockguard Coil": {
 			"name": "Shockguard Coil",
@@ -8634,16 +8634,16 @@
 			"description": "<p>This loose robe has wide, voluminous sleeves that each contain an extradimensional space. These spaces each function as a @Compendium[pf2e.equipment-srd.jaEEvuQ32GjAa8jy]{Bag of Holding} that can hold up to 20 Bulk of items (for a total of 40 Bulk), though no individual item can be of more than 1 Bulk; the sleeves grow slightly heavy as you reach maximum capacity. You can add or remove an item from a sleeve with a single hand free as an Interact action.</p>\n<p>If a sleeve is completely empty, you can place your own familiar into that extradimensional space. It can survive comfortably in your sleeve for up to 4 hours, after which it begins to <em>suffocate</em>. While in your sleeve, it can't be affected or targeted by any effects, but you don't benefit from any master abilities. A familiar can exit the sleeve of its own volition with a single action that has the <em>manipulate </em>and <em>move</em> traits. You can't place any other creature into your sleeves, nor can you place your familiar in a sleeve if it's larger than Tiny. If your familiar is in your sleeve, you can't place any items in the sleeve.</p>"
 		},
 		"Slick": {
-			"name": "Slick",
-			"description": "<p>This property makes armor slippery, as though it were coated with a thin film of oil. You gain a +1 item bonus to Acrobatics checks to Escape and Squeeze.</p>"
+			"name": "滑溜 Slick",
+			"description": "<p>该性能让护甲变得更滑溜，如同复盖了一层油膜一样。你在逃脱（Escape）和挤压（Squeeze）的特技检定上获得+1物品加值。</p>"
 		},
 		"Slick (Greater)": {
-			"name": "Slick (Greater)",
-			"description": "<p>This property makes armor slippery, as though it were coated with a thin film of oil. You gain a +2 item bonus to Acrobatics checks to Escape and Squeeze.</p>"
+			"name": "高等滑溜 Slick (Greater)",
+			"description": "<p>该性能让护甲变得更滑溜，如同复盖了一层油膜一样。你在逃脱（Escape）和挤压（Squeeze）的特技检定上获得+2物品加值。</p>"
 		},
 		"Slick (Major)": {
-			"name": "Slick (Major)",
-			"description": "<p>This property makes armor slippery, as though it were coated with a thin film of oil. You gain a +3 item bonus to Acrobatics checks to Escape and Squeeze.</p>"
+			"name": "上等滑溜 Slick (Major)",
+			"description": "<p>该性能让护甲变得更滑溜，如同复盖了一层油膜一样。你在逃脱（Escape）和挤压（Squeeze）的特技检定上获得+3物品加值。</p>"
 		},
 		"Slide Pistol": {
 			"name": "Slide Pistol",
@@ -8874,8 +8874,8 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">1</span> Interact</p>\n<p>Belladonna cultivated in planes hazardous to living visitors, such as the Shadow Plane or the Boneyard, grow with a strange, skeletal look to their branches. The leaves and berries of these extraplanar plants are partly incorporeal and significantly more toxic than belladonna grown on the Material Plane. When imbued with spirit-twisting magic, spectral nightshade quickly drains away the victim's vitality and makes colors painfully bright and bewildering. Spectral nightshade doesn't affect creatures that have no spirit; if a possessing spirit inhabits a body that takes poison damage from spectral nightshade, the possessor takes an equal amount of force damage, even if the possessor can't be affected directly by poisons.</p>\n<hr />\n<p><strong>Saving Throw</strong> @Check[type:fortitude|dc:33]</p>\n<p><strong>Onset</strong> 1 minute</p>\n<p><strong>Maximum Duration</strong> 6 minutes</p>\n<p><strong>Stage 1</strong> [[/r {10d6}[poison]]]{10d6 poison damage} and @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Dazzled}(1 minute)</p>\n<p><strong>Stage 2</strong> [[/r {13d6}[poison]]]{13d6 poison damage} and @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drained 1} (1 minute)</p>\n<p><strong>Stage 3</strong> [[/r {15d6}[poison]]]{15d6 poison damage}, @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confused}, and drained 2 (1 minute)</p>\n<hr />\n<p>Craft Requirements Supply one casting of <em>@Compendium[pf2e.spells-srd.PHVHBbdHeQRfjLmE]{Spirit Blast}</em>.</p>"
 		},
 		"Speed": {
-			"name": "Speed",
-			"description": "<p>Attacks with a <em>speed</em> weapon are supernaturally swift. While wielding a <em>speed</em> weapon, you gain the quickened condition, but you can use the additional action granted only to make a Strike with the etched weapon.</p>"
+			"name": "加速 Speed",
+			"description": "<p>用加速武器进行的攻击极为迅速。当持握加速武器时，你获得迅捷quickened状态，但你只能用这个额外的动作使用该武器进行打击动作。</p>"
 		},
 		"Spell Bastion": {
 			"name": "Spell Bastion",
@@ -8886,8 +8886,8 @@
 			"description": "<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> Interact</p>\n<p>This gummy resin contains sparkling motes of magical energy that dramatically impair your cognitive functions and dispel spells as you cast them. Spell energy manifests but then sputters out, as though drained away by the sparkling motes. While you're @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied} by this poison, the DC of flat checks to avoid disruption from the stupefied condition when you Cast a Spell is 5 + twice the stupefied value, rather than 5 + the stupefied value.</p>\n<hr />\n<p>S<strong>aving Throw</strong> @Check[type:fortitude|dc:31]</p>\n<p><strong>Maximum Duration</strong> 6 rounds</p>\n<p><strong>Stage 1</strong> [[/r {5d6}[poison]]]{5d6 poison damage} and stupefied 1 (1 round)</p>\n<p><strong>Stage 2</strong> [[/r {6d6}[poison]]]{6d6 poison damage} and stupefied 3 (1 round)</p>\n<p><strong>Stage 3</strong> [[/r {7d6}[poison]]]{7d6 poison damage} and stupefied 4 (1 round)</p>\n<hr />\n<p><strong>Craft Requirements</strong> Supply one casting of 6th-level <em>@Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dispel Magic}</em>.</p>"
 		},
 		"Spell-Storing": {
-			"name": "Spell-Storing",
-			"description": "<p>A <em>spell-storing</em> rune creates a reservoir of eldritch energy within the etched weapon. A spellcaster can spend 1 minute to cast a spell of 3rd level or lower into the weapon. The spell must have a casting of 2 actions or fewer and must be able to target a creature other than the caster. The spell has no immediate effect-it is instead stored for later. When you wield a <em>spell-storing</em> weapon, you immediately know the name and level of the stored spell. A <em>spell-storing</em> weapon found as treasure has a 50% chance of having a spell of the GM's choice stored in it.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> command</p>\n<p><strong>Requirements</strong> On your previous action this turn, you hit and damaged a creature with this weapon</p>\n<p><strong>Effect</strong> You unleash the stored spell, which uses the target of the triggering attack as the target of the spell. This empties the spell from the weapon and allows a spell to be cast into it again. If the spell requires a spell attack roll, the result of your attack roll with the weapon determines the degree of success of the spell, and if the spell requires a saving throw, the DC is 30.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">A</span> command</p>\n<p><strong>Effect</strong> Harmlessly expend the stored spell. This frees the weapon to have a new spell cast into it.</p>"
+			"name": "储法 Spell-Storing",
+			"description": "<p>储法符文在武器上创造出一个奥术能量储存库。施法者能够花1分钟施放一个至多为3环的法术到武器上。该法术必须最多为2动作施放的法术且必须能指定非施法者的目标。该法术不会立刻生效——它被储存起来以待后用。当你持握触发武器时，你会立刻知晓储存其中的法术名字和环级。冒险宝藏中发现的触发武器有50%几率已储存一个GM选择的法术。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 命令</p>\n<p><strong>需求</strong> 在你本回合的上一个动作中，你用该武器命中且伤害了一名生物</p>\n<p><strong>效果</strong> 你释放出被储存的法术，将要求中的生物作为法术的目标。此举清空武器内储存的法术，使得可以储存另一个法术与其中。若法术需要法术攻击骰，用你使用该武器时的攻击骰来决定法术的成功度，若法术需要目标通过豁免，豁免DC为30。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">A</span> 命令</p>\n<p><strong>效果</strong> 无害消耗掉储存的法术。这能清空武器使得可以储存另一个法术于其中。</p>"
 		},
 		"Spellbook (Blank)": {
 			"name": "法术书 Spellbook (Blank)",
@@ -9290,16 +9290,16 @@
 			"description": "<p>This adamantine staff is fitted with mithral plates resembling battlements on a castle. Lesser cover, cover, and greater cover don't grant any bonus against your spell attacks or to saving throws against your spells that you cast from the staff.</p>\n<p><strong>Activate</strong> Cast a Spell;<strong>Effect</strong> You expend a number of charges from the staff to cast a spell from its list.</p>\n<ul>\n<li>\n<p><strong>Cantrip</strong> <em>@Compendium[pf2e.spells-srd.TVKNbcgTee19PXZR]{Shield}</em>, <em>@Compendium[pf2e.spells-srd.60sgbuMWN0268dB7]{Telekinetic Projectile}</em></p>\n</li>\n<li>\n<p><strong>1st</strong> <em>@Compendium[pf2e.spells-srd.g8QqHpv2CWDwmIm1]{Gust of Wind}</em>, <em>@Compendium[pf2e.spells-srd.KcLVELhCUcKXxiKE]{Longstrider}</em></p>\n</li>\n<li>\n<p><strong>2nd</strong> <em>@Compendium[pf2e.spells-srd.9XHmC2JgTUIQ1CCm]{Obscuring Mist}</em>, <em>@Compendium[pf2e.spells-srd.9s5tqqXNzcoKamWx]{Web}</em></p>\n</li>\n<li>\n<p><strong>3rd</strong> <em>@Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Fireball}</em>, <em>@Compendium[pf2e.spells-srd.it4ZsAi6XgvGcodc]{Wall of Wind}</em></p>\n</li>\n<li>\n<p><strong>4th</strong> <em>@Compendium[pf2e.spells-srd.HBJPsonQnWcC3qdX]{Hallucinatory Terrain}</em>, <em>@Compendium[pf2e.spells-srd.piMJO6aYeDJbrhEo]{Solid Fog}</em>, <em>@Compendium[pf2e.spells-srd.IarZrgCeaiUqOuRu]{Wall of Fire}</em></p>\n</li>\n<li>\n<p><strong>5th</strong> <em>@Compendium[pf2e.spells-srd.MlpbeZ61Euhl0d60]{Cloudkill}</em>, <em>@Compendium[pf2e.spells-srd.kOa055FIrO9Smnya]{Wall of Stone}</em></p>\n</li>\n<li>\n<p><strong>6th</strong> <em>@Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Fireball}</em>, <em>@Compendium[pf2e.spells-srd.7Iela4GgVeO3LfAo]{Wall of Force}</em></p>\n</li>\n<li>\n<p><strong>7th</strong> <em>@Compendium[pf2e.spells-srd.vPWMEyVTreMOoFnm]{Magnificent Mansion}</em>, <em>@Compendium[pf2e.spells-srd.d6o52BnjViNz7Gub]{Prismatic Spray}</em></p>\n</li>\n<li>\n<p><strong>8th</strong> <em>@Compendium[pf2e.spells-srd.x7SPrsRxGb2Vy2nu]{Earthquake}</em>, <em>@Compendium[pf2e.spells-srd.uEyfLoFQsRKBRIcB]{Scintillating Pattern}</em></p>\n</li>\n<li>\n<p><strong>9th</strong> <em>@Compendium[pf2e.spells-srd.jrBa9deU2ULFWvSl]{Meteor Swarm}</em></p>\n</li>\n</ul>"
 		},
 		"Staff of Transmutation": {
-			"name": "Staff of Transmutation",
-			"description": "<p>A glass orb atop this metal staff contains fine, undulating sand. While wielding the staff, you gain a +2 circumstance bonus to checks to identify transmutation magic.</p>\n<p><strong>Activate</strong> Cast a Spell</p>\n<p><strong>Effect</strong> You expend a number of charges from the staff to cast a spell from its list.</p>\n<ul>\n<li><strong>Cantrip</strong> <em>@Compendium[pf2e.spells-srd.AUctDF2fqPZN2w4W]{Sigil}</em></li>\n<li><strong>1st</strong> <em>@Compendium[pf2e.spells-srd.aEM2cttJ2eYcLssW]{Fleet Step}</em>, <em>@Compendium[pf2e.spells-srd.Q7QQ91vQtyi1Ux36]{Jump}</em></li>\n<li><strong>2nd</strong> <em>@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Enlarge}</em>, <em>@Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]{Humanoid Form}</em></li>\n</ul>\n<p><strong>Craft Requirements</strong> Supply one casting of all listed levels of all listed spells.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+2 circumstance bonus to checks to identify transmutation magic</li>\n</ul>"
+			"name": "变化法杖 Staff of Transmutation",
+			"description": "<p>在这个细金属法杖头部有一个玻璃球，里面不断翻滚着细沙。持握它时，你在鉴别变化系法术的检定上获得+2环境加值。</p>\n<p><strong>启动</strong> 施放法术</p>\n<p><strong>效果</strong> 你消耗一定充能从法杖法术列表中施放法术。</p>\n<ul>\n<li><strong>戏法</strong> <em>@Compendium[pf2e.spells-srd.AUctDF2fqPZN2w4W]{印记术 Sigil}</em></li>\n<li><strong>1环</strong> <em>@Compendium[pf2e.spells-srd.aEM2cttJ2eYcLssW]{行军术 Fleet Step}</em>, <em>@Compendium[pf2e.spells-srd.Q7QQ91vQtyi1Ux36]{跳跃术 Jump}</em></li>\n<li><strong>2环</strong> <em>@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{变巨术 Enlarge}</em>, <em>@Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]{类人形态 Humanoid Form}</em></li>\n</ul>\n<p><strong>制造需求</strong> 为列表上所有法术提供1次对应环级的施法</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>鉴别变化系法术的检定上获得+2环境加值</li>\n</ul>"
 		},
 		"Staff of Transmutation (Greater)": {
-			"name": "Staff of Transmutation (Greater)",
-			"description": "<p>A glass orb atop this metal staff contains fine, undulating sand. While wielding the staff, you gain a +2 circumstance bonus to checks to identify transmutation magic.</p>\n<p><strong>Activate</strong> Cast a Spell</p>\n<p><strong>Effect</strong> You expend a number of charges from the staff to cast a spell from its list.</p>\n<ul>\n<li><strong>Cantrip</strong> <em>@Compendium[pf2e.spells-srd.AUctDF2fqPZN2w4W]{Sigil}</em></li>\n<li><strong>1st</strong> <em>@Compendium[pf2e.spells-srd.aEM2cttJ2eYcLssW]{Fleet Step}</em>, <em>@Compendium[pf2e.spells-srd.Q7QQ91vQtyi1Ux36]{Jump}</em></li>\n<li><strong>2nd</strong> <em>@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Enlarge}</em>, <em>@Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]{Humanoid Form}</em></li>\n<li><strong>3rd</strong> <em>@Compendium[pf2e.spells-srd.RvBlSIJmxiqfCpR9]{Feet to Fins}</em>, <em>@Compendium[pf2e.spells-srd.Q7QQ91vQtyi1Ux36]{Jump}</em></li>\n<li><strong>4th</strong> <em>@Compendium[pf2e.spells-srd.V8wXOsoejQhe6CyG]{Gaseous Form}</em>, <em>@Compendium[pf2e.spells-srd.McnPlLFvKtQVXNcG]{Shape Stone}</em></li>\n</ul>\n<p><strong>Craft Requirements</strong> Supply one casting of all listed levels of all listed spells.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+2 circumstance bonus to checks to identify transmutation magic</li>\n</ul>"
+			"name": "高等变化法杖 Staff of Transmutation (Greater)",
+			"description": "<p>在这个细金属法杖头部有一个玻璃球，里面不断翻滚着细沙。持握它时，你在鉴别变化系法术的检定上获得+2环境加值。</p>\n<p><strong>启动</strong> 施放法术</p>\n<p><strong>效果</strong> 你消耗一定充能从法杖法术列表中施放法术。</p>\n<ul>\n<li><strong>戏法</strong> <em>@Compendium[pf2e.spells-srd.AUctDF2fqPZN2w4W]{印记术 Sigil}</em></li>\n<li><strong>1环</strong> <em>@Compendium[pf2e.spells-srd.aEM2cttJ2eYcLssW]{行军术 Fleet Step}</em>, <em>@Compendium[pf2e.spells-srd.Q7QQ91vQtyi1Ux36]{跳跃术 Jump}</em></li>\n<li><strong>2环</strong> <em>@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{变巨术 Enlarge}</em>, <em>@Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]{类人形态 Humanoid Form}</em></li>\n<li><strong>3环</strong> <em>@Compendium[pf2e.spells-srd.RvBlSIJmxiqfCpR9]{化足为鳍 Feet to Fins}</em>, <em>@Compendium[pf2e.spells-srd.Q7QQ91vQtyi1Ux36]{跳跃术 Jump}</em></li>\n<li><strong>4环</strong> <em>@Compendium[pf2e.spells-srd.V8wXOsoejQhe6CyG]{气化形态 Gaseous Form}</em>, <em>@Compendium[pf2e.spells-srd.McnPlLFvKtQVXNcG]{塑石术 Shape Stone}</em></li>\n</ul>\n<p><strong>制造需求</strong> 为列表上所有法术提供1次对应环级的施法</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>鉴别变化系法术的检定上获得+2环境加值</li>\n</ul>"
 		},
 		"Staff of Transmutation (Major)": {
-			"name": "Staff of Transmutation (Major)",
-			"description": "<p>A glass orb atop this metal staff contains fine, undulating sand. While wielding the staff, you gain a +2 circumstance bonus to checks to identify transmutation magic.</p>\n<p><strong>Activate</strong> Cast a Spell</p>\n<p><strong>Effect</strong> You expend a number of charges from the staff to cast a spell from its list.</p>\n<ul>\n<li><strong>Cantrip</strong> <em>@Compendium[pf2e.spells-srd.AUctDF2fqPZN2w4W]{Sigil}</em></li>\n<li><strong>1st</strong> <em>@Compendium[pf2e.spells-srd.aEM2cttJ2eYcLssW]{Fleet Step}</em>, <em>@Compendium[pf2e.spells-srd.Q7QQ91vQtyi1Ux36]{Jump}</em></li>\n<li><strong>2nd</strong> <em>@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Enlarge}</em>, <em>@Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]{Humanoid Form}</em></li>\n<li><strong>3rd</strong> <em>@Compendium[pf2e.spells-srd.RvBlSIJmxiqfCpR9]{Feet to Fins}</em>, <em>@Compendium[pf2e.spells-srd.Q7QQ91vQtyi1Ux36]{Jump}</em></li>\n<li><strong>4th</strong> <em>@Compendium[pf2e.spells-srd.V8wXOsoejQhe6CyG]{Gaseous Form}</em>, <em>@Compendium[pf2e.spells-srd.McnPlLFvKtQVXNcG]{Shape Stone}</em></li>\n<li><strong>5th</strong> <em>@Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]{Humanoid Form}</em></li>\n<li><strong>6th</strong> <em>@Compendium[pf2e.spells-srd.dN8QBNuTiaBHCKUe]{Baleful Polymorph}</em>, <em>@Compendium[pf2e.spells-srd.5c692cCcTDXjSEzk]{Dragon Form}</em>, <em>@Compendium[pf2e.spells-srd.znv4ECL7ZtuiagtA]{Flesh to Stone}</em></li>\n</ul>\n<p><strong>Craft Requirements</strong> Supply one casting of all listed levels of all listed spells.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+2 circumstance bonus to checks to identify transmutation magic</li>\n</ul>"
+			"name": "上等变化法杖 Staff of Transmutation (Major)",
+			"description": "<p>在这个细金属法杖头部有一个玻璃球，里面不断翻滚着细沙。持握它时，你在鉴别变化系法术的检定上获得+2环境加值。</p>\n<p><strong>启动</strong> 施放法术</p>\n<p><strong>效果</strong> 你消耗一定充能从法杖法术列表中施放法术。</p>\n<ul>\n<li><strong>戏法</strong> <em>@Compendium[pf2e.spells-srd.AUctDF2fqPZN2w4W]{印记术 Sigil}</em></li>\n<li><strong>1环</strong> <em>@Compendium[pf2e.spells-srd.aEM2cttJ2eYcLssW]{行军术 Fleet Step}</em>, <em>@Compendium[pf2e.spells-srd.Q7QQ91vQtyi1Ux36]{跳跃术 Jump}</em></li>\n<li><strong>2环</strong> <em>@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{变巨术 Enlarge}</em>, <em>@Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]{类人形态 Humanoid Form}</em></li>\n<li><strong>3环</strong> <em>@Compendium[pf2e.spells-srd.RvBlSIJmxiqfCpR9]{化足为鳍 Feet to Fins}</em>, <em>@Compendium[pf2e.spells-srd.Q7QQ91vQtyi1Ux36]{跳跃术 Jump}</em></li>\n<li><strong>4环</strong> <em>@Compendium[pf2e.spells-srd.V8wXOsoejQhe6CyG]{气化形态 Gaseous Form}</em>, <em>@Compendium[pf2e.spells-srd.McnPlLFvKtQVXNcG]{塑石术 Shape Stone}</em></li>\n<li><strong>5环</strong> <em>@Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]{类人形态 Humanoid Form}</em></li>\n<li><strong>6环</strong> <em>@Compendium[pf2e.spells-srd.dN8QBNuTiaBHCKUe]{恶意变形术 Baleful Polymorph}</em>, <em>@Compendium[pf2e.spells-srd.5c692cCcTDXjSEzk]{巨龙形态 Dragon Form}</em>, <em>@Compendium[pf2e.spells-srd.znv4ECL7ZtuiagtA]{石化术 Flesh to Stone}</em></li>\n</ul>\n<p><strong>制造需求</strong> 为列表上所有法术提供1次对应环级的施法</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>鉴别变化系法术的检定上获得+2环境加值</li>\n</ul>"
 		},
 		"Staff of the Black Desert": {
 			"name": "Staff of the Black Desert",
@@ -9339,7 +9339,7 @@
 		},
 		"Staff of the Magi": {
 			"name": "大法师法杖 Staff of the Magi",
-			"description": "<p>Sigils and runes of ancient and powerful magic cover the iron cladding on this long wooden staff. A staff of the magi is a +3 major striking staff, and when wielding it you gain a +1 circumstance bonus to saving throws against spells.</p>\n<p>Voluntarily destroying a staff of the magi unleashes a truly devastating wave of arcane energy that surges out, dissipating with distance. When wielding the staff, you can break it using an Interact action. This releases a 30-foot-burst magical explosion centered on the staff. This deals [[/r 2d10]] force damage per charge remaining in the staff (DC 40 basic Reflex save), You automatically critically fail your save. The explosion continues to echo beyond the initial blast zone, dealing half as much damage to creatures beyond 30 feet but within a @Template[type:burst|distance:60]. A creature reduced to 0 Hit Points by this damage dies instantly; this is a death effect.</p>\n<p><strong>Activate</strong> Cast a Spell</p>\n<p><strong>Effect</strong> You expend a number of charges from the staff to cast a spell from its list.</p>\n<ul>\n<li><strong>Cantrip</strong> <em>@Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{Detect Magic}</em>, <em>@Compendium[pf2e.spells-srd.WBmvzNDfpwka3qT4]{Light}</em>, <em>@Compendium[pf2e.spells-srd.pwzdSlJgYqN7bs2w]{Mage Hand}</em>, <em>@Compendium[pf2e.spells-srd.60sgbuMWN0268dB7]{Telekinetic Projectile}</em></li>\n<li><strong>1st</strong> <em>@Compendium[pf2e.spells-srd.Azoh0BSoCASrA1lr]{Lock}</em></li>\n<li><strong>2nd</strong> <em>@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Enlarge}</em>, <em>@Compendium[pf2e.spells-srd.0qaqksrGGDj74HXE]{Glitterdust}</em>, <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{Invisibility}</em>, <em>@Compendium[pf2e.spells-srd.6Ot4N22t5tPD51BO]{Knock}</em>, <em>@Compendium[pf2e.spells-srd.mrDi3v933gsmnw25]{Telekinetic Maneuver}</em>, <em>@Compendium[pf2e.spells-srd.9s5tqqXNzcoKamWx]{Web}</em></li>\n<li><strong>3rd</strong> <em>@Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dispel Magic}</em>, <em>@Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Fireball}</em>, <em>@Compendium[pf2e.spells-srd.9AAkVUCwF6WVNNY2]{Lightning Bolt}</em></li>\n<li><strong>4th</strong> <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{Invisibility}</em>, <em>@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Enlarge}</em>, <em>@Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Fireball}</em>, <em>@Compendium[pf2e.spells-srd.IarZrgCeaiUqOuRu]{Wall of Fire}</em>, <em>@Compendium[pf2e.spells-srd.9s5tqqXNzcoKamWx]{Web}</em></li>\n<li><strong>5th</strong> <em>@Compendium[pf2e.spells-srd.3puDanGfpEt6jK5k]{Cone of Cold}</em>, <em>@Compendium[pf2e.spells-srd.115Xp9E38CJENhNS]{Passwall}</em>, <em>@Compendium[pf2e.spells-srd.tpLTLbJUrYcMWGld]{Telekinetic Haul}</em></li>\n<li><strong>6th</strong> <em>@Compendium[pf2e.spells-srd.r7ihOgKv19eJQnik]{Disintegrate}</em>, <em>@Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dispel Magic}</em>, <em>@Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Fireball}</em>, <em>@Compendium[pf2e.spells-srd.9AAkVUCwF6WVNNY2]{Lightning Bolt}</em></li>\n<li><strong>7th</strong> <em>@Compendium[pf2e.spells-srd.3puDanGfpEt6jK5k]{Cone of Cold}</em>, <em>@Compendium[pf2e.spells-srd.115Xp9E38CJENhNS]{Passwall}</em>, <em>@Compendium[pf2e.spells-srd.5bTt2CvYHPvaR7QQ]{Plane Shift}</em>, <em>@Compendium[pf2e.spells-srd.IarZrgCeaiUqOuRu]{Wall of Fire}</em></li>\n<li><strong>8th</strong> <em>@Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{Fireball}</em>, <em>@Compendium[pf2e.spells-srd.aAbfKn8maGjJjk2W]{Mage Armor}</em></li>\n<li><strong>9th</strong> <em>@Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dispel Magic}</em>, <em>@Compendium[pf2e.spells-srd.jrBa9deU2ULFWvSl]{Meteor Swarm}</em>, <em>@Compendium[pf2e.spells-srd.kghwmH3tQjMIhdH1]{Summon Dragon}</em></li>\n</ul>\n<p><strong>Craft Requirements</strong> Supply one casting of all listed levels of all listed spells.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<p>+1 circumstance bonus to saving throws against spells</p>"
+			"description": "<p>古代密印和符文形成强大的魔法，环绕在这根长木法杖的头部周围。大法师法杖是+3上等强击木杖，持握它时，你对法术的豁免获得+1环境加值。</p>\n<p>主动摧毁大法师法杖会释放出毁灭性的奥术能量波，随距离衰减。持握它时，你可用交互动作破坏它。这会以法杖为中心引发半径30尺的魔力爆炸。法杖内每剩下1点充能，该爆炸就能造成 [[/r 2d10]] 点力场伤害（DC40基础反射豁免）。你在该豁免中自动大失败。在最初爆发区域外，这股爆炸会持续产生余波，半径30尺到半径60尺中间的生物受到一半伤害。因该爆炸HP归0的生物立刻死亡；这是一个死亡效果。</p>\n<p><strong>启动</strong> 施放法术</p>\n<p><strong>效果</strong> 你消耗一定充能从法杖法术列表中施放法术</p>\n<ul>\n<li><strong>戏法</strong> <em>@Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{侦测魔法 Detect Magic}</em>, <em>@Compendium[pf2e.spells-srd.WBmvzNDfpwka3qT4]{光亮术 Light}</em>, <em>@Compendium[pf2e.spells-srd.pwzdSlJgYqN7bs2w]{法师之手 Mage Hand}</em>, <em>@Compendium[pf2e.spells-srd.60sgbuMWN0268dB7]{念动射弹 Telekinetic Projectile}</em></li>\n<li><strong>1环</strong> <em>@Compendium[pf2e.spells-srd.Azoh0BSoCASrA1lr]{固锁术 Lock}</em></li>\n<li><strong>2环</strong> <em>@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{变巨术 Enlarge}</em>, <em>@Compendium[pf2e.spells-srd.0qaqksrGGDj74HXE]{闪光尘 Glitterdust}</em>, <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{隐形术 Invisibility}</em>, <em>@Compendium[pf2e.spells-srd.6Ot4N22t5tPD51BO]{敲击术 Knock}</em>, <em>@Compendium[pf2e.spells-srd.mrDi3v933gsmnw25]{念动战技 Telekinetic Maneuver}</em>, <em>@Compendium[pf2e.spells-srd.9s5tqqXNzcoKamWx]{蛛网术 Web}</em></li>\n<li><strong>3环</strong> <em>@Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{解除魔法 Dispel Magic}</em>, <em>@Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{火球术 Fireball}</em>, <em>@Compendium[pf2e.spells-srd.9AAkVUCwF6WVNNY2]{闪电束 Lightning Bolt}</em></li>\n<li><strong>4环</strong> <em>@Compendium[pf2e.spells-srd.XXqE1eY3w3z6xJCB]{隐形术 Invisibility}</em>, <em>@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{变巨术 Enlarge}</em>, <em>@Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{火球术 Fireball}</em>, <em>@Compendium[pf2e.spells-srd.IarZrgCeaiUqOuRu]{火墙术 Wall of Fire}</em>, <em>@Compendium[pf2e.spells-srd.9s5tqqXNzcoKamWx]{蛛网术 Web}</em></li>\n<li><strong>5环</strong> <em>@Compendium[pf2e.spells-srd.3puDanGfpEt6jK5k]{寒冰锥 Cone of Cold}</em>, <em>@Compendium[pf2e.spells-srd.115Xp9E38CJENhNS]{穿墙术 Passwall}</em>, <em>@Compendium[pf2e.spells-srd.tpLTLbJUrYcMWGld]{念动拖曳 Telekinetic Haul}</em></li>\n<li><strong>6环</strong> <em>@Compendium[pf2e.spells-srd.r7ihOgKv19eJQnik]{解离术 Disintegrate}</em>, <em>@Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{解除魔法 Dispel Magic}</em>, <em>@Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{火球术 Fireball}</em>, <em>@Compendium[pf2e.spells-srd.9AAkVUCwF6WVNNY2]{闪电束 Lightning Bolt}</em></li>\n<li><strong>7环</strong> <em>@Compendium[pf2e.spells-srd.3puDanGfpEt6jK5k]{寒冰锥 Cone of Cold}</em>, <em>@Compendium[pf2e.spells-srd.115Xp9E38CJENhNS]{穿墙术 Passwall}</em>, <em>@Compendium[pf2e.spells-srd.5bTt2CvYHPvaR7QQ]{异界传送 Plane Shift}</em>, <em>@Compendium[pf2e.spells-srd.IarZrgCeaiUqOuRu]{火墙术 Wall of Fire}</em></li>\n<li><strong>8环</strong> <em>@Compendium[pf2e.spells-srd.sxQZ6yqTn0czJxVd]{火球术 Fireball}</em>, <em>@Compendium[pf2e.spells-srd.aAbfKn8maGjJjk2W]{法师护甲 Mage Armor}</em></li>\n<li><strong>9环</strong> <em>@Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{解除魔法 Dispel Magic}</em>, <em>@Compendium[pf2e.spells-srd.jrBa9deU2ULFWvSl]{流星爆 Meteor Swarm}</em>, <em>@Compendium[pf2e.spells-srd.kghwmH3tQjMIhdH1]{召唤龙族 Summon Dragon}</em></li>\n</ul>\n<p><strong>制造需求</strong> 为列表上所有法术提供1次对应环级的施法。</p>\n<hr />\n<p>自动生效:</p>\n<p>你对法术的豁免获得+1环境加值</p>"
 		},
 		"Staff-Storing Shield": {
 			"name": "Staff-Storing Shield",
@@ -9538,16 +9538,16 @@
 			"description": "<p>This green spellbook with gold trim contains a cautionary story about a boy who was eaten by a wolf after he previously lied about wolf attacks. When opened, the engravings on the front seem to move in a loop, enacting this story.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">r</span> envision</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> A creature succeeds, but doesn't critically succeed, at a Perception check to disbelieve an illusion spell you prepared from this grimoire</p>\n<p><strong>Effect</strong> You quickly tell a fib to try to smooth over the inconsistencies in your illusion. Attempt a Deception check against the triggering creature's Perception DC. If you succeed, the creature doesn't disbelieve the illusion.</p>"
 		},
 		"Striking": {
-			"name": "Striking",
-			"description": "<p>A <em>striking</em> rune stores destructive magic in the weapon, increasing the weapon damage dice it deals to two instead of one. For instance, a <em>+1 striking dagger</em> would deal 2d4 damage instead of 1d4 damage.</p>\n<p>You can upgrade the <em>striking</em> rune already etched on a weapon to a stronger version, increasing the values of the existing rune to those of the new rune. You must have the formula of the stronger rune to do so, and the Price of the upgrade is the difference between the two runes' Prices.</p>"
+			"name": "强击 Striking",
+			"description": "<p>强击符文为武器提供破坏性魔力，将武器伤害骰增加为2个替代初始的1个。例如，+1强击匕首造成2d4点伤害而非1d4。</p>\n<p>你可以将武器上已蚀刻的强击符文升级为更强的版本，效果也会提升成新符文的数值。你必须有更强符文的配方才能如此做，且升级的价格是两枚符文之间价格的差额。</p>"
 		},
 		"Striking (Greater)": {
-			"name": "Striking (Greater)",
-			"description": "<p>A <em>striking</em> rune stores destructive magic in the weapon, increasing the weapon damage dice it deals to two instead of one. For instance, a <em>+1 striking dagger</em> would deal 2d4 damage instead of 1d4 damage.</p>\n<p>You can upgrade the <em>striking</em> rune already etched on a weapon to a stronger version, increasing the values of the existing rune to those of the new rune. You must have the formula of the stronger rune to do so, and the Price of the upgrade is the difference between the two runes' Prices.</p>\n<p>The weapon deals three weapon damage dice.</p>"
+			"name": "高等强击 Striking (Greater)",
+			"description": "<p>高等强击符文为武器提供破坏性魔力，将武器伤害骰增加为3个替代初始的1个。例如，+1强击匕首造成2d4点伤害而非1d4。</p>\n<p>你可以将武器上已蚀刻的强击符文升级为更强的版本，效果也会提升成新符文的数值。你必须有更强符文的配方才能如此做，且升级的价格是两枚符文之间价格的差额。</p>"
 		},
 		"Striking (Major)": {
-			"name": "Striking (Major)",
-			"description": "<p>A <em>striking</em> rune stores destructive magic in the weapon, increasing the weapon damage dice it deals to two instead of one. For instance, a <em>+1 striking dagger</em> would deal 2d4 damage instead of 1d4 damage.</p>\n<p>You can upgrade the <em>striking</em> rune already etched on a weapon to a stronger version, increasing the values of the existing rune to those of the new rune. You must have the formula of the stronger rune to do so, and the Price of the upgrade is the difference between the two runes' Prices.</p>\n<p>The weapon deals four weapon damage dice.</p>"
+			"name": "上等强击 Striking (Major)",
+			"description": "<p>上等强击符文为武器提供破坏性魔力，将武器伤害骰增加为4个替代初始的1个。例如，+1强击匕首造成2d4点伤害而非1d4。</p>\n<p>你可以将武器上已蚀刻的强击符文升级为更强的版本，效果也会提升成新符文的数值。你必须有更强符文的配方才能如此做，且升级的价格是两枚符文之间价格的差额。</p>"
 		},
 		"Striking Snare": {
 			"name": "打击圈套 Striking Snare",
@@ -9918,12 +9918,12 @@
 			"description": "<p><strong>Activate</strong> Cast a Spell (add 1 action)</p>\n<hr />\n<p>This carved chunk of amber contains a single tuft of gray feathers, which spark with electricity to create an odd jittery sensation in anyone holding the amber for long. When used as part of a <em>@Compendium[pf2e.spells-srd.r3NeUnsgt9mS03Sn]{Shocking Grasp}</em> spell, thunderbird tuft funnels electricity back into the spellcaster in a defensive nimbus. For 1 minute, any creature that touches you or that hits you with a melee unarmed attack or non-reach melee weapon attack takes [[/r {1d4}[electricity]]]{1d4 electricity damage}([[/r {1d6}[electricity]]]{1d6 electricity damage} if the creature is using a metal weapon).</p>"
 		},
 		"Thundering": {
-			"name": "Thundering",
-			"description": "<p>This weapon lets out a peal of thunder when it hits, dealing an extra 1d6 sonic damage on a successful Strike. On a critical hit, the target has to succeed at a @Check[type:fortitude|dc:24] save or be deafened for 1 minute (or 1 hour on a critical failure).</p>"
+			"name": "雷鸣 Thundering",
+			"description": "<p>该武器命中时爆发出雷鸣之声，成功的打击会造成额外1d6点音波伤害。若重击，目标必须通过 @Check[type:fortitude|dc:24] 豁免检定，否则耳聋1分钟（大失败则为1小时）。</p>"
 		},
 		"Thundering (Greater)": {
-			"name": "Thundering (Greater)",
-			"description": "<p>This weapon lets out a peal of thunder when it hits, dealing an extra 1d6 sonic damage on a successful Strike. On a critical hit, the target has to succeed at a @Check[type:fortitude|dc:34|name:Greater Thundering] save or be deafened for 1 minute (or 1 hour on a critical failure). Sonic damage dealt by this weapon ignores the target's sonic resistance.</p>"
+			"name": "高等雷鸣 Thundering (Greater)",
+			"description": "<p>该武器命中时爆发出雷鸣之声，成功的打击会造成额外1d6点音波伤害。若重击，目标必须通过 @Check[type:fortitude|dc:34] 豁免检定，否则永久耳聋。该武器造成的音波伤害忽视音波抗力。</p>"
 		},
 		"Thundermace": {
 			"name": "Thundermace",
@@ -10214,8 +10214,8 @@
 			"description": "<p>You cease aging, and if you were older than young adult in age, you become a young adult again. You gain a +4 status bonus to saves against death<em> </em>effects and resistance to negative damage equal to half your level.</p>\n<p>Once per day, from any distance, Abrogail Thrune II can recite a mandatory appearance clause in your Thrune contract as a 3-action activity to summon you to her side, where you are <em>controlled </em>by Abrogail for 1 minute before you return.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> Command</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You recite a hold harmless provision from your Thrune contract. Reduce your doomed value to 0. Abrogail Thrune II is immediately made aware that you have used this ability.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+4 status bonus to saves against death<em> </em>effects</li>\n</ul>"
 		},
 		"Unholy": {
-			"name": "Unholy",
-			"description": "<p>An <em>unholy</em> rune instills fiendish power into the etched weapon. A weapon with this rune deals an additional 1d6 evil damage when it hits a good target. If you are good, you are enfeebled 2 while carrying or wielding this weapon.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">R</span> command</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Trigger</strong> You critically succeed at an attack roll against a good creature with the weapon</p>\n<p><strong>Effect</strong> The target takes @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Bleed Damage} equal to 1d8 per weapon damage die of the etched weapon.</p>"
+			"name": "邪恶 Unholy",
+			"description": "<p>邪恶符文将炼狱之力赋予给武器。拥有该符文的武器对善良目标额外造成1d6点邪恶伤害。若你为善良阵营，你在携带或持握该武器时获得力竭2（enfeebled）。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">R</span> 命令</p>\n<p><strong>频率</strong> 每天一次</p>\n<p><strong>触发</strong> 你用该武器对一善良生物重击成功</p>\n<p><strong>效果</strong> 符文蚀刻的武器每有1个武器伤害骰，目标就受到1d点 @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续流血伤害}。</p>"
 		},
 		"Unholy Water": {
 			"name": "邪水 Unholy Water",
@@ -10306,12 +10306,12 @@
 			"description": "<p>这枚优雅的铜戒上刻着鸣禽的图像。你在欺骗Deception检定上获得+2物品加值。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">D</span> 交互</p>\n<p><strong>频率</strong> 每天任意次</p>\n<p><strong>效果</strong> 绕着手指转一下戒指能让你魔法般地发声，你获得2环 <em>@Compendium[pf2e.spells-srd.yV7Ouzaoe7DHLESI]{腹语术 Ventriloquism}</em>的效果（DC27）。</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>欺骗Deception检定获得+2物品加值</li>\n</ul>"
 		},
 		"Verdant Staff": {
-			"name": "Verdant Staff",
-			"description": "<p>This oak branch grows leaves in spring that change color in autumn and shed in winter. While wielding it, you gain a +2 circumstance bonus to Nature checks to identify plants.</p>\n<p><strong>Activate</strong> Cast a Spell</p>\n<p><strong>Effect</strong> You expend a number of charges from the staff to cast a spell from its list.</p>\n<ul>\n<li><strong>Cantrips</strong> <em>@Compendium[pf2e.spells-srd.uZK2BYzPnxUBnDjr]{Tanglefoot}</em></li>\n<li><strong>1st</strong> <em>@Compendium[pf2e.spells-srd.s3abwDbTV43pGFFW]{Shillelagh}</em> (can target the verdant staff)</li>\n<li><strong>2nd</strong> <em>@Compendium[pf2e.spells-srd.YWrfKetOqDwVFut7]{Barkskin}</em>, <em>@Compendium[pf2e.spells-srd.J6vNvrUT3b1hx2iA]{Entangle}</em>, <em>@Compendium[pf2e.spells-srd.CXICME10TkEJxz0P]{Shape Wood}</em>, <em>@Compendium[pf2e.spells-srd.dileJ0Yxqg76LMvu]{Tree Shape}</em></li>\n</ul>\n<p><strong>Craft Requirements</strong> Supply one casting of all listed levels of all listed spells.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+2 circumstance bonus to Nature checks to identify plants</li>\n</ul>"
+			"name": "翠绿法杖 Verdant Staff",
+			"description": "<p>这根橡木杖春天会长出新芽，秋天变色冬天落下。持握它时，你在鉴别植物的自然检定上获得+2环境加值。</p>\n<p><strong>启动</strong> 施放法术</p>\n<p><strong>效果</strong> 你消耗一定充能从法杖法术列表中施放法术。</p>\n<ul>\n<li><strong>戏法</strong> <em>@Compendium[pf2e.spells-srd.uZK2BYzPnxUBnDjr]{绊足术 Tanglefoot}</em></li>\n<li><strong>1环级</strong> <em>@Compendium[pf2e.spells-srd.s3abwDbTV43pGFFW]{橡棍术 Shillelagh}</em> (目标可为该法杖)</li>\n<li><strong>2环级</strong> <em>@Compendium[pf2e.spells-srd.YWrfKetOqDwVFut7]{树肤术 Barkskin}</em>, <em>@Compendium[pf2e.spells-srd.J6vNvrUT3b1hx2iA]{纠缠术 Entangle}</em>, <em>@Compendium[pf2e.spells-srd.CXICME10TkEJxz0P]{塑木术 Shape Wood}</em>, <em>@Compendium[pf2e.spells-srd.dileJ0Yxqg76LMvu]{树化术 Tree Shape}</em></li>\n</ul>\n<p><strong>制造需求</strong> 为列表上所有法术提供1次对应环级的施法</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>鉴别植物的自然检定上获得+2环境加值</li>\n</ul>"
 		},
 		"Verdant Staff (Greater)": {
-			"name": "Verdant Staff (Greater)",
-			"description": "<p>This oak branch grows leaves in spring that change color in autumn and shed in winter. While wielding it, you gain a +2 circumstance bonus to Nature checks to identify plants.</p>\n<p><strong>Activate</strong> Cast a Spell</p>\n<p><strong>Effect</strong> You expend a number of charges from the staff to cast a spell from its list.</p>\n<ul>\n<li><strong>Cantrips</strong> <em>@Compendium[pf2e.spells-srd.uZK2BYzPnxUBnDjr]{Tanglefoot}</em></li>\n<li><strong>1st</strong> <em>@Compendium[pf2e.spells-srd.s3abwDbTV43pGFFW]{Shillelagh}</em> (can target the verdant staff)</li>\n<li><strong>2nd</strong> <em>@Compendium[pf2e.spells-srd.YWrfKetOqDwVFut7]{Barkskin}</em>, <em>@Compendium[pf2e.spells-srd.J6vNvrUT3b1hx2iA]{Entangle}</em>, <em>@Compendium[pf2e.spells-srd.CXICME10TkEJxz0P]{Shape Wood}</em>, <em>@Compendium[pf2e.spells-srd.dileJ0Yxqg76LMvu]{Tree Shape}</em></li>\n<li><strong>3rd</strong> <em>@Compendium[pf2e.spells-srd.KsWhliKfUs3IpW3c]{Wall of Thorns}</em></li>\n<li><strong>4th</strong> <em>@Compendium[pf2e.spells-srd.YWrfKetOqDwVFut7]{Barkskin}</em>, <em>@Compendium[pf2e.spells-srd.qvwIwJ9QBihy8R0t]{Speak with Plants}</em></li>\n<li><strong>5th</strong> <em>@Compendium[pf2e.spells-srd.zCcfPS4y5SrZzU2x]{Plant Form}</em>, <em>@Compendium[pf2e.spells-srd.KsWhliKfUs3IpW3c]{Wall of Thorns}</em></li>\n</ul>\n<p><strong>Craft Requirements</strong> Supply one casting of all listed levels of all listed spells.</p>\n<hr />\n<p>Automatically applied effects:</p>\n<ul>\n<li>+2 circumstance bonus to Nature checks to identify plants</li>\n</ul>"
+			"name": "高等翠绿法杖 Verdant Staff (Greater)",
+			"description": "<p>这根橡木杖春天会长出新芽，秋天变色冬天落下。持握它时，你在鉴别植物的自然检定上获得+2环境加值。</p>\n<p><strong>启动</strong> 施放法术</p>\n<p><strong>效果</strong> 你消耗一定充能从法杖法术列表中施放法术。</p>\n<ul>\n<li><strong>戏法</strong> <em>@Compendium[pf2e.spells-srd.uZK2BYzPnxUBnDjr]{绊足术 Tanglefoot}</em></li>\n<li><strong>1环级</strong> <em>@Compendium[pf2e.spells-srd.s3abwDbTV43pGFFW]{橡棍术 Shillelagh}</em> (目标可为该法杖)</li>\n<li><strong>2环级</strong> <em>@Compendium[pf2e.spells-srd.YWrfKetOqDwVFut7]{树肤术 Barkskin}</em>, <em>@Compendium[pf2e.spells-srd.J6vNvrUT3b1hx2iA]{纠缠术 Entangle}</em>, <em>@Compendium[pf2e.spells-srd.CXICME10TkEJxz0P]{塑木术 Shape Wood}</em>, <em>@Compendium[pf2e.spells-srd.dileJ0Yxqg76LMvu]{树化术 Tree Shape}</em></li>\n<li><strong>3环</strong> <em>@Compendium[pf2e.spells-srd.KsWhliKfUs3IpW3c]{棘墙术 Wall of Thorns}</em></li>\n<li><strong>4环</strong> <em>@Compendium[pf2e.spells-srd.YWrfKetOqDwVFut7]{树肤术 Barkskin}</em>, <em>@Compendium[pf2e.spells-srd.qvwIwJ9QBihy8R0t]{植物交谈 Speak with Plants}</em></li>\n<li><strong>5环</strong> <em>@Compendium[pf2e.spells-srd.zCcfPS4y5SrZzU2x]{植物形态 Plant Form}</em>, <em>@Compendium[pf2e.spells-srd.KsWhliKfUs3IpW3c]{棘墙术 Wall of Thorns}</em></li>\n</ul>\n<p><strong>制造需求</strong> 为列表上所有法术提供1次对应环级的施法</p>\n<hr />\n<p>自动生效:</p>\n<ul>\n<li>鉴别植物的自然检定上获得+2环境加值</li>\n</ul>"
 		},
 		"Vermin Repellent Agent (Greater)": {
 			"name": "Vermin Repellent Agent (Greater)",
@@ -10394,8 +10394,8 @@
 			"description": "<p><strong>Usage</strong> Mounted in frame</p>\n<hr />\n<p>The Void Mirror was created on a distant planet by a now‑extinct alien cult to aid in unlocking the secrets of the Dark Tapestry. It appears as a 5-foot-tall, 2-footwide mirror of dark glass. As long as it's unmounted in a frame, the Void Mirror functions only as a mirror, save that it always reflects the sky as if it were night, regardless of the time of day. When the Void Mirror is mounted in a frame, it instead serves as a window into space, displaying a star field in its glass rather than a reflection. This frame can be of any quality, but stouter frames help to prevent the frame's destruction and thus help to keep the Void Mirror functional.</p>\n<p>The view presented by the Void Mirror is any view of the night sky possible from its current physical location, regardless of time of day. Observations of the sky in this way add a +3 item bonus to Astronomy Lore or Perception checks made while using the mirror. The point of view can be shifted through hand gestures, causing the scene within the mirror to reorient in any direction desired.</p>\n<p>A character who peers into the starscape within the Void Mirror must attempt a @Check[type:will|dc:41] save. On a <strong>failure</strong>, the character feels something looking back at them from the dark places between the stars. On a <strong>critical failure</strong>, this sensation causes the character to become @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 1}. The character is then temporarily immune to this effect for 24 hours.</p>\n<p>By placing the Void Mirror in a specially-constructed frame, it can halt the ongoing transformation of a creature that has performed the apotheosis activation. Building such a frame is beyond the skill of low-level characters, as it requires an artisan with legendary proficiency in Crafting.</p>\n<p>The Void Mirror can be utilized in other ways, but before a character can activate these effects the occult methods to access these ritual-like effects must be Researched separately. Since the specific methods for these activations vary slightly from person to person, these methods can't be taught; each person who seeks to activate the Void Mirror in one of the following ways must complete their own research to unlock the artifact's secrets. Each requires a separate number of Occultism checks to Research, as detailed below for each activation.</p>\n<hr />\n<p><strong>Activate</strong> 1 hour (Interact)</p>\n<p><strong>Research</strong> Accumulate 12 RP by making DC 20 Occultism (expert) checks when Researching (1 week per attempt)</p>\n<p><strong>Frequency</strong> once per month</p>\n<p><strong>Effect</strong> The first activation ritual is known as \"Speak to the Void\" and allows the user to contact an intelligence in a distant part of the universe, provided the mirror shows that location (regardless of distance). This alien intelligence infuses the user's mind with answers, allowing the user to Recall Knowledge using Nature or Occultism as if they were legendary proficiency with the skill (including the +8 proficiency bonus). If this check fails, the character takes [[/r {10d6}[mental]]]{10d6 mental damage} (100 mental damage on a critical failure) as the imparted knowledge does more harm than good.</p>\n<hr />\n<p><strong>Activate</strong> 1 hour (Interact)</p>\n<p><strong>Research</strong> Accumulate 12 RP by making DC 30 Occultism (master) checks when Researching (1 month per attempt)</p>\n<p><strong>Frequency</strong> once per year</p>\n<p><strong>Effect</strong> The second activation ritual is known as \"Call from the Void.\" The user performs a 1-hour-long rite before the Void Mirror, during which they indicate a type of aberration, beast, fungus, ooze, or plant creature that's an alien life form from the planet the user is currently located on. The target creature must be a level equal to or less than the user's level +4. As the rite ends, the user attempts an Occultism check against the target creature's Will DC.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is drawn across the universe to appear in a space adjacent to the Void Mirror. The creature's initial attitude toward the user is helpful, but this attitude can shift quickly if the creature realizes its goals and personality differs dramatically from the user's, or if the user makes a request of the creature that's against its nature. As long both the creature and the user are within 30 feet of the Void Mirror, the user can return the creature to its original location by Dismissing this activation. The creature can attempt a Will save against the user's Occultism DC to resist being returned; if it succeeds, it's temporarily immune for 24 hours.</p>\n<p><strong>Success</strong> As critical success, but the creature is indifferent upon arrival.</p>\n<p><strong>Failure</strong> As critical success, but the creature is hostile upon arrival.</p>\n<p><strong>Critical Failure</strong> As failure, but magical feedback from the failed activation causes the user to become @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Stunned 3}.</p>\n<hr />\n<p><strong>Activate</strong> 7 days (Interact)</p>\n<p><strong>Research</strong> Accumulate 12 RP by making DC 40 Occultism (legendary) checks when Researching (1 year per attempt)</p>\n<p><strong>Frequency</strong> once per century</p>\n<p><strong>Effect</strong> The third activation ritual is known as \"Become the Void\" and requires the user to continue performing the rite for 7 consecutive days (as if they were performing a multi-day ritual). If the user fails to perform this rite for one of these 7 consecutive days, they immediately suffer the critical failure effect below.</p>\n<hr />\n<p><strong>Critical Success</strong> The user's body, mind, and soul are infused with alien energies drawn from the Dark Tapestry, which transforms the user into an aberration of a level no higher than their current level +4. This new form could be an existing aberration or a unique one of the GM's creation. The user retains their memories and spellcasting ability (including any rituals they know) but becomes chaotic evil and loses all other abilities they possessed in their previous form.</p>\n<p><strong>Success</strong> As critical success, but the aberration the user transforms into can be of a level no higher than half the user's current level.</p>\n<p><strong>Failure</strong> The user's attempt to change is a painful mistake that deals [[/r {10d6+40}[bludgeoning]]]{10d6+40 bludgeoning damage} as their body twists, bends and breaks. Ultimately, they are not transformed.</p>\n<p><strong>Critical Failure</strong> The user is slain, but their body shifts and transforms into a brand new creature as the bodiless alien intelligence Tchekuth incubates within the user's flesh, mind and soul. This transformation takes another 7 days to complete but can be halted indefinitely if the Void Mirror is placed in a specially constructed frame aimed at the body's location (regardless of any solid object between the mirror and the body). Slowing or stopping this transformation via other means requires complex rituals or divine intervention, subject to the GM's whim. After 7 days, the body completes its transformation and Tchekuth rises once more as a physical threat.</p>\n<hr />\n<p><strong>Destruction</strong> A creature that completes the apotheosis of Becoming the Void can destroy the Void Mirror by smashing it, though doing so also destroys the creature performing this action in a violent burst of occult energy.</p>"
 		},
 		"Vorpal": {
-			"name": "Vorpal",
-			"description": "<p>Originally created as a means of slaying the legendary jabberwock, <em>vorpal</em> weapons prove equally effective against nearly any foe with a head.</p>\n<p><strong>Activate</strong> <span class=\"pf2-icon\">R</span> envision (death, incapacitation)</p>\n<p><strong>Frequency</strong> You roll a natural 20 on a Strike with the weapon, critically succeed, and deal slashing damage. The target must have a head</p>\n<p><strong>Effect</strong> The target must succeed at a @Check[type:fortitude|dc:37] save or be decapitated. This kills any creature except ones that don't require a head to live. For creatures with multiple heads, this usually kills the creature only if you sever its last head.</p>"
+			"name": "斩首 Vorpal",
+			"description": "<p>最初创造这种符文是用来斩杀传奇怪物炸脖龙的，斩首武器对任何有头的生物都非常有效。</p>\n<p><strong>启动</strong> <span class=\"pf2-icon\">R</span> 想象 (死亡, 失能)</p>\n<p><strong>触发</strong> 你用该武器的打击动作骰出天然20、重击成功且造成了挥砍伤害，目标必须有头</p>\n<p><strong>效果</strong> 目标必须通过 @Check[type:fortitude|dc:37] 豁免检定，否则被斩首。除非目标失去这个头部也能活，否则会击杀它。对于有多个头部的生物，通常只在砍掉其最后一个头部时才会立刻击杀它。</p>"
 		},
 		"Voyager's Pack": {
 			"name": "远行者背包 Voyager's Pack",
@@ -10810,16 +10810,16 @@
 			"description": "<p>As a standard @Compendium[pf2e.equipment-srd.gbwr57aT9ou8yKWT]{Wayfinder}, but once per day you can activate it to cast <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Heal}</em> on a creature other than yourself, using either the one-action or two-action version of heal as a 1st-level spell.</p>"
 		},
 		"Weapon Potency (+1)": {
-			"name": "Weapon Potency (+1)",
-			"description": "<p>Magical enhancements make this weapon strike true. Attack rolls with this weapon gain a +1 item bonus, and the weapon can be etched with one property rune.</p>\n<p>You can upgrade the <em>weapon potency</em> rune already etched on a weapon to a stronger version, increasing the values of the existing rune to those of the new rune. You must have the formula of the stronger rune to do so, and the Price of the upgrade is the difference between the two runes' Prices.</p>\n<p><strong>Craft Requirements</strong> You are an expert in Crafting.</p>"
+			"name": "+1武器潜力 Weapon Potency (+1)",
+			"description": "<p>魔法强化让武器攻击更有效。用该武器攻击的攻击骰获得+1物品加值，该武器可以被蚀刻上1枚性能符文。</p>\n<p>你可以将武器上已蚀刻的武器潜力符文升级为更强的版本，效果也会提升成新符文的数值。你必须有更强符文的配方才能如此做，且升级的价格是两枚符文之间价格的差额。</p>\n<p><strong>制造需求</strong> 手艺技能专家熟练度</p>"
 		},
 		"Weapon Potency (+2)": {
-			"name": "Weapon Potency (+2)",
-			"description": "<p>Magical enhancements make this weapon strike true. Attack rolls with this weapon gain a +1 item bonus, and the weapon can be etched with one property rune.</p>\n<p>You can upgrade the <em>weapon potency</em> rune already etched on a weapon to a stronger version, increasing the values of the existing rune to those of the new rune. You must have the formula of the stronger rune to do so, and the Price of the upgrade is the difference between the two runes' Prices.</p>\n<p>The item bonus to attack rolls is +2, and the weapon can be etched with two property runes.</p>\n<p><strong>Craft Requirements</strong> You are a master in Crafting.</p>"
+			"name": "+2武器潜力 Weapon Potency (+2)",
+			"description": "<p>魔法强化让武器攻击更有效。用该武器攻击的攻击骰获得+2物品加值，该武器可以被蚀刻上2枚性能符文。</p>\n<p>你可以将武器上已蚀刻的武器潜力符文升级为更强的版本，效果也会提升成新符文的数值。你必须有更强符文的配方才能如此做，且升级的价格是两枚符文之间价格的差额。</p>\n<p><strong>制造需求</strong> 手艺技能大师熟练度</p>"
 		},
 		"Weapon Potency (+3)": {
-			"name": "Weapon Potency (+3)",
-			"description": "<p>Magical enhancements make this weapon strike true. Attack rolls with this weapon gain a +1 item bonus, and the weapon can be etched with one property rune.</p>\n<p>You can upgrade the <em>weapon potency</em> rune already etched on a weapon to a stronger version, increasing the values of the existing rune to those of the new rune. You must have the formula of the stronger rune to do so, and the Price of the upgrade is the difference between the two runes' Prices.</p>\n<p>The item bonus to attack rolls is +3, and the weapon can be etched with three property runes.</p>\n<p><strong>Craft Requirements</strong> You are legendary in Crafting.</p>"
+			"name": "+3武器潜力 Weapon Potency (+3)",
+			"description": "<p>魔法强化让武器攻击更有效。用该武器攻击的攻击骰获得+3物品加值，该武器可以被蚀刻上3枚性能符文。</p>\n<p>你可以将武器上已蚀刻的武器潜力符文升级为更强的版本，效果也会提升成新符文的数值。你必须有更强符文的配方才能如此做，且升级的价格是两枚符文之间价格的差额。</p>\n<p><strong>制造需求</strong> 手艺技能传奇熟练度</p>"
 		},
 		"Weeping Midnight": {
 			"name": "Weeping Midnight",
@@ -10990,8 +10990,8 @@
 			"description": "<p>The blade of this <em>+1 sickle</em> is engraved to look like the curving feather of a particularly elaborate quill. The wooden handle has a pen nib at the base. You can use the <em>wordreaper</em>'s handle as an ink pen and it never runs out of ink.</p>\n<hr />\n<p><strong>Activate</strong> <span class=\"pf2-icon\">3</span> Interact</p>\n<p><strong>Frequency</strong> once per day</p>\n<p><strong>Effect</strong> You use the <em>wordreaper</em> to inscribe the words \"read by\" and your name inside a non-magical literary work (such as a non-magical book, scroll, or play). You immediately gain cursory knowledge of the literary work as though you had skimmed it for 5 minutes.</p>"
 		},
 		"Wounding": {
-			"name": "Wounding",
-			"description": "<p>Weapons with wounding runes are said to thirst for blood. When you hit a creature with a wounding weapon, you deal an extra [[/r {1d6}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Bleed Damage}. On a critical hit, it instead deals [[/r {1d12}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Bleed Damage}.</p>"
+			"name": "血光 Wounding",
+			"description": "<p>拥有血光符文的武器渴望嗜血。使用血光武器命中时，造成额外 [[/r {1d6}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续流血伤害}。若为重击，则改为造成 [[/r {1d12}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续流血伤害}。</p>"
 		},
 		"Wovenwood Shield (Greater)": {
 			"name": "Wovenwood Shield (Greater)",
