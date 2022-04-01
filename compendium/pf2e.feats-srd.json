@@ -454,8 +454,8 @@
 			"description": "<p>You've learned how to provide for your community, be it through hard-earned sustenance or useful crafts. You gain the trained proficiency rank in Crafting and Survival. If you would automatically become trained in one of those skills (from your background or class, for example), you become trained in a skill of your choice. You also become trained in Anadi Lore.</p>\n<hr />\n<p><em style=\"box-sizing: border-box; user-select: text; color: #191813; font-family: Roboto, system, -apple-system, sans-serif; font-size: 13px;\">Note: If you are already trained in the skill provided by this feat, you need to manually select an alternative skill. You also need to manually enter the granted Lore skill.</em></p>"
 		},
 		"Analyze Idiolect": {
-			"name": "Analyze Idiolect",
-			"description": "<p>You break down a specific individual's idiolect, memorizing their speech mannerisms and habits.</p>\n<p>If you interact with someone for at least 10 minutes, when you later attempt to @Compendium[pf2e.actionspf2e.AJstokjdG6iDjVjE]{Impersonate} that individual, you gain a +4 circumstance bonus to your Deception checks and DCs. Due to the intense character study required, you can't remember more than one idiolect at a time.</p>"
+			"name": "口癖分析 Analyze Idiolect",
+			"description": "<p>你分析出某个特定个体的个人用词特点（idiolect），记住他说话的癖好和习惯。</p>\n<p>若你与某人互动至少10分钟，之后便会在 @Compendium[pf2e.actionspf2e.AJstokjdG6iDjVjE]{乔装 Impersonate} 该个体时，让你的欺骗（Deception）检定和DC获得+4环境加值。由于模仿具体性格的学习成本很高，所以你在同一时间只能记住1个人的个人用词特点。</p>"
 		},
 		"Analyze Information": {
 			"name": "Analyze Information",
@@ -2690,8 +2690,8 @@
 			"description": "<p>Your body begins to evolve and adapt, taking the first steps towards blending your very self with the ancient curse of the saumen kar. You become larger and bulkier, pushing the very edge of height and weight for your size. You gain scent as an imprecise sense with a range of 30 feet and gain a +1 circumstance bonus to Stealth checks made to @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Sneak} or @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Hide} in areas of forest and snow. You sprout a pair of horns from your forehead, gaining a horns unarmed attack that deals 1d8 bludgeoning damage. Your horns are in the brawling group and have the shove and trip traits.</p>"
 		},
 		"Crude Communication": {
-			"name": "Crude Communication",
-			"description": "<p>Even if you don't speak a creature's language, you can rely on inflection, root words, and body language to infer rudimentary meaning.</p>\n<p>If you interact with a creature for at least 10 minutes and that creature can speak a language, the GM rolls a secret Society check with a DC appropriate for the language's rarity.</p>\n<p>On a success, you understand the gist of the meaning and can communicate basic concepts back to the creature; on a failure, you are mistaken or communicate incorrect concepts.</p>\n<p>If you're legendary in Society, you can communicate instantly without needing to attempt a Society check; even if you didn't know the medium of communication the creature uses (speech, sign language, and so on), you intuit this information as soon as they try to communicate.</p>"
+			"name": "原生交流法 Crude Communication",
+			"description": "<p>即便你不理解某生物的语言，也能够倚靠词形变化、构词和肢体语言来推断基本的意思。</p>\n<p>若你与某人互动至少10分钟，且该生物能够说1门语言，GM要进行1次秘密社群（Society）检定，DC则根据该语言的稀有度来判定。</p>\n<p>成功时，你就能理解其主旨，并且可以表达一些基本概念回应该生物；失败时，你误读或传达了错误的概念。</p>\n<p>若你的社群熟练度为传奇，则不需要尝试社群检定便可以与其进行即时地沟通；即便你不理解该生物所使用的沟通手段（比如语音、手语，等等），你也能在他们尝试沟通时立即凭借直觉了解到这些信息。</p>"
 		},
 		"Cruelty": {
 			"name": "酷虐 Cruelty",
@@ -7214,8 +7214,8 @@
 			"description": "<p>When you cast fireball, you can modify its effects, decreasing the base damage to 5d6 and causing it to deal 2 persistent fire damage to creatures that fail their save, doubled as normal on a critical failure. If you do, replace its heightened entry with the following.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage is increased by 1d6 and the persistent fire damage is increased by 2.</p>"
 		},
 		"Linguist Dedication": {
-			"name": "Linguist Dedication",
-			"description": "<p>You have studied languages and their development. You become trained in Society; if you were already trained in Society, you instead become an expert in Society. You gain the @Compendium[pf2e.feats-srd.P9HCz0uR6xPHuw72]{Multilingual} skill feat twice.</p>\n<p><strong>Special</strong> You can't select another dedication feat until you have gained two other feats from the linguist archetype.</p>"
+			"name": "语言学者 Linguist Dedication",
+			"description": "<p>你学习了语言本身和它们的发展过程。你的社群（Society）熟练度变为受训；若你的社群熟练度已经是受训，则在社群上的熟练度变为专家作为替代。你获得2次 @Compendium[pf2e.feats-srd.P9HCz0uR6xPHuw72]{多语言 Multilingual}技能专长。</p>\n<p><strong>特殊</strong> 直至选取另外2个语言学者变体的专长之前，你无法再选择任何其他入门专长（dedication feat）。</p>"
 		},
 		"Link Focus": {
 			"name": "Link Focus",
@@ -8006,8 +8006,8 @@
 			"description": "<p>你很容易学习新的语言。你现在掌握了两门新的语言，它们可以是任何常见（Common），罕见（Uncommon）或是任何你可以接触到的语言。当你在社群技能上达到大师级熟练度和传奇级熟练度时，你再额外获得一门新的语言。</p>\n<p><strong>特殊</strong> 你可以多次选择本专长。每次选择本专长时，你都会获得额外的语言。</p>"
 		},
 		"Multilingual Cipher": {
-			"name": "Multilingual Cipher",
-			"description": "<p>You use multiple languages to create and break codes. You gain a +1 circumstance bonus to @Compendium[pf2e.actionspf2e.d9gbpiQjChYDYA2L]{Decipher Writing}.</p>\n<p>If another creature attempts to Decipher Writing you encoded, they take a -2 circumstance penalty unless they speak all the languages you used when you created the writing.</p>"
+			"name": "多语言暗码 Multilingual Cipher",
+			"description": "<p>你能用多重语言来创造或破译密码。你在 @Compendium[pf2e.actionspf2e.d9gbpiQjChYDYA2L]{解译文书 Decipher Writing}时获得+1环境加值。</p>\n<p>若其他生物尝试解译文书来破译你编写的密码，则会受到-2环境减值，除非他懂得你在写下文字时所使用的所有语言。</p>"
 		},
 		"Multishot Stance": {
 			"name": "Multishot Stance",
@@ -8682,8 +8682,8 @@
 			"description": "<p>You're possessed with an incredibly vivacious spark that separates you not only from ordinary gun users and gunslingers, but even from other phenoms. Using that distinctive verve, when you perform impeccably and control the scene with your abilities, you also manage to set up your foes for disaster and ensure they remain in your sights for any follow-up attacks you want to make against them. If you critically succeed at a Performance check for Pistol Twirl or a pistol phenom archetype feat, you gain a +1 status bonus to your attack rolls with one-handed firearms and one-handed melee weapons until the end of your turn.</p>"
 		},
 		"Phonetic Training": {
-			"name": "Phonetic Training",
-			"description": "<p>You can pronounce and repeat words with near-perfect accuracy even if you don't understand their meaning, and you can write them down in a phonetic script that allows you or another creature with Phonetic Training to read it later. Even if the words are in a language with sound you can't pronounce, you can faithfully transcribe them. Memorizing long sequences of words remains just as difficult as it is normally.</p>"
+			"name": "语音训练 Phonetic Training",
+			"description": "<p>即便你实际上并不能理解确切地含义，你也能近乎完美地精确判断和复述单词，而且你能够将这些词以注音字母写下来，使得你或者其他具有语音训练（Phonetic Training）专长的生物稍后阅读它。即便这些词在语言中的发音是你无法发出的，你也能够将其如实转录下来。记忆长段的词句的难度与正常情况一致。</p>"
 		},
 		"Physical Training": {
 			"name": "Physical Training",
@@ -9482,8 +9482,8 @@
 			"description": "<p>当你可以清楚地看见他人的交谈但听不清他们说的是什么时，你可以尝试从他们嘴唇的动作中读出交谈的内容。当你处于空闲的状态时，你无需任何检定就可以自动读唇；当你处于探索模式，或是你尝试读唇的环境对你的尝试造成影响时，你在保持读唇的每一轮行动中都视为处于迷魂（Fascinated）和措手不及（Flat-footed）状态，并且你必须要跳高一个社群技能检定（GM决定DC）来读取他人说话的内容。无论如何，你只能读懂你本来就理解的语言。如果你拥有本专长但处于耳聋（Deaf）状态或是受到其他听力异常的影响时，读唇可以帮助你准确地理解他人的语言（如果你理解他们使用的语言），并且你也可以毫无障碍地使用你理解的语言和他人进行口头交谈。</p>"
 		},
 		"Read Shibboleths": {
-			"name": "Read Shibboleths",
-			"description": "<p>All communication is filled with slight tells and signals. If you interact with someone for at least 10 minutes, their regional words, pronunciation changes, and nonverbal cues provide you with a minor fact about their social environment, such as their hometown or certain groups they might belong to.</p>\n<p>If a target of this ability is being deceptive about their social environment, such as a commoner pretending to be a noble, they must attempt a Deception, Society, or appropriate Lore check against your Society DC, providing you a false minor fact consistent with their assumed identity on a success.</p>\n<p>Once you've gleaned one or more true minor facts about a person, you can then incorporate these mannerisms into your speech to present yourself in a way that they find familiar. This grants you a +1 circumstance bonus to your Diplomacy and Deception checks with them.</p>\n<p>@Compendium[pf2e.feat-effects.ivGiUp0EC5nWT9Hb]{Effect: Read Shibboleths}</p>"
+			"name": "解读民风 Read Shibboleths",
+			"description": "<p>所有交流中都充满了各种细微的暗示与信号。若你与某人互动至少10分钟，他们的地域方言、发音变化和肢体动作都会提供关于他们社会环境的微小事实，比如他们的家乡或者可能隶属于的群体。</p>\n<p>若该能力的目标在其社会环境（social environment）方面进行了欺骗，比如平民伪装为贵族，则必须尝试欺骗（Deception）、社群（Society）或相应的学识（Lore）检定对抗你的社群DC，成功则会为你提供与其虚假身份一致的虚假事实。</p>\n<p>一旦你收集到关于某个人的1个或更多真实事实，便能够把这些行为习惯融入到你的言行中，并以一种他们熟悉的方式来表现自己。这使得你在与他们进行交涉（Diplomacy）和欺骗（Deception）检定时获得+1环境加值。</p>\n<p>@Compendium[pf2e.feat-effects.ivGiUp0EC5nWT9Hb]{效果：解读民风}</p>"
 		},
 		"Read The Stars": {
 			"name": "Read The Stars",
@@ -11326,8 +11326,8 @@
 			"description": "<p>Frequency once per hour</p>\n<hr />\n<p>You unleash a cloud of pollen or similar spores. All creatures in a 10-foot emanation around you must attempt a Fortitude save using your class DC or spell DC (whichever is higher) with the following results. Plants and fungi are immune to this effect.</p>\n<hr />\n<p><strong>Critical Success</strong> No effect.</p>\n<p><strong>Success</strong> The creature is @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Dazzled} for 1 round.</p>\n<p><strong>Failure</strong> The creature is dazzled and can see only 10 feet away for 1 round.</p>\n<p><strong>Critical Failure</strong> The creature is @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Blinded} for 1 round.</p>"
 		},
 		"Spot Translate": {
-			"name": "Spot Translate",
-			"description": "<p><strong>Trigger</strong> Another creature within 60 feet uses a linguistic effect in a language you understand.</p>\n<hr />\n<p>You interpret a creature's words, repeating their message in a different language that you know. If the triggering effect's targets speak either the original language or the one you translated into, they are affected.</p>"
+			"name": "精准口译 Spot Translate",
+			"description": "<p><strong>触发</strong> 与你相距60尺范围内的其他生物使用1个语言效果（linguistic effect），且说的是你所能够理解的语言</p>\n<hr />\n<p>你口译该生物说出的词句，用你理解的另一种不同语言重复他们说出的信息。若触发效果的目标说的是母语（original language）或者你所翻译的语言，则他们也会受到影响。</p>"
 		},
 		"Spring Attack": {
 			"name": "Spring Attack",
