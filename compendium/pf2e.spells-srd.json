@@ -35,7 +35,7 @@
 		},
 		"Acid Arrow": {
 			"name": "强酸箭 Acid Arrow",
-			"description": "<p>你创造一支由强酸构成的箭矢，在命中后能持续腐蚀目标。对目标尝试一次法术攻击。如果命中，你造成3d8强酸伤害和 [[/r {1d6}[persistent,acid]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续强酸伤害}。在重击时，伤害翻倍，但 @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续伤害}不翻倍。</p>\n<hr />\n<p><strong>升阶 (+2)</strong> 初始伤害增加2d8、 @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续伤害} 增加1d6。</p>"
+			"description": "<p>你创造一支由强酸构成的箭矢，在命中后能持续腐蚀目标。对目标尝试一次法术攻击。如果命中，你造成3d8强酸伤害和 [[/r {1d6}[persistent,acid]]]的@Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续强酸伤害}。在重击时，伤害翻倍，但@Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续伤害}不翻倍。</p>\n<hr />\n<p><strong>升阶 (+2)</strong> 初始伤害增加2d8、 @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{持续伤害} 增加1d6。</p>"
 		},
 		"Acid Splash": {
 			"name": "酸液飞溅 Acid Splash",
@@ -1978,8 +1978,8 @@
 			"description": "<p>你唤来神圣能量来增强一剂圣水，将其射出到惊人的距离。它会产生剧烈的爆炸，产生的水的喷流对区域内的生物造成3d6钝击伤害。该水对不死生物造成额外6d6正能量伤害，对魔族（fiend）造成额外6d6善良伤害。</p>\n<hr />\n<p><strong>升阶 (+1)</strong> 该钝击伤害增加1d6，并且额外正能量和善良伤害增加2d6。</p>"
 		},
 		"Horizon Thunder Sphere": {
-			"name": "Horizon Thunder Sphere",
-			"description": "<p>You gather magical energy into your palm, forming a concentrated ball of electricity that crackles and rumbles like impossibly distant thunder. Make a ranged spell attack roll against your target's AC. On a success, you deal 3d6 electricity damage. On a critical success, the target takes double damage and is @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Dazzled} for 1 round. The number of actions you spend when Casting this Spell determines the range and other parameters.</p>\n<p><span class=\"pf2-icon\">2</span> <strong>(somatic, verbal)</strong> This spell has a range of 30 feet.</p>\n<p><span class=\"pf2-icon\">3</span> <strong>(material, somatic, verbal)</strong> This spell has a range of 60 feet and deals half damage on a failure (but not a critical failure) as the electricity lashes out and jolts the target.</p>\n<p><strong>Two Rounds</strong> If you spend 3 actions Casting the Spell, you can avoid finishing the spell and spend another 3 actions on your next turn to empower the spell even further. If you do, after attacking the target, whether you hit or miss, the ball of lightning explodes, dealing [[/r {2d6}[electricity]]]{2d6 electricity damage} to all other creatures in a 10-foot emanation around the target (basic Reflex save). Additionally, you spark with electricity for 1 minute, dealing [[/r {1}[electricity]]]{1 electricity damage} to creatures that Grab you or that hit you with an unarmed Strike or a non-reach melee weapon.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The initial damage on a hit, as well as the burst damage for two-round casting time, each increase by [[/r {2d6}[electricity]]], and the damage creatures take if they Grapple or hit you while you're in your sparking state increases by [[/r {1}[electricity]]].</p>"
+			"name": "天际雷球 Horizon Thunder Sphere",
+			"description": "<p>你将魔法能量聚于掌心，形成一个凝聚的电球，它发出爆裂的轰鸣，仿佛极遥远的雷音。对目标尝试一次远程法术攻击，对抗你的目标的AC。在成功时，你造成3d6电击伤害。在大成功时，目标承受双倍伤害，并且 @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{目眩 Dazzled} 1轮。你在施放该法术花费的动作数量决定了射程和其他参数。</p>\n<p><span class=\"pf2-icon\">2</span> <strong>(姿势, 语言)</strong> 该法术的射程为30尺。</p>\n<p><span class=\"pf2-icon\">3</span> <strong>(材料, 姿势, 语言)</strong> 该法术的射程为60尺，由于释出的闪电劈向目标，在失败时（不含大失败时）也造成一半伤害。</p>\n<p><strong>二轮</strong> 如果你花费3个动作来施放该法术，你可以不完成施法，并在你的下个回合花费额外3个动作来进一步增强该法术。如果你如此做，在攻击目标之后，无论你命中或失手，这个球状的闪电会爆炸，对目标周围10尺弥漫范围内的所有其他生物造成 [[/r {2d6}[electricity]]]{2d6 电击伤害} （基础反射豁免）。除此之外，你会闪动着电弧，持续1分钟。对擒抱Grab你的，使用无武装打击（Strike）、非长触及的近战武器命中你的生物造成 [[/r {1}[electricity]]]{1 电击伤害}。</p>\n<hr />\n<p><strong>升阶 (+1)</strong> 该命中的初始伤害，以及两轮施法时间的爆炸伤害，各增加 [[/r {2d6}[electricity]]]，并且在你闪烁着电弧时擒拿（Grapple）或者命中你的生物受到的伤害增加 [[/r {1}[electricity]]]。</p>"
 		},
 		"Horrid Wilting": {
 			"name": "凋死术 Horrid Wilting",
@@ -3094,8 +3094,8 @@
 			"description": "<p>你从食物和饮水中移除毒物和污染，令它们能被安全食用。该法术不会避免后续的污染，自然腐败，或者变质。一立方尺的液体大约有8加仑。</p>"
 		},
 		"Purify Soul Path": {
-			"name": "Purify Soul Path",
-			"description": "<p>You delve inward, spending extensive time contemplating the purity of your own soul and the actions of your past. If you aren't truly penitent, the outcome is always a critical failure.</p>\n<hr />\n<p><strong>Critical Success</strong> You reconcile your misdeeds with your soul path, removing your <em>soulforged corruption</em>. The corruption flaw from your armament no longer affects you. Before your reconciliation is complete, you must perform a special quest or other task in accord with your soul path. If completed during downtime, this task should take no less than 1 week. For 1 month, you receive divine insight just before performing an act that would be anathema to your soul path.</p>\n<p><strong>Success</strong> As critical success, but you gain no special insight regarding its subsequent actions.</p>\n<p><strong>Failure</strong> You don't reconcile and must continue to meditate and redress your misdeeds. Any future purify soul path rituals for the same misdeeds cost half as much and gain a +4 circumstance bonus to the primary check.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> Increase the maximum target level by 2 and the base cost by 10 gp.</p>"
+			"name": "净化灵魂道途 Purify Soul Path",
+			"description": "<p>你深入内心，花费了大量时间思考自己灵魂的纯洁并反省了过去的行为。如果你并非真心悔过，则结果永远是大失败。</p>\n<hr />\n<p><strong>大成功</strong> 你将你的过失与你灵魂道途相调和，清除了你的魂铸腐化。你武装的腐化缺陷不再影响你。在你的调和完成之前，你必须执行一项特殊的使命或其他与你灵魂道途相适应的任务。如果在休整期中完成，该任务不会少于1周。在接下来的1个月内，你会获得神圣启示，能知晓什么行动将会触犯你灵魂道途的禁忌。</p>\n<p><strong>成功</strong> 如同大成功，但不会获得后续的特殊启示。</p>\n<p><strong>失败</strong> 你没能调和，必须继续冥想，改正自己的错误。未来任何净化灵魂道途仪式都只需要一半的费用，并在主要检定上获得+4环境加值。</p>\n<hr />\n<p><strong>升阶 (+1)</strong> 最高目标等级提升2级，基础开销增加10gp。</p>"
 		},
 		"Purple Worm Sting": {
 			"name": "紫虫毒刺 Purple Worm Sting",

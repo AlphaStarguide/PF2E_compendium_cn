@@ -386,16 +386,16 @@
 			"description": "<p>你将对炼金术的兴趣转变成系统的训练。你在炼金炸弹和手艺Crafting中受训；如果你已经受训于手艺Crafting，你在另一个你自选的技能中受训。你在炼金术师职业DC中受训。你获得炼金术师灌注试剂Infused Reagents职业特性，获得等同于你等级灌注试剂数量。你也获得炼金工艺Alchemical Crafting专长，以及额外4个1级炼金物品的公式，也能够在每日准备中创造免费的物品。你的高阶炼金术等级是1级，并且不会自动升级。</p>\n<p><strong>特殊</strong> 你不能选择其他入门专长，除非你从炼金术师变体中获得了其他两个专长。</p>"
 		},
 		"Aldori Duelist Dedication": {
-			"name": "Aldori Duelist Dedication",
-			"description": "<div><strong>Archetype</strong> @Compendium[pf2e.archetypes.cnsq5cXgQu4FXnoZ]{Aldori Duelist}</div>\n<p><strong>Access</strong> You are from the Broken Lands region.</p>\n<hr />\n<p>Your Aldori duelist training teaches you martial techniques and increases your dedication to the Aldori dueling sword. You become trained in your choice of Acrobatics or Athletics and in Dueling Lore; if you were already trained, you become an expert instead. Whenever your proficiency rank in any weapon increases to expert or beyond, you also gain that new proficiency rank with Aldori dueling swords. You gain access to @Compendium[pf2e.equipment-srd.iSceAVMkVv1uKK7t]{Aldori Dueling Sword}</p>\n<p><strong>Special</strong> You cannot select another dedication feat until you have gained two other feats from the Aldori Duelist archetype.</p>"
+			"name": "奥多里决斗家入门 Aldori Duelist Dedication",
+			"description": "<div><strong>变体</strong> @Compendium[pf2e.archetypes.cnsq5cXgQu4FXnoZ]{奥多里决斗家 Aldori Duelist}</div>\n<p><strong>条件</strong> 你来自破碎之地区域。</p>\n<hr />\n<p>奥多里决斗家修行教导你武艺让你入门奥多里决斗剑。你会在决斗学识和特技或运动技能上受训，如果你已经受训则提升为专家。当你对任何武器的熟练度增长至专家或更高级熟练时，你在奥多里决斗剑上同样提升至新的熟练等级。你可以使用@Compendium[pf2e.equipment-srd.iSceAVMkVv1uKK7t]{奥多里决斗剑 Aldori Dueling Sword}。</p>\n<p><strong>特殊</strong> 在你从奥多里决斗家变体中获得另外两个专长前，你不能选择其他的入门专长。</p>"
 		},
 		"Aldori Parry": {
-			"name": "Aldori Parry",
-			"description": "<p><strong>Requirements</strong> You are wielding only an Aldori dueling sword and have your other hand or hands free.</p>\n<hr />\n<p>You can parry attacks against you with your Aldori dueling sword. You gain a +2 circumstance bonus to AC until the start of your next turn as long as you continue to meet the requirement.</p>"
+			"name": "奥多里剑格 Aldori Parry",
+			"description": "<p><strong>需求</strong> 你只持握一柄奥多里决斗剑并且双手或单手处于空闲。</p>\n<hr />\n<p>你可以用奥多里决斗剑招架对你的攻击。只要你持续满足要求，你将直到下一个回合开始前在防御等级上获得+2环境加值。</p>"
 		},
 		"Aldori Riposte": {
-			"name": "Aldori Riposte",
-			"description": "<p><strong>Requirements</strong> You are benefiting from Aldori Parry.</p>\n<p><strong>Trigger</strong> An opponent within your reach critically fails a Strike against you.</p>\n<hr />\n<p>You riposte with your @Compendium[pf2e.equipment-srd.iSceAVMkVv1uKK7t]{Aldori Dueling Sword} when your enemy leaves an opening. Make a melee Strike or use a @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Disarm} action against the triggering opponent using your Aldori dueling sword.</p>"
+			"name": "奥多里剑反 Aldori Riposte",
+			"description": "<p><strong>需求</strong> 你正受益于奥多里剑格 Aldori Parry</p>\n<p><strong>触发</strong> 在你触及范围内的敌人对你的攻击大失败。</p>\n<hr />\n<p>当敌人露出破绽时，你将用 @Compendium[pf2e.equipment-srd.iSceAVMkVv1uKK7t]{奥多里决斗剑 Aldori Dueling Sword} 进行反击。使用你的奥多里决斗剑对触发的敌人进行一次近战打击(Strike)或者 @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{卸武 Disarm} 动作。</p>"
 		},
 		"Alghollthu Bound": {
 			"name": "Alghollthu Bound",
@@ -846,68 +846,68 @@
 			"description": "<p>即使在最麻烦的情况下，你仍然可以自然地发挥出基本水准。选择一个你已经受训的技能。在进行技能检定时，你可以放弃骰d20，而是自动获得10+你在技能上的熟练加值的检定结果（不获得任何除此之外的加值，减值和调整）。</p>\n<hr />\n<p><strong>特殊</strong> 你可以多次选择本专长。每次选择本专长时，你可以选择另一个技能获得本专长的好处。</p>"
 		},
 		"Assurance (Acrobatics)": {
-			"name": "Assurance (Acrobatics)",
-			"description": "<p>Even in the worst circumstances, you can perform basic acrobatic tasks. You can forgo rolling a skill check for acrobatics to instead receive a result of 10 + your proficiency bonus (do not apply any other bonuses, penalties, or modifiers).</p>"
+			"name": "驾轻就熟（特技） Assurance (Acrobatics)",
+			"description": "<p>即使在最麻烦的情况下，你仍然可以自然地发挥出基本水准。在进行特技技能检定时，你可以放弃骰d20，而是自动获得10+你在技能上的熟练加值的检定结果（不获得任何除此之外的加值，减值和调整）。</p>"
 		},
 		"Assurance (Arcana)": {
-			"name": "Assurance (Arcana)",
-			"description": "<p>Even in the worst circumstances, you can perform basic arcana tasks. You can forgo rolling a skill check for arcana to instead receive a result of 10 + your proficiency bonus (do not apply any other bonuses, penalties, or modifiers).</p>"
+			"name": "驾轻就熟（奥秘） Assurance (Arcana)",
+			"description": "<p>即使在最麻烦的情况下，你仍然可以自然地发挥出基本水准。在进行奥秘技能检定时，你可以放弃骰d20，而是自动获得10+你在技能上的熟练加值的检定结果（不获得任何除此之外的加值，减值和调整）。</p>"
 		},
 		"Assurance (Athletics)": {
-			"name": "Assurance (Athletics)",
-			"description": "<p>Even in the worst circumstances, you can perform basic athletics tasks. You can forgo rolling a skill check for athletics to instead receive a result of 10 + your proficiency bonus (do not apply any other bonuses, penalties, or modifiers).</p>"
+			"name": "驾轻就熟（运动） Assurance (Athletics)",
+			"description": "<p>即使在最麻烦的情况下，你仍然可以自然地发挥出基本水准。在进行运动技能检定时，你可以放弃骰d20，而是自动获得10+你在技能上的熟练加值的检定结果（不获得任何除此之外的加值，减值和调整）。</p>"
 		},
 		"Assurance (Crafting)": {
-			"name": "Assurance (Crafting)",
-			"description": "<p>Even in the worst circumstances, you can perform basic crafting tasks. You can forgo rolling a skill check for crafting to instead receive a result of 10 + your proficiency bonus (do not apply any other bonuses, penalties, or modifiers).</p>"
+			"name": "驾轻就熟（手艺） Assurance (Crafting)",
+			"description": "<p>即使在最麻烦的情况下，你仍然可以自然地发挥出基本水准。在进行手艺技能检定时，你可以放弃骰d20，而是自动获得10+你在技能上的熟练加值的检定结果（不获得任何除此之外的加值，减值和调整）。</p>"
 		},
 		"Assurance (Deception)": {
-			"name": "Assurance (Deception)",
-			"description": "<p>Even in the worst circumstances, you can perform basic deception tasks. You can forgo rolling a skill check for deception to instead receive a result of 10 + your proficiency bonus (do not apply any other bonuses, penalties, or modifiers).</p>"
+			"name": "驾轻就熟（欺骗） Assurance (Deception)",
+			"description": "<p>即使在最麻烦的情况下，你仍然可以自然地发挥出基本水准。在进行欺骗技能检定时，你可以放弃骰d20，而是自动获得10+你在技能上的熟练加值的检定结果（不获得任何除此之外的加值，减值和调整）。</p>"
 		},
 		"Assurance (Diplomacy)": {
-			"name": "Assurance (Diplomacy)",
-			"description": "<p>Even in the worst circumstances, you can perform basic diplomacy tasks. You can forgo rolling a skill check for diplomacy to instead receive a result of 10 + your proficiency bonus (do not apply any other bonuses, penalties, or modifiers).</p>"
+			"name": "驾轻就熟（交涉） Assurance (Diplomacy)",
+			"description": "<p>即使在最麻烦的情况下，你仍然可以自然地发挥出基本水准。在进行交涉技能检定时，你可以放弃骰d20，而是自动获得10+你在技能上的熟练加值的检定结果（不获得任何除此之外的加值，减值和调整）。</p>"
 		},
 		"Assurance (Intimidation)": {
-			"name": "Assurance (Intimidation)",
-			"description": "<p>Even in the worst circumstances, you can perform basic intimidation tasks. You can forgo rolling a skill check for intimidation to instead receive a result of 10 + your proficiency bonus (do not apply any other bonuses, penalties, or modifiers).</p>"
+			"name": "驾轻就熟（威吓） Assurance (Intimidation)",
+			"description": "<p>即使在最麻烦的情况下，你仍然可以自然地发挥出基本水准。在进行威吓技能检定时，你可以放弃骰d20，而是自动获得10+你在技能上的熟练加值的检定结果（不获得任何除此之外的加值，减值和调整）。</p>"
 		},
 		"Assurance (Medicine)": {
-			"name": "Assurance (Medicine)",
-			"description": "<p>Even in the worst circumstances, you can perform basic medicine tasks. You can forgo rolling a skill check for medicine to instead receive a result of 10 + your proficiency bonus (do not apply any other bonuses, penalties, or modifiers).</p>"
+			"name": "驾轻就熟（医疗） Assurance (Medicine)",
+			"description": "<p>即使在最麻烦的情况下，你仍然可以自然地发挥出基本水准。在进行医疗技能检定时，你可以放弃骰d20，而是自动获得10+你在技能上的熟练加值的检定结果（不获得任何除此之外的加值，减值和调整）。</p>"
 		},
 		"Assurance (Nature)": {
-			"name": "Assurance (Nature)",
-			"description": "<p>Even in the worst circumstances, you can perform basic nature tasks. You can forgo rolling a skill check for nature to instead receive a result of 10 + your proficiency bonus (do not apply any other bonuses, penalties, or modifiers).</p>"
+			"name": "驾轻就熟（自然） Assurance (Nature)",
+			"description": "<p>即使在最麻烦的情况下，你仍然可以自然地发挥出基本水准。在进行自然技能检定时，你可以放弃骰d20，而是自动获得10+你在技能上的熟练加值的检定结果（不获得任何除此之外的加值，减值和调整）。</p>"
 		},
 		"Assurance (Occultism)": {
-			"name": "Assurance (Occultism)",
-			"description": "<p>Even in the worst circumstances, you can perform basic occultism tasks. You can forgo rolling a skill check for occultism to instead receive a result of 10 + your proficiency bonus (do not apply any other bonuses, penalties, or modifiers).</p>"
+			"name": "驾轻就熟（神秘） Assurance (Occultism)",
+			"description": "<p>即使在最麻烦的情况下，你仍然可以自然地发挥出基本水准。在进行神秘技能检定时，你可以放弃骰d20，而是自动获得10+你在技能上的熟练加值的检定结果（不获得任何除此之外的加值，减值和调整）。</p>"
 		},
 		"Assurance (Performance)": {
-			"name": "Assurance (Performance)",
-			"description": "<p>Even in the worst circumstances, you can perform basic performance tasks. You can forgo rolling a skill check for performance to instead receive a result of 10 + your proficiency bonus (do not apply any other bonuses, penalties, or modifiers).</p>"
+			"name": "驾轻就熟（表演） Assurance (Performance)",
+			"description": "<p>即使在最麻烦的情况下，你仍然可以自然地发挥出基本水准。在进行表演技能检定时，你可以放弃骰d20，而是自动获得10+你在技能上的熟练加值的检定结果（不获得任何除此之外的加值，减值和调整）。</p>"
 		},
 		"Assurance (Religion)": {
-			"name": "Assurance (Religion)",
-			"description": "<p>Even in the worst circumstances, you can perform basic religion tasks. You can forgo rolling a skill check for religion to instead receive a result of 10 + your proficiency bonus (do not apply any other bonuses, penalties, or modifiers).</p>"
+			"name": "驾轻就熟（宗教） Assurance (Religion)",
+			"description": "<p>即使在最麻烦的情况下，你仍然可以自然地发挥出基本水准。在进行宗教技能检定时，你可以放弃骰d20，而是自动获得10+你在技能上的熟练加值的检定结果（不获得任何除此之外的加值，减值和调整）。</p>"
 		},
 		"Assurance (Society)": {
-			"name": "Assurance (Society)",
-			"description": "<p>Even in the worst circumstances, you can perform basic society tasks. You can forgo rolling a skill check for society to instead receive a result of 10 + your proficiency bonus (do not apply any other bonuses, penalties, or modifiers).</p>"
+			"name": "驾轻就熟（社群） Assurance (Society)",
+			"description": "<p>即使在最麻烦的情况下，你仍然可以自然地发挥出基本水准。在进行社群技能检定时，你可以放弃骰d20，而是自动获得10+你在技能上的熟练加值的检定结果（不获得任何除此之外的加值，减值和调整）。</p>"
 		},
 		"Assurance (Stealth)": {
-			"name": "Assurance (Stealth)",
-			"description": "<p>Even in the worst circumstances, you can perform basic stealth tasks. You can forgo rolling a skill check for stealth to instead receive a result of 10 + your proficiency bonus (do not apply any other bonuses, penalties, or modifiers).</p>"
+			"name": "驾轻就熟（隐匿） Assurance (Stealth)",
+			"description": "<p>即使在最麻烦的情况下，你仍然可以自然地发挥出基本水准。在进行隐匿技能检定时，你可以放弃骰d20，而是自动获得10+你在技能上的熟练加值的检定结果（不获得任何除此之外的加值，减值和调整）。</p>"
 		},
 		"Assurance (Survival)": {
-			"name": "Assurance (Survival)",
-			"description": "<p>Even in the worst circumstances, you can perform basic survival tasks. You can forgo rolling a skill check for survival to instead receive a result of 10 + your proficiency bonus (do not apply any other bonuses, penalties, or modifiers).</p>"
+			"name": "驾轻就熟（生存） Assurance (Survival)",
+			"description": "<p>即使在最麻烦的情况下，你仍然可以自然地发挥出基本水准。在进行生存技能检定时，你可以放弃骰d20，而是自动获得10+你在技能上的熟练加值的检定结果（不获得任何除此之外的加值，减值和调整）。</p>"
 		},
 		"Assurance (Thievery)": {
-			"name": "Assurance (Thievery)",
-			"description": "<p>Even in the worst circumstances, you can perform basic thievery tasks. You can forgo rolling a skill check for thievery to instead receive a result of 10 + your proficiency bonus (do not apply any other bonuses, penalties, or modifiers).</p>"
+			"name": "驾轻就熟（贼活） Assurance (Thievery)",
+			"description": "<p>即使在最麻烦的情况下，你仍然可以自然地发挥出基本水准。在进行贼活技能检定时，你可以放弃骰d20，而是自动获得10+你在技能上的熟练加值的检定结果（不获得任何除此之外的加值，减值和调整）。</p>"
 		},
 		"Assured Identification": {
 			"name": "胸有成竹 Assured Identification",
@@ -3638,8 +3638,8 @@
 			"description": "<p>Select one foe that you can see and proclaim a challenge. That foe is your dueling opponent until they are defeated, flee, or the encounter ends.</p>\n<p>Any time you hit that enemy using a single one-handed melee weapon while your other hand or hands are free, you gain a circumstance bonus to the @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Strike's} damage equal to the number of damage dice your weapon deals.</p>\n<p>If you attack a creature other than your dueling opponent, you take a circumstance penalty to damage equal to the number of damage dice your weapon deals.</p>"
 		},
 		"Duelist's Edge": {
-			"name": "Duelist's Edge",
-			"description": "<p><strong>Trigger</strong> You roll initiative, and you can observe at least one opponent.</p>\n<hr />\n<p>You hone your reaction time through duels and learn to draw your weapon seamlessly as you begin a fight. You gain a +2 circumstance bonus to the triggering initiative roll, and you can immediately Interact to draw your Aldori dueling sword.</p>"
+			"name": "决斗之刻 Duelist's Edge",
+			"description": "<p><strong>触发</strong> 你进行先攻检定并且至少能观察到一名敌人。</p>\n<hr />\n<p>你通过决斗磨练自己的反应时间并学会在战斗开始时无缝地拔出武器。你在触发的先攻检定上获得+2环境加值并且你能够立刻进行互动来拔出你的奥多里决斗剑。</p>"
 		},
 		"Duo's Aim": {
 			"name": "Duo's Aim",
@@ -9374,8 +9374,8 @@
 			"description": "<p>你 @Compendium[pf2e.actionspf2e.UAaQk93a30nx0nYY]{附着护符 Affix a Talisman}只需要1分钟。若你手艺技能为传奇熟练等级，附着护符只需要【AAA】行动。</p>"
 		},
 		"Rapid Manifestation": {
-			"name": "Rapid Manifestation",
-			"description": "<p><strong>Trigger</strong> You roll initiative or a hazard attacks you.</p>\n<hr />\n<p>Your unwavering soul brings up your defenses as soon as you're in danger. You Manifest your Soulforged Armament.</p>"
+			"name": "迅捷显现 Rapid Manifestation",
+			"description": "<p><strong>触发</strong> 你骰先攻，或一种危害攻击你</p>\n<hr />\n<p>当你处于危险时，你坚定的灵魂霎时使你做好防御。你显现你的魂铸武装。</p>"
 		},
 		"Rapid Mantel": {
 			"name": "鹞子翻身 Rapid Mantel",
@@ -10042,8 +10042,8 @@
 			"description": "<p>The wounds you inflict are grievous. When you Strike with a weapon or unarmed attack for which you have legendary proficiency, you critically succeed if you roll a 19 on the die as long as that result is a success. This has no effect on a 19 if the result would be a failure.</p>"
 		},
 		"Saving Slash": {
-			"name": "Saving Slash",
-			"description": "<p><strong>Trigger</strong> An opponent critically hits you with a melee attack.</p>\n<hr />\n<p>You quickly whirl your blade, trying to deflect enough momentum to avoid the worst of the attack. Attempt a DC 16 flat check. If you succeed, the attack becomes a normal hit, instead of a critical hit.</p>"
+			"name": "求生斩击 Saving Slash",
+			"description": "<p><strong>触发</strong> 敌人对你的近战攻击造成重击。</p>\n<hr />\n<p>你迅速旋转剑刃试图偏转足够的动能以避免这次攻击最糟糕的情况。进行DC16的纯骰检定。如果你成功的话，这次攻击将变成普通攻击而非重击。</p>"
 		},
 		"Scalding Spit": {
 			"name": "Scalding Spit",
@@ -11046,16 +11046,16 @@
 			"description": "<p>选择一个血统。你在该血统的两个技能中受训；对于每一个你已经达成受训的上述技能，你都可以在另一个你自选的技能中受训。你像一个术士一样施法。你获得施法Cast a Spell行动。你获得一个内含两个常见戏法的法术库，这些戏法来自于与你的血统相关联的法术列表、你的血统的馈赠法术、或任何其他你学习或发现到的属于该根源的戏法。你在所选魔法根源中的法术攻击骰和法术DC中受训。你在术士变体法术中的施法主属性是魅力Charisma，可以施展的是血统魔法根源的术士法术。你不会获得血统给予的其他能力。</p>\n<hr />\n<p><strong>特殊</strong> 你不能选择其他入门专长，除非你从术士变体中获得了其他两个专长。</p>"
 		},
 		"Soul Arsenal": {
-			"name": "Soul Arsenal",
-			"description": "<p>Choose an additional soulforged armament of a different type than the type you already chose, and choose one essence power for it. Upgrade and change armaments individually.</p>\n<p>When you Manifest Soulforged Armament, you can summon any number of your armaments (you must meet the Requirements for each), and when you Dismiss the effect, you can choose to Dismiss some and not others. You can choose to manifest the essence form of any number of your armaments when you take the action. Each armament can manifest its essence form only once per day.</p>\n<p>When you gain soulforged corruption, choose one armament's corruption flaw to affect you for stage 1. At stage 2, you take the flaws of all your soulforged armaments. While you have the curse, each armament gets a separate flat check to manifest its essence form, and failing prevents you from manifesting only that armament's essence form.</p>\n<hr />\n<p><strong>Special</strong> You can select this feat a second time at 12th level or higher, choosing the final item type.</p>"
+			"name": "魂铸武库 Soul Arsenal",
+			"description": "<p>选择另一种不同于你已选类型的魂铸武装，并为其选择一种魂铸威能。此武装的升级和更换是独立的。</p>\n<p>当你显现魂铸武装时，你可以召唤任意数量的武装（但你必须满足每种武装的需求），以及当你解消效果时，你可以自由选择解消哪些武装而不影响其他的武装。当你使用显现动作时，可以选择显现出任意数量武装的魂粹形态。每种武装每天各只能显现一次魂粹形态。</p>\n<p>当你获得魂铸腐化后，在阶段1时，选择一件武装并获得其腐化缺陷。在阶段2时，你获得所有魂铸武装的腐化缺陷。当你承受诅咒时，每件武装在显现魂粹形态时单独进行纯骰检定，失败骰只会阻止你显现该单件武装的魂粹形态。</p>\n<hr />\n<p><strong>特殊</strong> 你在12级或更高时可以再次选择该专长，并选择剩下来的最后一种类型。</p>"
 		},
 		"Soul Flare": {
-			"name": "Soul Flare",
-			"description": "<p><strong>Trigger</strong> An attack you made with a soulforged weapon or shield misses a creature, or a creature hits you with an attack while you're either wearing manifested soulforged armor or have your soulforged shield raised.</p>\n<p><strong>Requirements</strong> Your soulforged armament is manifested.</p>\n<hr />\n<p>You strive to change the outcome with sheer zeal. You gain a +1 status bonus to your attack roll if making an attack or to your AC if you were hit. This can change the outcome of the roll. If this bonus turns your missed attack into a hit or the hit against you into a miss, attempt a DC 5 flat check. If you fail, your soulforged armament is Dismissed-your weapon if you attacked or your armor or shield if you were defending.</p>"
+			"name": "灵魂瞬光 Soul Flare",
+			"description": "<p><strong>触发</strong> 你用魂铸武器或盾牌对一个生物的攻击未命中；或你穿戴显现的魂铸盔甲或举起魂铸盾牌时，一个生物的攻击命中你</p>\n<p><strong>需求</strong> 你的魂铸武装已经显现</p>\n<hr />\n<p>你用纯粹的激情去努力改变结果。如果你进行攻击，你的攻击骰获得+1状态加值；如果你被攻击，你的AC获得+1状态加值。这可以改变掷骰的结果。如果这个加值使你的未命中变为命中，或者将对你的命中改为未命中，尝试一次DC5的纯骰检定。如果你失败，则你的魂铸武装将会被解消——如果你进行攻击则是你的武器，如果你进行防守则是你的盔甲或盾牌。</p>"
 		},
 		"Soulforger Dedication": {
-			"name": "Soulforger Dedication",
-			"description": "<p>You can manifest the power of your spirit in combat to realize your motivations. You manifest an armor, shield, or weapon as a soulforged armament. Choose one essence power for the armament. Changing an essence power requires 1 week of retraining, and you can't retrain it while you have <em>soulforged corruption</em>.</p>\n<p>You can @Compendium[pf2e.actionspf2e.KMKuJ0onVS72t9Fv]{Manifest Soulforged Armament} to summon your armaments in combat.</p>\n<hr />\n<p><strong>Special</strong> You can't select another dedication feat before gaining two other feats from this archetype.</p>\n<hr />\n<h3>ESSENCE POWERS</h3>\n<p>Your soulforged armament has an essence power you choose when you first bind it. It gains the power temporarily when you manifest its essence form. Each power has a corruption flaw that affects you if you have <em>soulforged corruption</em>. Essence powers that only apply to some types of armament indicate which.</p>\n<p><strong>Adaptable Persona</strong> (transmutation) Armor only. When you manifest the essence form, gain your choice of a climb Speed or swim Speed equal to your land Speed. If you're 8th level or higher, you can choose a fly Speed instead. <em>Corruption Flaw</em> You take a -10-foot penalty to all your Speeds.</p>\n<p><strong>Bounding Spirit</strong> Melee weapon only. The weapon gains the thrown 30 feet trait and has the returning rune (even if it already has its maximum number of property runes). <em>Corruption Flaw</em> When you make a Strike with a thrown or ranged weapon and miss, reroll the Strike, targeting your ally nearest to the target. This Strike uses the same multiple attack penalty as the missed Strike and doesn't count toward your multiple attack penalty.</p>\n<p><strong>Deep-Seeded Fear</strong> You gain a +2 status bonus to your Intimidation checks and don't take any penalties for not sharing a language when Demoralizing foes who can perceive your armament's essence form. When you manifest the essence form, you can attempt to Demoralize an enemy who can perceive the manifestation. <em>Corruption Flaw</em> If you attempt to Demoralize an enemy, your Demoralize also targets the ally closest to you.</p>\n<p><strong>Determined Toughness</strong> Any status penalties you take from the following conditions are 1 less than their condition's value: @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy}, @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drained}, @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled}, @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened}, @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened}, @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied}. This doesn't change the actual condition value, or any other effects of the condition (such as stupefied's disruption and its DC). <em>Corruption Flaw</em> Whenever you take a status penalty from the listed conditions, you also take a -1 penalty to the same statistics.</p>\n<p><strong>Harmful Malice</strong> (necromancy, negative) Your Strikes deal an additional 1d4 negative damage. Once while the armament is manifested, you can cast harm as an innate spell, with a level equal to half your level rounded up. <em>Corruption Flaw</em> Reduce any damage you would deal by half your level.</p>\n<p><strong>Heroic Heart</strong> (enchantment, mental) You gain a +1 status bonus to attack rolls, Perception checks, skill checks, and saves. <em>Corruption Flaw</em> You take a -1 penalty to attack rolls.</p>\n<p><strong>Healing Grace</strong> (healing, necromancy, positive) You gain fast healing equal to half your level. You can cast <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Heal}</em> once as an innate spell with a level equal to half your level rounded up. <em>Corruption Flaw</em> Reduce all healing you would receive or grant with a spell by half your level.</p>\n<p><strong>Magical Resilience</strong> (abjuration) Armor or shield only. You gain a +2 status bonus to saving throws and AC against spells. If you're 5th level or higher, you can cast <em>@Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dispel Magic}</em> once as an innate spell. The spell level is equal to 1 lower than half your level rounded up (2nd level if you're 5th or 6th level, and so on). <em>Corruption Flaw</em> You take a -1 penalty to saving throws and AC against spells.</p>\n<p><strong>Planar Bond</strong> (abjuration) Armor or shield only. When you manifest the essence form, choose one damage type: acid, chaotic, cold, electricity, evil, fire, good, lawful, negative, positive, or sonic. You gain resistance equal to your level + 2 to damage of the selected type. <em>Corruption Flaw</em> You gain weakness 1 to all damage.</p>\n<p><strong>Planar Pain</strong> (evocation) Weapon only. When you manifest the essence form, choose one damage type: acid, chaotic, cold, electricity, evil, fire, good, lawful, negative, positive, or sonic. Attacks with the weapon deal this type of damage instead of their physical damage with a +2 status bonus to the damage. <em>Corruption Flaw</em> When you deal damage with a weapon or unarmed attack, you take 2 damage of the last type you chose for planar pain, even if the damage type normally wouldn't harm you, such as good damage if you aren't evil.</p>\n<p><strong>Pull of Stasis</strong> (transmutation) Weapon only. Any time you hit with the soulforged weapon, the target takes a -10-foot penalty to its Speeds for 1 round. On a critical hit, the creature is @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilized} for 1 round instead. <em>Corruption Flaw</em> You take a -10-foot penalty to all your Speeds.</p>\n<p><strong>Reflecting Spirit</strong> Armor or shield only. You gain a +2 status bonus to AC against physical ranged attacks. If an enemy's physical ranged attack misses you, you can use your reaction to immediately attempt a ranged Strike against the attacker using the projectile that missed. <em>Corruption Flaw</em> You have weakness 5 to physical ranged attacks.</p>\n<p><strong>Resolute Defiance</strong> Shield only. The shield gains a +2 status bonus to its Hardness and gains temporary Hit Points equal to your level + 2 that last until the essence effect ends. If you don't have the @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Shield Block} reaction, you gain it while your shield is manifested. <em>Corruption Flaw</em> When you take damage while Raising a Shield or use Shield Block, attempt a DC 5 flat check. If you fail, the shield is Dismissed if it's your soulforged armament or Dropped if it's a different shield.</p>"
+			"name": "魂铸者入门 Soulforger Dedication",
+			"description": "<p>你可以在战斗中显现你魂魄的威能来让你意愿成真。你将一件盔甲、盾牌或武器作为你的魂铸武装显现（232页）。并为武器选择一种魂粹威能（见下列）。改变一种魂粹威能需要通过1周的重训，且当你受魂铸腐化影响时不能重训。</p>\n<p>你可以在战斗中使用 @Compendium[pf2e.actionspf2e.KMKuJ0onVS72t9Fv]{显现魂铸武装 Manifest Soulforged Armament} 来召唤你的武装。</p>\n<hr />\n<p><strong>特殊</strong> 你不能选择其他入门专长，除非你从此变体中获得了其他两个专长。</p>\n<hr />\n<h3>魂粹威能 ESSENCE POWERS</h3>\n<p>你的魂铸武装在你与之首次连结时会获得魂粹威能。当你显现其魂粹形态时，他会获得暂时性的威能。每一种威能都有一种腐化缺陷，若你有魂铸腐化，它就会影响你。若某种威能只适用于某种类型的武装，则会标明。</p>\n<p><strong>适应表象 Adaptable Persona</strong> (变化系) 仅限盔甲。当你显现魂粹形态时，你获得与你陆地速度相等的攀爬速度或游泳速度，二者选一。如果你达到8级或更高，则可以选择飞行速度。 <em>腐化缺陷</em> 你的所有速度受到-10尺的罚值。</p>\n<p><strong>魂魄羁绊 Bounding Spirit</strong> 仅限近战武器。武器获得投掷30尺特性和回力符文（即便其性能符文数量已达上限）。 <em>腐化缺陷</em> 当你使用投掷武器或远程武器进行攻击但未命中时，重骰这次打击，将目标改为离你最近的盟友。这次打击使用与失误的打击同样的多重攻击罚值，且此次不计入你的多重攻击罚值。</p>\n<p><strong>深植恐惧 Deep-Seeded Fear</strong> 你的威吓技能检定获得+2状态加值，并且当你对能感知到你武器魂粹形态的敌人进行挫败士气时，你不会因为没有使用同一种语言而承受罚值。当你显现魂粹形态时，你可以尝试对一个能感知到显现的敌人进行挫败士气。 <em>腐化缺陷</em> 如果你尝试对敌人进行挫败士气，也会额外将离你最近的盟友选为目标。</p>\n<p><strong>不动铁心 Determined Toughness</strong> 你从以下状态获得的任何状态减值比其状态值少1： @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{笨拙 Clumsy}, @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{流失 Drained}, @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{力竭 Enfeebled}, @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{惊惧 Frightened}, @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{恶心 Sickened}, @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{呆滞 Stupefied}。这不会改变其实际的状态值或其他效果（如呆滞状态的打断及其DC）。 <em>腐化缺陷</em> 当你从所列状态中获得减值时，你会额外承受相同的-1减值。</p>\n<p><strong>伤人怨恨 Harmful Malice</strong> (死灵系, 负能量) 你的打击额外造成1d4负能量伤害，且当武装显现时，你可以用内在法术的方式施展1道伤害术，环级为你等级的一半，向上取整。 <em>腐化缺陷</em> 你所造成的所有伤害均减去你的等级。</p>\n<p><strong>义胆雄心 Heroic Heart</strong> (惑控系, 精神) 你在攻击骰、察觉检定，技能检定与豁免上获得+1状态加值。 <em>腐化缺陷</em> 你在攻击骰上获得-1减值。</p>\n<p><strong>治愈恩典 Healing Grace</strong> (治疗, 死灵系, 正能量) 你获得相当于你等级一半的快速治疗。你可以用内在法术的方式施展1次<em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{治疗术 Heal}</em> ，环级为你等级的一半，向上取整。 <em>腐化缺陷</em> 你所接受的所有治疗效果，与给予他人的法术治疗效果均减去你等级的一半。</p>\n<p><strong>魔法抗力 Magical Resilience</strong> (防护系) 仅限盔甲或盾牌。你对抗法术时，AC与豁免获得+2状态加值。如果你达到了5级或更高，你可以用内在法术的方式施展1次 <em>@Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{解除魔法 Dispel Magic}</em>。法术环级相当于你等级的一半再减去1（如你为5或6级，则法术为2环，以此类推）。 <em>腐化缺陷</em> 你对抗法术时，AC与豁免获得-1减值。</p>\n<p><strong>位面连结 Planar Bond</strong> (防护系) 仅限盔甲或盾牌。当你显现魂粹形态时，选择一种伤害类型：强酸、混乱、寒冷、电击、邪恶、火焰、善良、负能量、正能量、音波。你获得相当于你等级+2的所选伤害抗力。 <em>腐化缺陷</em> 你对所有伤害类型具有弱点1。</p>\n<p><strong>位面苦痛 Planar Pain</strong> (塑能系) 仅限武器。当你显现魂粹形态时，选择一种伤害类型：强酸、混乱、寒冷、电击、邪恶、火焰、善良、负能量、正能量、音波。你使用武器进行攻击时，其物理伤害部分变更为所选伤害类型，且伤害获得+2状态加值。 <em>腐化缺陷</em> 当你使用武器或无武装攻击造成伤害时，会受到2你上次所选类型的伤害，即便这种伤害类型正常情况下不会伤害你，比如你虽然不是邪恶但也会受到善良伤害。</p>\n<p><strong>静滞牵引 Pull of Stasis</strong> (变化系) 仅限武器。当你使用魂铸武器命中时，对方的速度会承受-10尺的罚值，持续1轮。若以大成功命中，则目标生物改为@Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{禁足 Immobilized} 一轮。 <em>腐化缺陷</em> 你的所有速度承受-10尺的罚值。</p>\n<p><strong>魂魄反应 Reflecting Spirit</strong> 仅限盔甲或盾牌。你在对抗物理远程攻击时的AC获得+2状态加值。如若敌人的物理远程攻击没有命中你，你可使用反应立即使用那发未命中的射弹对攻击者尝试一次远程打击。 <em>腐化缺陷</em> 你对物理远程攻击具有弱点5。</p>\n<p><strong>勇毅抗争 Resolute Defiance</strong> 仅限盾牌。该盾牌在硬度上获得+2状态加值，并获得相当于你等级+2的临时生命值，直到魂粹效果结束。如果你没有 @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{盾牌格挡 Shield Block} 反应，则你在盾牌显现时获得之。 <em>腐化缺陷</em> 当你使用举起盾牌或盾牌格挡时受到伤害，尝试一次DC5的纯骰检定。如果失败，则你手上的魂铸盾牌将会被解消，若是普通盾牌则会被丢下。</p>"
 		},
 		"Soulsight (Bard)": {
 			"name": "灵视（吟游诗人） Soulsight (Bard)",
@@ -12814,8 +12814,8 @@
 			"description": "<p>只要是你的专项研究范畴，你就决不可能犯错。当你使用任何一个你拥有受训等级的学识门类进行技能检定时，如果你的检定结果是大失败，你只会得到失败结果；如果你在一个学识门类上达到了大师级熟练等级，当你在技能检定上获得大成功结果时，你可以回想起比通常还要多的额外的信息和背景。</p>"
 		},
 		"Unnerving Prowess": {
-			"name": "Unnerving Prowess",
-			"description": "<p><strong>Trigger</strong> You critically succeed at a Strike or Disarm with your Aldori dueling sword.</p>\n<hr />\n<p>Your incredible skill with your blade unnerves your foes. You attempt to @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Demoralize} the target of your Strike or @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Disarm}. This Demoralize attempt does not have the auditory trait, nor do you take a penalty to the check if the target doesn't understand your language.</p>"
+			"name": "威慑技巧 Unnerving Prowess",
+			"description": "<p><strong>触发</strong> 你使用奥多里决斗剑在一次打击(Strike)或卸武上大成功</p>\n<hr />\n<p>你匪夷所思的剑术令你的敌人丧失勇气。你可以尝试对你@Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{卸武 Disarm}或打击的目标进行 @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{挫败士气 Demoralize}。这种方式进行的挫败士气没有听觉特征，即便目标不懂你的语言，你也不会在检定上受到罚值。</p>"
 		},
 		"Unravel Mysteries": {
 			"name": "Unravel Mysteries",

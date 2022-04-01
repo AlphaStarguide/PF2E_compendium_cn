@@ -218,8 +218,8 @@
 			"description": "<p><strong>Trigger</strong> A critical hit deals physical damage to you.</p>\n<hr />\n<p>Attempt a DC 17 flat check. If you are successful, the attack becomes a normal hit.</p>"
 		},
 		"Cleanse Soul Path": {
-			"name": "Cleanse Soul Path",
-			"description": "<p>You meditate, pray, or otherwise try to reinforce your soul's connection to your soulforged armament. This takes 10 minutes. Attempt a counteract check against your <em>soulforged corruption</em>. The counteract level is half your level rounded up, and the counteract check modifier is your Religion modifier. If successful, reduce the stage of your <em>soulforged corruption</em> by 1 (to a minimum of Stage 1).</p>"
+			"name": "拂拭灵魂道途 Cleanse Soul Path",
+			"description": "<p>你通过冥想、祈祷或其他方式来加强你的灵魂与魂铸武装之间的连结。这需要10分钟。尝试反制你的魂铸腐化。反制等级相当于你等级的一半，向上取整，而反制检定调整值为你的宗教技能调整值。如果成功，将你的魂铸腐化阶段下降1（最小为1）。</p>"
 		},
 		"Clear a Path": {
 			"name": "Clear a Path",
@@ -626,8 +626,8 @@
 			"description": "<p>你的幻灵出现在一个邻接的开放区域，并可以进行一个单动作。如果你的幻灵已经显现，你改为将其隐没。</p>\n<p>让你的幻灵得以显现的灵渠同时也是你们之间的拴绳。你的幻灵必须时刻保持在你的100尺距离内，无法自愿打破限制。如果它被强迫超越距离，或如果你降到0HP，你的幻灵的物理形态消散：你的幻灵隐没，且你需要使用显现幻灵将其再次显现。</p>\n<hr />\n<p><strong>特殊</strong> 这个动作有着与幻灵根源匹配的特征（奥术，神术，异能或原能）</p>"
 		},
 		"Manifest Soulforged Armament": {
-			"name": "Manifest Soulforged Armament",
-			"description": "<p><strong>Requirements</strong> If summoning a weapon or shield, you have the hands free to wield it; if summoning armor, you aren't wearing any armor</p>\n<p><strong>Effect</strong> You immediately wield or wear the soulforged armament bound to you. The soulforged armament remains manifested until you Dismiss this effect.</p>\n<p>Once per day when you use this ability, you can manifest the armament's essence form. You gain the armament's essence power until it's Dismissed. After 1 minute, the essence form armament is automatically Dismissed.</p>"
+			"name": "显现魂铸武装 Manifest Soulforged Armament",
+			"description": "<p><strong>需求</strong> 如果你召唤一件武器或盾牌，你需要有空闲的手来持握它；如果召唤盔甲，你必须未穿戴任何盔甲；</p>\n<p><strong>效果</strong> 你立即持握或穿戴上与你连结的魂铸武装。魂铸武装会保持显现，直到你解消这个效果。</p>\n<p>每天一次，当你使用这个能力时，你可以显现武装的魂粹形态。你获得武装的魂粹威能直到其被解消。1分钟后，武装的魂粹形态会自动解消。</p>"
 		},
 		"Mark for Death": {
 			"name": "Mark for Death",
