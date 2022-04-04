@@ -850,8 +850,8 @@
 			"description": "<p>你调整大发明的能力达到了不可能的高度，你能使用这种技能在你的空闲时间中进行大量的调整。在你的每日准备期间，如果大发明被摧毁或受损，你自动修复你的大发明，你也能够改成另一种大发明（护甲，构装体，武器，或其他你获得许可的类型）并改变你的改修和攻势增压。如果你有以之前的大发明为先决条件的专长，你无法使用它们，除非按照通常的方式重训。然而，你只需要1天就能将其改为以新的大发明为先决条件的专长，而非1周。</p>"
 		},
 		"Infused Reagents": {
-			"name": "Infused Reagents",
-			"description": "<p>You infuse reagents with your own alchemical essence, allowing you to create alchemical items at no cost. Each day during your daily preparations, you gain a number of batches of infused reagents equal to your level + your Intelligence modifier. You can use these reagents for either advanced alchemy or Quick Alchemy, described below. Together, these infused reagents have light Bulk.</p>\n<p>As soon as you make your next daily preparations, your infused reagents from the previous day's preparations are instantly destroyed, and nonpermanent effects of your previous day's infused items immediately end. While infused reagents are physical objects, they can't be duplicated, preserved, or created in any way other than your daily preparations. Any such artificial reagents lack the infusion and are useless for advanced alchemy or Quick Alchemy.</p>"
+			"name": "灌注试剂 Infused Reagents",
+			"description": "<p>你将自己独有的炼金精华灌注至试剂之中，让你能够无需代价地创造出炼金物品。每天在你日常准备期间，你获得数批灌输试剂，数量为你的等级+你的智力调整值。你能够将这些试剂用于高阶炼金术或高速炼金（Quick Alchemy），如下所述。同时，这些灌注试剂为轻负载（Light Bulk）。</p>\n<p>一旦你进行下一次日常准备，你在上次日常准备中获取的灌注试剂就会立即被摧毁，前一天的灌注物品带来的非永久效果也会立即结束。虽然这些灌注试剂是客观存在的物品，但他们不能被复制，储存，或通过除了日常准备以外的任何其他方式创造。任何这类伪造的试剂都缺乏灌注并且不能被用于高阶炼金术或高速炼金（Quick Alchemy）。</p>"
 		},
 		"Innovation": {
 			"name": "大发明 Innovation",

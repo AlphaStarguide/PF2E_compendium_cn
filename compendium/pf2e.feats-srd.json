@@ -382,7 +382,7 @@
 			"description": "<p><strong>Requirements</strong> You have an alchemical bomb worn or in one hand, and are wielding a firearm or crossbow in the other.</p>\n<hr />\n<p>You've practiced a technique for mixing alchemical bombs with your loaded shot. You Interact to retrieve the bomb (if it's not already in your hand) and pour its contents onto your ammunition, consuming the bomb. Next, Strike with your firearm. The Strike deals damage of the same type as the bomb (for instance, fire damage for alchemist's fire), and it deals an additional [[/r {1d6}[persistent]]]{1d6 persistent damage} of the same type as the bomb. If the Strike is a failure, you take 1d6 damage of the same type as the bomb you used, and the firearm misfires. The persistent damage increases to 2d6 if the bomb is 11th level or higher, or 3d6 if it's 17th level or higher.</p>"
 		},
 		"Alchemist Dedication": {
-			"name": "Alchemist Dedication",
+			"name": "炼金术师入门 Alchemist Dedication",
 			"description": "<p>你将对炼金术的兴趣转变成系统的训练。你在炼金炸弹和手艺Crafting中受训；如果你已经受训于手艺Crafting，你在另一个你自选的技能中受训。你在炼金术师职业DC中受训。你获得炼金术师灌注试剂Infused Reagents职业特性，获得等同于你等级灌注试剂数量。你也获得炼金工艺Alchemical Crafting专长，以及额外4个1级炼金物品的公式，也能够在每日准备中创造免费的物品。你的高阶炼金术等级是1级，并且不会自动升级。</p>\n<p><strong>特殊</strong> 你不能选择其他入门专长，除非你从炼金术师变体中获得了其他两个专长。</p>"
 		},
 		"Aldori Duelist Dedication": {
