@@ -1710,8 +1710,8 @@
 			"description": "<p>You shoot out ephemeral, telekinetic strands that drag each target directly toward you, stopping in the closest unoccupied space to you in this path. This is forced movement.</p>"
 		},
 		"Frigid Flurry": {
-			"name": "Frigid Flurry",
-			"description": "<p>You place a palm to your lips and exhale a cold breath, whipping up a gust of wind that freezes the air's ambient moisture into a flurry of jagged shards. The flurry deals 9d6 cold damage and 9d6 slashing damage to all foes, with a basic Reflex save, but the gust flows harmlessly around your allies. The wind then picks you up and carries you to the other end of the area; though your movement within the gust can still trigger reactions, the storm of ice crystals prevents you from being affected by any effects, except for those that would counteract the spell's magic or that the GM decides would affect snow.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The cold and slashing damage each increase by 1d6.</p>"
+			"name": "刺骨冰风 Frigid Flurry",
+			"description": "<p>你将手掌展开在唇前，发出一团冰冷的吐息，卷起一股强风，它冰冷刺骨让空气中的湿气都凝结成飞旋的冰刺。 这股冷风对所有敌人造成9d6寒冷伤害和9d6挥砍伤害，这有一次基础反射豁免，但是这股风对你的盟友无害。这阵风之后会将你携带到法术区域的另一端尽头；但你在风中的移动依然会触发反应动作，风中的冰刺令你不会被任何效果影响，除了能够反制该法术的魔法的效果，或者GM判断能够影响雪的效果。</p>\n<hr />\n<p><strong>升阶 (+1)</strong> 该寒冷和挥砍伤害各增加1d6。</p>"
 		},
 		"Fungal Hyphae": {
 			"name": "Fungal Hyphae",
@@ -1754,8 +1754,9 @@
 			"description": "<p>该目标尸体不会腐烂，并且也不无法被转换为不死生物。如果尸体成为要求死亡在一定时间内的法术效果目标（例如，死者复活（raise dead）），遗体防腐的持续时间不计入该时间限制。该法术也会避免通常的臭虫和害虫（例如蛆虫）侵蚀尸体。</p>\n<hr />\n<p><strong>升阶 (5环级)</strong> 该法术的持续时间为无限，但是该法术需要额外一个动作来施放，并且需要材料成分以及消耗（价值6gp的防腐液）。</p>"
 		},
 		"Geyser": {
-			"name": "Geyser",
-			"description": "<p><strong>Area</strong> 10-foot radius, 50-foot-tall cylinder</p>\n<hr />\n<p>A powerful geyser blasts up from the ground, potentially pushing creatures on top of it into the air. The bottom of this spell's area must be on solid ground. Each creature in the area takes 3d6 bludgeoning damage and 4d6 fire damage, with a Reflex save. A creature pushed into the air by the geyser can't be pushed beyond the top of the geyser. After being pushed into the air, a creature falls unless it's flying or has some other means of staying aloft, taking falling damage (normally equal to half the distance it fell). After the geyser erupts, its area is filled with a cloud of steam for 1 round. All creatures in the steam are concealed, and all creatures outside the steam are concealed to creatures within it.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes half damage and isn't pushed into the air.</p>\n<p><strong>Failure</strong> The creature takes full damage and is pushed 20 feet into the air. ([[/r {10}[bludgeoning]]]{10 falling damage})</p>\n<p><strong>Critical Failure</strong> The creature takes double damage and is pushed 40 feet into the air. ([[/r {20}[bludgeoning]]]{20 falling damage})</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 1d6 bludgeoning and 1d6 fire.</p>"
+			"name": "间歇泉 Geyser",
+			"description": "<p><strong>区域</strong> 10尺半径，50尺高圆柱
+			</p>\n<hr />\n<p>A powerful geyser blasts up from the ground, potentially pushing creatures on top of it into the air. The bottom of this spell's area must be on solid ground. Each creature in the area takes 3d6 bludgeoning damage and 4d6 fire damage, with a Reflex save. A creature pushed into the air by the geyser can't be pushed beyond the top of the geyser. After being pushed into the air, a creature falls unless it's flying or has some other means of staying aloft, taking falling damage (normally equal to half the distance it fell). After the geyser erupts, its area is filled with a cloud of steam for 1 round. All creatures in the steam are concealed, and all creatures outside the steam are concealed to creatures within it.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes half damage and isn't pushed into the air.</p>\n<p><strong>Failure</strong> The creature takes full damage and is pushed 20 feet into the air. ([[/r {10}[bludgeoning]]]{10 falling damage})</p>\n<p><strong>Critical Failure</strong> The creature takes double damage and is pushed 40 feet into the air. ([[/r {20}[bludgeoning]]]{20 falling damage})</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 1d6 bludgeoning and 1d6 fire.</p>"
 		},
 		"Ghost Sound": {
 			"name": "幻音术 Ghost Sound",
