@@ -1755,8 +1755,7 @@
 		},
 		"Geyser": {
 			"name": "间歇泉 Geyser",
-			"description": "<p><strong>区域</strong> 10尺半径，50尺高圆柱
-			</p>\n<hr />\n<p>A powerful geyser blasts up from the ground, potentially pushing creatures on top of it into the air. The bottom of this spell's area must be on solid ground. Each creature in the area takes 3d6 bludgeoning damage and 4d6 fire damage, with a Reflex save. A creature pushed into the air by the geyser can't be pushed beyond the top of the geyser. After being pushed into the air, a creature falls unless it's flying or has some other means of staying aloft, taking falling damage (normally equal to half the distance it fell). After the geyser erupts, its area is filled with a cloud of steam for 1 round. All creatures in the steam are concealed, and all creatures outside the steam are concealed to creatures within it.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes half damage and isn't pushed into the air.</p>\n<p><strong>Failure</strong> The creature takes full damage and is pushed 20 feet into the air. ([[/r {10}[bludgeoning]]]{10 falling damage})</p>\n<p><strong>Critical Failure</strong> The creature takes double damage and is pushed 40 feet into the air. ([[/r {20}[bludgeoning]]]{20 falling damage})</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 1d6 bludgeoning and 1d6 fire.</p>"
+			"description": "<p><strong>区域</strong> 10尺半径，50尺高圆柱</p>\n<hr />\n<p>猛烈的间歇泉从地面喷出，甚至能讲生物推向其在空中的顶端。该法术区域的底部必须在坚实地面上。在该区域中的每个生物承受3d6钝击伤害以及4d6火焰伤害，这有一次反射豁免。被间歇泉推入空中的生物不能被推出间歇泉的顶部之外。在被推入空中后，生物会坠落并承受坠落伤害（通常等于其坠落距离的一半），除非它在飞行，或者有其他滞空的方式。在间歇泉喷发后，该区域会充满蒸汽云，持续1轮。在该蒸汽中的所有生物获得隐蔽，并且在蒸汽外的所有生物对其内的生物获得隐蔽。</p>\n<hr />\n<p><strong>大成功</strong> 该生物不受影响。</p>\n<p><strong>成功</strong> 该生物承受一半伤害，并且不会被推入空中。</p>\n<p><strong>失败</strong> 该生物承受完整伤害，并且被推入空中20尺。 ([[/r {10}[bludgeoning]]]{10坠落伤害})</p>\n<p><strong>大失败</strong> 该生物承受双倍伤害，并且被推入空中40尺。 ([[/r {20}[bludgeoning]]]{20坠落伤害})</p>\n<hr />\n<p><strong>升阶 (+1)</strong> 该伤害增加1d6钝击和1d6火焰。</p>"
 		},
 		"Ghost Sound": {
 			"name": "幻音术 Ghost Sound",
@@ -1791,8 +1790,8 @@
 			"description": "<p>你口吐虚言如丝般顺滑。你在用于撒谎（Lie）的欺骗（Deception）检定，以及对抗判断你是否在说真话的察觉（Perception）检定的欺骗（Deception）检定上获得+4状态加值。并且即使你未受训，也会加上你的等级。如果你的谎言由于不可信导致环境减值或者DC增加，该减值或者增加减半。</p>"
 		},
 		"Glimmer of Charm": {
-			"name": "Glimmer of Charm",
-			"description": "<p>You're bathed in a smooth, almost glittering aura that improves the attitude of those near you. Any creature that ends its turn in the aura must attempt a Will saving throw with the following effects. No matter the result, it's then temporarily immune for 24 hours. The effect lasts until the spell ends, even after the creature leaves the aura.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected and is aware of the aura.</p>\n<p><strong>Success</strong> The creature's attitude toward you improves by one step. If that improves its attitude to at least @Compendium[pf2e.conditionitems.fuG8dgthlDWfWjIA]{Indifferent}, it can't take hostile actions against you, though the effect ends as soon as you take a hostile action against the creature or its allies.</p>\n<p><strong>Failure</strong> The creature's attitude toward you improves by two steps. It can't take hostile actions against you, though the effect ends as soon as you take a hostile action against the creature or its allies.</p>\n<p><strong>Critical Failure</strong> The creature's attitude becomes @Compendium[pf2e.conditionitems.v44P3WUcU1j0115l]{Helpful} to you, though the effect ends as soon as you take a hostile action against the creature or its allies. While the creature is helpful, it can't take hostile actions against you.</p>"
+			"name": "魅力四射 Glimmer of Charm",
+			"description": "<p>你浸入一片柔和到闪着光的灵光中，这令你周围的人对你的态度改善。任何在该灵光中结束回合的生物必须尝试一次意志豁免，这具有下列效果。无论结果如何，它之后暂时免疫24小时。该效果持续到法术结束，即使该生物离开灵光后。</p>\n<hr />\n<p><strong>大成功</strong> 该生物不受影响，并且发现灵光存在。</p>\n<p><strong>成功</strong> 该生物对你的态度改善一级。如果这将它的态度至少改善到 @Compendium[pf2e.conditionitems.fuG8dgthlDWfWjIA]{不关心 Indifferent}，它不能对你使用敌对动作，但是当你对该生物或者其盟友使用敌对动作时会结束。</p>\n<p><strong>失败</strong> 该生物对你的态度改善两级。它不能对你使用敌对动作，但是当你对该生物或者其盟友使用敌对动作时会结束。</p>\n<p><strong>大失败</strong> 该生物对你的态度变为 @Compendium[pf2e.conditionitems.v44P3WUcU1j0115l]{乐于帮助 Helpful}，但是当你对该生物或者其盟友使用敌对动作时会结束。当该生物处于乐于帮助（helpful）时，它不能对你使用敌对动作。</p>"
 		},
 		"Glimpse the Truth": {
 			"name": "窥视真相 Glimpse the Truth",
@@ -1835,16 +1834,16 @@
 			"description": "<p>You project a fragment of your senses into the corpse. While within 500 feet of the corpse (even if it's outside your line of sight or line of effect), you can see from where the target corpse had eyes using your normal visual senses, and you can hear from where the corpse had ears using your normal auditory senses. You can switch between your own vision and hearing, and the corpse's senses, with a single action that has the concentrate trait. If the corpse naturally lacked eyes or hearing organs in life, you cannot use that sense when using this spell. If the corpse is moved from its location, the spell ends.</p>\n<hr />\n<p><strong>Heightened (4th)</strong> The duration increases to 1 hour.</p>\n<p><strong>Heightened (6th)</strong> The duration lasts until the next time you make your daily preparations.</p>"
 		},
 		"Gravitational Pull": {
-			"name": "Gravitational Pull",
-			"description": "<p>By suddenly altering gravity, you pull the target toward you. The target is pulled 10 feet closer to you unless it succeeds at a Fortitude save. On a critical failure, it's also knocked @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}. The effects of this spell change depending on the number of actions you spend when you Cast this Spell.</p>\n<p><span class=\"pf2-icon\">1</span> <strong>(somatic)</strong> The spell targets one creature.</p>\n<p><span class=\"pf2-icon\">2</span> <strong>(somatic, verbal)</strong> The spell targets one creature and pulls the target 20 feet instead of 10.</p>\n<p><span class=\"pf2-icon\">3</span> <strong>(material, somatic, verbal)</strong> The spell targets up to 5 creatures.</p>"
+			"name": "重力牵引 Gravitational Pull",
+			"description": "<p>通过突然扭转重力，你将目标拉向你。该目标被向你拉近10尺，除非其成功通过一次强韧豁免。在大失败时，它也会 @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{倒地 Prone}。该法术的效果取决你在施放该法术时花费的动作数量。</p>\n<p><span class=\"pf2-icon\">1</span> <strong>(姿势)</strong> 该法术以一个生物为目标。</p>\n<p><span class=\"pf2-icon\">2</span> <strong>(姿势, 语言)</strong> 该法术以一个生物为目标，并且拉近目标20尺，而非10尺。</p>\n<p><span class=\"pf2-icon\">3</span> <strong>(材料, 姿势, 语言)</strong> 该法术至多以5个生物为目标。</p>"
 		},
 		"Gravity Weapon": {
 			"name": "重压武器 Gravity Weapon",
 			"description": "<p>你积蓄重力并将其汇入到你的打击中，让你的剑刃和箭矢变得更具威力。你在每轮中作出的第一次武器打击的伤害会获得状态加值，其数值等同于你的武器伤害骰数的两倍。</p>\n<p>@Compendium[pf2e.spell-effects.U2dJnkoGSCYOsQFI]{法术效果：重压武器 (1个骰子)}</p>\n<p>@Compendium[pf2e.spell-effects.uJNDI3CGGOtcG8nB]{法术效果：重压武器 (2个骰子)}</p>\n<p>@Compendium[pf2e.spell-effects.oi5M6yQBlTKvLy29]{法术效果：重压武器 (3个骰子)}</p>\n<p>@Compendium[pf2e.spell-effects.tNryw0Rl4L8LF8Yq]{法术效果：重压武器 (4个骰子)}</p>"
 		},
 		"Gravity Well": {
-			"name": "Gravity Well",
-			"description": "<p>You create a sphere of altered gravity. All creatures and unsecured objects in the area move towards the center, depending on their Reflex saving throws. This follows the rules for forced movement. If there's not enough space near the center of the sphere, creatures and objects nearer to the center move first, and others move as far as they can without being blocked, up to the amount set by their saving throw outcomes.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature moves 5 feet toward the center.</p>\n<p><strong>Failure</strong> The creature moves 15 feet toward the center.</p>\n<p><strong>Critical Failure</strong> The creature moves 30 feet toward the center.</p>"
+			"name": "重力井 Gravity Well",
+			"description": "<p>你创造一个改变重力的球体。区域中所有生物和未固定的物体会向中心移动，根据其反射豁免骰结果。这依照强迫移动的规则。如果球体附近没有足够的空间，距离中心更近的生物和物体先移动，之后其他移动，它们直到被阻挡会移动尽可能远，至多等于其豁免骰结果决定的距离。</p>\n<hr />\n<p><strong>大成功</strong> 该生物不受影响。</p>\n<p><strong>成功</strong> 该生物向中心移动5尺。</p>\n<p><strong>失败</strong> 该生物向中心移动15尺。</p>\n<p><strong>大失败</strong> 该生物向中心移动30尺。</p>"
 		},
 		"Gray Shadow": {
 			"name": "Gray Shadow",
@@ -1875,8 +1874,8 @@
 			"description": "<p>你请求神力的引导，赋予目标在持续时间结束前的一次攻击骰，察觉检定，豁免骰，或者技能检定上获得+1状态加值。目标在掷骰前选择是否使用该加值。如果目标使用该加值，该法术结束。无论怎样结束，该目标接下来会暂时免疫1小时。</p>\n<p>@Compendium[pf2e.spell-effects.3qHKBDF7lrHw8jFK]{法术效果：神导术}</p>\n<p>@Compendium[pf2e.spell-effects.3LyOkV25p7wA181H]{效果：神导术免疫}</p>"
 		},
 		"Guiding Star": {
-			"name": "Guiding Star",
-			"description": "<p>You call on the constellations of the night sky to guide a creature to the location where you Cast the Spell. Each time the target views the stars, it receives a mental nudge toward your chosen location, though it isn't compelled to follow. The target can recognize you as the source. If the creature goes to another planet or plane, the spell's effects are suppressed, but they resume if the creature returns.</p>"
+			"name": "引路明星 Guiding Star",
+			"description": "<p>你唤动夜空的星座来引导一个生物前往施放该法术所在的地点。每当目标看向星空时，它会感到一种心灵冲动想要前往你选择的地点，但它并不被强迫如此做。该目标可以分辨出你是源头。如果该生物前往另一个星球或者位面，该法术效果会被压制，但如果该生物返回，这些效果会继续。</p>"
 		},
 		"Gust of Wind": {
 			"name": "造风术 Gust of Wind",
